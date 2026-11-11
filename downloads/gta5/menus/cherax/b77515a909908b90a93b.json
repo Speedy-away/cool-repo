@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "type": "binary-concatenation",
+  "original": {
+    "name": "SKJOLDB6_SPEEDOMETER_ALL_-_COLORS_UPDATE_2.0.zip",
+    "size": 132020708,
+    "sha256": "ad74fcf7681eb4e83befc7a1277529d8646c63e90f0b9cc1622f0843391bf7c5",
+    "extension": ".zip"
+  },
+  "partBytes": 95000000,
+  "instructions": "Concatenate parts as binary in the listed order, then verify the full SHA-256 and byte size before use. These files are source assets; no payload is executed by this collection.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "targetRelativePath": "downloads/gta5/menus/cherax/2c214565cfdb8e479d12.part",
+      "size": 95000000,
+      "sha256": "2c214565cfdb8e479d12629bfe630c5cdc8378489c36b2be4a77edf9b5ef956b"
+    },
+    {
+      "partNumber": 2,
+      "targetRelativePath": "downloads/gta5/menus/cherax/51c549b60ad04546bbee.part",
+      "size": 37020708,
+      "sha256": "51c549b60ad04546bbeee2224205229cfeba73718585018859965ece3d55c6a2"
+    }
+  ]
+}
