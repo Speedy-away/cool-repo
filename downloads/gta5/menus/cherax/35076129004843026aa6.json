@@ -1,0 +1,47 @@
+{
+  "wheelColorIndex": 156,
+  "name": "MG ZR",
+  "secondaryColorID": 165,
+  "tint": {
+    "windowTint": 3
+  },
+  "primaryColor": {
+    "G": 0,
+    "R": 0,
+    "B": 0
+  },
+  "secondaryColor": {
+    "G": 0,
+    "R": 0,
+    "B": 0
+  },
+  "plate": {
+    "plateType": 0,
+    "plateText": "09OAD578"
+  },
+  "wheels": {
+    "wheelColorIndex": 156,
+    "wheelType": 3,
+    "tireSmokeG": 255,
+    "customTires": false,
+    "wheelMod": 28,
+    "hasTireSmoke": false,
+    "tireSmokeR": 255,
+    "tireSmokeB": 255
+  },
+  "lights": {
+    "xenonColor": 255,
+    "neonRight": false,
+    "neonLeft": false,
+    "neonG": 0,
+    "xenonEnabled": false,
+    "neonFront": false,
+    "neonBack": false,
+    "neonB": 0,
+    "neonR": 0
+  },
+  "dashboardColor": 0,
+  "pearlescentID": 166,
+  "interiorColor": 1,
+  "primaryColorID": 165
+}
