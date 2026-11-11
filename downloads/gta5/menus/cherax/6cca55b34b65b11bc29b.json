@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "type": "binary-concatenation",
+  "original": {
+    "name": "dlc.rpf",
+    "size": 111517696,
+    "sha256": "e72c19067eaf1706a0c6cadf3e182a584fa914379ad571f33c996e8df3f1ef4e",
+    "extension": ".rpf"
+  },
+  "partBytes": 95000000,
+  "instructions": "Concatenate parts as binary in the listed order, then verify the full SHA-256 and byte size before use. These files are source assets; no payload is executed by this collection.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "targetRelativePath": "downloads/gta5/menus/cherax/75d080f5efff06cbfd99.part",
+      "size": 95000000,
+      "sha256": "75d080f5efff06cbfd99daaca8d70f66e7a69610d2088194c673dc7a851eb4c9"
+    },
+    {
+      "partNumber": 2,
+      "targetRelativePath": "downloads/gta5/menus/cherax/c861d8dff176881edf21.part",
+      "size": 16517696,
+      "sha256": "c861d8dff176881edf21e6eb83cec12e69411459b70aa34a143a9625c24e8db1"
+    }
+  ]
+}

@@ -1,0 +1,856 @@
+{
+	"format": "Cherax Entity",
+	"type": 1,
+	"model": 2536587772,
+	"baseFlags": 66831,
+	"mods": {
+		"mod0": {
+			"index": 3,
+			"variation": false
+		},
+		"mod1": {
+			"index": 3,
+			"variation": false
+		},
+		"mod2": {
+			"index": 2,
+			"variation": false
+		},
+		"mod3": {
+			"index": 1,
+			"variation": false
+		},
+		"mod4": {
+			"index": 0,
+			"variation": false
+		},
+		"mod5": {
+			"index": 0,
+			"variation": false
+		},
+		"mod6": {
+			"index": 8,
+			"variation": false
+		},
+		"mod7": {
+			"index": 6,
+			"variation": false
+		},
+		"mod8": {
+			"index": 0,
+			"variation": false
+		},
+		"mod9": {
+			"index": 3,
+			"variation": false
+		},
+		"mod10": {
+			"index": 0,
+			"variation": false
+		},
+		"mod11": {
+			"index": 5,
+			"variation": false
+		},
+		"mod12": {
+			"index": 4,
+			"variation": false
+		},
+		"mod13": {
+			"index": 4,
+			"variation": false
+		},
+		"mod14": {
+			"index": 0,
+			"variation": false
+		},
+		"mod15": {
+			"index": 5,
+			"variation": false
+		},
+		"mod16": {
+			"index": 5,
+			"variation": false
+		},
+		"mod17": {
+			"index": 0,
+			"variation": false
+		},
+		"mod18": {
+			"index": 1,
+			"variation": false
+		},
+		"mod19": {
+			"index": 0,
+			"variation": false
+		},
+		"mod20": {
+			"index": 1,
+			"variation": false
+		},
+		"mod21": {
+			"index": 0,
+			"variation": false
+		},
+		"mod22": {
+			"index": 10,
+			"variation": false
+		},
+		"mod23": {
+			"index": 38,
+			"variation": true
+		},
+		"mod24": {
+			"index": 0,
+			"variation": false
+		},
+		"mod25": {
+			"index": 0,
+			"variation": false
+		},
+		"mod26": {
+			"index": 0,
+			"variation": false
+		},
+		"mod27": {
+			"index": 0,
+			"variation": false
+		},
+		"mod28": {
+			"index": 0,
+			"variation": false
+		},
+		"mod29": {
+			"index": 0,
+			"variation": false
+		},
+		"mod30": {
+			"index": 0,
+			"variation": false
+		},
+		"mod31": {
+			"index": 0,
+			"variation": false
+		},
+		"mod32": {
+			"index": 0,
+			"variation": false
+		},
+		"mod33": {
+			"index": 0,
+			"variation": false
+		},
+		"mod34": {
+			"index": 4,
+			"variation": false
+		},
+		"mod35": {
+			"index": 0,
+			"variation": false
+		},
+		"mod36": {
+			"index": 1,
+			"variation": false
+		},
+		"mod37": {
+			"index": 0,
+			"variation": false
+		},
+		"mod38": {
+			"index": 0,
+			"variation": false
+		},
+		"mod39": {
+			"index": 0,
+			"variation": false
+		},
+		"mod40": {
+			"index": 0,
+			"variation": false
+		},
+		"mod41": {
+			"index": 0,
+			"variation": false
+		},
+		"mod42": {
+			"index": 0,
+			"variation": false
+		},
+		"mod43": {
+			"index": 0,
+			"variation": false
+		},
+		"mod44": {
+			"index": 0,
+			"variation": false
+		},
+		"mod45": {
+			"index": 0,
+			"variation": false
+		},
+		"mod46": {
+			"index": 0,
+			"variation": false
+		},
+		"mod47": {
+			"index": 0,
+			"variation": false
+		},
+		"mod48": {
+			"index": 1,
+			"variation": false
+		},
+		"mod49": {
+			"index": 0,
+			"variation": false
+		}
+	},
+	"extras": {
+		"extra0": false,
+		"extra1": false,
+		"extra2": false,
+		"extra3": false,
+		"extra4": false,
+		"extra5": false,
+		"extra6": false,
+		"extra7": false,
+		"extra8": false,
+		"extra9": false,
+		"extra10": false,
+		"extra11": false,
+		"extra12": false,
+		"extra13": false,
+		"extra14": false,
+		"extra15": false
+	},
+	"wheelType": 5,
+	"tyreSmokeColor": {
+		"r": 255,
+		"g": 255,
+		"b": 255
+	},
+	"neonKits": {
+		"left": false,
+		"right": false,
+		"front": false,
+		"back": false,
+		"color": {
+			"r": 255,
+			"g": 0,
+			"b": 255
+		}
+	},
+	"primaryColor": 157,
+	"secondaryColor": 157,
+	"pearlescentColor": 0,
+	"isPrimaryColorCustom": true,
+	"customPrimaryColor": {
+		"r": 9,
+		"g": 66,
+		"b": 139
+	},
+	"isSecondaryColorCustom": true,
+	"customSecondaryColor": {
+		"r": 9,
+		"g": 66,
+		"b": 139
+	},
+	"windowTint": 2,
+	"wheelColor": 156,
+	"interiorColor": 0,
+	"dashBoardColor": 0,
+	"plateText": "        ",
+	"plateTextIndex": 11,
+	"bulletproofTyres": true,
+	"driftTyres": false,
+	"attachments": [
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": -1.7099995613098145,
+					"z": 0.8500000834465027
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 8.064154826570302e-05,
+					"y": -0.9513257741928101,
+					"z": -0.308186799287796,
+					"w": -0.0002490699989721179
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 2639481707,
+				"baseFlags": 1082197255
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.07000000029802322,
+					"y": -1.7899999618530273,
+					"z": 0.8300000429153442
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": -3.183823338304137e-08,
+					"y": 0.9702957272529602,
+					"z": -3.183823338304137e-08,
+					"w": 0.24192190170288086
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 2639481707,
+				"baseFlags": 1082197255
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": -0.07000000029802322,
+					"y": -1.7899999618530273,
+					"z": 0.8299999833106995
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": -5.299326488739098e-08,
+					"y": 0.9702535271644592,
+					"z": -5.299326488739098e-08,
+					"w": -0.2420911341905594
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 2639481707,
+				"baseFlags": 1082197255
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0,
+					"w": 1.0
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 2092257548,
+				"baseFlags": 8455431
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": -2.380000352859497,
+					"z": 0.2500000596046448
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.6211476922035217,
+					"y": -0.0002051704504992813,
+					"z": 0.00016261609562207013,
+					"w": 0.7836933732032776
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 679927467,
+				"baseFlags": 8455431
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": -0.01000000350177288,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": -0.7071069478988647,
+					"w": 0.7071066498756409
+				},
+				"otherBone": 71,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 3461395661,
+				"baseFlags": 1082328327
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": -0.009999999776482582,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": -0.7071069478988647,
+					"w": 0.7071066498756409
+				},
+				"otherBone": 69,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 3461395661,
+				"baseFlags": 1082328327
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": -2.4200000762939453,
+					"z": 0.10999999195337296
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": -0.6586894989013672,
+					"y": 0.0,
+					"z": 0.0,
+					"w": 0.752414882183075
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 1194443710,
+				"baseFlags": 1082197255
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": -2.4100000858306885,
+					"z": 0.21000000834465027
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 2.7508468392056784e-08,
+					"y": -0.7771459221839905,
+					"z": -0.6293203830718994,
+					"w": -3.397012804384758e-08
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 1194443710,
+				"baseFlags": 1082197255
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": -2.5999999046325684,
+					"z": 0.19999998807907104
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": -0.752414882183075,
+					"y": 0.0,
+					"z": 0.0,
+					"w": 0.6586894989013672
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 91219023,
+				"baseFlags": 1082197255
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.019999999552965164,
+					"y": -2.4499998092651367,
+					"z": -0.03999999910593033
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.5831503868103027,
+					"y": -0.3033291697502136,
+					"z": -0.033326759934425354,
+					"w": 0.7528720498085022
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 3409029762,
+				"baseFlags": 8455431
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": -1.8300000429153442,
+					"z": 0.9800000190734863
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": -0.3384862244129181,
+					"y": -0.23137804865837097,
+					"z": -0.6681796908378601,
+					"w": 0.6208277940750122
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 3269753630,
+				"baseFlags": 8455431,
+				"attachments": [
+					{
+						"data": {
+							"offset": {
+								"x": -0.14000000059604645,
+								"y": 0.0,
+								"z": 0.0
+							},
+							"parentOffset": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0
+							},
+							"quat": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0,
+								"w": 1.0
+							},
+							"otherBone": 0,
+							"myBone": -1,
+							"flags": 16514
+						},
+						"entity": {
+							"format": "Cherax Entity",
+							"type": 3,
+							"model": 3269753630,
+							"baseFlags": 8455431,
+							"attachments": [
+								{
+									"data": {
+										"offset": {
+											"x": 0.5400000810623169,
+											"y": 0.0,
+											"z": 0.0
+										},
+										"parentOffset": {
+											"x": 0.0,
+											"y": 0.0,
+											"z": 0.0
+										},
+										"quat": {
+											"x": 0.0,
+											"y": 0.0,
+											"z": 0.0,
+											"w": 1.0
+										},
+										"otherBone": 0,
+										"myBone": -1,
+										"flags": 16514
+									},
+									"entity": {
+										"format": "Cherax Entity",
+										"type": 3,
+										"model": 3269753630,
+										"baseFlags": 8455431
+									}
+								},
+								{
+									"data": {
+										"offset": {
+											"x": 0.6700001358985901,
+											"y": 0.0,
+											"z": 0.0
+										},
+										"parentOffset": {
+											"x": 0.0,
+											"y": 0.0,
+											"z": 0.0
+										},
+										"quat": {
+											"x": 0.0,
+											"y": 0.0,
+											"z": 0.0,
+											"w": 1.0
+										},
+										"otherBone": 0,
+										"myBone": -1,
+										"flags": 16514
+									},
+									"entity": {
+										"format": "Cherax Entity",
+										"type": 3,
+										"model": 3269753630,
+										"baseFlags": 8455431
+									}
+								}
+							]
+						}
+					},
+					{
+						"data": {
+							"offset": {
+								"x": -0.2800000309944153,
+								"y": 0.0,
+								"z": 0.0
+							},
+							"parentOffset": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0
+							},
+							"quat": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0,
+								"w": 1.0
+							},
+							"otherBone": 0,
+							"myBone": -1,
+							"flags": 16514
+						},
+						"entity": {
+							"format": "Cherax Entity",
+							"type": 3,
+							"model": 3269753630,
+							"baseFlags": 8455431,
+							"attachments": [
+								{
+									"data": {
+										"offset": {
+											"x": -0.14000000059604645,
+											"y": 0.0,
+											"z": 0.0
+										},
+										"parentOffset": {
+											"x": 0.0,
+											"y": 0.0,
+											"z": 0.0
+										},
+										"quat": {
+											"x": 0.0,
+											"y": 0.0,
+											"z": 0.0,
+											"w": 1.0
+										},
+										"otherBone": 0,
+										"myBone": -1,
+										"flags": 16514
+									},
+									"entity": {
+										"format": "Cherax Entity",
+										"type": 3,
+										"model": 3269753630,
+										"baseFlags": 8586503,
+										"attachments": [
+											{
+												"data": {
+													"offset": {
+														"x": 0.690000057220459,
+														"y": 0.0,
+														"z": 0.0
+													},
+													"parentOffset": {
+														"x": 0.0,
+														"y": 0.0,
+														"z": 0.0
+													},
+													"quat": {
+														"x": 0.0,
+														"y": 0.0,
+														"z": 0.0,
+														"w": 1.0
+													},
+													"otherBone": 0,
+													"myBone": -1,
+													"flags": 16514
+												},
+												"entity": {
+													"format": "Cherax Entity",
+													"type": 3,
+													"model": 3269753630,
+													"baseFlags": 8455431
+												}
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					{
+						"data": {
+							"offset": {
+								"x": 0.14000000059604645,
+								"y": 0.0,
+								"z": 0.0
+							},
+							"parentOffset": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0
+							},
+							"quat": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0,
+								"w": 1.0
+							},
+							"otherBone": 0,
+							"myBone": -1,
+							"flags": 16514
+						},
+						"entity": {
+							"format": "Cherax Entity",
+							"type": 3,
+							"model": 3269753630,
+							"baseFlags": 8455431
+						}
+					}
+				]
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": -2.2799999713897705,
+					"z": 1.4700002670288086
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0,
+					"w": 1.0
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 4091491833,
+				"baseFlags": 8455431
+			}
+		}
+	]
+}

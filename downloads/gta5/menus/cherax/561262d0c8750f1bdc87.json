@@ -1,0 +1,488 @@
+{
+	"format": "Cherax Entity",
+	"type": 1,
+	"model": 2704629607,
+	"baseFlags": 1073808654,
+	"mods": {
+		"mod0": {
+			"index": 0,
+			"variation": false
+		},
+		"mod1": {
+			"index": 0,
+			"variation": false
+		},
+		"mod2": {
+			"index": 0,
+			"variation": false
+		},
+		"mod3": {
+			"index": 0,
+			"variation": false
+		},
+		"mod4": {
+			"index": 0,
+			"variation": false
+		},
+		"mod5": {
+			"index": 0,
+			"variation": false
+		},
+		"mod6": {
+			"index": 0,
+			"variation": false
+		},
+		"mod7": {
+			"index": 0,
+			"variation": false
+		},
+		"mod8": {
+			"index": 0,
+			"variation": false
+		},
+		"mod9": {
+			"index": 0,
+			"variation": false
+		},
+		"mod10": {
+			"index": 0,
+			"variation": false
+		},
+		"mod11": {
+			"index": 0,
+			"variation": false
+		},
+		"mod12": {
+			"index": 0,
+			"variation": false
+		},
+		"mod13": {
+			"index": 0,
+			"variation": false
+		},
+		"mod14": {
+			"index": 0,
+			"variation": false
+		},
+		"mod15": {
+			"index": 0,
+			"variation": false
+		},
+		"mod16": {
+			"index": 0,
+			"variation": false
+		},
+		"mod17": {
+			"index": 0,
+			"variation": false
+		},
+		"mod18": {
+			"index": 0,
+			"variation": false
+		},
+		"mod19": {
+			"index": 0,
+			"variation": false
+		},
+		"mod20": {
+			"index": 0,
+			"variation": false
+		},
+		"mod21": {
+			"index": 0,
+			"variation": false
+		},
+		"mod22": {
+			"index": 0,
+			"variation": false
+		},
+		"mod23": {
+			"index": 0,
+			"variation": false
+		},
+		"mod24": {
+			"index": 0,
+			"variation": false
+		},
+		"mod25": {
+			"index": 0,
+			"variation": false
+		},
+		"mod26": {
+			"index": 0,
+			"variation": false
+		},
+		"mod27": {
+			"index": 0,
+			"variation": false
+		},
+		"mod28": {
+			"index": 0,
+			"variation": false
+		},
+		"mod29": {
+			"index": 0,
+			"variation": false
+		},
+		"mod30": {
+			"index": 0,
+			"variation": false
+		},
+		"mod31": {
+			"index": 0,
+			"variation": false
+		},
+		"mod32": {
+			"index": 0,
+			"variation": false
+		},
+		"mod33": {
+			"index": 0,
+			"variation": false
+		},
+		"mod34": {
+			"index": 0,
+			"variation": false
+		},
+		"mod35": {
+			"index": 0,
+			"variation": false
+		},
+		"mod36": {
+			"index": 0,
+			"variation": false
+		},
+		"mod37": {
+			"index": 0,
+			"variation": false
+		},
+		"mod38": {
+			"index": 0,
+			"variation": false
+		},
+		"mod39": {
+			"index": 0,
+			"variation": false
+		},
+		"mod40": {
+			"index": 0,
+			"variation": false
+		},
+		"mod41": {
+			"index": 0,
+			"variation": false
+		},
+		"mod42": {
+			"index": 0,
+			"variation": false
+		},
+		"mod43": {
+			"index": 0,
+			"variation": false
+		},
+		"mod44": {
+			"index": 0,
+			"variation": false
+		},
+		"mod45": {
+			"index": 0,
+			"variation": false
+		},
+		"mod46": {
+			"index": 0,
+			"variation": false
+		},
+		"mod47": {
+			"index": 0,
+			"variation": false
+		},
+		"mod48": {
+			"index": 0,
+			"variation": false
+		},
+		"mod49": {
+			"index": 0,
+			"variation": false
+		}
+	},
+	"wheelType": 4,
+	"tyreSmokeColor": {
+		"r": 255,
+		"g": 255,
+		"b": 255
+	},
+	"neonKits": {
+		"left": false,
+		"right": false,
+		"front": false,
+		"back": false,
+		"color": {
+			"r": 255,
+			"g": 0,
+			"b": 255
+		}
+	},
+	"primaryColor": 3,
+	"secondaryColor": 0,
+	"pearlescentColor": 18,
+	"isPrimaryColorCustom": false,
+	"customPrimaryColor": {
+		"r": 0,
+		"g": 0,
+		"b": 0
+	},
+	"isSecondaryColorCustom": false,
+	"customSecondaryColor": {
+		"r": 0,
+		"g": 0,
+		"b": 0
+	},
+	"windowTint": 0,
+	"wheelColor": 156,
+	"interiorColor": 0,
+	"dashBoardColor": 0,
+	"plateText": " 0 MPH  ",
+	"plateTextIndex": 0,
+	"attachments": [
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0,
+					"w": 1.0
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 3518176382,
+				"baseFlags": 1082328327
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": -0.029999999329447746,
+					"y": -0.6499999761581421,
+					"z": 0.8399999737739563
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0,
+					"w": 1.0
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 2,
+				"model": 695248020,
+				"baseFlags": 197927,
+				"components": {
+					"Head": {
+						"drawable": 0,
+						"texture": 0,
+						"palette": 0
+					},
+					"Beard": {
+						"drawable": 0,
+						"texture": 0,
+						"palette": 0
+					},
+					"Hair": {
+						"drawable": 0,
+						"texture": 0,
+						"palette": 0
+					},
+					"Torso": {
+						"drawable": 0,
+						"texture": 0,
+						"palette": 0
+					},
+					"Legs": {
+						"drawable": 0,
+						"texture": 0,
+						"palette": 0
+					},
+					"Hands": {
+						"drawable": 0,
+						"texture": 0,
+						"palette": 0
+					},
+					"Feet": {
+						"drawable": 0,
+						"texture": 0,
+						"palette": 0
+					},
+					"Teeth": {
+						"drawable": 0,
+						"texture": 0,
+						"palette": 0
+					},
+					"Special": {
+						"drawable": 0,
+						"texture": 0,
+						"palette": 0
+					},
+					"Special 2": {
+						"drawable": 0,
+						"texture": 0,
+						"palette": 0
+					},
+					"Decal": {
+						"drawable": 0,
+						"texture": 0,
+						"palette": 0
+					},
+					"Tuxedo/Jacket Bib": {
+						"drawable": 0,
+						"texture": 0,
+						"palette": 0
+					}
+				},
+				"props": {
+					"Head": {
+						"drawable": -1,
+						"texture": -1
+					},
+					"Eyes": {
+						"drawable": -1,
+						"texture": -1
+					},
+					"Ears": {
+						"drawable": -1,
+						"texture": -1
+					},
+					"Mouth": {
+						"drawable": -1,
+						"texture": -1
+					},
+					"Left Hand": {
+						"drawable": -1,
+						"texture": -1
+					},
+					"Right Hand": {
+						"drawable": -1,
+						"texture": -1
+					},
+					"Left Wrist": {
+						"drawable": -1,
+						"texture": -1
+					},
+					"Right Wrist": {
+						"drawable": -1,
+						"texture": -1
+					},
+					"Hip": {
+						"drawable": -1,
+						"texture": -1
+					}
+				},
+				"face_features": {
+					"Nose Width": 140838889848832.0,
+					"Nose Peak": 1.8056946957705663e+28,
+					"Nose Length": 4.544506596204847e+30,
+					"Nose Bone Curveness": 7.714031377386692e+31,
+					"Nose Tip": 1.0692519650227264e-38,
+					"Nose Bone Twist": 4.590373509435236e-41,
+					"Eyebrow Height": 3.555094203992061e-42,
+					"Eyebrow Indent": 0.0,
+					"Cheek Bones": -4.327210213928352e-28,
+					"Cheek Sideways Bone Size": 0.0,
+					"Cheek Bones Width": 0.0,
+					"Eye Opening": 0.0,
+					"Lip Thickness": null,
+					"Jaw Bone Width": 140838889848832.0,
+					"Jaw Bone Shape": -1.4593809385232732e-31,
+					"Chin Bone": 4.44211613190967e-43,
+					"Chin Bone Length": 0.0,
+					"Chin Bone Shape": 0.0,
+					"Chin Hole": 7.370829922348538e-43,
+					"Neck Thickness": 0.0
+				},
+				"primary_hair_tint": 48,
+				"secondary_hair_tint": 90
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": 0.4000000059604645,
+					"z": 0.2199999988079071
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0052359639666974545,
+					"w": 0.9999862909317017
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 3973396711,
+				"baseFlags": 197895
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": -0.19821517169475555,
+					"z": 0.2800000011920929
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0,
+					"w": 1.0
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 16514
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 3,
+				"model": 1333481871,
+				"baseFlags": 1082197255
+			}
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "type": "binary-concatenation",
+  "original": {
+    "name": "batman.zip",
+    "size": 175653050,
+    "sha256": "c9b1d0747a1281e720e52c44dd3b153b561537346672dfc3419e73b0b70c1687",
+    "extension": ".zip"
+  },
+  "partBytes": 95000000,
+  "instructions": "Concatenate parts as binary in the listed order, then verify the full SHA-256 and byte size before use. These files are source assets; no payload is executed by this collection.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "targetRelativePath": "downloads/gta5/menus/cherax/fb877f390d94d5c809c5.part",
+      "size": 95000000,
+      "sha256": "fb877f390d94d5c809c575128fdf0084541af15cebcf27a03e299a65a3952c97"
+    },
+    {
+      "partNumber": 2,
+      "targetRelativePath": "downloads/gta5/menus/cherax/2968b8548fabf472f6be.part",
+      "size": 80653050,
+      "sha256": "2968b8548fabf472f6be39e6103d941498102aa4c44e2649cf6425aaadacf8bd"
+    }
+  ]
+}

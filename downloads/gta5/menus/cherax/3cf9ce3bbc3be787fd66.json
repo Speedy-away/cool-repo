@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "type": "binary-concatenation",
+  "original": {
+    "name": "Watch_Dogs_Theme.rar",
+    "size": 282037818,
+    "sha256": "d593d86a01ec6a3abe03b2a305ebec13536da3201d576b0b9f68b67b5805a5bd",
+    "extension": ".rar"
+  },
+  "partBytes": 95000000,
+  "instructions": "Concatenate parts as binary in the listed order, then verify the full SHA-256 and byte size before use. These files are source assets; no payload is executed by this collection.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "targetRelativePath": "downloads/gta5/menus/cherax/c3b1e27494eed237b609.part",
+      "size": 95000000,
+      "sha256": "c3b1e27494eed237b60989b085bc2153f5b1551a360d608a497f72519448c48e"
+    },
+    {
+      "partNumber": 2,
+      "targetRelativePath": "downloads/gta5/menus/cherax/c7cbc6f341a421895ff1.part",
+      "size": 95000000,
+      "sha256": "c7cbc6f341a421895ff194d7562a8b54850ddd16409781fe024531383636ea7f"
+    },
+    {
+      "partNumber": 3,
+      "targetRelativePath": "downloads/gta5/menus/cherax/6a6ac1856cdc01eb3ab0.part",
+      "size": 92037818,
+      "sha256": "6a6ac1856cdc01eb3ab0a211e8f7bb35b695ee0f1ad1fa5c7192fe0a0bab32a1"
+    }
+  ]
+}

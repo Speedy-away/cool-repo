@@ -1,0 +1,576 @@
+{
+    "Title Font": "Candarai.ttf",
+    "Title Font Size": 18.0,
+    "Text Font": "Candarab.ttf",
+    "Text Font Size": 16.0,
+    "Tab Font": "CleanBold.ttf",
+    "Tab Font Size": 29.0,
+    "Child Header Font": "Candarab.ttf",
+    "Child Header Font Size": 16.0,
+    "Toast Header Font": "ethnocentric_rg.otf",
+    "Toast Header Font Size": 15.0,
+    "Toast Text Font": "Candarai.ttf",
+    "Toast Text Font Size": 20.0,
+    "Enable Custom Window Size": true,
+    "Custom Window Size": {
+        "x": 774.0,
+        "y": 572.0
+    },
+    "Fade Tab Content": true,
+    "Fade Tab Content Time": 0.3499999940395355,
+    "Pulsing Checkbox": false,
+    "Rotate Headers": false,
+    "Circle Tessellation Max Error": 0.30000001192092896,
+    "Window Rounding": 4.5,
+    "Window Border Size": 1.0,
+    "Window Padding": {
+        "x": 6.007999897003174,
+        "y": 5.224999904632568
+    },
+    "Child Rounding": 6.0,
+    "Child Border Size": 1.0,
+    "Popup Rounding": 7.039000034332275,
+    "Popup Border Size": 1.0,
+    "Frame Padding": {
+        "x": 3.0,
+        "y": 3.0
+    },
+    "Frame Rounding": 5.199999809265137,
+    "Frame Border Size": 0.0,
+    "Scrollbar Size": 8.0,
+    "Scrollbar Rounding": 30.0,
+    "Tab Border Size": 1.0,
+    "Tab Rounding": 6.0,
+    "Button Text Align": 0.4950000047683716,
+    "Selectable Text Align": 0.0,
+    "Slider Height": 0.503000020980835,
+    "Indent Spacing": 13.0,
+    "Columns Min Spacing": 5.0,
+    "Item Spacing": {
+        "x": 6.0,
+        "y": 5.0
+    },
+    "Item Inner Spacing": {
+        "x": 6.184000015258789,
+        "y": 5.0
+    },
+    "Description Box Offset": 25.0,
+    "Child Header Height": 24.0,
+    "Child Header Text Alignment": {
+        "x": 0.5,
+        "y": 0.5
+    },
+    "Text": {
+        "r": 238,
+        "g": 238,
+        "b": 238,
+        "a": 255
+    },
+    "Text Disabled": {
+        "r": 150,
+        "g": 150,
+        "b": 150,
+        "a": 255
+    },
+    "Window Bg": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 255
+    },
+    "Child Bg": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 10
+    },
+    "Popup Bg": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 255
+    },
+    "Border": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Border Shadow": {
+        "r": 58,
+        "g": 111,
+        "b": 100,
+        "a": 255
+    },
+    "Frame Bg": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 255
+    },
+    "Frame Bg Hovered": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 30
+    },
+    "Frame Bg Active": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Title Bg": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "TitleBg Active": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Title Bg Collapsed": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 130
+    },
+    "Menu Bar Bg": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Scrollbar Bg": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Scrollbar Grab": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Scrollbar Grab Hovered": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Scrollbar Grab Active": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Check Mark": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Slider Left": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Slider Right": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Button": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Button Hovered": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Button Active": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Header": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Header Hovered": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Header Active": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Separator": {
+        "r": 53,
+        "g": 104,
+        "b": 94,
+        "a": 255
+    },
+    "Separator Hovered": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Separator Active": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Resize Grip": {
+        "r": 50,
+        "g": 96,
+        "b": 86,
+        "a": 255
+    },
+    "Resize Grip Hovered": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Resize Grip Active": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Tab": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 255
+    },
+    "Tab Hovered": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Tab Active": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Tab Unfocused": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Tab Unfocused Active": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Plot Lines": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Plot Lines Hovered": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Plot Histogram": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "PlotHistogramHovered": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "TableHeaderBg": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Table Border Strong": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Table Border Light": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Table Row Bg": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Table RowBg Alt": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Text Selected Bg": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Drag Drop Target": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Nav Highlight": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Nav Windowing Highlight": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Nav Windowing Dim Bg": {
+        "r": 45,
+        "g": 85,
+        "b": 77,
+        "a": 255
+    },
+    "Modal Window Dim Bg": {
+        "r": 238,
+        "g": 238,
+        "b": 238,
+        "a": 60
+    },
+    "Tab Bar Button": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 255
+    },
+    "Tab Bar Button Active": {
+        "r": 14,
+        "g": 15,
+        "b": 16,
+        "a": 255
+    },
+    "Tab Bar Button Hovered": {
+        "r": 24,
+        "g": 26,
+        "b": 28,
+        "a": 255
+    },
+    "Tab Bar Border": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Title Bar Search Background": {
+        "r": 46,
+        "g": 46,
+        "b": 46,
+        "a": 255
+    },
+    "Title Bar Top Left": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Title Bar Top Right": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Title Bar Bottom Right": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Title Bar Bottom Left": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Title Bar Search Icon Color": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Title Bar Star Icon Color": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Title Bar Star Icon Color Active": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+    },
+    "Child Title Bar Top Left": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 10
+    },
+    "Child Title Bar Top Right": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 10
+    },
+    "Child Title Bar Bottom Right": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 10
+    },
+    "Child Title Bar Bottom Left": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 10
+    },
+    "Combo Selected": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Combo Arrow Open": {
+        "r": 81,
+        "g": 151,
+        "b": 136,
+        "a": 255
+    },
+    "Combo Arrow Closed": {
+        "r": 46,
+        "g": 89,
+        "b": 80,
+        "a": 255
+    },
+    "Player Selector Grab": {
+        "r": 247,
+        "g": 251,
+        "b": 255,
+        "a": 255
+    },
+    "Toast Animation Duration": 250,
+    "Toast Duration": 7000,
+    "Toast Position": 0,
+    "Toast Bar Width": 2.0,
+    "Toast Spacing": 8.0,
+    "Toast Pos Offset": {
+        "x": 20.0,
+        "y": 25.0
+    },
+    "Toast Inner Padding": {
+        "x": 9.0,
+        "y": 5.0
+    },
+    "Toast Shift Text For Background Image": false,
+    "Toast Text": {
+        "r": 247,
+        "g": 251,
+        "b": 255,
+        "a": 255
+    },
+    "Toast Background": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 255
+    },
+    "Toast Bar Top Left": {
+        "r": 109,
+        "g": 0,
+        "b": 255,
+        "a": 145
+    },
+    "Toast Bar Top Right": {
+        "r": 109,
+        "g": 0,
+        "b": 255,
+        "a": 145
+    },
+    "Toast Bar Bottom Right": {
+        "r": 27,
+        "g": 29,
+        "b": 33,
+        "a": 255
+    },
+    "Toast Bar Bottom Left": {
+        "r": 27,
+        "g": 29,
+        "b": 33,
+        "a": 255
+    },
+    "Toast Lifetime Bar Top Left": {
+        "r": 27,
+        "g": 29,
+        "b": 33,
+        "a": 255
+    },
+    "Toast Lifetime Bar Top Right": {
+        "r": 0,
+        "g": 147,
+        "b": 83,
+        "a": 255
+    },
+    "Toast Lifetime Bar Bottom Right": {
+        "r": 0,
+        "g": 147,
+        "b": 83,
+        "a": 255
+    },
+    "Toast Lifetime Bar Bottom Left": {
+        "r": 27,
+        "g": 29,
+        "b": 33,
+        "a": 255
+    },
+    "Tab Style": 0
+}

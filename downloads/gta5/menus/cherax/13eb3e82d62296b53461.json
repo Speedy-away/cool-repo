@@ -1,0 +1,47 @@
+{
+  "interiorColor": 0,
+  "plate": {
+    "plateText": " LATAX  ",
+    "plateType": 0
+  },
+  "secondaryColorID": 132,
+  "name": "evan",
+  "tint": {
+    "windowTint": 1
+  },
+  "wheels": {
+    "hasTireSmoke": false,
+    "wheelMod": 106,
+    "tireSmokeR": 255,
+    "wheelColorIndex": 205,
+    "wheelType": 8,
+    "tireSmokeG": 255,
+    "customTires": false,
+    "tireSmokeB": 255
+  },
+  "primaryColor": {
+    "G": 49,
+    "R": 49,
+    "B": 49
+  },
+  "secondaryColor": {
+    "G": 0,
+    "R": 0,
+    "B": 0
+  },
+  "wheelColorIndex": 205,
+  "lights": {
+    "neonBack": true,
+    "neonLeft": true,
+    "xenonColor": 12,
+    "neonFront": true,
+    "xenonEnabled": true,
+    "neonR": 15,
+    "neonB": 255,
+    "neonRight": true,
+    "neonG": 3
+  },
+  "pearlescentID": 91,
+  "primaryColorID": 122,
+  "dashboardColor": 0
+}

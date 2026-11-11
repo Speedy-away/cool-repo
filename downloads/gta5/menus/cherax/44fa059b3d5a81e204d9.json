@@ -1,0 +1,930 @@
+{
+    "Title Font": "ethnocentric_rg_it.otf",
+    "Title Font Size": 20.0,
+    "Text Font": "segoeui.ttf",
+    "Text Font Size": 16.0,
+    "Tab Font": "CleanBold.ttf",
+    "Tab Font Size": 29.0,
+    "Child Header Font": "CleanBold.ttf",
+    "Child Header Font Size": 16.0,
+    "Toast Header Font": "ethnocentric_rg.otf",
+    "Toast Header Font Size": 15.0,
+    "Toast Text Font": "segoeui.ttf",
+    "Toast Text Font Size": 20.0,
+    "Enable Custom Window Size": true,
+    "Custom Window Size": {
+        "x": 622.0,
+        "y": 550.0
+    },
+    "Fade Tab Content": true,
+    "Fade Tab Content Time": 0.3499999940395355,
+    "Pulsing Checkbox": false,
+    "Rotate Headers": false,
+    "Circle Tessellation Max Error": 0.30000001192092896,
+    "Window Rounding": 0.0,
+    "Window Border Size": 1.0,
+    "Window Padding": {
+        "x": 3.252000093460083,
+        "y": 8.0
+    },
+    "Child Rounding": 6.0,
+    "Child Border Size": 1.0,
+    "Popup Rounding": 7.0,
+    "Popup Border Size": 1.0,
+    "Frame Padding": {
+        "x": 3.0,
+        "y": 3.0
+    },
+    "Frame Rounding": 5.199999809265137,
+    "Frame Border Size": 0.0,
+    "Scrollbar Size": 8.0,
+    "Scrollbar Rounding": 30.0,
+    "Tab Border Size": 1.0,
+    "Tab Rounding": 6.0,
+    "Button Text Align": 0.5,
+    "Selectable Text Align": 0.0,
+    "Slider Height": 0.5,
+    "Indent Spacing": 13.0,
+    "Columns Min Spacing": 5.0,
+    "Item Spacing": {
+        "x": 6.0,
+        "y": 5.0
+    },
+    "Item Inner Spacing": {
+        "x": 6.0,
+        "y": 5.0
+    },
+    "Description Box Offset": 25.0,
+    "Child Header Height": 24.0,
+    "Child Header Text Alignment": {
+        "x": 0.5,
+        "y": 0.5
+    },
+    "Text": {
+        "r": 247,
+        "g": 251,
+        "b": 255,
+        "a": 255
+    },
+    "Text Disabled": {
+        "r": 150,
+        "g": 150,
+        "b": 150,
+        "a": 255
+    },
+    "Window Bg": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 255
+    },
+    "Child Bg": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 0
+    },
+    "Popup Bg": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 255
+    },
+    "Border": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 255
+    },
+    "Border Shadow": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 244
+    },
+    "Frame Bg": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 200
+    },
+    "Frame Bg Hovered": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 150
+    },
+    "Frame Bg Active": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 100
+    },
+    "Title Bg": {
+        "r": 27,
+        "g": 29,
+        "b": 33,
+        "a": 255
+    },
+    "TitleBg Active": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 255
+    },
+    "Title Bg Collapsed": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 130
+    },
+    "Menu Bar Bg": {
+        "r": 27,
+        "g": 29,
+        "b": 33,
+        "a": 255
+    },
+    "Scrollbar Bg": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Scrollbar Grab": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Scrollbar Grab Hovered": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 150
+    },
+    "Scrollbar Grab Active": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 150
+    },
+    "Check Mark": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Slider Left": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Slider Right": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Button": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 200
+    },
+    "Button Hovered": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 170
+    },
+    "Button Active": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 145
+    },
+    "Header": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 197
+    },
+    "Header Hovered": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 170
+    },
+    "Header Active": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 200
+    },
+    "Separator": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Separator Hovered": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 200
+    },
+    "Separator Active": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 145
+    },
+    "Resize Grip": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Resize Grip Hovered": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Resize Grip Active": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Tab Hovered": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 200
+    },
+    "Tab": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 150
+    },
+    "Tab Active": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 140
+    },
+    "Tab Selected Overline": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Tab Unfocused": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Tab Unfocused Active": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Tab Dimmed Selected Overline": {
+        "r": 128,
+        "g": 128,
+        "b": 128,
+        "a": 0
+    },
+    "Plot Lines": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Plot Lines Hovered": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Plot Histogram": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "PlotHistogramHovered": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "TableHeaderBg": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Table Border Strong": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Table Border Light": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Table Row Bg": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Table RowBg Alt": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Text Link": {
+        "r": 66,
+        "g": 150,
+        "b": 250,
+        "a": 255
+    },
+    "Text Selected Bg": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Drag Drop Target": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Nav Highlight": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Nav Windowing Highlight": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Nav Windowing Dim Bg": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "Modal Window Dim Bg": {
+        "r": 238,
+        "g": 238,
+        "b": 238,
+        "a": 60
+    },
+    "TextDisabled": {
+        "r": 150,
+        "g": 150,
+        "b": 150,
+        "a": 255
+    },
+    "WindowBg": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 255
+    },
+    "ChildBg": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 0
+    },
+    "PopupBg": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 255
+    },
+    "BorderShadow": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 244
+    },
+    "FrameBg": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 200
+    },
+    "FrameBgHovered": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 150
+    },
+    "FrameBgActive": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 100
+    },
+    "TitleBg": {
+        "r": 27,
+        "g": 29,
+        "b": 33,
+        "a": 255
+    },
+    "TitleBgActive": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 255
+    },
+    "TitleBgCollapsed": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 130
+    },
+    "MenuBarBg": {
+        "r": 27,
+        "g": 29,
+        "b": 33,
+        "a": 255
+    },
+    "ScrollbarBg": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "ScrollbarGrab": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "ScrollbarGrabHovered": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 150
+    },
+    "ScrollbarGrabActive": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 150
+    },
+    "CheckMark": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "SliderGrab": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "SliderGrabActive": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "ButtonHovered": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 170
+    },
+    "ButtonActive": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 145
+    },
+    "HeaderHovered": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 170
+    },
+    "HeaderActive": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 200
+    },
+    "SeparatorHovered": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 200
+    },
+    "SeparatorActive": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 145
+    },
+    "ResizeGrip": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "ResizeGripHovered": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "ResizeGripActive": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "TabHovered": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 200
+    },
+    "TabSelected": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 140
+    },
+    "TabSelectedOverline": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "TabDimmed": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "TabDimmedSelected": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "TabDimmedSelectedOverline": {
+        "r": 128,
+        "g": 128,
+        "b": 128,
+        "a": 0
+    },
+    "PlotLines": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "PlotLinesHovered": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "PlotHistogram": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "TableBorderStrong": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "TableBorderLight": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "TableRowBg": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "TableRowBgAlt": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "TextLink": {
+        "r": 66,
+        "g": 150,
+        "b": 250,
+        "a": 255
+    },
+    "TextSelectedBg": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "DragDropTarget": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "NavCursor": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "NavWindowingHighlight": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "NavWindowingDimBg": {
+        "r": 123,
+        "g": 174,
+        "b": 180,
+        "a": 255
+    },
+    "ModalWindowDimBg": {
+        "r": 238,
+        "g": 238,
+        "b": 238,
+        "a": 60
+    },
+    "Tab Bar Button": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 200
+    },
+    "Tab Bar Button Active": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 150
+    },
+    "Tab Bar Button Hovered": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Tab Bar Border": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 255
+    },
+    "Title Bar Search Background": {
+        "r": 22,
+        "g": 29,
+        "b": 41,
+        "a": 0
+    },
+    "Title Bar Top Left": {
+        "r": 27,
+        "g": 29,
+        "b": 33,
+        "a": 0
+    },
+    "Title Bar Top Right": {
+        "r": 27,
+        "g": 29,
+        "b": 33,
+        "a": 0
+    },
+    "Title Bar Bottom Right": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 0
+    },
+    "Title Bar Bottom Left": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 0
+    },
+    "Title Bar Search Icon Color": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Title Bar Star Icon Color": {
+        "r": 247,
+        "g": 251,
+        "b": 255,
+        "a": 255
+    },
+    "Title Bar Star Icon Color Active": {
+        "r": 255,
+        "g": 215,
+        "b": 0,
+        "a": 255
+    },
+    "Child Title Bar Top Left": {
+        "r": 27,
+        "g": 29,
+        "b": 33,
+        "a": 0
+    },
+    "Child Title Bar Top Right": {
+        "r": 27,
+        "g": 29,
+        "b": 33,
+        "a": 0
+    },
+    "Child Title Bar Bottom Right": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 0
+    },
+    "Child Title Bar Bottom Left": {
+        "r": 16,
+        "g": 18,
+        "b": 19,
+        "a": 0
+    },
+    "Combo Selected": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Combo Arrow Open": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Combo Arrow Closed": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Player Selector Grab": {
+        "r": 247,
+        "g": 251,
+        "b": 255,
+        "a": 255
+    },
+    "Toast Animation Duration": 250,
+    "Toast Duration": 7000,
+    "Toast Position": 0,
+    "Toast Bar Width": 2.0,
+    "Toast Spacing": 8.0,
+    "Toast Pos Offset": {
+        "x": 20.0,
+        "y": 25.0
+    },
+    "Toast Inner Padding": {
+        "x": 9.0,
+        "y": 5.0
+    },
+    "Toast Shift Text For Background Image": false,
+    "Toast Text": {
+        "r": 247,
+        "g": 251,
+        "b": 255,
+        "a": 255
+    },
+    "Toast Background": {
+        "r": 84,
+        "g": 34,
+        "b": 47,
+        "a": 255
+    },
+    "Toast Bar Top Left": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Toast Bar Top Right": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Toast Bar Bottom Right": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Toast Bar Bottom Left": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Toast Lifetime Bar Top Left": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Toast Lifetime Bar Top Right": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Toast Lifetime Bar Bottom Right": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Toast Lifetime Bar Bottom Left": {
+        "r": 122,
+        "g": 166,
+        "b": 180,
+        "a": 255
+    },
+    "Console Attack": {
+        "r": 197,
+        "g": 15,
+        "b": 31,
+        "a": 255
+    },
+    "Console Chat": {
+        "r": 15,
+        "g": 203,
+        "b": 217,
+        "a": 255
+    },
+    "Console Info": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+    },
+    "Console Logger": {
+        "r": 100,
+        "g": 100,
+        "b": 100,
+        "a": 255
+    },
+    "Console Modder Detection": {
+        "r": 255,
+        "g": 255,
+        "b": 100,
+        "a": 255
+    },
+    "Console Network": {
+        "r": 168,
+        "g": 43,
+        "b": 255,
+        "a": 255
+    },
+    "Console Player Tracker": {
+        "r": 230,
+        "g": 137,
+        "b": 71,
+        "a": 255
+    },
+    "Console Protection": {
+        "r": 66,
+        "g": 88,
+        "b": 255,
+        "a": 255
+    },
+    "Tab Style": 0
+}

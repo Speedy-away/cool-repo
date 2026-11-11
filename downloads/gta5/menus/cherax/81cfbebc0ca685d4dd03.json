@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "type": "binary-concatenation",
+  "original": {
+    "name": "activator_f.mp4",
+    "size": 123798719,
+    "sha256": "bded8c9529323135b83f9139a14c151d49f2e6605bf964ef283794f27c146045",
+    "extension": ".mp4"
+  },
+  "partBytes": 95000000,
+  "instructions": "Concatenate parts as binary in the listed order, then verify the full SHA-256 and byte size before use. These files are source assets; no payload is executed by this collection.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "targetRelativePath": "downloads/gta5/menus/cherax/5305dd4a1a70e48f6f3b.part",
+      "size": 95000000,
+      "sha256": "5305dd4a1a70e48f6f3b503da0fce4172b181ebf68c4f560e661556f6d751972"
+    },
+    {
+      "partNumber": 2,
+      "targetRelativePath": "downloads/gta5/menus/cherax/d6f6a59cc29c9fd7c5f8.part",
+      "size": 28798719,
+      "sha256": "d6f6a59cc29c9fd7c5f892b8b2b8128f2e46af1349370e0e6330eea91a36d8c9"
+    }
+  ]
+}

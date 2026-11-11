@@ -1,0 +1,99 @@
+{
+  "bulletproof": true,
+  "colors": [
+    200,
+    200
+  ],
+  "custom decal": [
+    false,
+    false
+  ],
+  "custom primary": [
+    0,
+    0,
+    0
+  ],
+  "custom secondary": [
+    0,
+    0,
+    0
+  ],
+  "extra color 5": 93,
+  "extra colors": [
+    73,
+    28
+  ],
+  "garage bitset": -1,
+  "model": 2739875593,
+  "mods": [
+    -1,
+    6,
+    -1,
+    1,
+    9,
+    15,
+    8,
+    1,
+    1,
+    6,
+    -1,
+    3,
+    2,
+    2,
+    8,
+    3,
+    4,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    152,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    4
+  ],
+  "neon color": [
+    0,
+    0,
+    128
+  ],
+  "neon enabled": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "plate index": 2,
+  "plate text": "87XSI119",
+  "tire color": [
+    226,
+    6,
+    6
+  ],
+  "wheel type": 8,
+  "window tint": 1
+}

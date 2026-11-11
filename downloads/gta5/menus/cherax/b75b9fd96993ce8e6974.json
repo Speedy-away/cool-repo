@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "type": "binary-concatenation",
+  "original": {
+    "name": "paacoos_18_fits.zip",
+    "size": 114901265,
+    "sha256": "63a9b37b8a494ec79bf92e0f219e1e3359bf769a71236414321891c0695b469a",
+    "extension": ".zip"
+  },
+  "partBytes": 95000000,
+  "instructions": "Concatenate parts as binary in the listed order, then verify the full SHA-256 and byte size before use. These files are source assets; no payload is executed by this collection.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "targetRelativePath": "downloads/gta5/menus/cherax/d6721570a0b4b7c06e8c.part",
+      "size": 95000000,
+      "sha256": "d6721570a0b4b7c06e8c04f45dd971101fa8a37bf6b3b5a422e6d16a91259888"
+    },
+    {
+      "partNumber": 2,
+      "targetRelativePath": "downloads/gta5/menus/cherax/6b7cd6f553a8214350fa.part",
+      "size": 19901265,
+      "sha256": "6b7cd6f553a8214350fadaee0bcc5ebd26a58a05b06ab2415730423df1dc5cd4"
+    }
+  ]
+}

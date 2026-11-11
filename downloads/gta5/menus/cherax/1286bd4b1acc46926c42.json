@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "type": "binary-concatenation",
+  "original": {
+    "name": "ducv4.rar",
+    "size": 240121721,
+    "sha256": "323efab0626c8283503eafe11e1889aa04ef487e87e641f9f8521f893ae592de",
+    "extension": ".rar"
+  },
+  "partBytes": 95000000,
+  "instructions": "Concatenate parts as binary in the listed order, then verify the full SHA-256 and byte size before use. These files are source assets; no payload is executed by this collection.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "targetRelativePath": "downloads/gta5/menus/cherax/2034c525d0159878b249.part",
+      "size": 95000000,
+      "sha256": "2034c525d0159878b249a8fe9270a033c0d776383429cc4f7ffe59ac2d26d00c"
+    },
+    {
+      "partNumber": 2,
+      "targetRelativePath": "downloads/gta5/menus/cherax/8a18ca173dade5d82bbb.part",
+      "size": 95000000,
+      "sha256": "8a18ca173dade5d82bbb4370423d9678893f3612c45604858916c56d5c07e011"
+    },
+    {
+      "partNumber": 3,
+      "targetRelativePath": "downloads/gta5/menus/cherax/5f51e1251c7166d66198.part",
+      "size": 50121721,
+      "sha256": "5f51e1251c7166d661981104b6df128d18702958b314e6d8eedfdf47d366a247"
+    }
+  ]
+}

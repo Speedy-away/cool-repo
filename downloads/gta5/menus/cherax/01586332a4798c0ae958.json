@@ -1,0 +1,98 @@
+{
+  "colors": [
+    40,
+    40
+  ],
+  "custom decal": [
+    false,
+    false
+  ],
+  "custom primary": [
+    54,
+    0,
+    0
+  ],
+  "custom secondary": [
+    54,
+    0,
+    0
+  ],
+  "extra color 5": 1,
+  "extra colors": [
+    0,
+    156
+  ],
+  "garage bitset": -1,
+  "model": 3145241962,
+  "mods": [
+    -1,
+    -1,
+    -1,
+    -1,
+    5,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    3,
+    2,
+    2,
+    -1,
+    -1,
+    4,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "neon color": [
+    255,
+    1,
+    1
+  ],
+  "neon enabled": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "plate index": 2,
+  "plate text": "21CWS574",
+  "tire color": [
+    226,
+    6,
+    6
+  ],
+  "wheel type": 0,
+  "window tint": 1
+}

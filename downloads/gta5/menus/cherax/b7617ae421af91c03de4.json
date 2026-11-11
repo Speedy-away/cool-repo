@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "type": "binary-concatenation",
+  "original": {
+    "name": "Grand_Theft_Auto_V_Enhanced_2026.06.30_-_00.40.21.07.mp4",
+    "size": 138419648,
+    "sha256": "edb2934e5297d8fdfe814e4a834db5c7962057d597ac23cc991db2793707e7dd",
+    "extension": ".mp4"
+  },
+  "partBytes": 95000000,
+  "instructions": "Concatenate parts as binary in the listed order, then verify the full SHA-256 and byte size before use. These files are source assets; no payload is executed by this collection.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "targetRelativePath": "downloads/gta5/menus/cherax/9c8a2251344328c80f17.part",
+      "size": 95000000,
+      "sha256": "9c8a2251344328c80f1737f5af34515c0e5a7a0b6b474fb10782dd23ee21efb2"
+    },
+    {
+      "partNumber": 2,
+      "targetRelativePath": "downloads/gta5/menus/cherax/38d22b1bcbc79ad80e49.part",
+      "size": 43419648,
+      "sha256": "38d22b1bcbc79ad80e49555daa274e16088d84646e995b5f4ee2e7f7f42bf3c2"
+    }
+  ]
+}

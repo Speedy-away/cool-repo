@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "type": "binary-concatenation",
+  "original": {
+    "name": "LiquidFit_PreviewPack.zip",
+    "size": 371982026,
+    "sha256": "07a89e0f80d7012be08d0fbb3de669ad4571a9825016357f2eb8df0d90d68568",
+    "extension": ".zip"
+  },
+  "partBytes": 95000000,
+  "instructions": "Concatenate parts as binary in the listed order, then verify the full SHA-256 and byte size before use. These files are source assets; no payload is executed by this collection.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "targetRelativePath": "downloads/gta5/menus/cherax/1ef76e125eafd4c97bfb.part",
+      "size": 95000000,
+      "sha256": "1ef76e125eafd4c97bfb9d48d011ece93c4bb5c4485b2e317863934939a6d9f9"
+    },
+    {
+      "partNumber": 2,
+      "targetRelativePath": "downloads/gta5/menus/cherax/90a17a3ee2875f38e502.part",
+      "size": 95000000,
+      "sha256": "90a17a3ee2875f38e50217cf34ee7631efb435691ccbba34d34fb7e1c91615fa"
+    },
+    {
+      "partNumber": 3,
+      "targetRelativePath": "downloads/gta5/menus/cherax/b3500c8f8a2638c62413.part",
+      "size": 95000000,
+      "sha256": "b3500c8f8a2638c62413757e880486c32228d357f585211dfc7f3cee4e4897de"
+    },
+    {
+      "partNumber": 4,
+      "targetRelativePath": "downloads/gta5/menus/cherax/3f205f5c53966488c55b.part",
+      "size": 86982026,
+      "sha256": "3f205f5c53966488c55bbcb4263bf1612ab1b20a16818ca371370b17b166de10"
+    }
+  ]
+}

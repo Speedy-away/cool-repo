@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "type": "binary-concatenation",
+  "original": {
+    "name": "X-Cool.gif",
+    "size": 127911961,
+    "sha256": "dfc83c1f5c72d24b209b2fb899854fdca20d5a1c3447e9d6e45ca1a3d168f00e",
+    "extension": ".gif"
+  },
+  "partBytes": 95000000,
+  "instructions": "Concatenate parts as binary in the listed order, then verify the full SHA-256 and byte size before use. These files are source assets; no payload is executed by this collection.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "targetRelativePath": "downloads/gta5/menus/cherax/dbf757322aac49329dc6.part",
+      "size": 95000000,
+      "sha256": "dbf757322aac49329dc62442b669f67c39a05cbeceb93cd741c5ee6db8e0c53a"
+    },
+    {
+      "partNumber": 2,
+      "targetRelativePath": "downloads/gta5/menus/cherax/c04d7b63d6edcf5376a1.part",
+      "size": 32911961,
+      "sha256": "c04d7b63d6edcf5376a1a86d00062fda4c498ebc29e832d5b9e2d109cd9e4557"
+    }
+  ]
+}

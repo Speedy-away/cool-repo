@@ -1,0 +1,87 @@
+{
+    "blend_data": {
+        "is_parent": 1,
+        "shape_first_id": 45,
+        "shape_mix": 0.05000000074505806,
+        "shape_second_id": 2,
+        "shape_third_id": 0,
+        "skin_first_id": 45,
+        "skin_mix": 0.0,
+        "skin_second_id": 2,
+        "skin_third_id": 0,
+        "third_mix": 0.0
+    },
+    "components": {
+        "0": {
+            "drawable_id": 0,
+            "texture_id": 0
+        },
+        "1": {
+            "drawable_id": 166,
+            "texture_id": 0
+        },
+        "10": {
+            "drawable_id": 169,
+            "texture_id": 0
+        },
+        "11": {
+            "drawable_id": 136,
+            "texture_id": 1
+        },
+        "2": {
+            "drawable_id": 53,
+            "texture_id": 0
+        },
+        "3": {
+            "drawable_id": 127,
+            "texture_id": 1
+        },
+        "4": {
+            "drawable_id": 107,
+            "texture_id": 4
+        },
+        "5": {
+            "drawable_id": 0,
+            "texture_id": 0
+        },
+        "6": {
+            "drawable_id": 58,
+            "texture_id": 5
+        },
+        "7": {
+            "drawable_id": 95,
+            "texture_id": 0
+        },
+        "8": {
+            "drawable_id": 159,
+            "texture_id": 0
+        },
+        "9": {
+            "drawable_id": 0,
+            "texture_id": 0
+        }
+    },
+    "model": 2627665880,
+    "props": {
+        "0": {
+            "drawable_id": 59,
+            "texture_id": 4
+        },
+        "1": {
+            "drawable_id": -1,
+            "texture_id": -1
+        },
+        "2": {
+            "drawable_id": -1,
+            "texture_id": -1
+        },
+        "6": {
+            "drawable_id": -1,
+            "texture_id": -1
+        },
+        "7": {
+            "drawable_id": -1,
+            "texture_id": -1
+        }
+    }
+}

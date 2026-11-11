@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "type": "binary-concatenation",
+  "original": {
+    "name": "Grand_Theft_Auto_V_2024.07.07_-_21.23.41.05.mp4",
+    "size": 185590293,
+    "sha256": "64e1c0ae710338bfd9e3f3e74e082e0eeba8de330bd6da65cbebf77e3ef6a50d",
+    "extension": ".mp4"
+  },
+  "partBytes": 95000000,
+  "instructions": "Concatenate parts as binary in the listed order, then verify the full SHA-256 and byte size before use. These files are source assets; no payload is executed by this collection.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "targetRelativePath": "downloads/gta5/menus/cherax/831fdfc4a007e33ffa18.part",
+      "size": 95000000,
+      "sha256": "831fdfc4a007e33ffa187f724f8aeab37966f1b2b5e9f818d0b0d54da9bfd5e6"
+    },
+    {
+      "partNumber": 2,
+      "targetRelativePath": "downloads/gta5/menus/cherax/937ba8e073c0d37e7992.part",
+      "size": 90590293,
+      "sha256": "937ba8e073c0d37e7992fb8837a9f0443f5d0d1d63068b509663bdec21d530fe"
+    }
+  ]
+}
