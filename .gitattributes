@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-# Keep catalog mirrors and published CS2 config checksums stable on Windows.
+# Keep catalog mirrors and published download checksums stable on Windows.
 catalog/*.json text eol=lf
-downloads/cs2/configs/*.json text eol=lf
+downloads/** -text
