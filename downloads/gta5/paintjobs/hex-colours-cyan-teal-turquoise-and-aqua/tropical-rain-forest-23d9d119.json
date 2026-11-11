@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Cyan, Teal, Turquoise, and Aqua",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                117,
+                94
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                0,
+                117,
+                94
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#00755E",
+    "model": 0,
+    "name": "Tropical Rain Forest",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

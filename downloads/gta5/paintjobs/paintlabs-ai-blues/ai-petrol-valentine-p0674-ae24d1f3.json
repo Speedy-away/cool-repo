@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0674",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 35,
+                "enabled": true
+            },
+            "rgb": [
+                3,
+                40,
+                42
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                3,
+                40,
+                42
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#03282AAA",
+    "model": 0,
+    "name": "Ai Petrol Valentine",
+    "secondary_hex": "#03282A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

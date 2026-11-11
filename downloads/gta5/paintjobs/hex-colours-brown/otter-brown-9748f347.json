@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Brown",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                101,
+                67,
+                33
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                101,
+                67,
+                33
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#654321",
+    "model": 0,
+    "name": "Otter Brown",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

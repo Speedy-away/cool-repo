@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Green",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                25,
+                89,
+                5
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                25,
+                89,
+                5
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#195905",
+    "model": 0,
+    "name": "Lincoln Green",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0753",
+    "category": "PaintLabs - AI - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 138,
+                "enabled": true
+            },
+            "rgb": [
+                9,
+                3,
+                14
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                9,
+                3,
+                14
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#09030EAA",
+    "model": 0,
+    "name": "Ai Blacklight Mango",
+    "secondary_hex": "#09030E",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

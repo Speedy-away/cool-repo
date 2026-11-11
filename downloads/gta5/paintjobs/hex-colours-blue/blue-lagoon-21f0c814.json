@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Blue",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                172,
+                229,
+                238
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                172,
+                229,
+                238
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#ACE5EE",
+    "model": 0,
+    "name": "Blue Lagoon",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

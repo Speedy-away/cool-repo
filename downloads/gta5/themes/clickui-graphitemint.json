@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4178645263,
+  "windowBorder": 1348524958,
+  "windowScrollbar": 4284603294,
+  "windowCursor": 4284603294,
+  "tabSelectedIcon": 4284603294,
+  "tabIndicator": 4284603294,
+  "categoryIndicator": 4284603294,
+  "toggleOn": 4284603294,
+  "sliderFilled": 4284603294,
+  "childTitle": 4284603294,
+  "childAccentLeft": 4284603294,
+  "contentSectionText": 4284603294,
+  "textAccent": 4284603294,
+  "notificationAccent": 4284603294,
+  "childBackground": 1974042,
+  "groupBackground": 1974042,
+  "groupBorder": 1181475496,
+  "contentPanelBackground": 3944619802,
+  "contentListBackground": 3692961562,
+  "tabUnselectedBg": 1679695642,
+  "categoryUnselectedBg": 1344151322,
+  "gradientStart": 1460951362,
+  "gradientEnd": 1843464,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Graphite Mint ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

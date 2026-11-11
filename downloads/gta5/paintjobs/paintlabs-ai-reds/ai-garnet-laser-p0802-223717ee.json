@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0802",
+    "category": "PaintLabs - AI - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 158,
+                "enabled": true
+            },
+            "rgb": [
+                51,
+                13,
+                6
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                51,
+                13,
+                6
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#330D06AA",
+    "model": 0,
+    "name": "Ai Garnet Laser",
+    "secondary_hex": "#330D06",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

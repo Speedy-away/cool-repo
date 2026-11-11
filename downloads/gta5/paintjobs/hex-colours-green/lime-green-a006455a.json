@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Green",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                50,
+                205,
+                50
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                50,
+                205,
+                50
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#32CD32",
+    "model": 0,
+    "name": "Lime Green",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

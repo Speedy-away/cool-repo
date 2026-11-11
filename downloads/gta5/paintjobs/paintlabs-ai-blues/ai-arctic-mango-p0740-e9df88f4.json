@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0740",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 36,
+                "enabled": true
+            },
+            "rgb": [
+                217,
+                248,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                217,
+                248,
+                255
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#D9F8FFAA",
+    "model": 0,
+    "name": "Ai Arctic Mango",
+    "secondary_hex": "#D9F8FF",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

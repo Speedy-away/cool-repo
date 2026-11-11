@@ -1,0 +1,26 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                202,
+                243,
+                238
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#CAF3EE",
+    "model": 0,
+    "name": "Baby Blue",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

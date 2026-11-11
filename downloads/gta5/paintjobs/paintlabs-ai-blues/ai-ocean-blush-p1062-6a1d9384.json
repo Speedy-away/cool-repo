@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1062",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 136,
+                "enabled": true
+            },
+            "rgb": [
+                31,
+                162,
+                159
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                31,
+                162,
+                159
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#1FA29FAA",
+    "model": 0,
+    "name": "Ai Ocean Blush",
+    "secondary_hex": "#1FA29F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

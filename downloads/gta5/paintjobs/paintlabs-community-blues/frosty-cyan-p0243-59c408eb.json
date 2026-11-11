@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0243",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 111,
+                "enabled": true
+            },
+            "rgb": [
+                151,
+                231,
+                222
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                151,
+                231,
+                222
+            ]
+        }
+    },
+    "creator": "tgutan",
+    "format": "scooby.paintjob",
+    "hex": "#97E7DE00",
+    "model": 0,
+    "name": "Frosty Cyan",
+    "secondary_hex": "#97E7DE",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

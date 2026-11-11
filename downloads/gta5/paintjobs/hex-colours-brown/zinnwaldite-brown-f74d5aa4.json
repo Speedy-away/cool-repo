@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Brown",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                44,
+                22,
+                8
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                44,
+                22,
+                8
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#2C1608",
+    "model": 0,
+    "name": "Zinnwaldite Brown",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

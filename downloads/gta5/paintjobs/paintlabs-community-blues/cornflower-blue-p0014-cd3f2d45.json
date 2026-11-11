@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0014",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 70,
+                "enabled": true
+            },
+            "rgb": [
+                5,
+                40,
+                62
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                5,
+                40,
+                62
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#05283EAA",
+    "model": 0,
+    "name": "Cornflower Blue",
+    "secondary_hex": "#05283E",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

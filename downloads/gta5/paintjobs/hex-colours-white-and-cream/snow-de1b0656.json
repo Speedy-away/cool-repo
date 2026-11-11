@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - White and Cream",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                250,
+                250
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                255,
+                250,
+                250
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#FFFAFA",
+    "model": 0,
+    "name": "Snow",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

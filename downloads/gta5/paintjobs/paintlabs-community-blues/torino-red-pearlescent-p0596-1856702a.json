@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0596",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 28,
+                "enabled": true
+            },
+            "rgb": [
+                0,
+                3,
+                20
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                3,
+                20
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#000314AA",
+    "model": 0,
+    "name": "torino red Pearlescent.",
+    "secondary_hex": "#000314",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0967",
+    "category": "PaintLabs - AI - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 35,
+                "enabled": true
+            },
+            "rgb": [
+                20,
+                73,
+                42
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                20,
+                73,
+                42
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#14492AAA",
+    "model": 0,
+    "name": "Ai Pond Disco",
+    "secondary_hex": "#14492A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

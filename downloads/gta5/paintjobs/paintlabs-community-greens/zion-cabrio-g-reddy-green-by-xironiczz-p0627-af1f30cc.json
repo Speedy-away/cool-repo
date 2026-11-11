@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0627",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 54,
+                "enabled": true
+            },
+            "rgb": [
+                0,
+                6,
+                4
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                6,
+                4
+            ]
+        }
+    },
+    "creator": "xiRONiCZZ",
+    "format": "scooby.paintjob",
+    "hex": "#000604FF",
+    "model": 0,
+    "name": "Zion Cabrio - G-REDDY GREEN (by xiRoNiCzZ)",
+    "secondary_hex": "#000604",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

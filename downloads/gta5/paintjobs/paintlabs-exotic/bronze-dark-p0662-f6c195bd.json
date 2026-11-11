@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0662",
+    "category": "PaintLabs - Exotic",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 38,
+                "enabled": true
+            },
+            "rgb": [
+                36,
+                32,
+                41
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                36,
+                32,
+                41
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#242029FF",
+    "model": 0,
+    "name": "Bronze Dark",
+    "secondary_hex": "#242029",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

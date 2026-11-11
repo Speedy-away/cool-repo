@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0853",
+    "category": "PaintLabs - AI - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 158,
+                "enabled": true
+            },
+            "rgb": [
+                55,
+                6,
+                58
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                55,
+                6,
+                58
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#37063AAA",
+    "model": 0,
+    "name": "Ai Violet Gold",
+    "secondary_hex": "#37063A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

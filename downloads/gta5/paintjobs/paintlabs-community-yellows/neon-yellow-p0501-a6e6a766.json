@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0501",
+    "category": "PaintLabs - Community - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 111,
+                "enabled": true
+            },
+            "rgb": [
+                255,
+                255,
+                48
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                255,
+                48
+            ]
+        }
+    },
+    "creator": "PURPL NINJA75",
+    "format": "scooby.paintjob",
+    "hex": "#FFFF30",
+    "model": 0,
+    "name": "NEON YELLOW",
+    "secondary_hex": "#FFFF30",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0586",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 88,
+                "enabled": true
+            },
+            "rgb": [
+                120,
+                141,
+                18
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                120,
+                141,
+                18
+            ]
+        }
+    },
+    "creator": "Mattoropael",
+    "format": "scooby.paintjob",
+    "hex": "#788D12AA",
+    "model": 0,
+    "name": "Kustom",
+    "secondary_hex": "#788D12",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0285",
+    "category": "PaintLabs - Community - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 112,
+                "enabled": true
+            },
+            "rgb": [
+                253,
+                253,
+                152
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                253,
+                253,
+                152
+            ]
+        }
+    },
+    "creator": "imrobertz1",
+    "format": "scooby.paintjob",
+    "hex": "#FDFD9800",
+    "model": 0,
+    "name": "PY-PASTEL-YELLOW",
+    "secondary_hex": "#FDFD98",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

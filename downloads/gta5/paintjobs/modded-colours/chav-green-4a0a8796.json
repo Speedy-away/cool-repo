@@ -1,0 +1,42 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 89,
+                "enabled": true,
+                "rgb": [
+                    255,
+                    230,
+                    154
+                ]
+            },
+            "rgb": [
+                179,
+                255,
+                94
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                179,
+                255,
+                94
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#B3FF5E",
+    "model": 0,
+    "name": "Chav Green",
+    "pearl_hex": "#FFE69A",
+    "secondary_hex": "#B3FF5E",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

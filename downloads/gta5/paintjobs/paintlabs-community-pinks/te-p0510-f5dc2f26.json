@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0510",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                74,
+                0,
+                42
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                74,
+                0,
+                42
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#4A002A",
+    "model": 0,
+    "name": "te",
+    "secondary_hex": "#4A002A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

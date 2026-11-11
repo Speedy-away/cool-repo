@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1214",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 11,
+                "enabled": true
+            },
+            "rgb": [
+                48,
+                51,
+                56
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                48,
+                51,
+                56
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#303338AA",
+    "model": 0,
+    "name": "Grigio Telesto",
+    "secondary_hex": "#303338",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

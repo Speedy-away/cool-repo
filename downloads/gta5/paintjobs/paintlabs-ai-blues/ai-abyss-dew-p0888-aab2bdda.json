@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0888",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 88,
+                "enabled": true
+            },
+            "rgb": [
+                8,
+                7,
+                37
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                8,
+                7,
+                37
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#080725AA",
+    "model": 0,
+    "name": "Ai Abyss Dew",
+    "secondary_hex": "#080725",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

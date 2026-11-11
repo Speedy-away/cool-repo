@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0430",
+    "category": "PaintLabs - Community - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 138,
+                "enabled": true
+            },
+            "rgb": [
+                79,
+                31,
+                13
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                79,
+                31,
+                13
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#4F1F0DAA",
+    "model": 0,
+    "name": "C-X75 ORANGE",
+    "secondary_hex": "#4F1F0D",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

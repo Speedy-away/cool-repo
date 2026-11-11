@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1217",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 64,
+                "enabled": true
+            },
+            "rgb": [
+                15,
+                7,
+                59
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                15,
+                7,
+                59
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#0F073BAA",
+    "model": 0,
+    "name": "House of Kolor Blue Indigo",
+    "secondary_hex": "#0F073B",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

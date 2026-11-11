@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1022",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 136,
+                "enabled": true
+            },
+            "rgb": [
+                7,
+                82,
+                85
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                7,
+                82,
+                85
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#075255AA",
+    "model": 0,
+    "name": "Ai Glacier Blush",
+    "secondary_hex": "#075255",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

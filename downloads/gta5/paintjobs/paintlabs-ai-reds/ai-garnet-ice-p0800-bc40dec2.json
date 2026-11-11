@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0800",
+    "category": "PaintLabs - AI - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 67,
+                "enabled": true
+            },
+            "rgb": [
+                32,
+                7,
+                2
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                32,
+                7,
+                2
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#200702AA",
+    "model": 0,
+    "name": "Ai Garnet Ice",
+    "secondary_hex": "#200702",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1006",
+    "category": "PaintLabs - AI - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 72,
+                "enabled": true
+            },
+            "rgb": [
+                161,
+                124,
+                22
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                161,
+                124,
+                22
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#A17C16AA",
+    "model": 0,
+    "name": "Ai Tobacco Sailor",
+    "secondary_hex": "#A17C16",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

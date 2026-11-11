@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                0,
+                212
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                255,
+                0,
+                212
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#FF00D4",
+    "model": 0,
+    "name": "Neon Magenta",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1073",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 138,
+                "enabled": true
+            },
+            "rgb": [
+                29,
+                33,
+                231
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                29,
+                33,
+                231
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#1D21E7AA",
+    "model": 0,
+    "name": "Ai Electric Tangerine 2",
+    "secondary_hex": "#1D21E7",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

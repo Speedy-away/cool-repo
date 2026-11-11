@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0127",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 139,
+                "enabled": true
+            },
+            "rgb": [
+                10,
+                0,
+                26
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                10,
+                0,
+                26
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#0A001AAA",
+    "model": 0,
+    "name": "MYSTICHROME",
+    "secondary_hex": "#0A001A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

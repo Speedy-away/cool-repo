@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0736",
+    "category": "PaintLabs - AI - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 138,
+                "enabled": true
+            },
+            "rgb": [
+                119,
+                123,
+                128
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                119,
+                123,
+                128
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#777B80AA",
+    "model": 0,
+    "name": "Ai Pewter Flame",
+    "secondary_hex": "#777B80",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

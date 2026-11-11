@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0655",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 111,
+                "enabled": true
+            },
+            "rgb": [
+                186,
+                239,
+                221
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                186,
+                239,
+                221
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#BAEFDD00",
+    "model": 0,
+    "name": "subscribe for more video ;)",
+    "secondary_hex": "#BAEFDD",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

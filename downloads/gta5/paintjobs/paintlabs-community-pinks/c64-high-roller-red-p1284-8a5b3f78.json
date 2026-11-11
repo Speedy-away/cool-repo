@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1284",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 6,
+                "enabled": true
+            },
+            "rgb": [
+                80,
+                22,
+                41
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                80,
+                22,
+                41
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#501629AA",
+    "model": 0,
+    "name": "C64 High Roller Red",
+    "secondary_hex": "#501629",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

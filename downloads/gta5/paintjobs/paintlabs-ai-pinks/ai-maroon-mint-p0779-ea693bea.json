@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0779",
+    "category": "PaintLabs - AI - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 51,
+                "enabled": true
+            },
+            "rgb": [
+                54,
+                1,
+                17
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                54,
+                1,
+                17
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#360111AA",
+    "model": 0,
+    "name": "Ai Maroon Mint",
+    "secondary_hex": "#360111",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

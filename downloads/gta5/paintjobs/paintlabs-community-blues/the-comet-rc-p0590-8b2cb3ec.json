@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0590",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 28,
+                "enabled": true
+            },
+            "rgb": [
+                23,
+                130,
+                158
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                23,
+                130,
+                158
+            ]
+        }
+    },
+    "creator": "Aqua",
+    "format": "scooby.paintjob",
+    "hex": "#17829E00",
+    "model": 0,
+    "name": "the Comet RC",
+    "secondary_hex": "#17829E",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

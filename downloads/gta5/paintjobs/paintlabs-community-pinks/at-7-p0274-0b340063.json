@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0274",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                63,
+                53,
+                62
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                63,
+                53,
+                62
+            ]
+        }
+    },
+    "creator": "Notcher, Panos VI",
+    "format": "scooby.paintjob",
+    "hex": "#3F353EAA",
+    "model": 0,
+    "name": "at 7",
+    "secondary_hex": "#3F353E",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

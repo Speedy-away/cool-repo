@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1111",
+    "category": "PaintLabs - AI - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 137,
+                "enabled": true
+            },
+            "rgb": [
+                71,
+                60,
+                63
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                71,
+                60,
+                63
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#473C3FAA",
+    "model": 0,
+    "name": "Ai Asphalt Banana",
+    "secondary_hex": "#473C3F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

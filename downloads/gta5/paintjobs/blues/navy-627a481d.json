@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                20,
+                0,
+                34
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                20,
+                0,
+                34
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#140022AA",
+    "model": 0,
+    "name": "Navy",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0538",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 111,
+                "enabled": true
+            },
+            "rgb": [
+                41,
+                96,
+                111
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                41,
+                96,
+                111
+            ]
+        }
+    },
+    "creator": "elfoam",
+    "format": "scooby.paintjob",
+    "hex": "#29606FFF",
+    "model": 0,
+    "name": "SS)",
+    "secondary_hex": "#29606F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

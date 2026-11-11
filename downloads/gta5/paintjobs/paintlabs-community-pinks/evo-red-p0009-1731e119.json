@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0009",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 28,
+                "enabled": true
+            },
+            "rgb": [
+                60,
+                0,
+                21
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                60,
+                0,
+                21
+            ]
+        }
+    },
+    "creator": "oXiMo_",
+    "format": "scooby.paintjob",
+    "hex": "#3C0015AA",
+    "model": 0,
+    "name": "EVO Red",
+    "secondary_hex": "#3C0015",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

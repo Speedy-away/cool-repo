@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0126",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                202,
+                255,
+                186
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                202,
+                255,
+                186
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#CAFFBA00",
+    "model": 0,
+    "name": "LUMINESCENCE",
+    "secondary_hex": "#CAFFBA",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

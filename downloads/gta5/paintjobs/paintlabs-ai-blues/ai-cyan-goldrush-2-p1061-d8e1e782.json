@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1061",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 136,
+                "enabled": true
+            },
+            "rgb": [
+                5,
+                52,
+                50
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                5,
+                52,
+                50
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#053432AA",
+    "model": 0,
+    "name": "Ai Cyan Goldrush 2",
+    "secondary_hex": "#053432",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0362",
+    "category": "PaintLabs - Community - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                204,
+                204,
+                204
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                204,
+                204,
+                204
+            ]
+        }
+    },
+    "creator": "Lehi Stones",
+    "format": "scooby.paintjob",
+    "hex": "#CCCCCC",
+    "model": 0,
+    "name": "1058 CHEVY SNOWICREST",
+    "secondary_hex": "#CCCCCC",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

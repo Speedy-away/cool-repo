@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0143",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                135,
+                159,
+                0
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                135,
+                159,
+                0
+            ]
+        }
+    },
+    "creator": "enrico italia",
+    "format": "scooby.paintjob",
+    "hex": "#879F00AA",
+    "model": 0,
+    "name": "2.FARBE",
+    "secondary_hex": "#879F00",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,26 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                168,
+                168,
+                218
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#A8A8DA",
+    "model": 0,
+    "name": "Lavender",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

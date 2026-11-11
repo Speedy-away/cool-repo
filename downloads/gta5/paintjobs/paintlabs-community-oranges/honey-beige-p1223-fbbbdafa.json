@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1223",
+    "category": "PaintLabs - Community - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                140,
+                124,
+                104
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                140,
+                124,
+                104
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#8C7C68AA",
+    "model": 0,
+    "name": "Honey Beige",
+    "secondary_hex": "#8C7C68",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

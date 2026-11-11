@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                116,
+                3,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                116,
+                3,
+                255
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#7403FF",
+    "model": 0,
+    "name": "BubblePurp",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0414",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                62,
+                41
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                62,
+                41
+            ]
+        }
+    },
+    "creator": "KryptonicHD",
+    "format": "scooby.paintjob",
+    "hex": "#FF3E29",
+    "model": 0,
+    "name": "Nasty",
+    "secondary_hex": "#FF3E29",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

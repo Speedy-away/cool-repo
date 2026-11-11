@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0764",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 138,
+                "enabled": true
+            },
+            "rgb": [
+                0,
+                26,
+                102
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                26,
+                102
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#001A66AA",
+    "model": 0,
+    "name": "Ai Blue Hot Sauce",
+    "secondary_hex": "#001A66",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

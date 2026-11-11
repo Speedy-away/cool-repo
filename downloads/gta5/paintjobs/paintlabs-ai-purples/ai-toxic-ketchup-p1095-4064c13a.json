@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1095",
+    "category": "PaintLabs - AI - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 92,
+                "enabled": true
+            },
+            "rgb": [
+                200,
+                47,
+                249
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                200,
+                47,
+                249
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#C82FF9AA",
+    "model": 0,
+    "name": "Ai Toxic Ketchup",
+    "secondary_hex": "#C82FF9",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

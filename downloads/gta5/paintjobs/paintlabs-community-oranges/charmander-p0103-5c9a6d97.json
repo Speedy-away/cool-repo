@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0103",
+    "category": "PaintLabs - Community - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                245,
+                101,
+                46
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                245,
+                101,
+                46
+            ]
+        }
+    },
+    "creator": "Jester's Gaming Vids",
+    "format": "scooby.paintjob",
+    "hex": "#F5652E",
+    "model": 0,
+    "name": "Charmander",
+    "secondary_hex": "#F5652E",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

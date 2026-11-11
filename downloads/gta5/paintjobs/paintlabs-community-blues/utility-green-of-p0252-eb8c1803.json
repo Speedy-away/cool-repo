@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0252",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                31,
+                21,
+                170
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                31,
+                21,
+                170
+            ]
+        }
+    },
+    "creator": "tgutan",
+    "format": "scooby.paintjob",
+    "hex": "#1F15AA",
+    "model": 0,
+    "name": "Utility Green OF",
+    "secondary_hex": "#1F15AA",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

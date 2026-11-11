@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0715",
+    "category": "PaintLabs - AI - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 139,
+                "enabled": true
+            },
+            "rgb": [
+                255,
+                208,
+                216
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                208,
+                216
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#FFD0D8AA",
+    "model": 0,
+    "name": "Ai Blush Toxicity",
+    "secondary_hex": "#FFD0D8",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

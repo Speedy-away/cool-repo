@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4178840086,
+  "windowBorder": 1353542632,
+  "windowScrollbar": 4289555432,
+  "windowCursor": 4289555432,
+  "tabSelectedIcon": 4289555432,
+  "tabIndicator": 4289555432,
+  "categoryIndicator": 4289555432,
+  "toggleOn": 4289555432,
+  "sliderFilled": 4289555432,
+  "childTitle": 4289555432,
+  "childAccentLeft": 4289555432,
+  "contentSectionText": 4289555432,
+  "textAccent": 4289555432,
+  "notificationAccent": 4289555432,
+  "childBackground": 2036004,
+  "groupBackground": 2036004,
+  "groupBorder": 1186626287,
+  "contentPanelBackground": 3944681764,
+  "contentListBackground": 3693023524,
+  "tabUnselectedBg": 1679757604,
+  "categoryUnselectedBg": 1344213284,
+  "gradientStart": 1632574039,
+  "gradientEnd": 2821399,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Rose Quartz ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

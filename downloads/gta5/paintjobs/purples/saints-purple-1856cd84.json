@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                96,
+                62,
+                148
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                96,
+                62,
+                148
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#603E94",
+    "model": 0,
+    "name": "Saints Purple",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

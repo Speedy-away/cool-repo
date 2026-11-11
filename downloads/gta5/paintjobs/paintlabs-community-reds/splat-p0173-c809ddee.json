@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0173",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                113,
+                66
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                113,
+                66
+            ]
+        }
+    },
+    "creator": "KryptonicHD",
+    "format": "scooby.paintjob",
+    "hex": "#FF7142",
+    "model": 0,
+    "name": "Splat",
+    "secondary_hex": "#FF7142",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

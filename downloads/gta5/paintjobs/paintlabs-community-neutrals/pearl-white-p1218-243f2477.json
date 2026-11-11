@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1218",
+    "category": "PaintLabs - Community - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 15,
+            "custom": true,
+            "paint_type": 0,
+            "pearl": {
+                "colour": 136,
+                "enabled": true
+            },
+            "rgb": [
+                203,
+                195,
+                188
+            ]
+        },
+        "secondary": {
+            "base": 15,
+            "custom": true,
+            "paint_type": 0,
+            "rgb": [
+                203,
+                195,
+                188
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#CBC3BCAA",
+    "model": 0,
+    "name": "Pearl White",
+    "secondary_hex": "#CBC3BC",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

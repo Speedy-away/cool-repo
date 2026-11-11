@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0754",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 68,
+                "enabled": true
+            },
+            "rgb": [
+                2,
+                8,
+                10
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                2,
+                8,
+                10
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#02080AAA",
+    "model": 0,
+    "name": "Ai Funeral Cyan",
+    "secondary_hex": "#02080A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

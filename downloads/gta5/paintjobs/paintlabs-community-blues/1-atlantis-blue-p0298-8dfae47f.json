@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0298",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 70,
+                "enabled": true
+            },
+            "rgb": [
+                0,
+                40,
+                65
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                40,
+                65
+            ]
+        }
+    },
+    "creator": "Illusionz",
+    "format": "scooby.paintjob",
+    "hex": "#002841AA",
+    "model": 0,
+    "name": "1) Atlantis Blue",
+    "secondary_hex": "#002841",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

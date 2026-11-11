@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Cyan, Teal, Turquoise, and Aqua",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                67,
+                179,
+                174
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                67,
+                179,
+                174
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#43B3AE",
+    "model": 0,
+    "name": "Verdigris",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

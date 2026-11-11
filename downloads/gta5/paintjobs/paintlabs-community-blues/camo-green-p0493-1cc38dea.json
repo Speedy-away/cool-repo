@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0493",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 88,
+                "enabled": true
+            },
+            "rgb": [
+                5,
+                21,
+                18
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                5,
+                21,
+                18
+            ]
+        }
+    },
+    "creator": "KillerFromGods",
+    "format": "scooby.paintjob",
+    "hex": "#051512AA",
+    "model": 0,
+    "name": "Camo Green",
+    "secondary_hex": "#051512",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

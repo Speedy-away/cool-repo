@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0374",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 92,
+                "enabled": true
+            },
+            "rgb": [
+                129,
+                172,
+                141
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                129,
+                172,
+                141
+            ]
+        }
+    },
+    "creator": "tgutan",
+    "format": "scooby.paintjob",
+    "hex": "#81AC8D00",
+    "model": 0,
+    "name": "Inkognito Green",
+    "secondary_hex": "#81AC8D",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

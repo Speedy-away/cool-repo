@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0532",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 107,
+                "enabled": true
+            },
+            "rgb": [
+                45,
+                98,
+                65
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                45,
+                98,
+                65
+            ]
+        }
+    },
+    "creator": "Dat Saintsfan",
+    "format": "scooby.paintjob",
+    "hex": "#2D624100",
+    "model": 0,
+    "name": "ae",
+    "secondary_hex": "#2D6241",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1018",
+    "category": "PaintLabs - AI - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 67,
+                "enabled": true
+            },
+            "rgb": [
+                44,
+                24,
+                11
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                44,
+                24,
+                11
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#2C180BAA",
+    "model": 0,
+    "name": "Ai Clay Violet",
+    "secondary_hex": "#2C180B",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

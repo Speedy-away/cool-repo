@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1034",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 35,
+                "enabled": true
+            },
+            "rgb": [
+                8,
+                141,
+                164
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                8,
+                141,
+                164
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#088DA4AA",
+    "model": 0,
+    "name": "Ai Aqua Blood",
+    "secondary_hex": "#088DA4",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

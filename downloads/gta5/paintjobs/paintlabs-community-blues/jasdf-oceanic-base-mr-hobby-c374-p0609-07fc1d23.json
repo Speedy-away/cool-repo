@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0609",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                40,
+                65,
+                87
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                40,
+                65,
+                87
+            ]
+        }
+    },
+    "creator": "Hallow",
+    "format": "scooby.paintjob",
+    "hex": "#284157FF",
+    "model": 0,
+    "name": "JASDF Oceanic base (Mr. Hobby C374",
+    "secondary_hex": "#284157",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                81,
+                0,
+                1
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                81,
+                0,
+                1
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#510001AA",
+    "model": 0,
+    "name": "Red XIV",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

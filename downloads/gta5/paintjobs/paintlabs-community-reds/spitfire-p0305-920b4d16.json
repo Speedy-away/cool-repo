@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0305",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 111,
+                "enabled": true
+            },
+            "rgb": [
+                255,
+                130,
+                130
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                130,
+                130
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#FF8282AA",
+    "model": 0,
+    "name": "SPITFIRE",
+    "secondary_hex": "#FF8282",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                27,
+                68
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                0,
+                27,
+                68
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#001B44",
+    "model": 0,
+    "name": "Midnight Sapphire",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

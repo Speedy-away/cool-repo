@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0176",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                98,
+                46
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                98,
+                46
+            ]
+        }
+    },
+    "creator": "KryptonicHD",
+    "format": "scooby.paintjob",
+    "hex": "#FF622E",
+    "model": 0,
+    "name": "Sunlight",
+    "secondary_hex": "#FF622E",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

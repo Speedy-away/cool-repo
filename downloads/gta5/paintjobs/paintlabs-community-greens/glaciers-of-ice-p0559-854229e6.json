@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0559",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                119,
+                255,
+                201
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                119,
+                255,
+                201
+            ]
+        }
+    },
+    "creator": "imrobertz1",
+    "format": "scooby.paintjob",
+    "hex": "#77FFC9",
+    "model": 0,
+    "name": "GLACIERS OF ICE",
+    "secondary_hex": "#77FFC9",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

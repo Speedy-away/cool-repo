@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0689",
+    "category": "PaintLabs - AI - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 138,
+                "enabled": true
+            },
+            "rgb": [
+                125,
+                0,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                125,
+                0,
+                255
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#7D00FFAA",
+    "model": 0,
+    "name": "Ai Neon Bruise",
+    "secondary_hex": "#7D00FF",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

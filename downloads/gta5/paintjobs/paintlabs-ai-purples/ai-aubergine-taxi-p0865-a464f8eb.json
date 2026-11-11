@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0865",
+    "category": "PaintLabs - AI - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 89,
+                "enabled": true
+            },
+            "rgb": [
+                62,
+                3,
+                60
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                62,
+                3,
+                60
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#3E033CAA",
+    "model": 0,
+    "name": "Ai Aubergine Taxi",
+    "secondary_hex": "#3E033C",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

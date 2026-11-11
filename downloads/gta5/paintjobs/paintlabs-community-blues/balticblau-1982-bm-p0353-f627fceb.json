@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0353",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                30,
+                45,
+                52
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                30,
+                45,
+                52
+            ]
+        }
+    },
+    "creator": "Lehi Stones",
+    "format": "scooby.paintjob",
+    "hex": "#1E2D34AA",
+    "model": 0,
+    "name": "Balticblau 1982 BM",
+    "secondary_hex": "#1E2D34",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

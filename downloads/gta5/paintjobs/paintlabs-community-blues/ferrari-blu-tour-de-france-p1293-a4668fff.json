@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1293",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 63,
+                "enabled": true
+            },
+            "rgb": [
+                0,
+                8,
+                21
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                8,
+                21
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#000815AA",
+    "model": 0,
+    "name": "Ferrari Blu Tour de France",
+    "secondary_hex": "#000815",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

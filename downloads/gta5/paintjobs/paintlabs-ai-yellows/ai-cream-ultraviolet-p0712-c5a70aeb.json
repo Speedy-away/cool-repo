@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0712",
+    "category": "PaintLabs - AI - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 145,
+                "enabled": true
+            },
+            "rgb": [
+                255,
+                241,
+                201
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                241,
+                201
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#FFF1C9AA",
+    "model": 0,
+    "name": "Ai Cream Ultraviolet",
+    "secondary_hex": "#FFF1C9",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

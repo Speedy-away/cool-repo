@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0166",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                24,
+                3,
+                33
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                24,
+                3,
+                33
+            ]
+        }
+    },
+    "creator": "IkuesDatabase",
+    "format": "scooby.paintjob",
+    "hex": "#180321AA",
+    "model": 0,
+    "name": "Blaqqurent (24.3.33) - PERL - Ultra Blue",
+    "secondary_hex": "#180321",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                53,
+                3,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                53,
+                3,
+                255
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#3503FF",
+    "model": 0,
+    "name": "Intoxicated Blue",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0161",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                18,
+                0,
+                32
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                18,
+                0,
+                32
+            ]
+        }
+    },
+    "creator": "enrico italia",
+    "format": "scooby.paintjob",
+    "hex": "#120020AA",
+    "model": 0,
+    "name": "PERL: Eis wei&",
+    "secondary_hex": "#120020",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

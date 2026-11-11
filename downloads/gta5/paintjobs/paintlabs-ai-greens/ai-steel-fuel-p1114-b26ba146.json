@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1114",
+    "category": "PaintLabs - AI - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 54,
+                "enabled": true
+            },
+            "rgb": [
+                32,
+                38,
+                36
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                32,
+                38,
+                36
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#202624AA",
+    "model": 0,
+    "name": "Ai Steel Fuel",
+    "secondary_hex": "#202624",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

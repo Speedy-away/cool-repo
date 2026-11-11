@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0957",
+    "category": "PaintLabs - AI - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 135,
+                "enabled": true
+            },
+            "rgb": [
+                12,
+                85,
+                36
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                12,
+                85,
+                36
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#0C5524AA",
+    "model": 0,
+    "name": "Ai Bog Rouge 2",
+    "secondary_hex": "#0C5524",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

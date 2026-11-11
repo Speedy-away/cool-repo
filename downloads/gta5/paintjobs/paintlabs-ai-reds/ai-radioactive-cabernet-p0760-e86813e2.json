@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0760",
+    "category": "PaintLabs - AI - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 92,
+                "enabled": true
+            },
+            "rgb": [
+                77,
+                0,
+                20
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                77,
+                0,
+                20
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#4D0014AA",
+    "model": 0,
+    "name": "Ai Radioactive Cabernet",
+    "secondary_hex": "#4D0014",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

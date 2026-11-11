@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0492",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 111,
+                "enabled": true
+            },
+            "rgb": [
+                10,
+                8,
+                19
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                10,
+                8,
+                19
+            ]
+        }
+    },
+    "creator": "KillerFromGods",
+    "format": "scooby.paintjob",
+    "hex": "#0A0813AA",
+    "model": 0,
+    "name": "Shadow",
+    "secondary_hex": "#0A0813",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

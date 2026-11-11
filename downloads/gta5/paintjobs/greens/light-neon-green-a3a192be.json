@@ -1,0 +1,35 @@
+{
+    "alpha": 0,
+    "category": "Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                19,
+                255,
+                101
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                19,
+                255,
+                101
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#13FF6500",
+    "model": 0,
+    "name": "Light Neon Green",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

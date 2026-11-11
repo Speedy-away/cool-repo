@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1055",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 158,
+                "enabled": true
+            },
+            "rgb": [
+                16,
+                80,
+                85
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                16,
+                80,
+                85
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#105055AA",
+    "model": 0,
+    "name": "Ai Teal Gold",
+    "secondary_hex": "#105055",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

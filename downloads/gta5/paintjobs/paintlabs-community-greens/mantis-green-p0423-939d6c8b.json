@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0423",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 107,
+                "enabled": true
+            },
+            "rgb": [
+                10,
+                255,
+                96
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                10,
+                255,
+                96
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#0AFF60",
+    "model": 0,
+    "name": "MANTIS GREEN",
+    "secondary_hex": "#0AFF60",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

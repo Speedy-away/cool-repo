@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0221",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                31,
+                77
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                31,
+                77
+            ]
+        }
+    },
+    "creator": "tgutan",
+    "format": "scooby.paintjob",
+    "hex": "#001F4DAA",
+    "model": 0,
+    "name": "Reaper Blue",
+    "secondary_hex": "#001F4D",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0738",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 28,
+                "enabled": true
+            },
+            "rgb": [
+                99,
+                106,
+                115
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                99,
+                106,
+                115
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#636A73AA",
+    "model": 0,
+    "name": "Ai Steel Blood",
+    "secondary_hex": "#636A73",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

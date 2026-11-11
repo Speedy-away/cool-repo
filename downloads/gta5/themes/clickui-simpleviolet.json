@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4179235608,
+  "windowBorder": 1353872019,
+  "windowScrollbar": 4289950612,
+  "windowCursor": 4289950612,
+  "tabSelectedIcon": 4289950612,
+  "tabIndicator": 4289950612,
+  "categoryIndicator": 4289950612,
+  "toggleOn": 4289950612,
+  "sliderFilled": 4289950612,
+  "childTitle": 4289950612,
+  "childAccentLeft": 4289950612,
+  "contentSectionText": 4289950612,
+  "textAccent": 4289950612,
+  "notificationAccent": 4289950612,
+  "childBackground": 3352367,
+  "groupBackground": 3352367,
+  "groupBorder": 1186757790,
+  "contentPanelBackground": 3945998127,
+  "contentListBackground": 3694339887,
+  "tabUnselectedBg": 1681073967,
+  "categoryUnselectedBg": 1345529647,
+  "gradientStart": 4289950612,
+  "gradientEnd": 4289950612,
+  "useGradients": false,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Simple Violet ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

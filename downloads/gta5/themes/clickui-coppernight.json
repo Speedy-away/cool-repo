@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4178054166,
+  "windowBorder": 1345552367,
+  "windowScrollbar": 4281565424,
+  "windowCursor": 4281565424,
+  "tabSelectedIcon": 4281565424,
+  "tabIndicator": 4281565424,
+  "categoryIndicator": 4281565424,
+  "toggleOn": 4281565424,
+  "sliderFilled": 4281565424,
+  "childTitle": 4281565424,
+  "childAccentLeft": 4281565424,
+  "contentSectionText": 4281565424,
+  "textAccent": 4281565424,
+  "notificationAccent": 4281565424,
+  "childBackground": 791588,
+  "groupBackground": 791588,
+  "groupBorder": 1178438900,
+  "contentPanelBackground": 3943437348,
+  "contentListBackground": 3691779108,
+  "tabUnselectedBg": 1678513188,
+  "categoryUnselectedBg": 1342968868,
+  "gradientStart": 1628053844,
+  "gradientEnd": 395535,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Copper Night ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

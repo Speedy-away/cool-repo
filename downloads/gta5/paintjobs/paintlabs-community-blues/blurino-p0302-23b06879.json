@@ -1,0 +1,40 @@
+{
+    "alpha": 238,
+    "archive_id": "p0302",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 28,
+                "enabled": true
+            },
+            "rgb": [
+                0,
+                0,
+                45
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                0,
+                45
+            ]
+        }
+    },
+    "creator": "imrobertz1",
+    "format": "scooby.paintjob",
+    "hex": "#00002DEE",
+    "model": 0,
+    "name": "BLURINO &",
+    "secondary_hex": "#00002D",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

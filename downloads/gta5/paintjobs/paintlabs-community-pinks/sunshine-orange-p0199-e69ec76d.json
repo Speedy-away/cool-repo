@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0199",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                7,
+                83
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                7,
+                83
+            ]
+        }
+    },
+    "creator": "RiceBowl",
+    "format": "scooby.paintjob",
+    "hex": "#FF0753",
+    "model": 0,
+    "name": "Sunshine Orange",
+    "secondary_hex": "#FF0753",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

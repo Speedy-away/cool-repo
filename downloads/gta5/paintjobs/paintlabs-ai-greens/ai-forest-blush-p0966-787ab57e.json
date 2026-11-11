@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0966",
+    "category": "PaintLabs - AI - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 28,
+                "enabled": true
+            },
+            "rgb": [
+                14,
+                43,
+                3
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                14,
+                43,
+                3
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#0E2B03AA",
+    "model": 0,
+    "name": "Ai Forest Blush",
+    "secondary_hex": "#0E2B03",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

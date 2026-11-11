@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0810",
+    "category": "PaintLabs - AI - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 158,
+                "enabled": true
+            },
+            "rgb": [
+                34,
+                3,
+                13
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                34,
+                3,
+                13
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#22030DAA",
+    "model": 0,
+    "name": "Ai Maroon Laser",
+    "secondary_hex": "#22030D",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

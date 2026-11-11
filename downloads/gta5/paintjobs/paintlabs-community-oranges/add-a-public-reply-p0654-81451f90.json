@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0654",
+    "category": "PaintLabs - Community - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                252,
+                180,
+                121
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                252,
+                180,
+                121
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#FCB479",
+    "model": 0,
+    "name": "Add a public reply...",
+    "secondary_hex": "#FCB479",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

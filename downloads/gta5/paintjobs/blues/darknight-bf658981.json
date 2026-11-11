@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                10,
+                0,
+                47
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                10,
+                0,
+                47
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#0A002FAA",
+    "model": 0,
+    "name": "DarkNight",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

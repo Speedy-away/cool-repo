@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1197",
+    "category": "PaintLabs - Community - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                132,
+                88,
+                42
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                132,
+                88,
+                42
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#84582AAA",
+    "model": 0,
+    "name": "Salmon Pesca 73",
+    "secondary_hex": "#84582A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

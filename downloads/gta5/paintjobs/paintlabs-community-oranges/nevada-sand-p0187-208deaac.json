@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0187",
+    "category": "PaintLabs - Community - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                168,
+                117
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                168,
+                117
+            ]
+        }
+    },
+    "creator": "Jester's Gaming Vids",
+    "format": "scooby.paintjob",
+    "hex": "#FFA875",
+    "model": 0,
+    "name": "NEVADA SAND",
+    "secondary_hex": "#FFA875",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

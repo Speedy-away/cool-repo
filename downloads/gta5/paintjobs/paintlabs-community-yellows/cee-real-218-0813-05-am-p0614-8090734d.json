@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0614",
+    "category": "PaintLabs - Community - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 4,
+                "enabled": true
+            },
+            "rgb": [
+                119,
+                122,
+                85
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                119,
+                122,
+                85
+            ]
+        }
+    },
+    "creator": "C64fanatic",
+    "format": "scooby.paintjob",
+    "hex": "#777A55FF",
+    "model": 0,
+    "name": "cee Real 218 0813:05 AM",
+    "secondary_hex": "#777A55",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

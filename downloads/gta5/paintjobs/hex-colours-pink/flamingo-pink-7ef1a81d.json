@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Pink",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                252,
+                142,
+                172
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                252,
+                142,
+                172
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#FC8EAC",
+    "model": 0,
+    "name": "Flamingo Pink",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

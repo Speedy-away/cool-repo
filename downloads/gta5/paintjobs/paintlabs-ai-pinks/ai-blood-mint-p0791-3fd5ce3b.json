@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0791",
+    "category": "PaintLabs - AI - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 51,
+                "enabled": true
+            },
+            "rgb": [
+                57,
+                5,
+                22
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                57,
+                5,
+                22
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#390516AA",
+    "model": 0,
+    "name": "Ai Blood Mint",
+    "secondary_hex": "#390516",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

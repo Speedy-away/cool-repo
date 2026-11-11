@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0832",
+    "category": "PaintLabs - AI - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 88,
+                "enabled": true
+            },
+            "rgb": [
+                52,
+                3,
+                39
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                52,
+                3,
+                39
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#340327AA",
+    "model": 0,
+    "name": "Ai Aubergine Dew",
+    "secondary_hex": "#340327",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

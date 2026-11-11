@@ -1,0 +1,40 @@
+{
+    "alpha": 238,
+    "archive_id": "p0209",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 88,
+                "enabled": true
+            },
+            "rgb": [
+                199,
+                121,
+                102
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                199,
+                121,
+                102
+            ]
+        }
+    },
+    "creator": "imrobertz1",
+    "format": "scooby.paintjob",
+    "hex": "#C77966EE",
+    "model": 0,
+    "name": "RL-SLAM",
+    "secondary_hex": "#C77966",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Cyan, Teal, Turquoise, and Aqua",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                164,
+                244,
+                249
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                164,
+                244,
+                249
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#A4F4F9",
+    "model": 0,
+    "name": "Waterspout",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

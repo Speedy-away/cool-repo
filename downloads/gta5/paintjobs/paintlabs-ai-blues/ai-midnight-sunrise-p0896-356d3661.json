@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0896",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 36,
+                "enabled": true
+            },
+            "rgb": [
+                2,
+                19,
+                38
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                2,
+                19,
+                38
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#021326AA",
+    "model": 0,
+    "name": "Ai Midnight Sunrise",
+    "secondary_hex": "#021326",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

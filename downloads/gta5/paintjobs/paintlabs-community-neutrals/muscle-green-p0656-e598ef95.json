@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0656",
+    "category": "PaintLabs - Community - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 107,
+                "enabled": true
+            },
+            "rgb": [
+                38,
+                42,
+                38
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                38,
+                42,
+                38
+            ]
+        }
+    },
+    "creator": "KillerFromGods",
+    "format": "scooby.paintjob",
+    "hex": "#262A26AA",
+    "model": 0,
+    "name": "Muscle Green",
+    "secondary_hex": "#262A26",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

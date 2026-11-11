@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0522",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 70,
+                "enabled": true
+            },
+            "rgb": [
+                23,
+                9,
+                63
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                23,
+                9,
+                63
+            ]
+        }
+    },
+    "creator": "-Kaas",
+    "format": "scooby.paintjob",
+    "hex": "#17093FAA",
+    "model": 0,
+    "name": "KRAZE",
+    "secondary_hex": "#17093F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

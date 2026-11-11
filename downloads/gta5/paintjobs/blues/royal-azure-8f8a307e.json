@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                87,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                0,
+                87,
+                255
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#0057FF",
+    "model": 0,
+    "name": "Royal Azure",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

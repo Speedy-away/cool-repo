@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0928",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 158,
+                "enabled": true
+            },
+            "rgb": [
+                18,
+                32,
+                63
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                18,
+                32,
+                63
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#12203FAA",
+    "model": 0,
+    "name": "Ai Bluebird Gold 2",
+    "secondary_hex": "#12203F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

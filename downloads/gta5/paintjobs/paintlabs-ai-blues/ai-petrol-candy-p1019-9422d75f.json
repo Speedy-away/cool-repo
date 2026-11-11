@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1019",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 35,
+                "enabled": true
+            },
+            "rgb": [
+                15,
+                59,
+                63
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                15,
+                59,
+                63
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#0F3B3FAA",
+    "model": 0,
+    "name": "Ai Petrol Candy",
+    "secondary_hex": "#0F3B3F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

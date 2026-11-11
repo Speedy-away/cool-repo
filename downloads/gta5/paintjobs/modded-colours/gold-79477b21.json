@@ -1,0 +1,26 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                247,
+                154,
+                66
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#F79A42",
+    "model": 0,
+    "name": "Gold",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

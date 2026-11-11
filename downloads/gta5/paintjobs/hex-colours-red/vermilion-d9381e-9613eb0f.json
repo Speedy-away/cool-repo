@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Red",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                217,
+                56,
+                30
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                217,
+                56,
+                30
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#D9381E",
+    "model": 0,
+    "name": "Vermilion (#D9381E)",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

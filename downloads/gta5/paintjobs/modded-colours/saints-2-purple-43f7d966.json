@@ -1,0 +1,42 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 136,
+                "enabled": true,
+                "rgb": [
+                    249,
+                    206,
+                    238
+                ]
+            },
+            "rgb": [
+                170,
+                152,
+                206
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                170,
+                152,
+                206
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#AA98CE",
+    "model": 0,
+    "name": "Saints 2 Purple",
+    "pearl_hex": "#F9CEEE",
+    "secondary_hex": "#AA98CE",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

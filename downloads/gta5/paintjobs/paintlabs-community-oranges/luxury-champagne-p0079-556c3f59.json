@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0079",
+    "category": "PaintLabs - Community - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 158,
+                "enabled": true
+            },
+            "rgb": [
+                231,
+                200,
+                152
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                231,
+                200,
+                152
+            ]
+        }
+    },
+    "creator": "Howi3",
+    "format": "scooby.paintjob",
+    "hex": "#E7C89800",
+    "model": 0,
+    "name": "Luxury Champagne",
+    "secondary_hex": "#E7C898",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

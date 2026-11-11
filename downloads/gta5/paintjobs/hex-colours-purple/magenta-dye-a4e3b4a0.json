@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Purple",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                202,
+                31,
+                123
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                202,
+                31,
+                123
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#CA1F7B",
+    "model": 0,
+    "name": "Magenta (Dye)",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

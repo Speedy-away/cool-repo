@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0218",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 5,
+                "enabled": true
+            },
+            "rgb": [
+                255,
+                5,
+                84
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                5,
+                84
+            ]
+        }
+    },
+    "creator": "tgutan",
+    "format": "scooby.paintjob",
+    "hex": "#FF0554",
+    "model": 0,
+    "name": "Shock Pink",
+    "secondary_hex": "#FF0554",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

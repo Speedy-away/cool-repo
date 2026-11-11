@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0031",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                3,
+                154,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                3,
+                154,
+                255
+            ]
+        }
+    },
+    "creator": "Ikue Gaming, IkuesDatabase",
+    "format": "scooby.paintjob",
+    "hex": "#039AFF",
+    "model": 0,
+    "name": "IN' BLUE",
+    "secondary_hex": "#039AFF",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1193",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 62,
+                "enabled": true
+            },
+            "rgb": [
+                39,
+                18,
+                42
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                39,
+                18,
+                42
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#27122AAA",
+    "model": 0,
+    "name": "Amaranth",
+    "secondary_hex": "#27122A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

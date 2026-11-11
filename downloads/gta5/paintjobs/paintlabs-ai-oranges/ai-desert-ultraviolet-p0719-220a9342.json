@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0719",
+    "category": "PaintLabs - AI - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 145,
+                "enabled": true
+            },
+            "rgb": [
+                138,
+                106,
+                61
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                138,
+                106,
+                61
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#8A6A3DAA",
+    "model": 0,
+    "name": "Ai Desert Ultraviolet",
+    "secondary_hex": "#8A6A3D",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

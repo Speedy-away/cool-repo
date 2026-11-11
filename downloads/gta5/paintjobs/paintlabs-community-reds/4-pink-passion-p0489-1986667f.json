@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0489",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                5,
+                63
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                5,
+                63
+            ]
+        }
+    },
+    "creator": "Broontango, Broontango2",
+    "format": "scooby.paintjob",
+    "hex": "#FF053F",
+    "model": 0,
+    "name": "4) Pink Passion- #",
+    "secondary_hex": "#FF053F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

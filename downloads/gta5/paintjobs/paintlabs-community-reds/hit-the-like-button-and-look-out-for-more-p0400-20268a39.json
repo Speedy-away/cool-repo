@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0400",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                0,
+                48
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                0,
+                48
+            ]
+        }
+    },
+    "creator": "Inmortal T.M.C",
+    "format": "scooby.paintjob",
+    "hex": "#FF0030",
+    "model": 0,
+    "name": "hit the like button and look out for more",
+    "secondary_hex": "#FF0030",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

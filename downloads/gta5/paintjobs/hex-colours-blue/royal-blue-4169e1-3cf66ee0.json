@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Blue",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                65,
+                105,
+                225
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                65,
+                105,
+                225
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#4169E1",
+    "model": 0,
+    "name": "Royal Blue (#4169E1)",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

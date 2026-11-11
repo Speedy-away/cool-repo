@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0399",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 111,
+                "enabled": true
+            },
+            "rgb": [
+                153,
+                2,
+                55
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                153,
+                2,
+                55
+            ]
+        }
+    },
+    "creator": "Inmortal T.M.C",
+    "format": "scooby.paintjob",
+    "hex": "#990237",
+    "model": 0,
+    "name": "Super Pink",
+    "secondary_hex": "#990237",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

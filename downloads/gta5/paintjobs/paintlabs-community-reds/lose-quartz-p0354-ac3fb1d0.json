@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0354",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                53,
+                34,
+                37
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                53,
+                34,
+                37
+            ]
+        }
+    },
+    "creator": "Lehi Stones",
+    "format": "scooby.paintjob",
+    "hex": "#352225",
+    "model": 0,
+    "name": "lose Quartz",
+    "secondary_hex": "#352225",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

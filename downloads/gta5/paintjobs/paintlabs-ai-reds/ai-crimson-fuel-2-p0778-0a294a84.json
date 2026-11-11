@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0778",
+    "category": "PaintLabs - AI - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 54,
+                "enabled": true
+            },
+            "rgb": [
+                72,
+                13,
+                19
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                72,
+                13,
+                19
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#480D13AA",
+    "model": 0,
+    "name": "Ai Crimson Fuel 2",
+    "secondary_hex": "#480D13",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

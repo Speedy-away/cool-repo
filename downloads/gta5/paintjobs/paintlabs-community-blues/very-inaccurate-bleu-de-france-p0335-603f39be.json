@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0335",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                49,
+                140,
+                231
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                49,
+                140,
+                231
+            ]
+        }
+    },
+    "creator": "AlphaSierra111996, Mattoropael",
+    "format": "scooby.paintjob",
+    "hex": "#318CE7",
+    "model": 0,
+    "name": "Very-inaccurate Bleu de France (#",
+    "secondary_hex": "#318CE7",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

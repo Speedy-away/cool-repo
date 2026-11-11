@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0513",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 112,
+                "enabled": true
+            },
+            "rgb": [
+                58,
+                120,
+                100
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                58,
+                120,
+                100
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#3A7864FF",
+    "model": 0,
+    "name": "Icy Blue",
+    "secondary_hex": "#3A7864",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

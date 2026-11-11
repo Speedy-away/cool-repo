@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0819",
+    "category": "PaintLabs - AI - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 92,
+                "enabled": true
+            },
+            "rgb": [
+                101,
+                23,
+                95
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                101,
+                23,
+                95
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#65175FAA",
+    "model": 0,
+    "name": "Ai Plum Lime",
+    "secondary_hex": "#65175F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

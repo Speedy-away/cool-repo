@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1126",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 135,
+                "enabled": true
+            },
+            "rgb": [
+                95,
+                106,
+                110
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                95,
+                106,
+                110
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#5F6A6EAA",
+    "model": 0,
+    "name": "Ai Asphalt Citrus",
+    "secondary_hex": "#5F6A6E",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

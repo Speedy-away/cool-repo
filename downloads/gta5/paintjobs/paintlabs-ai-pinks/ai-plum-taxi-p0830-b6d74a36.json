@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0830",
+    "category": "PaintLabs - AI - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 89,
+                "enabled": true
+            },
+            "rgb": [
+                73,
+                5,
+                55
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                73,
+                5,
+                55
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#490537AA",
+    "model": 0,
+    "name": "Ai Plum Taxi",
+    "secondary_hex": "#490537",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

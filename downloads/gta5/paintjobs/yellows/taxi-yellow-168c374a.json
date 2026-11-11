@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                204,
+                0
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                255,
+                204,
+                0
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#FFCC00",
+    "model": 0,
+    "name": "Taxi Yellow",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

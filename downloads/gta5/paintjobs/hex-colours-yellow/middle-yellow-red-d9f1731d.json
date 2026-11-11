@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Yellow",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                236,
+                177,
+                118
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                236,
+                177,
+                118
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#ECB176",
+    "model": 0,
+    "name": "Middle Yellow Red",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

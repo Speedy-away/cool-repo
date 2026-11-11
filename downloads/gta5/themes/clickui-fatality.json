@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4179035401,
+  "windowBorder": 1347682551,
+  "windowScrollbar": 4283695351,
+  "windowCursor": 4283695351,
+  "tabSelectedIcon": 4283695351,
+  "tabIndicator": 4283695351,
+  "categoryIndicator": 4283695351,
+  "toggleOn": 4283695351,
+  "sliderFilled": 4283695351,
+  "childTitle": 4283695351,
+  "childAccentLeft": 4283695351,
+  "contentSectionText": 4283695351,
+  "textAccent": 4283695351,
+  "notificationAccent": 4283695351,
+  "childBackground": 2820627,
+  "groupBackground": 2820627,
+  "groupBorder": 1181227519,
+  "contentPanelBackground": 3945466387,
+  "contentListBackground": 3693808147,
+  "tabUnselectedBg": 1680542227,
+  "categoryUnselectedBg": 1344997907,
+  "gradientStart": 4283695351,
+  "gradientEnd": 4283898516,
+  "useGradients": false,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Fatality ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

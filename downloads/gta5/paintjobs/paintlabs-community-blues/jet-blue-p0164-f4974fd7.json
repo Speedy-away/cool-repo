@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0164",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 70,
+                "enabled": true
+            },
+            "rgb": [
+                0,
+                12,
+                87
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                12,
+                87
+            ]
+        }
+    },
+    "creator": "IkuesDatabase",
+    "format": "scooby.paintjob",
+    "hex": "#000C57AA",
+    "model": 0,
+    "name": "JET BLUE",
+    "secondary_hex": "#000C57",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

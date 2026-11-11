@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Orange",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                191,
+                79,
+                81
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                191,
+                79,
+                81
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#BF4F51",
+    "model": 0,
+    "name": "Bittersweet Shimmer",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

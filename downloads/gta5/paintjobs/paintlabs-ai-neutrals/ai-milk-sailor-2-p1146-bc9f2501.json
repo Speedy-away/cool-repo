@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1146",
+    "category": "PaintLabs - AI - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 72,
+                "enabled": true
+            },
+            "rgb": [
+                234,
+                232,
+                231
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                234,
+                232,
+                231
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#EAE8E7AA",
+    "model": 0,
+    "name": "Ai Milk Sailor 2",
+    "secondary_hex": "#EAE8E7",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

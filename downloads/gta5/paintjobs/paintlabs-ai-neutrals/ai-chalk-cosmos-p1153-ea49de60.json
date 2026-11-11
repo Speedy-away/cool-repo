@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1153",
+    "category": "PaintLabs - AI - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 72,
+                "enabled": true
+            },
+            "rgb": [
+                233,
+                235,
+                236
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                233,
+                235,
+                236
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#E9EBECAA",
+    "model": 0,
+    "name": "Ai Chalk Cosmos",
+    "secondary_hex": "#E9EBEC",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

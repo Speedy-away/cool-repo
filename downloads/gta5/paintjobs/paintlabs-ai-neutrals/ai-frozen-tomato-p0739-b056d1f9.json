@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0739",
+    "category": "PaintLabs - AI - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 29,
+                "enabled": true
+            },
+            "rgb": [
+                216,
+                242,
+                244
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                216,
+                242,
+                244
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#D8F2F4AA",
+    "model": 0,
+    "name": "Ai Frozen Tomato",
+    "secondary_hex": "#D8F2F4",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

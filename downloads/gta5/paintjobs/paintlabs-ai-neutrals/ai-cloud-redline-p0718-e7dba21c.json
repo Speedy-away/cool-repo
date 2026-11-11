@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0718",
+    "category": "PaintLabs - AI - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 35,
+                "enabled": true
+            },
+            "rgb": [
+                234,
+                244,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                234,
+                244,
+                255
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#EAF4FFAA",
+    "model": 0,
+    "name": "Ai Cloud Redline",
+    "secondary_hex": "#EAF4FF",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

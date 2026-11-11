@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0804",
+    "category": "PaintLabs - AI - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 51,
+                "enabled": true
+            },
+            "rgb": [
+                100,
+                19,
+                23
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                100,
+                19,
+                23
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#641317AA",
+    "model": 0,
+    "name": "Ai Crimson Mint",
+    "secondary_hex": "#641317",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

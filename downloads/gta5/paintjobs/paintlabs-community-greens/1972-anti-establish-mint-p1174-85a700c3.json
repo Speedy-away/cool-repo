@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1174",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 5,
+                "enabled": true
+            },
+            "rgb": [
+                32,
+                69,
+                40
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                32,
+                69,
+                40
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#204528AA",
+    "model": 0,
+    "name": "1972 Anti-Establish Mint",
+    "secondary_hex": "#204528",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

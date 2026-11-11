@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0064",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                244,
+                130,
+                246
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                244,
+                130,
+                246
+            ]
+        }
+    },
+    "creator": "Dat Saintsfan",
+    "format": "scooby.paintjob",
+    "hex": "#F482F6",
+    "model": 0,
+    "name": "Easter Pink",
+    "secondary_hex": "#F482F6",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

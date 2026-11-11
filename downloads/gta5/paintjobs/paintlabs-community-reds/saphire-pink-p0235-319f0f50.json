@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0235",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                220,
+                20,
+                60
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                220,
+                20,
+                60
+            ]
+        }
+    },
+    "creator": "AceNaut",
+    "format": "scooby.paintjob",
+    "hex": "#DC143C",
+    "model": 0,
+    "name": "Saphire Pink",
+    "secondary_hex": "#DC143C",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

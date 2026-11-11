@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Random",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                28,
+                28,
+                240
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                28,
+                28,
+                240
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#1C1CF0",
+    "model": 0,
+    "name": "Bluebonnet",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

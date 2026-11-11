@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                15,
+                15,
+                15
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                15,
+                15,
+                15
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#0F0F0FAA",
+    "model": 0,
+    "name": "Charcoal",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

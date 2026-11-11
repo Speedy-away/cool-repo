@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Cyan, Teal, Turquoise, and Aqua",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                206,
+                209
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                0,
+                206,
+                209
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#00CED1",
+    "model": 0,
+    "name": "Dark Turquoise",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

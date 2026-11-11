@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1127",
+    "category": "PaintLabs - AI - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 54,
+                "enabled": true
+            },
+            "rgb": [
+                22,
+                22,
+                22
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                22,
+                22,
+                22
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#161616AA",
+    "model": 0,
+    "name": "Ai Smoke Fuel",
+    "secondary_hex": "#161616",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

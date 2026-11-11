@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0769",
+    "category": "PaintLabs - AI - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 139,
+                "enabled": true
+            },
+            "rgb": [
+                58,
+                12,
+                28
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                58,
+                12,
+                28
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#3A0C1CAA",
+    "model": 0,
+    "name": "Ai Cherry Venom",
+    "secondary_hex": "#3A0C1C",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0277",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                18,
+                7,
+                14
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                18,
+                7,
+                14
+            ]
+        }
+    },
+    "creator": "crazyfrog552, Captain Owlfeq",
+    "format": "scooby.paintjob",
+    "hex": "#12070EFF",
+    "model": 0,
+    "name": "7 Me.",
+    "secondary_hex": "#12070E",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

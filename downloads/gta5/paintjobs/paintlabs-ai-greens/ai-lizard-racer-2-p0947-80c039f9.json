@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0947",
+    "category": "PaintLabs - AI - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 29,
+                "enabled": true
+            },
+            "rgb": [
+                19,
+                76,
+                15
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                19,
+                76,
+                15
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#134C0FAA",
+    "model": 0,
+    "name": "Ai Lizard Racer 2",
+    "secondary_hex": "#134C0F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

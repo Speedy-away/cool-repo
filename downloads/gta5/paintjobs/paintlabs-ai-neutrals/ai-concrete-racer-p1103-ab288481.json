@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1103",
+    "category": "PaintLabs - AI - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 29,
+                "enabled": true
+            },
+            "rgb": [
+                38,
+                41,
+                42
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                38,
+                41,
+                42
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#26292AAA",
+    "model": 0,
+    "name": "Ai Concrete Racer",
+    "secondary_hex": "#26292A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

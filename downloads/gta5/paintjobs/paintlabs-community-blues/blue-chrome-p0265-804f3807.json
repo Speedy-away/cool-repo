@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0265",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                0,
+                36
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                0,
+                36
+            ]
+        }
+    },
+    "creator": "Dat Saintsfan",
+    "format": "scooby.paintjob",
+    "hex": "#000024",
+    "model": 0,
+    "name": "Blue Chrome",
+    "secondary_hex": "#000024",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

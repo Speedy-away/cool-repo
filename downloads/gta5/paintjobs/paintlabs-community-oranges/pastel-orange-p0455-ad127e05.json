@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0455",
+    "category": "PaintLabs - Community - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                204,
+                153
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                204,
+                153
+            ]
+        }
+    },
+    "creator": "Sidescape Gaming",
+    "format": "scooby.paintjob",
+    "hex": "#FFCC9900",
+    "model": 0,
+    "name": "Pastel Orange - #",
+    "secondary_hex": "#FFCC99",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

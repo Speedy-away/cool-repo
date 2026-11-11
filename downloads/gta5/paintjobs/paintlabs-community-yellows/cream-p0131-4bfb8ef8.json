@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0131",
+    "category": "PaintLabs - Community - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 111,
+                "enabled": true
+            },
+            "rgb": [
+                94,
+                91,
+                70
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                94,
+                91,
+                70
+            ]
+        }
+    },
+    "creator": "tgutan",
+    "format": "scooby.paintjob",
+    "hex": "#5E5B46AA",
+    "model": 0,
+    "name": "Cream",
+    "secondary_hex": "#5E5B46",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

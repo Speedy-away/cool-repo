@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1100",
+    "category": "PaintLabs - AI - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 29,
+                "enabled": true
+            },
+            "rgb": [
+                55,
+                50,
+                55
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                55,
+                50,
+                55
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#373237AA",
+    "model": 0,
+    "name": "Ai Asphalt Goo",
+    "secondary_hex": "#373237",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

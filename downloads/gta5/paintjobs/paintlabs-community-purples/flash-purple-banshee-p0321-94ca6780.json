@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0321",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 89,
+                "enabled": true
+            },
+            "rgb": [
+                25,
+                0,
+                91
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                25,
+                0,
+                91
+            ]
+        }
+    },
+    "creator": "Dat Saintsfan",
+    "format": "scooby.paintjob",
+    "hex": "#19005BFF",
+    "model": 0,
+    "name": "Flash Purple Banshee",
+    "secondary_hex": "#19005B",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

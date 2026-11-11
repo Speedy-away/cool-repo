@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4179236115,
+  "windowBorder": 1354206315,
+  "windowScrollbar": 4290284651,
+  "windowCursor": 4290284651,
+  "tabSelectedIcon": 4290284651,
+  "tabIndicator": 4290284651,
+  "categoryIndicator": 4290284651,
+  "toggleOn": 4290284651,
+  "sliderFilled": 4290284651,
+  "childTitle": 4290284651,
+  "childAccentLeft": 4290284651,
+  "contentSectionText": 4290284651,
+  "textAccent": 4290284651,
+  "notificationAccent": 4290284651,
+  "childBackground": 3353383,
+  "groupBackground": 3353383,
+  "groupBorder": 1187092085,
+  "contentPanelBackground": 3945999143,
+  "contentListBackground": 3694340903,
+  "tabUnselectedBg": 1681074983,
+  "categoryUnselectedBg": 1345530663,
+  "gradientStart": 4290284651,
+  "gradientEnd": 4290284651,
+  "useGradients": false,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Simple Steel ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

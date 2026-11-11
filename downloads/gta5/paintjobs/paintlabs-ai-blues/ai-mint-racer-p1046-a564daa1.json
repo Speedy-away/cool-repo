@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1046",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 29,
+                "enabled": true
+            },
+            "rgb": [
+                17,
+                94,
+                87
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                17,
+                94,
+                87
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#115E57AA",
+    "model": 0,
+    "name": "Ai Mint Racer",
+    "secondary_hex": "#115E57",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

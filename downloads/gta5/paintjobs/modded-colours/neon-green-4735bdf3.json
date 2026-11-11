@@ -1,0 +1,26 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                186,
+                255,
+                180
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#BAFFB4",
+    "model": 0,
+    "name": "Neon Green",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

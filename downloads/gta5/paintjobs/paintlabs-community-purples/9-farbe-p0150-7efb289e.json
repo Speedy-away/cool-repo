@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0150",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                10,
+                0,
+                37
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                10,
+                0,
+                37
+            ]
+        }
+    },
+    "creator": "enrico italia",
+    "format": "scooby.paintjob",
+    "hex": "#0A0025AA",
+    "model": 0,
+    "name": "9.FARBE",
+    "secondary_hex": "#0A0025",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

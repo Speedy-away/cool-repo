@@ -1,0 +1,26 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                240,
+                128,
+                128
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#F08080",
+    "model": 0,
+    "name": "Light Coral",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

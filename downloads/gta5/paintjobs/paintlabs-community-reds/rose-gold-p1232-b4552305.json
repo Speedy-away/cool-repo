@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1232",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 117,
+            "custom": true,
+            "paint_type": 4,
+            "pearl": {
+                "colour": 107,
+                "enabled": true
+            },
+            "rgb": [
+                183,
+                110,
+                121
+            ]
+        },
+        "secondary": {
+            "base": 117,
+            "custom": true,
+            "paint_type": 4,
+            "rgb": [
+                183,
+                110,
+                121
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#B76E79AA",
+    "model": 0,
+    "name": "Rose Gold",
+    "secondary_hex": "#B76E79",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

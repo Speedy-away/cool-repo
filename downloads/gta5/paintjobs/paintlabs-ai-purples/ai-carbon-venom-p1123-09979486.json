@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1123",
+    "category": "PaintLabs - AI - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 139,
+                "enabled": true
+            },
+            "rgb": [
+                66,
+                62,
+                77
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                66,
+                62,
+                77
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#423E4DAA",
+    "model": 0,
+    "name": "Ai Carbon Venom",
+    "secondary_hex": "#423E4D",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

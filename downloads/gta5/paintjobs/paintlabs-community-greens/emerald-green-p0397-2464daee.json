@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0397",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 92,
+                "enabled": true
+            },
+            "rgb": [
+                52,
+                153,
+                106
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                52,
+                153,
+                106
+            ]
+        }
+    },
+    "creator": "Inmortal T.M.C",
+    "format": "scooby.paintjob",
+    "hex": "#34996A",
+    "model": 0,
+    "name": "Emerald Green",
+    "secondary_hex": "#34996A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0988",
+    "category": "PaintLabs - AI - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 71,
+                "enabled": true
+            },
+            "rgb": [
+                148,
+                81,
+                29
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                148,
+                81,
+                29
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#94511DAA",
+    "model": 0,
+    "name": "Ai Tobacco Abyss",
+    "secondary_hex": "#94511D",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

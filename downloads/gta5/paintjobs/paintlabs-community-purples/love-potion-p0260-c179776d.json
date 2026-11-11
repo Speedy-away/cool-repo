@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0260",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 107,
+                "enabled": true
+            },
+            "rgb": [
+                18,
+                9,
+                26
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                18,
+                9,
+                26
+            ]
+        }
+    },
+    "creator": "tgutan",
+    "format": "scooby.paintjob",
+    "hex": "#12091AAA",
+    "model": 0,
+    "name": "Love Potion",
+    "secondary_hex": "#12091A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

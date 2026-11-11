@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0677",
+    "category": "PaintLabs - AI - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 89,
+                "enabled": true
+            },
+            "rgb": [
+                66,
+                16,
+                68
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                66,
+                16,
+                68
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#421044AA",
+    "model": 0,
+    "name": "Ai Orchid Hazard",
+    "secondary_hex": "#421044",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

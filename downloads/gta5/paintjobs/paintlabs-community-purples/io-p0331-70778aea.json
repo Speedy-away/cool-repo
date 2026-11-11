@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0331",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                47,
+                43,
+                59
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                47,
+                43,
+                59
+            ]
+        }
+    },
+    "creator": "Kushology, TheButtKickerUK",
+    "format": "scooby.paintjob",
+    "hex": "#2F2B3BAA",
+    "model": 0,
+    "name": "io",
+    "secondary_hex": "#2F2B3B",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

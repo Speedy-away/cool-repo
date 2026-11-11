@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0084",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 67,
+                "enabled": true
+            },
+            "rgb": [
+                138,
+                185,
+                241
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                138,
+                185,
+                241
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#8AB9F1AA",
+    "model": 0,
+    "name": "BABY BLUE",
+    "secondary_hex": "#8AB9F1",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

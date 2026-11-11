@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0317",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 107,
+                "enabled": true
+            },
+            "rgb": [
+                141,
+                37,
+                1
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                141,
+                37,
+                1
+            ]
+        }
+    },
+    "creator": "Dat Saintsfan",
+    "format": "scooby.paintjob",
+    "hex": "#8D2501AA",
+    "model": 0,
+    "name": "3) Madagascar Orange Elegy",
+    "secondary_hex": "#8D2501",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

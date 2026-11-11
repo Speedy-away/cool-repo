@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0073",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                23,
+                13,
+                59
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                23,
+                13,
+                59
+            ]
+        }
+    },
+    "creator": "BeatsDown",
+    "format": "scooby.paintjob",
+    "hex": "#170D3BAA",
+    "model": 0,
+    "name": "Time for a",
+    "secondary_hex": "#170D3B",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

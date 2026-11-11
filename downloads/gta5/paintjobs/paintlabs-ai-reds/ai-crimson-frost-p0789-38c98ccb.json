@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0789",
+    "category": "PaintLabs - AI - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 112,
+                "enabled": true
+            },
+            "rgb": [
+                104,
+                24,
+                12
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                104,
+                24,
+                12
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#68180CAA",
+    "model": 0,
+    "name": "Ai Crimson Frost",
+    "secondary_hex": "#68180C",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

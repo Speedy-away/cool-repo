@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1083",
+    "category": "PaintLabs - AI - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 70,
+                "enabled": true
+            },
+            "rgb": [
+                249,
+                225,
+                35
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                249,
+                225,
+                35
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#F9E123AA",
+    "model": 0,
+    "name": "Ai Vapor Blue",
+    "secondary_hex": "#F9E123",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

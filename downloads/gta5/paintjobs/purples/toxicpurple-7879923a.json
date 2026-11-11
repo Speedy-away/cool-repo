@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                79,
+                10,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                79,
+                10,
+                255
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#4F0AFF",
+    "model": 0,
+    "name": "ToxicPurple",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

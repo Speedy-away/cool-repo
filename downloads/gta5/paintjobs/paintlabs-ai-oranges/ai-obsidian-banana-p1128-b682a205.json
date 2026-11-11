@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1128",
+    "category": "PaintLabs - AI - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 135,
+                "enabled": true
+            },
+            "rgb": [
+                87,
+                82,
+                76
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                87,
+                82,
+                76
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#57524CAA",
+    "model": 0,
+    "name": "Ai Obsidian Banana",
+    "secondary_hex": "#57524C",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

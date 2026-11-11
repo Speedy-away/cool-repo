@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                243,
+                255,
+                8
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                243,
+                255,
+                8
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#F3FF08AA",
+    "model": 0,
+    "name": "Screaming Yellow",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,26 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                249,
+                206,
+                238
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#F9CEEE",
+    "model": 0,
+    "name": "Pastel Pink2",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

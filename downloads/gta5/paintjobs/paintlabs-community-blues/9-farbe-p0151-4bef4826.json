@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0151",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                19,
+                24,
+                38
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                19,
+                24,
+                38
+            ]
+        }
+    },
+    "creator": "enrico italia",
+    "format": "scooby.paintjob",
+    "hex": "#131826AA",
+    "model": 0,
+    "name": "9.FARBE",
+    "secondary_hex": "#131826",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

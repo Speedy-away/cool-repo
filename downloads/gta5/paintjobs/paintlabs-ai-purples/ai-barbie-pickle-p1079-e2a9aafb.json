@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1079",
+    "category": "PaintLabs - AI - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 135,
+                "enabled": true
+            },
+            "rgb": [
+                129,
+                12,
+                249
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                129,
+                12,
+                249
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#810CF9AA",
+    "model": 0,
+    "name": "Ai Barbie Pickle",
+    "secondary_hex": "#810CF9",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

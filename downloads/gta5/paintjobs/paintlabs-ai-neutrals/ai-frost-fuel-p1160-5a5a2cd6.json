@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1160",
+    "category": "PaintLabs - AI - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 54,
+                "enabled": true
+            },
+            "rgb": [
+                243,
+                244,
+                245
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                243,
+                244,
+                245
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#F3F4F5AA",
+    "model": 0,
+    "name": "Ai Frost Fuel",
+    "secondary_hex": "#F3F4F5",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

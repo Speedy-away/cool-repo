@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0512",
+    "category": "PaintLabs - Community - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                219,
+                112
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                219,
+                112
+            ]
+        }
+    },
+    "creator": "imrobertz1, REBEL EG",
+    "format": "scooby.paintjob",
+    "hex": "#FFDB70",
+    "model": 0,
+    "name": "Bleached Banana",
+    "secondary_hex": "#FFDB70",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

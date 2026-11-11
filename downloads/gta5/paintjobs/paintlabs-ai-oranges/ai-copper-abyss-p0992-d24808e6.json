@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0992",
+    "category": "PaintLabs - AI - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 67,
+                "enabled": true
+            },
+            "rgb": [
+                50,
+                28,
+                11
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                50,
+                28,
+                11
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#321C0BAA",
+    "model": 0,
+    "name": "Ai Copper Abyss",
+    "secondary_hex": "#321C0B",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

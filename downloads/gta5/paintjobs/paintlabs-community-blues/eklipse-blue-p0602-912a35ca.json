@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0602",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 62,
+                "enabled": true
+            },
+            "rgb": [
+                0,
+                0,
+                16
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                0,
+                16
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#000010AA",
+    "model": 0,
+    "name": "EKLIPSE BLUE",
+    "secondary_hex": "#000010",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

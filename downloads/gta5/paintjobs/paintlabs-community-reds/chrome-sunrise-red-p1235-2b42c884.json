@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1235",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 120,
+            "custom": true,
+            "paint_type": 5,
+            "pearl": {
+                "colour": 36,
+                "enabled": true
+            },
+            "rgb": [
+                35,
+                0,
+                0
+            ]
+        },
+        "secondary": {
+            "base": 120,
+            "custom": true,
+            "paint_type": 5,
+            "rgb": [
+                35,
+                0,
+                0
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#230000AA",
+    "model": 0,
+    "name": "Chrome Sunrise Red",
+    "secondary_hex": "#230000",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

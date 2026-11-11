@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0048",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 140,
+                "enabled": true
+            },
+            "rgb": [
+                67,
+                67,
+                129
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                67,
+                67,
+                129
+            ]
+        }
+    },
+    "creator": "IkuesDatabase",
+    "format": "scooby.paintjob",
+    "hex": "#434381AA",
+    "model": 0,
+    "name": "CREATOR: Ikues Database",
+    "secondary_hex": "#434381",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

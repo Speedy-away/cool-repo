@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0029",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 89,
+                "enabled": true
+            },
+            "rgb": [
+                9,
+                0,
+                34
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                9,
+                0,
+                34
+            ]
+        }
+    },
+    "creator": "Ikue Gaming, IkuesDatabase",
+    "format": "scooby.paintjob",
+    "hex": "#090022AA",
+    "model": 0,
+    "name": "ACE YELLOW",
+    "secondary_hex": "#090022",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

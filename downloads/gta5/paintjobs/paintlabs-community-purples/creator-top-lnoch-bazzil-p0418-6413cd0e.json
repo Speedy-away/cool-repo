@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0418",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                116,
+                79,
+                208
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                116,
+                79,
+                208
+            ]
+        }
+    },
+    "creator": "TOP_NOCH_BAZZIL",
+    "format": "scooby.paintjob",
+    "hex": "#744FD0",
+    "model": 0,
+    "name": "Creator: TOP_LNOCH_BAZZIL",
+    "secondary_hex": "#744FD0",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0358",
+    "category": "PaintLabs - Community - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 135,
+                "enabled": true
+            },
+            "rgb": [
+                38,
+                13,
+                2
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                38,
+                13,
+                2
+            ]
+        }
+    },
+    "creator": "Lehi Stones",
+    "format": "scooby.paintjob",
+    "hex": "#260D02AA",
+    "model": 0,
+    "name": "Copper Orange",
+    "secondary_hex": "#260D02",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

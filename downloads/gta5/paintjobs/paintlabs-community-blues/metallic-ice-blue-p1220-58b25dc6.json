@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1220",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 15,
+            "custom": true,
+            "paint_type": 0,
+            "pearl": {
+                "colour": 70,
+                "enabled": true
+            },
+            "rgb": [
+                37,
+                54,
+                75
+            ]
+        },
+        "secondary": {
+            "base": 15,
+            "custom": true,
+            "paint_type": 0,
+            "rgb": [
+                37,
+                54,
+                75
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#25364BAA",
+    "model": 0,
+    "name": "Metallic Ice Blue",
+    "secondary_hex": "#25364B",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

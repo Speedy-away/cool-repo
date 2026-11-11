@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0678",
+    "category": "PaintLabs - AI - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 145,
+                "enabled": true
+            },
+            "rgb": [
+                20,
+                34,
+                12
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                20,
+                34,
+                12
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#14220CAA",
+    "model": 0,
+    "name": "Ai Moss Disco",
+    "secondary_hex": "#14220C",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

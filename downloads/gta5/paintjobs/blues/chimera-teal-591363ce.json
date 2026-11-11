@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                22,
+                84,
+                80
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                22,
+                84,
+                80
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#165450AA",
+    "model": 0,
+    "name": "Chimera Teal",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

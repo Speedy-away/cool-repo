@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4178841606,
+  "windowBorder": 1354218506,
+  "windowScrollbar": 4290297098,
+  "windowCursor": 4290297098,
+  "tabSelectedIcon": 4290297098,
+  "tabIndicator": 4290297098,
+  "categoryIndicator": 4290297098,
+  "toggleOn": 4290297098,
+  "sliderFilled": 4290297098,
+  "childTitle": 4290297098,
+  "childAccentLeft": 4290297098,
+  "contentSectionText": 4290297098,
+  "textAccent": 4290297098,
+  "notificationAccent": 4290297098,
+  "childBackground": 2235662,
+  "groupBackground": 2235662,
+  "groupBorder": 1187433487,
+  "contentPanelBackground": 3944881422,
+  "contentListBackground": 3693223182,
+  "tabUnselectedBg": 1679957262,
+  "categoryUnselectedBg": 1344412942,
+  "gradientStart": 1799503109,
+  "gradientEnd": 659226,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Harbor ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

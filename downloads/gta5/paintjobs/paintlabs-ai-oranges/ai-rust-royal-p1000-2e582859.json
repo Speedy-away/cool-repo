@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1000",
+    "category": "PaintLabs - AI - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 71,
+                "enabled": true
+            },
+            "rgb": [
+                138,
+                52,
+                4
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                138,
+                52,
+                4
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#8A3404AA",
+    "model": 0,
+    "name": "Ai Rust Royal",
+    "secondary_hex": "#8A3404",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

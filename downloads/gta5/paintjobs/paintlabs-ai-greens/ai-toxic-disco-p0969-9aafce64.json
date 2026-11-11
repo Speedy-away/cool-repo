@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0969",
+    "category": "PaintLabs - AI - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 137,
+                "enabled": true
+            },
+            "rgb": [
+                6,
+                46,
+                10
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                6,
+                46,
+                10
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#062E0AAA",
+    "model": 0,
+    "name": "Ai Toxic Disco",
+    "secondary_hex": "#062E0A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

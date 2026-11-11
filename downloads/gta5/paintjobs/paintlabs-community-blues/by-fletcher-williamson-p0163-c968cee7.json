@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0163",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 111,
+                "enabled": true
+            },
+            "rgb": [
+                127,
+                240,
+                254
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                127,
+                240,
+                254
+            ]
+        }
+    },
+    "creator": "Dat Saintsfan, Fletcher Williamson",
+    "format": "scooby.paintjob",
+    "hex": "#7FF0FE",
+    "model": 0,
+    "name": "by Fletcher Williamson",
+    "secondary_hex": "#7FF0FE",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

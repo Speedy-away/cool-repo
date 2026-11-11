@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                5,
+                5,
+                5
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                5,
+                5,
+                5
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#050505",
+    "model": 0,
+    "name": "Obsidian",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

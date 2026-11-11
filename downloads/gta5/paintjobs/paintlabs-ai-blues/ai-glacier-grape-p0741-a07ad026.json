@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0741",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 72,
+                "enabled": true
+            },
+            "rgb": [
+                198,
+                232,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                198,
+                232,
+                255
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#C6E8FFAA",
+    "model": 0,
+    "name": "Ai Glacier Grape",
+    "secondary_hex": "#C6E8FF",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1066",
+    "category": "PaintLabs - AI - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 72,
+                "enabled": true
+            },
+            "rgb": [
+                222,
+                248,
+                7
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                222,
+                248,
+                7
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#DEF807AA",
+    "model": 0,
+    "name": "Ai Laser Sailor",
+    "secondary_hex": "#DEF807",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0569",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                204,
+                252,
+                126
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                204,
+                252,
+                126
+            ]
+        }
+    },
+    "creator": "Abdel137",
+    "format": "scooby.paintjob",
+    "hex": "#CCFC7E",
+    "model": 0,
+    "name": "SALUT A TOUS!",
+    "secondary_hex": "#CCFC7E",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

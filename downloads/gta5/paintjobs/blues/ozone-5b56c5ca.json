@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                0,
+                51
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                0,
+                0,
+                51
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#000033AA",
+    "model": 0,
+    "name": "Ozone",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

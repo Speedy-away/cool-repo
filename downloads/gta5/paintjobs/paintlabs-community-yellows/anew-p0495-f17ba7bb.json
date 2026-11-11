@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0495",
+    "category": "PaintLabs - Community - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                124,
+                106,
+                58
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                124,
+                106,
+                58
+            ]
+        }
+    },
+    "creator": "SakumeWorksTM",
+    "format": "scooby.paintjob",
+    "hex": "#7C6A3AFF",
+    "model": 0,
+    "name": "Anew",
+    "secondary_hex": "#7C6A3A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,32 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 134,
+                "enabled": true,
+                "rgb": [
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "rgb": [
+                50,
+                0,
+                255
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#3200FF",
+    "model": 0,
+    "name": "Purplish Blue",
+    "pearl_hex": "#FFFFFF",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

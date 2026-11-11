@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0105",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                127,
+                223,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                127,
+                223,
+                255
+            ]
+        }
+    },
+    "creator": "Jester's Gaming Vids",
+    "format": "scooby.paintjob",
+    "hex": "#7FDFFF",
+    "model": 0,
+    "name": "Light Sky Blue",
+    "secondary_hex": "#7FDFFF",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

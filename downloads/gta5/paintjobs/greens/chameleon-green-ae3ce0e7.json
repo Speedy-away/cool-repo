@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                5,
+                255,
+                147
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                5,
+                255,
+                147
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#05FF93",
+    "model": 0,
+    "name": "Chameleon Green",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

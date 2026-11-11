@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0916",
+    "category": "PaintLabs - AI - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 36,
+                "enabled": true
+            },
+            "rgb": [
+                15,
+                41,
+                102
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                15,
+                41,
+                102
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#0F2966AA",
+    "model": 0,
+    "name": "Ai Indigo Lipstick",
+    "secondary_hex": "#0F2966",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

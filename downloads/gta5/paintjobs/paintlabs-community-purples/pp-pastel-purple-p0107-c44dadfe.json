@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0107",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 70,
+                "enabled": true
+            },
+            "rgb": [
+                177,
+                156,
+                217
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                177,
+                156,
+                217
+            ]
+        }
+    },
+    "creator": "imrobertz1",
+    "format": "scooby.paintjob",
+    "hex": "#B19CD900",
+    "model": 0,
+    "name": "PP-PASTEL-PURPLE",
+    "secondary_hex": "#B19CD9",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0030",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                9,
+                0,
+                34
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                9,
+                0,
+                34
+            ]
+        }
+    },
+    "creator": "Ikue Gaming, IkuesDatabase",
+    "format": "scooby.paintjob",
+    "hex": "#090022",
+    "model": 0,
+    "name": "KDES DATABASE",
+    "secondary_hex": "#090022",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

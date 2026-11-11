@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                111,
+                0,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                111,
+                0,
+                255
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#6F00FF",
+    "model": 0,
+    "name": "Electric Indigo",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

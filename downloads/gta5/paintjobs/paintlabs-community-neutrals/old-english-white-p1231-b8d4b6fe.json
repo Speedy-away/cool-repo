@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1231",
+    "category": "PaintLabs - Community - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                172,
+                170,
+                158
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                172,
+                170,
+                158
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#ACAA9EAA",
+    "model": 0,
+    "name": "Old English White",
+    "secondary_hex": "#ACAA9E",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

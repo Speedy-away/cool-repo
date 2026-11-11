@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4178972943,
+  "windowBorder": 1358931284,
+  "windowScrollbar": 4294944340,
+  "windowCursor": 4294944340,
+  "tabSelectedIcon": 4294944340,
+  "tabIndicator": 4294944340,
+  "categoryIndicator": 4294944340,
+  "toggleOn": 4294944340,
+  "sliderFilled": 4294944340,
+  "childTitle": 4294944340,
+  "childAccentLeft": 4294944340,
+  "contentSectionText": 4294944340,
+  "textAccent": 4294944340,
+  "notificationAccent": 4294944340,
+  "childBackground": 2498074,
+  "groupBackground": 2498074,
+  "groupBorder": 1190770523,
+  "contentPanelBackground": 3945143834,
+  "contentListBackground": 3693485594,
+  "tabUnselectedBg": 1680219674,
+  "categoryUnselectedBg": 1344675354,
+  "gradientStart": 1635076649,
+  "gradientEnd": 1511951,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Slate Signal ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

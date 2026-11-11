@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0055",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 88,
+                "enabled": true
+            },
+            "rgb": [
+                9,
+                0,
+                17
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                9,
+                0,
+                17
+            ]
+        }
+    },
+    "creator": "IkuesDatabase",
+    "format": "scooby.paintjob",
+    "hex": "#090011AA",
+    "model": 0,
+    "name": "Ikues",
+    "secondary_hex": "#090011",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

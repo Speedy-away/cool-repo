@@ -1,0 +1,35 @@
+{
+    "alpha": 0,
+    "category": "Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                54,
+                255,
+                164
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                54,
+                255,
+                164
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#36FFA400",
+    "model": 0,
+    "name": "Neon Mint",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

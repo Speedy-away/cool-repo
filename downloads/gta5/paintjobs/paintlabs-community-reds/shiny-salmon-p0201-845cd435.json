@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0201",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                74,
+                61
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                74,
+                61
+            ]
+        }
+    },
+    "creator": "Cookie d'oh",
+    "format": "scooby.paintjob",
+    "hex": "#FF4A3D",
+    "model": 0,
+    "name": "Shiny Salmon",
+    "secondary_hex": "#FF4A3D",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

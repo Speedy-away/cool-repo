@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0975",
+    "category": "PaintLabs - AI - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 71,
+                "enabled": true
+            },
+            "rgb": [
+                119,
+                85,
+                25
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                119,
+                85,
+                25
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#775519AA",
+    "model": 0,
+    "name": "Ai Tobacco Royal",
+    "secondary_hex": "#775519",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

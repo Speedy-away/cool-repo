@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                255,
+                0
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                0,
+                255,
+                0
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#00FF00AA",
+    "model": 0,
+    "name": "ZillaGreen",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

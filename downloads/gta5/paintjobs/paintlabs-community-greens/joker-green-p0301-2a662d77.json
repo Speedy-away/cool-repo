@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0301",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                2,
+                153,
+                57
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                2,
+                153,
+                57
+            ]
+        }
+    },
+    "creator": "Illusionz",
+    "format": "scooby.paintjob",
+    "hex": "#029939",
+    "model": 0,
+    "name": "Joker Green",
+    "secondary_hex": "#029939",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

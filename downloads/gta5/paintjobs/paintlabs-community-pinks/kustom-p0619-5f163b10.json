@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0619",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 64,
+                "enabled": true
+            },
+            "rgb": [
+                91,
+                37,
+                83
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                91,
+                37,
+                83
+            ]
+        }
+    },
+    "creator": "C64fanatic",
+    "format": "scooby.paintjob",
+    "hex": "#5B2553AA",
+    "model": 0,
+    "name": "Kustom",
+    "secondary_hex": "#5B2553",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

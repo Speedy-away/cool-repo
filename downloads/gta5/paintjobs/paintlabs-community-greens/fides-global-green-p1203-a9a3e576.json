@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1203",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 37,
+                "enabled": true
+            },
+            "rgb": [
+                52,
+                77,
+                0
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                52,
+                77,
+                0
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#344D00AA",
+    "model": 0,
+    "name": "Fides Global Green",
+    "secondary_hex": "#344D00",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

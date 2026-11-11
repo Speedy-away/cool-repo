@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0293",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 5,
+                "enabled": true
+            },
+            "rgb": [
+                39,
+                59,
+                68
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                39,
+                59,
+                68
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#273B44AA",
+    "model": 0,
+    "name": "ARCANE",
+    "secondary_hex": "#273B44",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

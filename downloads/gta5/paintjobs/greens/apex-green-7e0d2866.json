@@ -1,0 +1,35 @@
+{
+    "alpha": 0,
+    "category": "Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                254,
+                61
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                0,
+                254,
+                61
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#00FE3D00",
+    "model": 0,
+    "name": "Apex Green",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

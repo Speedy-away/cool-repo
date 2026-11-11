@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0659",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 67,
+                "enabled": true
+            },
+            "rgb": [
+                10,
+                10,
+                15
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                10,
+                10,
+                15
+            ]
+        }
+    },
+    "creator": "KillerFromGods",
+    "format": "scooby.paintjob",
+    "hex": "#0A0A0FAA",
+    "model": 0,
+    "name": "Batman Steel",
+    "secondary_hex": "#0A0A0F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

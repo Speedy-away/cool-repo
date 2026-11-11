@@ -1,0 +1,26 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                239,
+                255,
+                253
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#EFFFFD",
+    "model": 0,
+    "name": "Off White",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

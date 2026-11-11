@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1219",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 15,
+            "custom": true,
+            "paint_type": 0,
+            "pearl": {
+                "colour": 136,
+                "enabled": true
+            },
+            "rgb": [
+                142,
+                64,
+                44
+            ]
+        },
+        "secondary": {
+            "base": 15,
+            "custom": true,
+            "paint_type": 0,
+            "rgb": [
+                142,
+                64,
+                44
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#8E402CAA",
+    "model": 0,
+    "name": "Ossifrage",
+    "secondary_hex": "#8E402C",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

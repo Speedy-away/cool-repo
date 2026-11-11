@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0661",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 111,
+                "enabled": true
+            },
+            "rgb": [
+                0,
+                24,
+                49
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                24,
+                49
+            ]
+        }
+    },
+    "creator": "KillerFromGods",
+    "format": "scooby.paintjob",
+    "hex": "#001831AA",
+    "model": 0,
+    "name": "Gods Blue",
+    "secondary_hex": "#001831",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

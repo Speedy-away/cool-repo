@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0332",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                20,
+                57,
+                127
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                20,
+                57,
+                127
+            ]
+        }
+    },
+    "creator": "Kushology, TheButtKickerUK",
+    "format": "scooby.paintjob",
+    "hex": "#14397FAA",
+    "model": 0,
+    "name": "os",
+    "secondary_hex": "#14397F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

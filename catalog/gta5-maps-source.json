@@ -1,0 +1,1895 @@
+{
+  "source_archive_sha256": "6a91e8e3f9e1725a7f6c99aa50b1da84a271ee0e323166ac4a821b78933e2c8f",
+  "maps": [
+    {
+      "path": "!favs/SilkWorld.xml",
+      "placements": 612,
+      "source_sha256": "333de4ad636680d235ad50641f8fb62a102458429e78575cacb418a1948d7d87",
+      "installed_sha256": "333de4ad636680d235ad50641f8fb62a102458429e78575cacb418a1948d7d87",
+      "declaration_repaired": false
+    },
+    {
+      "path": "!favs/Stunt - 45.xml",
+      "placements": 150,
+      "source_sha256": "5c30c4050fda9c5320181e6d01c13481a301e20a85750a9eb32de8f403ab28d8",
+      "installed_sha256": "5c30c4050fda9c5320181e6d01c13481a301e20a85750a9eb32de8f403ab28d8",
+      "declaration_repaired": false
+    },
+    {
+      "path": "!favs/cronus_Downtown_ParkMix1.xml",
+      "placements": 43,
+      "source_sha256": "ecf886886ee872f1365cc7cfd587e2b3e1c0bff1c73e326cff1975e945674237",
+      "installed_sha256": "ecf886886ee872f1365cc7cfd587e2b3e1c0bff1c73e326cff1975e945674237",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/AirportCarShow.xml",
+      "placements": 41,
+      "source_sha256": "ca7b8cb9ee3ff1922ebe644a9612ecfecd73c7db45340a55430849567052ac94",
+      "installed_sha256": "ca7b8cb9ee3ff1922ebe644a9612ecfecd73c7db45340a55430849567052ac94",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Airship (Downtown).xml",
+      "placements": 20,
+      "source_sha256": "6c6ffbf814113df2c4814fb133f3c029ad35597bb0a6ae129f165708bba4b3d8",
+      "installed_sha256": "6c6ffbf814113df2c4814fb133f3c029ad35597bb0a6ae129f165708bba4b3d8",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Alamo Bridge.xml",
+      "placements": 10,
+      "source_sha256": "37e89ff8689a60dfa6ddb693b9ddfd57ca4e2930353e62423368c63facf7968b",
+      "installed_sha256": "37e89ff8689a60dfa6ddb693b9ddfd57ca4e2930353e62423368c63facf7968b",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Beach Apartment - No Peds.xml",
+      "placements": 563,
+      "source_sha256": "5cbf4901e10b164fefa05032172e52895bc4ae907762526f0ed47f32354ef549",
+      "installed_sha256": "5cbf4901e10b164fefa05032172e52895bc4ae907762526f0ed47f32354ef549",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Beach Apartment.xml",
+      "placements": 584,
+      "source_sha256": "6eacdcd541e8817858e8f48c31ca39cd25fa0918f2d64d1e1824009dde2c7a21",
+      "installed_sha256": "6eacdcd541e8817858e8f48c31ca39cd25fa0918f2d64d1e1824009dde2c7a21",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Boxing.xml",
+      "placements": 89,
+      "source_sha256": "25d21522dbdd519d1bde47acaffa3f0276a71f17e8fb54bfaadaf93f800de48b",
+      "installed_sha256": "25d21522dbdd519d1bde47acaffa3f0276a71f17e8fb54bfaadaf93f800de48b",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/By the Book - House Party.xml",
+      "placements": 22,
+      "source_sha256": "7abb15402f2eda21b215c3b72349302972c796d681e8fc37913c58689e5cb39f",
+      "installed_sha256": "7abb15402f2eda21b215c3b72349302972c796d681e8fc37913c58689e5cb39f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Celebrity Death Match - Freddy vs Jason.xml",
+      "placements": 76,
+      "source_sha256": "f65de5542e1e0fb93a55484b933dd86a9576fd5645ede4b72fe1a48636f661a8",
+      "installed_sha256": "f65de5542e1e0fb93a55484b933dd86a9576fd5645ede4b72fe1a48636f661a8",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Celebrity Death Match - Trevor vs Clown.xml",
+      "placements": 85,
+      "source_sha256": "9e253f68155bfaa61013915288192db2b11e8cb9c41eb462faecfd712fae4b5d",
+      "installed_sha256": "9e253f68155bfaa61013915288192db2b11e8cb9c41eb462faecfd712fae4b5d",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Celebrity Death match - Father and Son.xml",
+      "placements": 85,
+      "source_sha256": "e8fb1ae0a4453cde0da54bb6ff656b26d93da9da36a29c5c47a6c61eb04ca4b2",
+      "installed_sha256": "e8fb1ae0a4453cde0da54bb6ff656b26d93da9da36a29c5c47a6c61eb04ca4b2",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Celebrity Death match - Fuck the Police.xml",
+      "placements": 85,
+      "source_sha256": "5dff118ccaf9d612e4878bc813bbe9e033b97474545f1d74c615bab80ccbc99b",
+      "installed_sha256": "5dff118ccaf9d612e4878bc813bbe9e033b97474545f1d74c615bab80ccbc99b",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Enhanced Office.xml",
+      "placements": 107,
+      "source_sha256": "f1a2776957cc5ca15b93460fbd5f85f2183fd7f827bddebc1d8fcb0980ed04eb",
+      "installed_sha256": "f1a2776957cc5ca15b93460fbd5f85f2183fd7f827bddebc1d8fcb0980ed04eb",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Halloween Party.xml",
+      "placements": 109,
+      "source_sha256": "2b57d7ee24384507a90eff39efe1e9ea4c143577f4a5ca5a89e0573ff493b158",
+      "installed_sha256": "2b57d7ee24384507a90eff39efe1e9ea4c143577f4a5ca5a89e0573ff493b158",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Loft Apartment.xml",
+      "placements": 461,
+      "source_sha256": "8669ccca4540c123334c22da87c3a96bfad18f917d90240e4771425a01c44847",
+      "installed_sha256": "8669ccca4540c123334c22da87c3a96bfad18f917d90240e4771425a01c44847",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Mt Chiliad Stunt Jump.xml",
+      "placements": 28,
+      "source_sha256": "54d69e14531dd6175ffbb1eb3d79db43d017f78cf20018f1c58ad3fcc079e8ca",
+      "installed_sha256": "54d69e14531dd6175ffbb1eb3d79db43d017f78cf20018f1c58ad3fcc079e8ca",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Noah's Ark.xml",
+      "placements": 107,
+      "source_sha256": "90d8347035b9faaa9d0cf1b9973851d7f5cd371feb9b10ca62ff5f8690a77d66",
+      "installed_sha256": "90d8347035b9faaa9d0cf1b9973851d7f5cd371feb9b10ca62ff5f8690a77d66",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Plane Crash 1.xml",
+      "placements": 19,
+      "source_sha256": "536185911426e28c118776a1f5f141b490c107ab5c4f70daf7e7998f89ab2f29",
+      "installed_sha256": "536185911426e28c118776a1f5f141b490c107ab5c4f70daf7e7998f89ab2f29",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Plane Crash 2 - alternate angle.xml",
+      "placements": 26,
+      "source_sha256": "20824003d703055c55c4bc9cfe5dde248e0c317047b021c710f1bc6c2cc27ea4",
+      "installed_sha256": "20824003d703055c55c4bc9cfe5dde248e0c317047b021c710f1bc6c2cc27ea4",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Plane Crash 2.xml",
+      "placements": 26,
+      "source_sha256": "33cfe57fd933564645ea34a657d404ddb3ca98939214b060750edfc4bead7417",
+      "installed_sha256": "33cfe57fd933564645ea34a657d404ddb3ca98939214b060750edfc4bead7417",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Railgun Skeet Shooting.xml",
+      "placements": 30,
+      "source_sha256": "06f247b54b6eeddc3caeea20a825de6d4f94f978df1e2db27789438a7ef7f032",
+      "installed_sha256": "06f247b54b6eeddc3caeea20a825de6d4f94f978df1e2db27789438a7ef7f032",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Red Carpet.xml",
+      "placements": 37,
+      "source_sha256": "26ff4a84d381e5455c53aa9f22c58c4fb4ce0af43c382bb564949750e380379d",
+      "installed_sha256": "26ff4a84d381e5455c53aa9f22c58c4fb4ce0af43c382bb564949750e380379d",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Sandy Shores yacht.xml",
+      "placements": 370,
+      "source_sha256": "01fdff92e1527f1ea4a1693ba551482f984bfc89fb6d52f6ed30886f8249e967",
+      "installed_sha256": "01fdff92e1527f1ea4a1693ba551482f984bfc89fb6d52f6ed30886f8249e967",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Soccer.xml",
+      "placements": 14,
+      "source_sha256": "6e3206922df7d720ad4317b2dc971e290c678db894be87c2c4d5a3d9856ec051",
+      "installed_sha256": "6e3206922df7d720ad4317b2dc971e290c678db894be87c2c4d5a3d9856ec051",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/UFO.xml",
+      "placements": 92,
+      "source_sha256": "c9b4f8da660aac325d2c845c3dfd1b3baf76dc8eebda21061360746d0ed27a33",
+      "installed_sha256": "c9b4f8da660aac325d2c845c3dfd1b3baf76dc8eebda21061360746d0ed27a33",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Vagos Funeral.xml",
+      "placements": 122,
+      "source_sha256": "a8193c41410b39296b3dd684d47c493ef8519ace859da3f117e9d6d1e21e254e",
+      "installed_sha256": "a8193c41410b39296b3dd684d47c493ef8519ace859da3f117e9d6d1e21e254e",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Von Crastenburg Suite (Blue).xml",
+      "placements": 116,
+      "source_sha256": "cf9d46340da0a226e89544f60787955bd2d5d0a59a4216a2c6022e91b76e5f2d",
+      "installed_sha256": "cf9d46340da0a226e89544f60787955bd2d5d0a59a4216a2c6022e91b76e5f2d",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Von Crastenburg Suite (Bright).xml",
+      "placements": 109,
+      "source_sha256": "d654e4346553fe318e1b9a32848aec4dd07215b69c6eec36770e78d1460f3355",
+      "installed_sha256": "d654e4346553fe318e1b9a32848aec4dd07215b69c6eec36770e78d1460f3355",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/Von Crastenburg Suite.xml",
+      "placements": 111,
+      "source_sha256": "2ac265975a0fb654946abecf2bcef2e27e3b6666c510ab13729102bee767bf56",
+      "installed_sha256": "2ac265975a0fb654946abecf2bcef2e27e3b6666c510ab13729102bee767bf56",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Abstract - Maps/johncena.xml",
+      "placements": 5,
+      "source_sha256": "5f9d13ace070082d9d1de0a48800473bcc64301f0e1c8bfa50a9fd44aea19e92",
+      "installed_sha256": "5f9d13ace070082d9d1de0a48800473bcc64301f0e1c8bfa50a9fd44aea19e92",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD Airport Bowl Full.xml",
+      "placements": 16,
+      "source_sha256": "c48c319f3a796668b069fbb96ca21faa29cf8c383f6547b1bb4a5f35c27580bf",
+      "installed_sha256": "c48c319f3a796668b069fbb96ca21faa29cf8c383f6547b1bb4a5f35c27580bf",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD Airport Bowl.xml",
+      "placements": 17,
+      "source_sha256": "6cb82aea55b9eeb288d1522d4605cbdf04825530e3e9f8adc5b93bb3147ea986",
+      "installed_sha256": "6cb82aea55b9eeb288d1522d4605cbdf04825530e3e9f8adc5b93bb3147ea986",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD Airport Course.xml",
+      "placements": 31,
+      "source_sha256": "ef8553d9b4577a47d6a2a4a896e707fab42510e9a7cedf562db7da518a695ac5",
+      "installed_sha256": "ef8553d9b4577a47d6a2a4a896e707fab42510e9a7cedf562db7da518a695ac5",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD Airport Loop.xml",
+      "placements": 5,
+      "source_sha256": "851ffb9c90802f3aec8bc282968bd58e59710b0a1354835fbec3556d0f0e914f",
+      "installed_sha256": "851ffb9c90802f3aec8bc282968bd58e59710b0a1354835fbec3556d0f0e914f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD Airport SkatePark.xml",
+      "placements": 30,
+      "source_sha256": "9399fa0d7e88bf637ad53f4a4eaeaa18a05a73a2ea9ea663e18e34f93785d71f",
+      "installed_sha256": "9399fa0d7e88bf637ad53f4a4eaeaa18a05a73a2ea9ea663e18e34f93785d71f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD AirportBlender.xml",
+      "placements": 58,
+      "source_sha256": "db77e94f048df3afea94290eb258e601c178590f6ea1086a2bed1b324bb58a65",
+      "installed_sha256": "db77e94f048df3afea94290eb258e601c178590f6ea1086a2bed1b324bb58a65",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD AirportBlender2.xml",
+      "placements": 27,
+      "source_sha256": "527bc68e478fcf12e3bf9c65a88fc7488cd09345dad45f7f749985f9cf4c6d36",
+      "installed_sha256": "527bc68e478fcf12e3bf9c65a88fc7488cd09345dad45f7f749985f9cf4c6d36",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD AirportCarShow.xml",
+      "placements": 41,
+      "source_sha256": "ca7b8cb9ee3ff1922ebe644a9612ecfecd73c7db45340a55430849567052ac94",
+      "installed_sha256": "ca7b8cb9ee3ff1922ebe644a9612ecfecd73c7db45340a55430849567052ac94",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD AirportHalfpipe.xml",
+      "placements": 24,
+      "source_sha256": "51c577548c3ed41183e1a6fc09046f3a2685838a83c9ab2590f47719a5cb573d",
+      "installed_sha256": "51c577548c3ed41183e1a6fc09046f3a2685838a83c9ab2590f47719a5cb573d",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD AirportParkour.xml",
+      "placements": 36,
+      "source_sha256": "26d7ecf643d630da11358dbf4e45907c3546745e02776955e9131ae71bfa310c",
+      "installed_sha256": "26d7ecf643d630da11358dbf4e45907c3546745e02776955e9131ae71bfa310c",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD AirportRampChallenge.xml",
+      "placements": 6,
+      "source_sha256": "3ceb5ec7e874064dbade01040f55e15208112b2b98a9d8d9b41015aea66075e2",
+      "installed_sha256": "3ceb5ec7e874064dbade01040f55e15208112b2b98a9d8d9b41015aea66075e2",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD AirportSpiral.xml",
+      "placements": 8,
+      "source_sha256": "106b88667c8274a1c5900102ab167e0850d7a1ba26e8ef5eb07a32703ce30910",
+      "installed_sha256": "106b88667c8274a1c5900102ab167e0850d7a1ba26e8ef5eb07a32703ce30910",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD AirportTrack.xml",
+      "placements": 19,
+      "source_sha256": "c7e4172e1d3b0d64802178ecb013322e0341e966651153510fb7c60292b67ffc",
+      "installed_sha256": "c7e4172e1d3b0d64802178ecb013322e0341e966651153510fb7c60292b67ffc",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD AirportTube.xml",
+      "placements": 49,
+      "source_sha256": "8bcab3e038eed3f42f49391ecaeb59bfb2df674c1bd710ffb8dc37c1de8c3733",
+      "installed_sha256": "8bcab3e038eed3f42f49391ecaeb59bfb2df674c1bd710ffb8dc37c1de8c3733",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD Alamo Bridge.xml",
+      "placements": 10,
+      "source_sha256": "37e89ff8689a60dfa6ddb693b9ddfd57ca4e2930353e62423368c63facf7968b",
+      "installed_sha256": "37e89ff8689a60dfa6ddb693b9ddfd57ca4e2930353e62423368c63facf7968b",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD AngryMaze.xml",
+      "placements": 5,
+      "source_sha256": "a6bc6bd40f4c5591afd21efd7e8625115bc4f7049511dc904f8a1fab8c3aa245",
+      "installed_sha256": "a6bc6bd40f4c5591afd21efd7e8625115bc4f7049511dc904f8a1fab8c3aa245",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD BLACKED Eclipse.xml",
+      "placements": 6,
+      "source_sha256": "20747c43f0accb1a3a2ca1295f2fad849b46e11024298fa6e473f8553dd33e40",
+      "installed_sha256": "20747c43f0accb1a3a2ca1295f2fad849b46e11024298fa6e473f8553dd33e40",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD BloodyCasino.xml",
+      "placements": 25,
+      "source_sha256": "c874f0ebd01bc698a7f0c911022265ea9b2e2d96996502689a80f884c9231376",
+      "installed_sha256": "c874f0ebd01bc698a7f0c911022265ea9b2e2d96996502689a80f884c9231376",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CEO PAWG.xml",
+      "placements": 2,
+      "source_sha256": "72b85a73dc455aa8dd016a0b944e63002701a3b476dd005a4f2f0fa7d86b96c3",
+      "installed_sha256": "72b85a73dc455aa8dd016a0b944e63002701a3b476dd005a4f2f0fa7d86b96c3",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CEOHeist.xml",
+      "placements": 6,
+      "source_sha256": "e3b9fba1c03fe7b5a498c0c1a207456ca478571f103c37ce87d28ffb05ab080f",
+      "installed_sha256": "e3b9fba1c03fe7b5a498c0c1a207456ca478571f103c37ce87d28ffb05ab080f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CarShow.xml",
+      "placements": 20,
+      "source_sha256": "c6519d32fcf7770249b30c4d73969dc3945cfbc56475f8c49642992a3d176771",
+      "installed_sha256": "c6519d32fcf7770249b30c4d73969dc3945cfbc56475f8c49642992a3d176771",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CasinoBowl.xml",
+      "placements": 6,
+      "source_sha256": "7a9a02faf492250217502f19d629fa7ef21899a3ff8bf1d471b1e278238e7bd7",
+      "installed_sha256": "7a9a02faf492250217502f19d629fa7ef21899a3ff8bf1d471b1e278238e7bd7",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CasinoBurger.xml",
+      "placements": 1,
+      "source_sha256": "0b80ed9ea569545e1c238617c3f27300a86a5e8360917b78e1b66edbc3cf501c",
+      "installed_sha256": "0b80ed9ea569545e1c238617c3f27300a86a5e8360917b78e1b66edbc3cf501c",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CasinoCourse.xml",
+      "placements": 24,
+      "source_sha256": "5f38d726b651297e7ebfef865b6390c2e5b937a8ed521c66f61f0462d8678105",
+      "installed_sha256": "5f38d726b651297e7ebfef865b6390c2e5b937a8ed521c66f61f0462d8678105",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD Chilliad Bridge.xml",
+      "placements": 13,
+      "source_sha256": "78a0c4cb6c46f50270b151667bb704e4da1b60cab23d55894a07815da5747070",
+      "installed_sha256": "78a0c4cb6c46f50270b151667bb704e4da1b60cab23d55894a07815da5747070",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD Chilliad Troll.xml",
+      "placements": 8,
+      "source_sha256": "00133a94f4930851bda3af2d377f873253cfa416cedca3dd95bdc812cc55f3ef",
+      "installed_sha256": "00133a94f4930851bda3af2d377f873253cfa416cedca3dd95bdc812cc55f3ef",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CityCourse1.xml",
+      "placements": 20,
+      "source_sha256": "5bb8532daee752f6652d71fa99d02b9361f072d77872b084261b3bef2204e7a9",
+      "installed_sha256": "5bb8532daee752f6652d71fa99d02b9361f072d77872b084261b3bef2204e7a9",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CityCourse2.xml",
+      "placements": 16,
+      "source_sha256": "04576dfc339ca6b2233ffee1e653136dade7a362e971c2d044c6ff9b6b286f77",
+      "installed_sha256": "04576dfc339ca6b2233ffee1e653136dade7a362e971c2d044c6ff9b6b286f77",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CityCourse3.xml",
+      "placements": 32,
+      "source_sha256": "ad1f3facfa8dd313ab1ea908c270b7fd809da7d326ee67024fe41eff037f3691",
+      "installed_sha256": "ad1f3facfa8dd313ab1ea908c270b7fd809da7d326ee67024fe41eff037f3691",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CityDerby#2.xml",
+      "placements": 35,
+      "source_sha256": "25c1dcfe57a61cc11d871e3d705f1b4b4587ada39789fad6ba2f3f1e6ce12775",
+      "installed_sha256": "25c1dcfe57a61cc11d871e3d705f1b4b4587ada39789fad6ba2f3f1e6ce12775",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CityDerby.xml",
+      "placements": 38,
+      "source_sha256": "d3778f2a6a3f07d99591cb57771899a5ab9c2b53b35b6f1d83ba18481dafae3e",
+      "installed_sha256": "d3778f2a6a3f07d99591cb57771899a5ab9c2b53b35b6f1d83ba18481dafae3e",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CitySculpture.xml",
+      "placements": 3,
+      "source_sha256": "78204be34d2c6e99fa2f1ac1349ca7d6c3ea7c376f36e020a78e35206d6c5bdf",
+      "installed_sha256": "78204be34d2c6e99fa2f1ac1349ca7d6c3ea7c376f36e020a78e35206d6c5bdf",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CitySkatePark.xml",
+      "placements": 42,
+      "source_sha256": "083e2f322fbf6a397e906c461a77ed178bb57119d15fc67385ef88c8dbcd62ac",
+      "installed_sha256": "083e2f322fbf6a397e906c461a77ed178bb57119d15fc67385ef88c8dbcd62ac",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD CustomHalfpipe.xml",
+      "placements": 2,
+      "source_sha256": "61f4bac12c98c923426d56df274ac1d150f3a21d54aa1bf84f5c5ff4246c2c36",
+      "installed_sha256": "61f4bac12c98c923426d56df274ac1d150f3a21d54aa1bf84f5c5ff4246c2c36",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD EclipseDick.xml",
+      "placements": 9,
+      "source_sha256": "fdccfffb27291b0b27c0a3dae7e17b22c304059c9e002c9aa34ed19dbe132bb9",
+      "installed_sha256": "fdccfffb27291b0b27c0a3dae7e17b22c304059c9e002c9aa34ed19dbe132bb9",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD EvilCasinoWheel.xml",
+      "placements": 4,
+      "source_sha256": "f66718415a3ace91482094cd98d7989b94ad54fe107c4976f13db7808778079e",
+      "installed_sha256": "f66718415a3ace91482094cd98d7989b94ad54fe107c4976f13db7808778079e",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD GarageNuke.xml",
+      "placements": 4,
+      "source_sha256": "2e6c0ca10128c0a5bcc948cdcc3d3def66d162d713949da2401089bc8e76e14a",
+      "installed_sha256": "2e6c0ca10128c0a5bcc948cdcc3d3def66d162d713949da2401089bc8e76e14a",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD GayOrbital.xml",
+      "placements": 17,
+      "source_sha256": "8d9ec27b18cfa045c12df00172b814092bcfdd3155065eb5f42e24473b12412c",
+      "installed_sha256": "8d9ec27b18cfa045c12df00172b814092bcfdd3155065eb5f42e24473b12412c",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD GiantFair.xml",
+      "placements": 1,
+      "source_sha256": "f647695c8f1670d9d8cc66d0b67d608dfc3c0deae558463f505679e32163798f",
+      "installed_sha256": "f647695c8f1670d9d8cc66d0b67d608dfc3c0deae558463f505679e32163798f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD HeadOffice.xml",
+      "placements": 1,
+      "source_sha256": "f4f87b536dc9b23a0fd11ae5adf8b0363b51b4abec603140a04feee26d5c275f",
+      "installed_sha256": "f4f87b536dc9b23a0fd11ae5adf8b0363b51b4abec603140a04feee26d5c275f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD HighwayLoop.xml",
+      "placements": 4,
+      "source_sha256": "464b2b4090535b80f21c5eba46581520ee54b66528a4397b3f213088fb197cca",
+      "installed_sha256": "464b2b4090535b80f21c5eba46581520ee54b66528a4397b3f213088fb197cca",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD LSC Forest.xml",
+      "placements": 30,
+      "source_sha256": "e3fbc67254a6323201242c7cbf426f920c5e853b6729bea865eb6491062fcc67",
+      "installed_sha256": "e3fbc67254a6323201242c7cbf426f920c5e853b6729bea865eb6491062fcc67",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD MazeBank.xml",
+      "placements": 2,
+      "source_sha256": "68c443ecd79155fb8c9656e54539f6f3e904a983bcfbb2f23766cf22fab02552",
+      "installed_sha256": "68c443ecd79155fb8c9656e54539f6f3e904a983bcfbb2f23766cf22fab02552",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD MazeBankBridge.xml",
+      "placements": 14,
+      "source_sha256": "979b21ee65dab835f4ded6135f333db6df62a4687e0667f5ef24bda1c6b86cc5",
+      "installed_sha256": "979b21ee65dab835f4ded6135f333db6df62a4687e0667f5ef24bda1c6b86cc5",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD MazeBankRamp.xml",
+      "placements": 10,
+      "source_sha256": "c9ad0ffa62bbe611489ce8411d02e9fbf9bb46b922e1c41e59e4dba0bab873bf",
+      "installed_sha256": "c9ad0ffa62bbe611489ce8411d02e9fbf9bb46b922e1c41e59e4dba0bab873bf",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD MazeCourse#1.xml",
+      "placements": 33,
+      "source_sha256": "7f69d9f331bade4156b9f50ada6ece709763db75fc85c9e558f54afb9aa59cf9",
+      "installed_sha256": "7f69d9f331bade4156b9f50ada6ece709763db75fc85c9e558f54afb9aa59cf9",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD MazeCourse#2.xml",
+      "placements": 9,
+      "source_sha256": "a0efd38807cca59563cdd9d6db3ac2d37493a5d1499e441c67727e4c0c5e51e9",
+      "installed_sha256": "a0efd38807cca59563cdd9d6db3ac2d37493a5d1499e441c67727e4c0c5e51e9",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD MazeHI.xml",
+      "placements": 6,
+      "source_sha256": "c425abdfd017333db49bc6fe2ed73f9b7c60cc2dcf2b69d9376133e2f248d130",
+      "installed_sha256": "c425abdfd017333db49bc6fe2ed73f9b7c60cc2dcf2b69d9376133e2f248d130",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD MirrorParkStunts.xml",
+      "placements": 20,
+      "source_sha256": "e88b5971970b9ae3109e8cc6671204cf2c13bb87409daa2a43434cb4001950d4",
+      "installed_sha256": "e88b5971970b9ae3109e8cc6671204cf2c13bb87409daa2a43434cb4001950d4",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD NavyPier.xml",
+      "placements": 19,
+      "source_sha256": "f24aac85e2cb0849e6d1cd5e365cdbf35ae8dd5f81f9e2344e1c6bd2206bface",
+      "installed_sha256": "f24aac85e2cb0849e6d1cd5e365cdbf35ae8dd5f81f9e2344e1c6bd2206bface",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD PondCourse.xml",
+      "placements": 19,
+      "source_sha256": "0a6b22e56813f615baebb2ec7ab4a204f40b4341c588f117d7de618752bce40c",
+      "installed_sha256": "0a6b22e56813f615baebb2ec7ab4a204f40b4341c588f117d7de618752bce40c",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD Soccer.xml",
+      "placements": 14,
+      "source_sha256": "6e3206922df7d720ad4317b2dc971e290c678db894be87c2c4d5a3d9856ec051",
+      "installed_sha256": "6e3206922df7d720ad4317b2dc971e290c678db894be87c2c4d5a3d9856ec051",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD TowerofBOI.xml",
+      "placements": 53,
+      "source_sha256": "9683da4511cc059867687af0f67ae9d1cdd1ef9ebb94497d9c8ef55972cda044",
+      "installed_sha256": "9683da4511cc059867687af0f67ae9d1cdd1ef9ebb94497d9c8ef55972cda044",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD TrevorAirport.xml",
+      "placements": 27,
+      "source_sha256": "c2722bddb0245e19181278bcdc680762a14393d64d08db386e6b9667b5a4a40f",
+      "installed_sha256": "c2722bddb0245e19181278bcdc680762a14393d64d08db386e6b9667b5a4a40f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD UnderwaterPierBase.xml",
+      "placements": 16,
+      "source_sha256": "ac5be90bd2284bc90494e298e0b0a4cd8e74f733684ed36ebdc5e62889b66682",
+      "installed_sha256": "ac5be90bd2284bc90494e298e0b0a4cd8e74f733684ed36ebdc5e62889b66682",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD VinewoodLake.xml",
+      "placements": 44,
+      "source_sha256": "6ab0b3d5b3b58ed6fe62b2b96de1e974e4b6be92d2a5a1d1465b99266aa53ef1",
+      "installed_sha256": "6ab0b3d5b3b58ed6fe62b2b96de1e974e4b6be92d2a5a1d1465b99266aa53ef1",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD VinewoodPlatforms.xml",
+      "placements": 14,
+      "source_sha256": "1057c64f0552ab9218307965d6373281ae94ce410903f803e6c4adbc5b956ea6",
+      "installed_sha256": "1057c64f0552ab9218307965d6373281ae94ce410903f803e6c4adbc5b956ea6",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Bighead - Maps/BIGHEAD WestHighCityPark.xml",
+      "placements": 30,
+      "source_sha256": "e2a38a2734ad70ee757e0afc26f7abd4ce848b2a3f04f396be24626bd9610959",
+      "installed_sha256": "e2a38a2734ad70ee757e0afc26f7abd4ce848b2a3f04f396be24626bd9610959",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/AirportRamps.xml",
+      "placements": 96,
+      "source_sha256": "cc4bfab82aebaf5b47606cace52212671859d5a39c80bff33052fe1b2830abd9",
+      "installed_sha256": "cc4bfab82aebaf5b47606cace52212671859d5a39c80bff33052fe1b2830abd9",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Blazer Aqua - Beach Party.xml",
+      "placements": 150,
+      "source_sha256": "340c9fa47796506eef9fc00d28dc0bdb5253cfe9ca6379a7f448bc5f5c1ff7b8",
+      "installed_sha256": "340c9fa47796506eef9fc00d28dc0bdb5253cfe9ca6379a7f448bc5f5c1ff7b8",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Blazer Aqua - Into the Dam.xml",
+      "placements": 143,
+      "source_sha256": "d2f04d5c48b6ed9301d267dc3e613d64837c94dabf0ff13029a08906763fc44b",
+      "installed_sha256": "d2f04d5c48b6ed9301d267dc3e613d64837c94dabf0ff13029a08906763fc44b",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Blazer Aqua - Island Hopping.xml",
+      "placements": 143,
+      "source_sha256": "f3ab42f253053a008231cb305d3546e7e7a776847bd1201181ae947e77cb4afd",
+      "installed_sha256": "f3ab42f253053a008231cb305d3546e7e7a776847bd1201181ae947e77cb4afd",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Blazer Aqua - Storm Drain.xml",
+      "placements": 147,
+      "source_sha256": "5784759b854518d45803839bdc3852f9769ce93c6dc0513bcadf6f7b7e3f2466",
+      "installed_sha256": "5784759b854518d45803839bdc3852f9769ce93c6dc0513bcadf6f7b7e3f2466",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Blazer Aqua - Surf and Turf.xml",
+      "placements": 126,
+      "source_sha256": "ec3abc9a1523f206a4c673d855871963c98144714d0700718620a070860c799f",
+      "installed_sha256": "ec3abc9a1523f206a4c673d855871963c98144714d0700718620a070860c799f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Blazer Aqua - Water Slide.xml",
+      "placements": 93,
+      "source_sha256": "f105e0237757cba5342b00c8c5e66b2029297e7beed954b7bc343f0e44345332",
+      "installed_sha256": "f105e0237757cba5342b00c8c5e66b2029297e7beed954b7bc343f0e44345332",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Circuit race.xml",
+      "placements": 338,
+      "source_sha256": "f55fbe51861671c2c26f70e6167c2d3bf02930a3e3f644c92d3641411488c05c",
+      "installed_sha256": "f55fbe51861671c2c26f70e6167c2d3bf02930a3e3f644c92d3641411488c05c",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Cunning stunt 1.xml",
+      "placements": 191,
+      "source_sha256": "8b33e895535cca77fb6e323b5f4a4d5b18bea8544ab65987a6570c3881876755",
+      "installed_sha256": "8b33e895535cca77fb6e323b5f4a4d5b18bea8544ab65987a6570c3881876755",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Deluxo - Cresting.xml",
+      "placements": 144,
+      "source_sha256": "b9679fa4c34e287d03c5a47cfadc7db758c3fb5de9efa66d316f1a07f941fdaa",
+      "installed_sha256": "b9679fa4c34e287d03c5a47cfadc7db758c3fb5de9efa66d316f1a07f941fdaa",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Deluxo - Raton Race.xml",
+      "placements": 165,
+      "source_sha256": "daf2a4684886c82865412914bc52770af1725da6cd95754baceec8c1ecd45d13",
+      "installed_sha256": "daf2a4684886c82865412914bc52770af1725da6cd95754baceec8c1ecd45d13",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Deluxo - Stadium Flyover.xml",
+      "placements": 120,
+      "source_sha256": "9b39d076d116cbf6096c64b2d975126ae53c61bee36dc35803e67197127ed206",
+      "installed_sha256": "9b39d076d116cbf6096c64b2d975126ae53c61bee36dc35803e67197127ed206",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Deluxo - Techno.xml",
+      "placements": 155,
+      "source_sha256": "67cfb75a2a72c68c9252d52d96c079676e5fe43015bf5cdff21ab29dc60084e9",
+      "installed_sha256": "67cfb75a2a72c68c9252d52d96c079676e5fe43015bf5cdff21ab29dc60084e9",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Double Mega Ramp.xml",
+      "placements": 42,
+      "source_sha256": "9c002863a5ea23b1123d445bcb36df5b1a64bdfcde1644534b6fb5a475d82676",
+      "installed_sha256": "9c002863a5ea23b1123d445bcb36df5b1a64bdfcde1644534b6fb5a475d82676",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/GTAMaps-MK6.xml",
+      "placements": 351,
+      "source_sha256": "53518c7311f0008fa99f6f62b99f75c14db33e3f897a508fd8652f5aae738704",
+      "installed_sha256": "53518c7311f0008fa99f6f62b99f75c14db33e3f897a508fd8652f5aae738704",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/GTAMaps-megaRamp-mario.xml",
+      "placements": 307,
+      "source_sha256": "7ba0ef59992fd11a25c8e8301ebe06f383295a17a44f1446c4576914260c19b2",
+      "installed_sha256": "7ba0ef59992fd11a25c8e8301ebe06f383295a17a44f1446c4576914260c19b2",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/GTAMaps-mk9.xml",
+      "placements": 343,
+      "source_sha256": "40111520b71206fe498ce4228f9ed5b7ddfd8e9cd35f9468b71658ff584b5e1c",
+      "installed_sha256": "40111520b71206fe498ce4228f9ed5b7ddfd8e9cd35f9468b71658ff584b5e1c",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Hotring Circuit - Chiliad Peak Raceway.xml",
+      "placements": 200,
+      "source_sha256": "5ca14725394b8338e55a34bf50ff488162aa559aaad7bf581c91148d2fc539f9",
+      "installed_sha256": "5ca14725394b8338e55a34bf50ff488162aa559aaad7bf581c91148d2fc539f9",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Hotring Circuit - City Slick.xml",
+      "placements": 122,
+      "source_sha256": "a7f141f81a668df574b9f2c5c877458f3adb74b9a7428df0d909fc35318ef9fb",
+      "installed_sha256": "a7f141f81a668df574b9f2c5c877458f3adb74b9a7428df0d909fc35318ef9fb",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Hotring Circuit - Double Helix.xml",
+      "placements": 196,
+      "source_sha256": "d838136deffb43cfdaf18087dca0a7ff071b7da9eaf6dc98cd60c472edd5465c",
+      "installed_sha256": "d838136deffb43cfdaf18087dca0a7ff071b7da9eaf6dc98cd60c472edd5465c",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Hotring Circuit - Downtown.xml",
+      "placements": 200,
+      "source_sha256": "859c218afd50ce1f175b817f60cc7bb7ed90a8df3a30c856a2013a2993edaba9",
+      "installed_sha256": "859c218afd50ce1f175b817f60cc7bb7ed90a8df3a30c856a2013a2993edaba9",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Hotring Circuit - El Gordo Threeway.xml",
+      "placements": 137,
+      "source_sha256": "640b74f9f7bfd26f43b60cf37ea56a8cfc4f6dd587a58699d6d0be94e8831ed2",
+      "installed_sha256": "640b74f9f7bfd26f43b60cf37ea56a8cfc4f6dd587a58699d6d0be94e8831ed2",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Hotring Circuit - La Mesa.xml",
+      "placements": 198,
+      "source_sha256": "acab80946c1b03f3d705c1170bcc385dd1b48203cdebf17658fec47e10b80a93",
+      "installed_sha256": "acab80946c1b03f3d705c1170bcc385dd1b48203cdebf17658fec47e10b80a93",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Hotring Circuit - Sandy Shores.xml",
+      "placements": 199,
+      "source_sha256": "d0ea5235bd0f5f07669d97dbaf11bb8875747bbc5162e7c75ff99553412d13df",
+      "installed_sha256": "d0ea5235bd0f5f07669d97dbaf11bb8875747bbc5162e7c75ff99553412d13df",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Hotring Circuit - Trenchway.xml",
+      "placements": 180,
+      "source_sha256": "67be266066550bc4a4f0f8c62d6a6afb23f14d04e4b1d5c6a4f2cb2528986096",
+      "installed_sha256": "67be266066550bc4a4f0f8c62d6a6afb23f14d04e4b1d5c6a4f2cb2528986096",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Hotring Circuit - Vespucci.xml",
+      "placements": 199,
+      "source_sha256": "9c1249f95422ccd13bbe3ecc3374b764df1a833c7be1af4aded4ed14e3d34bdf",
+      "installed_sha256": "9c1249f95422ccd13bbe3ecc3374b764df1a833c7be1af4aded4ed14e3d34bdf",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Hotring Circuit - Vinewood.xml",
+      "placements": 199,
+      "source_sha256": "77a80752b54b40326da8ec4c7d88cde04ecdef2c90d76ae73e9850e331093c74",
+      "installed_sha256": "77a80752b54b40326da8ec4c7d88cde04ecdef2c90d76ae73e9850e331093c74",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Issi Classic - City Jumper.xml",
+      "placements": 200,
+      "source_sha256": "3471dc457c2a9ea586a2c4b5a39c8c27b79c01df8e77befbcf16d7aff8493e87",
+      "installed_sha256": "3471dc457c2a9ea586a2c4b5a39c8c27b79c01df8e77befbcf16d7aff8493e87",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Issi Classic - Goal.xml",
+      "placements": 213,
+      "source_sha256": "91b3991d7840c879b4ab12c2ba8b41362437f0430ebf08a477bf205c8a75786e",
+      "installed_sha256": "91b3991d7840c879b4ab12c2ba8b41362437f0430ebf08a477bf205c8a75786e",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Issi Classic - Paleto Palace.xml",
+      "placements": 220,
+      "source_sha256": "59174cadcc56c2ca93a4887fbfad9d5171be5819f98b593ae81909226a57387b",
+      "installed_sha256": "59174cadcc56c2ca93a4887fbfad9d5171be5819f98b593ae81909226a57387b",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Issi Classic - Repeater.xml",
+      "placements": 180,
+      "source_sha256": "99210e8d6fcb11eb5ce848471149cadc62d5b1382e5f65ee78860e8d59f9e488",
+      "installed_sha256": "99210e8d6fcb11eb5ce848471149cadc62d5b1382e5f65ee78860e8d59f9e488",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Issi Classic - Sidewinder.xml",
+      "placements": 200,
+      "source_sha256": "ce65f4180831a87423cc2085330d488f81abbdc56d18ebd4c03ffe7502a34c5c",
+      "installed_sha256": "ce65f4180831a87423cc2085330d488f81abbdc56d18ebd4c03ffe7502a34c5c",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Issi Classic - The Issi Job.xml",
+      "placements": 200,
+      "source_sha256": "cb8c057237959d325ad1aea91459502aaa177c5f49c96471282f0f25117d4cbb",
+      "installed_sha256": "cb8c057237959d325ad1aea91459502aaa177c5f49c96471282f0f25117d4cbb",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Issi Classic - Turbine Trouble.xml",
+      "placements": 200,
+      "source_sha256": "c300bf38e43f0c99c531094c0c219504be86baccc814070fd14ded00538bf3c3",
+      "installed_sha256": "c300bf38e43f0c99c531094c0c219504be86baccc814070fd14ded00538bf3c3",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Premium Race - Surf and Turf.xml",
+      "placements": 126,
+      "source_sha256": "8c7c615bcb2297e26e8818bfd44f2afc543912d32a971c1d202ff0de7c984a5d",
+      "installed_sha256": "8c7c615bcb2297e26e8818bfd44f2afc543912d32a971c1d202ff0de7c984a5d",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Rocket Voltic - Ascent.xml",
+      "placements": 148,
+      "source_sha256": "7e0e8f28c92494b52708064bd22855f2364c6b2e2c47cd42aaf227228c79ae5a",
+      "installed_sha256": "7e0e8f28c92494b52708064bd22855f2364c6b2e2c47cd42aaf227228c79ae5a",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Rocket Voltic - Atmosphere.xml",
+      "placements": 149,
+      "source_sha256": "8d610a47b13ff68d561048df2b4d53d29fef20599fb27866e0a325f097a2470a",
+      "installed_sha256": "8d610a47b13ff68d561048df2b4d53d29fef20599fb27866e0a325f097a2470a",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Rocket Voltic - Bumblebee.xml",
+      "placements": 150,
+      "source_sha256": "835efb34dd1eca93f446e92061b6a3fce8bbb1994052ca06dddd0fc21cc6dbcb",
+      "installed_sha256": "835efb34dd1eca93f446e92061b6a3fce8bbb1994052ca06dddd0fc21cc6dbcb",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Rocket Voltic - Pulse.xml",
+      "placements": 150,
+      "source_sha256": "75236333b7cf61eb8428bd9175d7779b8152a799d074fa2a94150d7279925a8f",
+      "installed_sha256": "75236333b7cf61eb8428bd9175d7779b8152a799d074fa2a94150d7279925a8f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Rocket Voltic - Redneck.xml",
+      "placements": 150,
+      "source_sha256": "f6bf5de4d43690f2e3e9ff6480c2d67865f69938e6e2eba32e02e7a5778ea760",
+      "installed_sha256": "f6bf5de4d43690f2e3e9ff6480c2d67865f69938e6e2eba32e02e7a5778ea760",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Rocket Voltic - The Loop.xml",
+      "placements": 145,
+      "source_sha256": "54756e4c16de4f366018b5e01f3cc03fe070eff426764d983de4e4cc7ffe3d47",
+      "installed_sha256": "54756e4c16de4f366018b5e01f3cc03fe070eff426764d983de4e4cc7ffe3d47",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Rocket Voltic - Zebra II.xml",
+      "placements": 167,
+      "source_sha256": "84728fce2c73f240a04afd6b8d8273f5fd1be4f915a393046609797aed226d63",
+      "installed_sha256": "84728fce2c73f240a04afd6b8d8273f5fd1be4f915a393046609797aed226d63",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Ruiner 2000 - Criss Cross.xml",
+      "placements": 144,
+      "source_sha256": "8279516aa3be54ff98d58c9168cbe3e4e25a54b633edefac4b2697f19d826803",
+      "installed_sha256": "8279516aa3be54ff98d58c9168cbe3e4e25a54b633edefac4b2697f19d826803",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Ruiner 2000 - Damned.xml",
+      "placements": 148,
+      "source_sha256": "c3afaa075b7b281a541175ab49d213c95626e16c7d58a715ef3274cba99d95ee",
+      "installed_sha256": "c3afaa075b7b281a541175ab49d213c95626e16c7d58a715ef3274cba99d95ee",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Ruiner 2000 - Drop Ship.xml",
+      "placements": 150,
+      "source_sha256": "5647bc5f17425d81712ec743de9539489d0856ec41a2315cfac990cbddf507e7",
+      "installed_sha256": "5647bc5f17425d81712ec743de9539489d0856ec41a2315cfac990cbddf507e7",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Ruiner 2000 - Night Ride.xml",
+      "placements": 150,
+      "source_sha256": "9aeea4632430629680c9ffa586dcd29c670f188c05cba81f2de5dd65417cfbc7",
+      "installed_sha256": "9aeea4632430629680c9ffa586dcd29c670f188c05cba81f2de5dd65417cfbc7",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Ruiner 2000 - Steeplechase.xml",
+      "placements": 154,
+      "source_sha256": "6256c34c804a9bd76f8cb3db1830ad1d7406b20b7a4365c28a43c993c46b4b89",
+      "installed_sha256": "6256c34c804a9bd76f8cb3db1830ad1d7406b20b7a4365c28a43c993c46b4b89",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Ruiner 2000 - Target.xml",
+      "placements": 127,
+      "source_sha256": "0dfb5c0e2afa39b0b49d312de0fd751c4b6b1ff3e3633f9326861b95dbce29e8",
+      "installed_sha256": "0dfb5c0e2afa39b0b49d312de0fd751c4b6b1ff3e3633f9326861b95dbce29e8",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Ruiner 2000 - Tube Rider.xml",
+      "placements": 149,
+      "source_sha256": "887f79008aeba256ba73daa96a63e19b76d2014d4470d52d2d82fe38c73db9c1",
+      "installed_sha256": "887f79008aeba256ba73daa96a63e19b76d2014d4470d52d2d82fe38c73db9c1",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stromberg - Plunge.xml",
+      "placements": 154,
+      "source_sha256": "fae059535180e308a8411d22e24d146f04aa2dde33ba590dbecdfc49d1bff6c5",
+      "installed_sha256": "fae059535180e308a8411d22e24d146f04aa2dde33ba590dbecdfc49d1bff6c5",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stromberg - Spindrift.xml",
+      "placements": 198,
+      "source_sha256": "88b7f77118db03fd07620dca95815eefbb61ffcb46fe231d3dd73f3cc713256a",
+      "installed_sha256": "88b7f77118db03fd07620dca95815eefbb61ffcb46fe231d3dd73f3cc713256a",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stromberg - The Kraken.xml",
+      "placements": 220,
+      "source_sha256": "b84771b761adf7b0c62dd43aec425f3959608fc5a285ddd62116450b6588511d",
+      "installed_sha256": "b84771b761adf7b0c62dd43aec425f3959608fc5a285ddd62116450b6588511d",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Afterburner.xml",
+      "placements": 149,
+      "source_sha256": "17a2ee57ae758a31f0f3596389425faebcb0cf6a0f367e853be5a937d01fea24",
+      "installed_sha256": "17a2ee57ae758a31f0f3596389425faebcb0cf6a0f367e853be5a937d01fea24",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Around the Docks.xml",
+      "placements": 125,
+      "source_sha256": "5ddafe15407bd90b94de6e86d05cf2b45313596e85eb674f72c652d1567e1c9a",
+      "installed_sha256": "5ddafe15407bd90b94de6e86d05cf2b45313596e85eb674f72c652d1567e1c9a",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Big Drop.xml",
+      "placements": 150,
+      "source_sha256": "2185b8fd37f958da3b591209ed6bd1dd7934610f6e86ae81deaf3fc127c19481",
+      "installed_sha256": "2185b8fd37f958da3b591209ed6bd1dd7934610f6e86ae81deaf3fc127c19481",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Big M.xml",
+      "placements": 150,
+      "source_sha256": "5b3285da51cda03f78ecb745e348bf38988121e07e29f8c2e6245d92bcb7c626",
+      "installed_sha256": "5b3285da51cda03f78ecb745e348bf38988121e07e29f8c2e6245d92bcb7c626",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Canyon Crossing.xml",
+      "placements": 150,
+      "source_sha256": "073f2971546f904e826411f5a9c05d208e4570d735411dcca3d60be733946383",
+      "installed_sha256": "073f2971546f904e826411f5a9c05d208e4570d735411dcca3d60be733946383",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Chiliad.xml",
+      "placements": 170,
+      "source_sha256": "b116e6de5249a2d9e85ab864e4dde43fc3aa1deea484c40d34996015ed2cc385",
+      "installed_sha256": "b116e6de5249a2d9e85ab864e4dde43fc3aa1deea484c40d34996015ed2cc385",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - City Air.xml",
+      "placements": 148,
+      "source_sha256": "53053b6f56e265d8f5f2d5b9b6940a52b7d59e986426fdf3facc319cb11ce105",
+      "installed_sha256": "53053b6f56e265d8f5f2d5b9b6940a52b7d59e986426fdf3facc319cb11ce105",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Double Loop.xml",
+      "placements": 150,
+      "source_sha256": "4fff2332beda4da61a248e6e7012897b5ac8f038267af1844eb21eebffc7b65a",
+      "installed_sha256": "4fff2332beda4da61a248e6e7012897b5ac8f038267af1844eb21eebffc7b65a",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Downtown Loop.xml",
+      "placements": 150,
+      "source_sha256": "cd371a6b0cf184d12d74d32e60e1277cedba5bc7c49881eb0a8ca74919e4d574",
+      "installed_sha256": "cd371a6b0cf184d12d74d32e60e1277cedba5bc7c49881eb0a8ca74919e4d574",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Duel.xml",
+      "placements": 148,
+      "source_sha256": "a54bef3d256b2489cbc0b167760fab6d84bbb24914d126da44d2ca10f73c4c87",
+      "installed_sha256": "a54bef3d256b2489cbc0b167760fab6d84bbb24914d126da44d2ca10f73c4c87",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - East Coast.xml",
+      "placements": 150,
+      "source_sha256": "c50eac70614ce33b077f44c921046e6da7af8d7253410b1ad4841233fce234f8",
+      "installed_sha256": "c50eac70614ce33b077f44c921046e6da7af8d7253410b1ad4841233fce234f8",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Forest.xml",
+      "placements": 155,
+      "source_sha256": "bac4a3c156ffe46572ccd13f3553754ce1c173d89f454c4ceab822268bfea19e",
+      "installed_sha256": "bac4a3c156ffe46572ccd13f3553754ce1c173d89f454c4ceab822268bfea19e",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Gauntlet.xml",
+      "placements": 150,
+      "source_sha256": "9d0f7d9ee58767eb991940cb3a56ac38a08e0131293fa683cae149ab8778eeec",
+      "installed_sha256": "9d0f7d9ee58767eb991940cb3a56ac38a08e0131293fa683cae149ab8778eeec",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Green Machine.xml",
+      "placements": 150,
+      "source_sha256": "7ceebeb296c95099da9c7a8c44259921e9ed4d9ef8749189bf779c463fc377da",
+      "installed_sha256": "7ceebeb296c95099da9c7a8c44259921e9ed4d9ef8749189bf779c463fc377da",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - H200.xml",
+      "placements": 124,
+      "source_sha256": "3ea7c63a2ad4e2f6a280aef3057c7def3b7b05758ea8193fb21aaedd5ab839b0",
+      "installed_sha256": "3ea7c63a2ad4e2f6a280aef3057c7def3b7b05758ea8193fb21aaedd5ab839b0",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - High Flier.xml",
+      "placements": 150,
+      "source_sha256": "6452207fe4bad09f6b43a094944fdbda1c57f897607422859f08f41d1474c8ad",
+      "installed_sha256": "6452207fe4bad09f6b43a094944fdbda1c57f897607422859f08f41d1474c8ad",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - In the City.xml",
+      "placements": 150,
+      "source_sha256": "21109ea9048c15eeb9f04cabceacd6976d13607a40fd3599ac9ced73fc8f5e69",
+      "installed_sha256": "21109ea9048c15eeb9f04cabceacd6976d13607a40fd3599ac9ced73fc8f5e69",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Lift Off.xml",
+      "placements": 150,
+      "source_sha256": "068efa99bb5529628d410ea83ebeb6f2415b97b55d93a3b2d295bce3e091a69f",
+      "installed_sha256": "068efa99bb5529628d410ea83ebeb6f2415b97b55d93a3b2d295bce3e091a69f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Maze Bank Ascent.xml",
+      "placements": 143,
+      "source_sha256": "a64fce2303997fe8579b41b0471612747c64d941352c91129badd89a415ac6e6",
+      "installed_sha256": "a64fce2303997fe8579b41b0471612747c64d941352c91129badd89a415ac6e6",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Mountain Drop.xml",
+      "placements": 149,
+      "source_sha256": "ad355461ac63f044c6d80b8c3342480efba38e3f5b4c3df45833e5484c96b55e",
+      "installed_sha256": "ad355461ac63f044c6d80b8c3342480efba38e3f5b4c3df45833e5484c96b55e",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Nightlife.xml",
+      "placements": 144,
+      "source_sha256": "e33991919c696d61d508cf8a306dfa5d57719d6cab559b6f32a9de4edde1af77",
+      "installed_sha256": "e33991919c696d61d508cf8a306dfa5d57719d6cab559b6f32a9de4edde1af77",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Over and Under.xml",
+      "placements": 149,
+      "source_sha256": "cb1f003e15497c4c7c399f0d5a2a7fe366fb17f0f4645038bff4f0b1be9064ba",
+      "installed_sha256": "cb1f003e15497c4c7c399f0d5a2a7fe366fb17f0f4645038bff4f0b1be9064ba",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Over the Bridge.xml",
+      "placements": 163,
+      "source_sha256": "235cd863d4d215bf1a717c79eded0be9d72de8259ed36eeac31fce78f3f9e557",
+      "installed_sha256": "235cd863d4d215bf1a717c79eded0be9d72de8259ed36eeac31fce78f3f9e557",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Pier Race.xml",
+      "placements": 137,
+      "source_sha256": "37477194855bb58af36bb28a5860ddc1e9abc2d29781be3c316a7a4b35809187",
+      "installed_sha256": "37477194855bb58af36bb28a5860ddc1e9abc2d29781be3c316a7a4b35809187",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Plummet II.xml",
+      "placements": 150,
+      "source_sha256": "717199e7b91f8f094996a6813c41cbd3d8db720785693f948517fa590afd0958",
+      "installed_sha256": "717199e7b91f8f094996a6813c41cbd3d8db720785693f948517fa590afd0958",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Plummet.xml",
+      "placements": 150,
+      "source_sha256": "187498285fe9f07f38b8339e80a1b395e167f9508d464164860b38158cbc9a3e",
+      "installed_sha256": "187498285fe9f07f38b8339e80a1b395e167f9508d464164860b38158cbc9a3e",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Racing Alley.xml",
+      "placements": 157,
+      "source_sha256": "cb22eeef9c1c20bcd8c0fc770b5efdedfdd16abd7935911b3b993a4779d6cca0",
+      "installed_sha256": "cb22eeef9c1c20bcd8c0fc770b5efdedfdd16abd7935911b3b993a4779d6cca0",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Rally.xml",
+      "placements": 149,
+      "source_sha256": "1966d65fa6a4f0baa71664840816dc01ed43b61d36898a4a60de648662ebb6f1",
+      "installed_sha256": "1966d65fa6a4f0baa71664840816dc01ed43b61d36898a4a60de648662ebb6f1",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Raton.xml",
+      "placements": 137,
+      "source_sha256": "5b83f4034c45cdfef632678df9527ba9891252e5b5507efccab7df9eb30c055a",
+      "installed_sha256": "5b83f4034c45cdfef632678df9527ba9891252e5b5507efccab7df9eb30c055a",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Spinner.xml",
+      "placements": 150,
+      "source_sha256": "d09fd1a6104e98e2382bd122dcee771d2000bbecaba33247917f804a64e161a6",
+      "installed_sha256": "d09fd1a6104e98e2382bd122dcee771d2000bbecaba33247917f804a64e161a6",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Splits.xml",
+      "placements": 150,
+      "source_sha256": "0a5cf5b1a5230e4e2928ac214d0257eca944153704d76003ffc1c088f09f020e",
+      "installed_sha256": "0a5cf5b1a5230e4e2928ac214d0257eca944153704d76003ffc1c088f09f020e",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - The Wave.xml",
+      "placements": 144,
+      "source_sha256": "2e0fe1cac9fd96939c8cb042217d274490533565ccfd479bc3f0222aca89dba7",
+      "installed_sha256": "2e0fe1cac9fd96939c8cb042217d274490533565ccfd479bc3f0222aca89dba7",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Threading the Needle.xml",
+      "placements": 150,
+      "source_sha256": "873b30dc75a5eb653d7c402d0334934a3e99b3b53e7621705661f4eda54dbfc9",
+      "installed_sha256": "873b30dc75a5eb653d7c402d0334934a3e99b3b53e7621705661f4eda54dbfc9",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Trench I.xml",
+      "placements": 150,
+      "source_sha256": "39642278b9bd52eb8aeb49be1ec033645565aea2a4493b5780d98aef46d03206",
+      "installed_sha256": "39642278b9bd52eb8aeb49be1ec033645565aea2a4493b5780d98aef46d03206",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Trench II.xml",
+      "placements": 147,
+      "source_sha256": "bf173e976b394946b28cd5a3cf9e83c8f96795379552ec9407a47de6c36350ab",
+      "installed_sha256": "bf173e976b394946b28cd5a3cf9e83c8f96795379552ec9407a47de6c36350ab",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Trench III.xml",
+      "placements": 150,
+      "source_sha256": "f780b28881903f65d019457969b5d7869259274be8f2346275ad3bfb3ffae5d4",
+      "installed_sha256": "f780b28881903f65d019457969b5d7869259274be8f2346275ad3bfb3ffae5d4",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Turbine.xml",
+      "placements": 150,
+      "source_sha256": "3307adc8ec43e4f8800f0688eb68efa753874a9a8a5d88023f2ec8e74cd08aea",
+      "installed_sha256": "3307adc8ec43e4f8800f0688eb68efa753874a9a8a5d88023f2ec8e74cd08aea",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Vespucci.xml",
+      "placements": 129,
+      "source_sha256": "3aa05d568c2fe27491de5bde370000d40b63632a968a55a345108d0730e41cb7",
+      "installed_sha256": "3aa05d568c2fe27491de5bde370000d40b63632a968a55a345108d0730e41cb7",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Vinewood Downhill.xml",
+      "placements": 149,
+      "source_sha256": "c2bbbe1a3a056d218e5a64e657992bbe17e17f906fdef85acf3a58e6cc06c0d7",
+      "installed_sha256": "c2bbbe1a3a056d218e5a64e657992bbe17e17f906fdef85acf3a58e6cc06c0d7",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Wall Climb.xml",
+      "placements": 149,
+      "source_sha256": "3add3eabc95965879e28890fa7717fab70bec7f4a927adc88b19b639f09021d9",
+      "installed_sha256": "3add3eabc95965879e28890fa7717fab70bec7f4a927adc88b19b639f09021d9",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt - Zebra.xml",
+      "placements": 150,
+      "source_sha256": "529308ada6b4fcb3955f922b869f644fde1fac7c2cb69bce467dec3199d172a8",
+      "installed_sha256": "529308ada6b4fcb3955f922b869f644fde1fac7c2cb69bce467dec3199d172a8",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Stunt race 3.xml",
+      "placements": 151,
+      "source_sha256": "68c62689f21228e65ce35bd45d7a97b6ac771ad2f4d399cbad7344f8e01704a8",
+      "installed_sha256": "1e72fb228b5309f98b4738223293920260a5f44eb5b4c0d5538cda30083cbfe7",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Rockstar Maps/Stunt45.xml",
+      "placements": 150,
+      "source_sha256": "5c30c4050fda9c5320181e6d01c13481a301e20a85750a9eb32de8f403ab28d8",
+      "installed_sha256": "5c30c4050fda9c5320181e6d01c13481a301e20a85750a9eb32de8f403ab28d8",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Super Speed Ring.xml",
+      "placements": 511,
+      "source_sha256": "2c30daa1d5993639fdd30ed1893a5433f2f2795f60dae815383d0eaa75f6188b",
+      "installed_sha256": "2c30daa1d5993639fdd30ed1893a5433f2f2795f60dae815383d0eaa75f6188b",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/The Incident.xml",
+      "placements": 1725,
+      "source_sha256": "256dfd766c69a2acd0289aba1b322470c062ece96ab43a35ef141a7d98380522",
+      "installed_sha256": "256dfd766c69a2acd0289aba1b322470c062ece96ab43a35ef141a7d98380522",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Thruster - Chiliad Drop.xml",
+      "placements": 120,
+      "source_sha256": "d69395aef3310b76bafd6b002fa745a133ba7ff5711d1b4bebc0a5c6544d0467",
+      "installed_sha256": "d69395aef3310b76bafd6b002fa745a133ba7ff5711d1b4bebc0a5c6544d0467",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Thruster - FlyLo Challenge.xml",
+      "placements": 77,
+      "source_sha256": "72dd4b5e9cfaa365695771ec68f3ba728f34f3474fcbfa164493caf8940894d7",
+      "installed_sha256": "72dd4b5e9cfaa365695771ec68f3ba728f34f3474fcbfa164493caf8940894d7",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Thruster - Vinewood Air Tours.xml",
+      "placements": 83,
+      "source_sha256": "820cf72ae4ad6d47268ff610a0fd5d15afc02a73149b80177f8a01f5d39867b3",
+      "installed_sha256": "820cf72ae4ad6d47268ff610a0fd5d15afc02a73149b80177f8a01f5d39867b3",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - 90.xml",
+      "placements": 149,
+      "source_sha256": "8cb26732466c6415d279c41287f26134e537be9e6f321c3f5ba32fa733fbbfab",
+      "installed_sha256": "8cb26732466c6415d279c41287f26134e537be9e6f321c3f5ba32fa733fbbfab",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Acropolis Now.xml",
+      "placements": 150,
+      "source_sha256": "cba7ef68eb0f50986e8ade4176c72ccb3259c18ca5201f8d832c9cc0ce050f5e",
+      "installed_sha256": "cba7ef68eb0f50986e8ade4176c72ccb3259c18ca5201f8d832c9cc0ce050f5e",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Canal Crosser.xml",
+      "placements": 138,
+      "source_sha256": "338d69d87dd3a3c64e5bae4b4bdf405a769d71fce396e50056448c65931e36b3",
+      "installed_sha256": "338d69d87dd3a3c64e5bae4b4bdf405a769d71fce396e50056448c65931e36b3",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Crossroads.xml",
+      "placements": 149,
+      "source_sha256": "d902d92894a341466d96623153ecd229fa6aa82de6aec6d31093c86ead364b07",
+      "installed_sha256": "d902d92894a341466d96623153ecd229fa6aa82de6aec6d31093c86ead364b07",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Dam Control.xml",
+      "placements": 148,
+      "source_sha256": "4609263b9b89a8f7b4526fb1832e351151865c1f9e6a180dab8428ff3c8a3b69",
+      "installed_sha256": "4609263b9b89a8f7b4526fb1832e351151865c1f9e6a180dab8428ff3c8a3b69",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Dead Drop.xml",
+      "placements": 149,
+      "source_sha256": "8ad84586a27f5a71043b065e6aa54a035856bfb4217da8e804a7e1953afd9682",
+      "installed_sha256": "8ad84586a27f5a71043b065e6aa54a035856bfb4217da8e804a7e1953afd9682",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Dockades of Fun.xml",
+      "placements": 163,
+      "source_sha256": "98a0219790c004713698b1d193880240437f511ef1b56d346a911a7e54b24038",
+      "installed_sha256": "98a0219790c004713698b1d193880240437f511ef1b56d346a911a7e54b24038",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Evolution.xml",
+      "placements": 200,
+      "source_sha256": "00fc7ffd9e5bd88e69a2f2f442e3c3c872a9c0e9209ab1fb35221ce10660bcc6",
+      "installed_sha256": "00fc7ffd9e5bd88e69a2f2f442e3c3c872a9c0e9209ab1fb35221ce10660bcc6",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Fairway Drive.xml",
+      "placements": 149,
+      "source_sha256": "730e48819fb482164f6556d7fbab396899811cd5e29434e8736cd449155e10b7",
+      "installed_sha256": "730e48819fb482164f6556d7fbab396899811cd5e29434e8736cd449155e10b7",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Gauntlet II.xml",
+      "placements": 150,
+      "source_sha256": "e3a60795fccda72779a75602da3d96ab7f14137effaa7cd1fb33c74d08dce8b8",
+      "installed_sha256": "e3a60795fccda72779a75602da3d96ab7f14137effaa7cd1fb33c74d08dce8b8",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Get Wrecked.xml",
+      "placements": 150,
+      "source_sha256": "fde9cbb97fae10a13106a162cd5e11655ecb620eb858ca679d020f0bdc581ddb",
+      "installed_sha256": "fde9cbb97fae10a13106a162cd5e11655ecb620eb858ca679d020f0bdc581ddb",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Home Run.xml",
+      "placements": 148,
+      "source_sha256": "23671926f26b1b7b667053459dc8e7eb378be461214dd5230451f21e17de7eff",
+      "installed_sha256": "23671926f26b1b7b667053459dc8e7eb378be461214dd5230451f21e17de7eff",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Inferno.xml",
+      "placements": 136,
+      "source_sha256": "95a8ded5cae2023da5b7e3bc5865c0487e848a7338f25cce1b8b46b247190794",
+      "installed_sha256": "95a8ded5cae2023da5b7e3bc5865c0487e848a7338f25cce1b8b46b247190794",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Junk Yard.xml",
+      "placements": 150,
+      "source_sha256": "d83fffa7afa512b09336a0ae80790281b3f4d7a4f5959368b1f85b8d08caffd8",
+      "installed_sha256": "d83fffa7afa512b09336a0ae80790281b3f4d7a4f5959368b1f85b8d08caffd8",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Looped.xml",
+      "placements": 150,
+      "source_sha256": "b503efee577fe5d8b9ec987159f967a2eb30d21a1289ecc6d0f798032887da82",
+      "installed_sha256": "b503efee577fe5d8b9ec987159f967a2eb30d21a1289ecc6d0f798032887da82",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Maverick.xml",
+      "placements": 150,
+      "source_sha256": "3288c12edf17abaf61dfe9eee5857dd46b414f17ecfde794f5b6145cb8f057b7",
+      "installed_sha256": "3288c12edf17abaf61dfe9eee5857dd46b414f17ecfde794f5b6145cb8f057b7",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Mckenzie.xml",
+      "placements": 146,
+      "source_sha256": "e1c98256bbab2abba498de308c88658131b298fc9125bba03f5f9a2ffb83b3c6",
+      "installed_sha256": "e1c98256bbab2abba498de308c88658131b298fc9125bba03f5f9a2ffb83b3c6",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Mixed-up.xml",
+      "placements": 120,
+      "source_sha256": "efbc527b6a0376c049d26fa57ef9249e496787c8ee216de3eb06a4ce5f101bb8",
+      "installed_sha256": "efbc527b6a0376c049d26fa57ef9249e496787c8ee216de3eb06a4ce5f101bb8",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Neon Mountain.xml",
+      "placements": 150,
+      "source_sha256": "f2708ee580c288b7d702c564fb432443fc72b19c7351777484e1b81bffab1f2e",
+      "installed_sha256": "f2708ee580c288b7d702c564fb432443fc72b19c7351777484e1b81bffab1f2e",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Odyssey.xml",
+      "placements": 150,
+      "source_sha256": "b5d69b0dba2a6e5fdaa6c13af4a63da83d064a89c52e4119f88829b3e3b8589b",
+      "installed_sha256": "b5d69b0dba2a6e5fdaa6c13af4a63da83d064a89c52e4119f88829b3e3b8589b",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Pipes Pipes Pipes.xml",
+      "placements": 148,
+      "source_sha256": "58348921344d5863fac96573f0eab106b8135f0b776834048b4a0c35026fad0a",
+      "installed_sha256": "58348921344d5863fac96573f0eab106b8135f0b776834048b4a0c35026fad0a",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Plane and Simple.xml",
+      "placements": 177,
+      "source_sha256": "259ed98b55fb0e93cd5f0db40b86ca33650019d294554046c9bdf8cead173b74",
+      "installed_sha256": "259ed98b55fb0e93cd5f0db40b86ca33650019d294554046c9bdf8cead173b74",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Plummet III.xml",
+      "placements": 150,
+      "source_sha256": "93130a02c8ddfe86da6f7ba26c42b78c27e87b7d793a06e4b615941718c04e31",
+      "installed_sha256": "93130a02c8ddfe86da6f7ba26c42b78c27e87b7d793a06e4b615941718c04e31",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Separation.xml",
+      "placements": 150,
+      "source_sha256": "b3e6c888915794d65a7448b0c0e28713f77d14378e4b81d3b684e08a972ee2bb",
+      "installed_sha256": "b3e6c888915794d65a7448b0c0e28713f77d14378e4b81d3b684e08a972ee2bb",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Size Matters.xml",
+      "placements": 187,
+      "source_sha256": "89845f38a5ad679e5f1438e5a291ed8e8aef9f2c3589a96cb89f82172ca7cdaf",
+      "installed_sha256": "89845f38a5ad679e5f1438e5a291ed8e8aef9f2c3589a96cb89f82172ca7cdaf",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Slalom.xml",
+      "placements": 127,
+      "source_sha256": "de75134ff12a911e97de86747a793d2005b039720078ed783f7a677c5bf28f7d",
+      "installed_sha256": "de75134ff12a911e97de86747a793d2005b039720078ed783f7a677c5bf28f7d",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Slam Dunk.xml",
+      "placements": 135,
+      "source_sha256": "8bead0470ec25670888275051309f40251596a6ccd96cbb95bd8446cfe496d19",
+      "installed_sha256": "8bead0470ec25670888275051309f40251596a6ccd96cbb95bd8446cfe496d19",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Snakes and a Plane.xml",
+      "placements": 150,
+      "source_sha256": "6b24b36a5e5a2f47f6074e742b4451a920fda68931ba3e7065a22a95c251af36",
+      "installed_sha256": "6b24b36a5e5a2f47f6074e742b4451a920fda68931ba3e7065a22a95c251af36",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Splash Landing.xml",
+      "placements": 150,
+      "source_sha256": "8574cc62e558aafd583e5d38e672a1efbe68fbca17a3dbabf40776c5b54c4c01",
+      "installed_sha256": "8574cc62e558aafd583e5d38e672a1efbe68fbca17a3dbabf40776c5b54c4c01",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Split Personality.xml",
+      "placements": 150,
+      "source_sha256": "5e367e7e70cefb26a27c630dff0b03546b20c6fcafcf7c414159eb2691a06215",
+      "installed_sha256": "5e367e7e70cefb26a27c630dff0b03546b20c6fcafcf7c414159eb2691a06215",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Switch Up.xml",
+      "placements": 126,
+      "source_sha256": "567b0a7cc6072d2e2bfef0a9ea081bc0476d2112de1612355dc4107d4e341d1c",
+      "installed_sha256": "567b0a7cc6072d2e2bfef0a9ea081bc0476d2112de1612355dc4107d4e341d1c",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - The Dragon.xml",
+      "placements": 149,
+      "source_sha256": "045d9cf28258a18b78b65e94b28af44a18c04185add95091e1b0c5ad2fc1cfb3",
+      "installed_sha256": "045d9cf28258a18b78b65e94b28af44a18c04185add95091e1b0c5ad2fc1cfb3",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - The Grotti Circuit.xml",
+      "placements": 176,
+      "source_sha256": "09271fbea546c36b49df745abda46eec70dc85cce5a4b404794417876f686f9f",
+      "installed_sha256": "09271fbea546c36b49df745abda46eec70dc85cce5a4b404794417876f686f9f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Trench IV.xml",
+      "placements": 149,
+      "source_sha256": "d61774954299bc4a3a2b0aa8078a65718818d1ac0c39b399fe1ffa3c2de8a9ee",
+      "installed_sha256": "d61774954299bc4a3a2b0aa8078a65718818d1ac0c39b399fe1ffa3c2de8a9ee",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Tug Life.xml",
+      "placements": 121,
+      "source_sha256": "cfb1e2cccf86141cf52c4a683230400c559936614d6a58b44814d7cf2c325049",
+      "installed_sha256": "cfb1e2cccf86141cf52c4a683230400c559936614d6a58b44814d7cf2c325049",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Twister II.xml",
+      "placements": 200,
+      "source_sha256": "b65fbeece4e004838574ff63277e30ee0160c3991b52472b51957d5256b1b1f4",
+      "installed_sha256": "b65fbeece4e004838574ff63277e30ee0160c3991b52472b51957d5256b1b1f4",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Twister.xml",
+      "placements": 150,
+      "source_sha256": "da23ab802f1d64cf2da4f3c4c5c80c7c6ef0f978cf61585e87e791eb56bb6128",
+      "installed_sha256": "da23ab802f1d64cf2da4f3c4c5c80c7c6ef0f978cf61585e87e791eb56bb6128",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Vinewood Thrills.xml",
+      "placements": 148,
+      "source_sha256": "569c7b8b9758762f6ccc46e8d449c52bdd68b8eb384412ea178a111e2be541a0",
+      "installed_sha256": "569c7b8b9758762f6ccc46e8d449c52bdd68b8eb384412ea178a111e2be541a0",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform - Warped.xml",
+      "placements": 134,
+      "source_sha256": "0a26fd80c846498f5bd5f07055466bb5a356d0a055c3a17f2461d8580a4f1951",
+      "installed_sha256": "0a26fd80c846498f5bd5f07055466bb5a356d0a055c3a17f2461d8580a4f1951",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/Transform90.xml",
+      "placements": 149,
+      "source_sha256": "8cb26732466c6415d279c41287f26134e537be9e6f321c3f5ba32fa733fbbfab",
+      "installed_sha256": "8cb26732466c6415d279c41287f26134e537be9e6f321c3f5ba32fa733fbbfab",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Rockstar Maps/glass bridge.xml",
+      "placements": 140,
+      "source_sha256": "c12ea9e8eb6aec6f4bd556c2291476b430501832ed72846cc6331e3d1d8c0312",
+      "installed_sha256": "c12ea9e8eb6aec6f4bd556c2291476b430501832ed72846cc6331e3d1d8c0312",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/Airport Course.xml",
+      "placements": 31,
+      "source_sha256": "ef8553d9b4577a47d6a2a4a896e707fab42510e9a7cedf562db7da518a695ac5",
+      "installed_sha256": "ef8553d9b4577a47d6a2a4a896e707fab42510e9a7cedf562db7da518a695ac5",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/Airport Drift Two.xml",
+      "placements": 450,
+      "source_sha256": "15984b66912e82afbd8eeffbdc5d9a944f4b0adf5b4586c9abbd466f9d7ac1ef",
+      "installed_sha256": "15984b66912e82afbd8eeffbdc5d9a944f4b0adf5b4586c9abbd466f9d7ac1ef",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/Airport Loop.xml",
+      "placements": 5,
+      "source_sha256": "851ffb9c90802f3aec8bc282968bd58e59710b0a1354835fbec3556d0f0e914f",
+      "installed_sha256": "851ffb9c90802f3aec8bc282968bd58e59710b0a1354835fbec3556d0f0e914f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/Airport SkatePark.xml",
+      "placements": 30,
+      "source_sha256": "9399fa0d7e88bf637ad53f4a4eaeaa18a05a73a2ea9ea663e18e34f93785d71f",
+      "installed_sha256": "9399fa0d7e88bf637ad53f4a4eaeaa18a05a73a2ea9ea663e18e34f93785d71f",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/AirportParkour.xml",
+      "placements": 36,
+      "source_sha256": "26d7ecf643d630da11358dbf4e45907c3546745e02776955e9131ae71bfa310c",
+      "installed_sha256": "26d7ecf643d630da11358dbf4e45907c3546745e02776955e9131ae71bfa310c",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/Drift GROTTI.xml",
+      "placements": 161,
+      "source_sha256": "bf9184b64af4f22cff3981e922a65cba4db52fbf8dd630f49da9aaa1609f0b7e",
+      "installed_sha256": "bf9184b64af4f22cff3981e922a65cba4db52fbf8dd630f49da9aaa1609f0b7e",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/MEGA RACE 3.xml",
+      "placements": 300,
+      "source_sha256": "22b7c65cd83f90ae7b752c8a0e2eadf1878c0e00bc26bc74c874f6380876307e",
+      "installed_sha256": "22b7c65cd83f90ae7b752c8a0e2eadf1878c0e00bc26bc74c874f6380876307e",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/Map type 2.xml",
+      "placements": 218,
+      "source_sha256": "33a1f263c104568e86ee611219defe20da45ee77fad2e088064e4f16b653bede",
+      "installed_sha256": "33a1f263c104568e86ee611219defe20da45ee77fad2e088064e4f16b653bede",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/Stromberg - Spindrift.xml",
+      "placements": 198,
+      "source_sha256": "88b7f77118db03fd07620dca95815eefbb61ffcb46fe231d3dd73f3cc713256a",
+      "installed_sha256": "88b7f77118db03fd07620dca95815eefbb61ffcb46fe231d3dd73f3cc713256a",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/Stromberg - The Kraken.xml",
+      "placements": 220,
+      "source_sha256": "b84771b761adf7b0c62dd43aec425f3959608fc5a285ddd62116450b6588511d",
+      "installed_sha256": "b84771b761adf7b0c62dd43aec425f3959608fc5a285ddd62116450b6588511d",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/Stunt - Chiliad.xml",
+      "placements": 170,
+      "source_sha256": "b116e6de5249a2d9e85ab864e4dde43fc3aa1deea484c40d34996015ed2cc385",
+      "installed_sha256": "b116e6de5249a2d9e85ab864e4dde43fc3aa1deea484c40d34996015ed2cc385",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/Stunt race 1.xml",
+      "placements": 178,
+      "source_sha256": "43d6237990f1c742a3a3e7395889876489e9232d5d04c5b3857399c5cf1ca5cc",
+      "installed_sha256": "a791cc4262799a6bf1d17a8fc586b69b39c262ef0a4cd9ba0afea91966730aa7",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Stunt/Stunt race 2.xml",
+      "placements": 167,
+      "source_sha256": "390355f8f68ffee388892687e2914776cf5feb59bfe28442425d78a15688c60b",
+      "installed_sha256": "28c0ab03ddcb75b2dc99b0258275c5fd7318f9a0e95a83e082664a81d1f8d67b",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Stunt/Ultra Ramp.xml",
+      "placements": 72,
+      "source_sha256": "17d2f340ab0827161bf97024882e88f90e66566ec1b28745aebfb76b694396c2",
+      "installed_sha256": "17d2f340ab0827161bf97024882e88f90e66566ec1b28745aebfb76b694396c2",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Stunt/stuntrace.xml",
+      "placements": 464,
+      "source_sha256": "90ddb732ac3ecfdd45e1c82805b18ef420c42218c645a0689366d1371b1a185d",
+      "installed_sha256": "90ddb732ac3ecfdd45e1c82805b18ef420c42218c645a0689366d1371b1a185d",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/Aerial_Islands.xml",
+      "placements": 22,
+      "source_sha256": "54005c1f5b8f94c52a335d5335ae0adcae532dfd30083566adf34eb1a5f36348",
+      "installed_sha256": "c1b1e301c813a4cca755bf3616dd74aea2d3c64b4397a054f6c1bf4582539257",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/Bi er zi.xml",
+      "placements": 62,
+      "source_sha256": "1d1bae995038bbfc9e06620e13e9b9115acf9ae3477e47b55745e16a076880a0",
+      "installed_sha256": "cbae3da8992398428de115dc234ae7beaff768ad2a0c29765502824955059b09",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/CS JTZ.xml",
+      "placements": 48,
+      "source_sha256": "30a867af9b20957b6dc4a50e6618e780d87aaeeb298b2a4c01dc64a65ec9fb2e",
+      "installed_sha256": "2ffdb47b8a0e761f054fd529e70c800e9348ec29ce56ef81c987e12294717937",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/CS Jian lao.xml",
+      "placements": 71,
+      "source_sha256": "01ad674ada09ad8da3c19b8c208fbb5232fa9e6b684ba76072d14ea73896a7e6",
+      "installed_sha256": "34c68cb62cb25a8ba9d3e8ce8b19103d3db3be3de4409b0121f45ded36fdbebb",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/CS Motian.xml",
+      "placements": 78,
+      "source_sha256": "4971a52008d1c56d2ddd4fca0d5cf308afa4990d8c1c91581fc08300206a5a59",
+      "installed_sha256": "25346f72cb8625c2f8f1081f4f82933ec8b32b0ee6c602dcf209245d3d2a5057",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/CS bierzi.xml",
+      "placements": 62,
+      "source_sha256": "78f0ae6e42574af8d95df0282c704f22cb24496dcfd4d965df0b8137e7e805f1",
+      "installed_sha256": "d16ed0bd0d1474d43ffbc92bf81e6b291390eb22d46708f13b354f72c3ce894d",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/CS bierzi2.0.xml",
+      "placements": 62,
+      "source_sha256": "95025f6f1126f5600eeeb61c3e7c6514d03ae0ca798d5f10ddd0e37b385a9b60",
+      "installed_sha256": "c1f81fcb5f8ff4eecfc43013a3e12ee3b0d1cef82882a95c0802ba74257a9564",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/CS daobei.xml",
+      "placements": 64,
+      "source_sha256": "9444b9f9bbd761a3eee179658022a738675d9868411db3ac8bbe6fcf9b0f95fa",
+      "installed_sha256": "c88ed0d889da108683b4bc996102557b6dacc9773d4eae3b3f8c54c01ca702a7",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/CS dashan D.xml",
+      "placements": 48,
+      "source_sha256": "227908b0d98847a416f34dbf589d85381cacfc2ae282bf6891c6261f4c4ceaa9",
+      "installed_sha256": "ca7a748c2c395614be384248f01e86568c2dda4753030a9b24253654ecdd0c14",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/CS dashan.xml",
+      "placements": 66,
+      "source_sha256": "a00199014ab9d4dac4e542c634f8fadb1e1bcf467307c7e1de23112e848a65be",
+      "installed_sha256": "52f811ebf889c2006e23bfddf2d4266b3ec6a61399cecf986125eb5df4d27251",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/Cao bi.xml",
+      "placements": 59,
+      "source_sha256": "db97b7763f09c4d1d24d63f04e6c2815528d11a49227af1eea387b913718b96a",
+      "installed_sha256": "162fb0142ef888efa42a3927ef0a98cd283be3c28e307ac84b1a042bf42211e7",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/Dao meng.xml",
+      "placements": 56,
+      "source_sha256": "3b148940646eaa234e3e4ce11939bc41d757379671bd86183a51490cd3aa874d",
+      "installed_sha256": "cfb3161059003c4e505a4b5b74535bc082e6d2d6bd123782df0f836b8b886bdf",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/Dao meng2.0.xml",
+      "placements": 77,
+      "source_sha256": "fb7bf250230946fd10ce746711bccfb5757821ca7c7a76a7c1cd8cb208842ac1",
+      "installed_sha256": "ec86c4a577020c525454220ed98d4e7fec00c47d9c4fe7c93b14e839fdbf3405",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/Hiatanren.xml",
+      "placements": 47,
+      "source_sha256": "50f2caf887290fd6cbeb0b1b5bef1e9cdf5ccd38bc35542b830067275597ba1d",
+      "installed_sha256": "44a1b2bc7e94108d6cd5d35c816bcf02fccf4a916409f45caa7dc21f72e97fa6",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/JC Motian.xml",
+      "placements": 78,
+      "source_sha256": "829e641b5c739aa083295ae58490598d09e08b87d8439a97fdbf54bebf4112de",
+      "installed_sha256": "31050c4df1a6828b112134d63b0d40ea1f79097742cd16912fc518e75b75bed1",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/Jian lao.xml",
+      "placements": 47,
+      "source_sha256": "21dc8dd8d0bfe78f9957b51b10b888ff81185a5b4d2b48643e102a82e90d0c68",
+      "installed_sha256": "4b8cc49cb145818e393e68e1302ae544f0307f7d0d3c2b15cdc3586fd38885fa",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/Jiao lao2.0.xml",
+      "placements": 47,
+      "source_sha256": "c0baed00951ae6bc886a9d296c0a1e81270ee8de8f6e3a9538df20258896c7b6",
+      "installed_sha256": "c6bee7397a49c1bf5dab174405a10b465c3c61dafa82f187cf186bbe1014646c",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/SM JZT.xml",
+      "placements": 48,
+      "source_sha256": "4afb7dea57c784b0743a7377c3ff103b4b4e2c25d0a1890ad791cb4e5a7a39f5",
+      "installed_sha256": "062eab63ec02a2fe3a2fd57c4be1f2502584d2264028781b3251539770810f0f",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/Upside_Down_Worldv2.xml",
+      "placements": 55,
+      "source_sha256": "43c5b172a0e621345f5c28a56496b9b20fb5b19c0e617191018b4b999a4f7129",
+      "installed_sha256": "43c5b172a0e621345f5c28a56496b9b20fb5b19c0e617191018b4b999a4f7129",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/Upside_down_mapv1.xml",
+      "placements": 77,
+      "source_sha256": "6564a2ee5f9f5ced7ca2d63552bca609957bca15908fc4fa5a2f363d2357c101",
+      "installed_sha256": "6564a2ee5f9f5ced7ca2d63552bca609957bca15908fc4fa5a2f363d2357c101",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/Xing QDZ.xml",
+      "placements": 70,
+      "source_sha256": "3c46738b98b7bcde919ce2aab75f5e606ed48183b9b900ddb5ef708f20ab0506",
+      "installed_sha256": "b4315c4c8491248bbedabe71307695f954026199fe1cf30690c0323a4072b654",
+      "declaration_repaired": true
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/cronus_EntireMap.xml",
+      "placements": 78,
+      "source_sha256": "d8eaf3c79b789f54ffa2d6c00439deea5c6d6c237497a08bd96b318aed8e85bd",
+      "installed_sha256": "d8eaf3c79b789f54ffa2d6c00439deea5c6d6c237497a08bd96b318aed8e85bd",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/cronus_EntireMap_UpsideDown.xml",
+      "placements": 78,
+      "source_sha256": "30da7b9f1dd99d4aee1e3b48f1b913b8eefafb9a4b88fa78a7bb5442efb5e242",
+      "installed_sha256": "30da7b9f1dd99d4aee1e3b48f1b913b8eefafb9a4b88fa78a7bb5442efb5e242",
+      "declaration_repaired": false
+    },
+    {
+      "path": "Upside Down Maps and Big World Stuff/cronus_FloatingMount.xml",
+      "placements": 52,
+      "source_sha256": "9abcdff97a1fef4c6475ddefa1297e8686d81d08908521a32c569739aac1da88",
+      "installed_sha256": "9abcdff97a1fef4c6475ddefa1297e8686d81d08908521a32c569739aac1da88",
+      "declaration_repaired": false
+    }
+  ]
+}

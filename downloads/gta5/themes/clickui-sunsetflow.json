@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4178577944,
+  "windowBorder": 1346203135,
+  "windowScrollbar": 4282216191,
+  "windowCursor": 4282216191,
+  "tabSelectedIcon": 4282216191,
+  "tabIndicator": 4282216191,
+  "categoryIndicator": 4282216191,
+  "toggleOn": 4282216191,
+  "sliderFilled": 4282216191,
+  "childTitle": 4282216191,
+  "childAccentLeft": 4282216191,
+  "contentSectionText": 4282216191,
+  "textAccent": 4282216191,
+  "notificationAccent": 4282216191,
+  "childBackground": 1708842,
+  "groupBackground": 1708842,
+  "groupBorder": 1190091688,
+  "contentPanelBackground": 3944354602,
+  "contentListBackground": 3692696362,
+  "tabUnselectedBg": 1679430442,
+  "categoryUnselectedBg": 1343886122,
+  "gradientStart": 4282216191,
+  "gradientEnd": 4293942440,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Sunset Flow ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

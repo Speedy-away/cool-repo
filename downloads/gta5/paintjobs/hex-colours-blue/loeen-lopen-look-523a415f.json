@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Blue",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                21,
+                242,
+                253
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                21,
+                242,
+                253
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#15F2FD",
+    "model": 0,
+    "name": "Loeen (Lopen) Look",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

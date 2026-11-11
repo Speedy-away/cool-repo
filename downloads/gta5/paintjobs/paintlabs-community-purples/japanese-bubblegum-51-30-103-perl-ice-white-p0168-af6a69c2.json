@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0168",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                51,
+                30,
+                103
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                51,
+                30,
+                103
+            ]
+        }
+    },
+    "creator": "IkuesDatabase",
+    "format": "scooby.paintjob",
+    "hex": "#331E67AA",
+    "model": 0,
+    "name": "Japanese Bubblegum (51,30,103) - PERL - Ice white",
+    "secondary_hex": "#331E67",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

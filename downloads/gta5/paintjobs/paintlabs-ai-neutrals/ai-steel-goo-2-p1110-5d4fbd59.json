@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1110",
+    "category": "PaintLabs - AI - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 139,
+                "enabled": true
+            },
+            "rgb": [
+                26,
+                27,
+                27
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                26,
+                27,
+                27
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#1A1B1BAA",
+    "model": 0,
+    "name": "Ai Steel Goo 2",
+    "secondary_hex": "#1A1B1B",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

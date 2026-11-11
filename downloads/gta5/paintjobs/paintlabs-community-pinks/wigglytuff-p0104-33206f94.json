@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0104",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 136,
+                "enabled": true
+            },
+            "rgb": [
+                255,
+                115,
+                159
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                115,
+                159
+            ]
+        }
+    },
+    "creator": "Jester's Gaming Vids",
+    "format": "scooby.paintjob",
+    "hex": "#FF739F",
+    "model": 0,
+    "name": "Wigglytuff",
+    "secondary_hex": "#FF739F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

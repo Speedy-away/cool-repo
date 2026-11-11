@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4178514696,
+  "windowBorder": 1351405895,
+  "windowScrollbar": 4287418695,
+  "windowCursor": 4287418695,
+  "tabSelectedIcon": 4287418695,
+  "tabIndicator": 4287418695,
+  "categoryIndicator": 4287418695,
+  "toggleOn": 4287418695,
+  "sliderFilled": 4287418695,
+  "childTitle": 4287418695,
+  "childAccentLeft": 4287418695,
+  "contentSectionText": 4287418695,
+  "textAccent": 4287418695,
+  "notificationAccent": 4287418695,
+  "childBackground": 1712401,
+  "groupBackground": 1712401,
+  "groupBorder": 1184488278,
+  "contentPanelBackground": 3944358161,
+  "contentListBackground": 3692699921,
+  "tabUnselectedBg": 1679434001,
+  "categoryUnselectedBg": 1343889681,
+  "gradientStart": 1798524180,
+  "gradientEnd": 532250,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Verdant Alloy ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

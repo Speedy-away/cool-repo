@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0618",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 3,
+                "enabled": true
+            },
+            "rgb": [
+                100,
+                45,
+                31
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                100,
+                45,
+                31
+            ]
+        }
+    },
+    "creator": "C64fanatic",
+    "format": "scooby.paintjob",
+    "hex": "#642D1FAA",
+    "model": 0,
+    "name": "C64 Fanatic's Cool Peach Orange",
+    "secondary_hex": "#642D1F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

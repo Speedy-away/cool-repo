@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0240",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                132,
+                112,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                132,
+                112,
+                255
+            ]
+        }
+    },
+    "creator": "stargazergaming",
+    "format": "scooby.paintjob",
+    "hex": "#8470FF",
+    "model": 0,
+    "name": "PSN ID : | neighbour222",
+    "secondary_hex": "#8470FF",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

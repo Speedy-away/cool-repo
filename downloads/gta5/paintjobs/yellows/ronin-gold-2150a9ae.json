@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                251,
+                184,
+                41
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                251,
+                184,
+                41
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#FBB829AA",
+    "model": 0,
+    "name": "Ronin Gold",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

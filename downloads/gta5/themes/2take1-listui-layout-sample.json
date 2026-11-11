@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "enabled": true,
+  "home": "local",
+  "pages": {
+    "local": {
+      "title": "Local",
+      "tabs": [
+        {
+          "label": "Local",
+          "page": "local"
+        },
+        {
+          "label": "Online",
+          "page": "online"
+        },
+        {
+          "label": "Spawn",
+          "page": "spawn"
+        }
+      ],
+      "entries": [
+        {
+          "source": [
+            "Self"
+          ],
+          "label": "Player Options"
+        },
+        {
+          "source": [
+            "Vehicle"
+          ],
+          "label": "Vehicle Options",
+          "game": "GTA5"
+        },
+        {
+          "source": [
+            "Horse & Vehicles"
+          ],
+          "game": "RDR2"
+        },
+        {
+          "source": [
+            "Teleport"
+          ]
+        },
+        {
+          "source": [
+            "Weapons"
+          ]
+        },
+        {
+          "source": [
+            "World"
+          ],
+          "label": "Weather and Time"
+        },
+        {
+          "source": [
+            "VFX"
+          ]
+        },
+        {
+          "source": [
+            "Scripts"
+          ]
+        },
+        {
+          "source": [
+            "Settings"
+          ]
+        }
+      ]
+    },
+    "online": {
+      "title": "Online",
+      "tabs": [
+        {
+          "label": "Local",
+          "page": "local"
+        },
+        {
+          "label": "Online",
+          "page": "online"
+        },
+        {
+          "label": "Spawn",
+          "page": "spawn"
+        }
+      ],
+      "entries": [
+        {
+          "source": [
+            "Players"
+          ]
+        },
+        {
+          "source": [
+            "Online"
+          ],
+          "label": "Session Options"
+        },
+        {
+          "source": [
+            "Recovery"
+          ]
+        }
+      ]
+    },
+    "spawn": {
+      "title": "Spawn",
+      "tabs": [
+        {
+          "label": "Local",
+          "page": "local"
+        },
+        {
+          "label": "Online",
+          "page": "online"
+        },
+        {
+          "label": "Spawn",
+          "page": "spawn"
+        }
+      ],
+      "entries": [
+        {
+          "source": [
+            "Spawner",
+            "Vehicle Spawner"
+          ]
+        },
+        {
+          "source": [
+            "Spawner",
+            "Ped Spawner"
+          ]
+        },
+        {
+          "source": [
+            "Spawner",
+            "Object Spawner"
+          ]
+        },
+        {
+          "source": [
+            "Spawner",
+            "Bodyguards"
+          ]
+        },
+        {
+          "source": [
+            "Spawner",
+            "Map Mods"
+          ]
+        },
+        {
+          "source": [
+            "Spawner",
+            "Animal Spawner"
+          ],
+          "game": "RDR2"
+        },
+        {
+          "source": [
+            "Spawner",
+            "Train Spawner"
+          ],
+          "game": "RDR2"
+        },
+        {
+          "source": [
+            "Spawner",
+            "Mounted Weapons"
+          ],
+          "game": "RDR2"
+        }
+      ]
+    }
+  }
+}

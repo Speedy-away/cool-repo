@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0552",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                41,
+                0,
+                38
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                41,
+                0,
+                38
+            ]
+        }
+    },
+    "creator": "Ikue Gaming",
+    "format": "scooby.paintjob",
+    "hex": "#290026",
+    "model": 0,
+    "name": "alll 6",
+    "secondary_hex": "#290026",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

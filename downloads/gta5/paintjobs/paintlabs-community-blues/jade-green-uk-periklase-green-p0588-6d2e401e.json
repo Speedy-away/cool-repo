@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0588",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 4,
+                "enabled": true
+            },
+            "rgb": [
+                2,
+                17,
+                14
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                2,
+                17,
+                14
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#02110EAA",
+    "model": 0,
+    "name": "Jade Green (UK: Periklase Green)",
+    "secondary_hex": "#02110E",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

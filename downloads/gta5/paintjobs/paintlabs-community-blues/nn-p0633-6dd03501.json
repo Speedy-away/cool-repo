@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0633",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                205,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                205,
+                255
+            ]
+        }
+    },
+    "creator": "Barbiee Girl",
+    "format": "scooby.paintjob",
+    "hex": "#00CDFF",
+    "model": 0,
+    "name": "nN",
+    "secondary_hex": "#00CDFF",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1285",
+    "category": "PaintLabs - Community - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 8,
+                "enabled": true
+            },
+            "rgb": [
+                159,
+                145,
+                20
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                159,
+                145,
+                20
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#9F9114AA",
+    "model": 0,
+    "name": "Aston Martin Sunburst Yellow",
+    "secondary_hex": "#9F9114",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

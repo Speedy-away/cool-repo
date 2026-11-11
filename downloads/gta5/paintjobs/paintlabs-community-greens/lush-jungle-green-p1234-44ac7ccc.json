@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1234",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 100,
+                "enabled": true
+            },
+            "rgb": [
+                19,
+                28,
+                4
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                19,
+                28,
+                4
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#131C04AA",
+    "model": 0,
+    "name": "Lush Jungle Green",
+    "secondary_hex": "#131C04",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

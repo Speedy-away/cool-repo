@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                76,
+                0,
+                19
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                76,
+                0,
+                19
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#4C0013",
+    "model": 0,
+    "name": "Bordeaux",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

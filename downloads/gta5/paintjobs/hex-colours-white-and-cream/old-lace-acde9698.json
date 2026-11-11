@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - White and Cream",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                253,
+                245,
+                230
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                253,
+                245,
+                230
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#FDF5E6",
+    "model": 0,
+    "name": "Old Lace",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

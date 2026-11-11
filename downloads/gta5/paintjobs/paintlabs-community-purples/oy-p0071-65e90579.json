@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0071",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                190,
+                100,
+                190
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                190,
+                100,
+                190
+            ]
+        }
+    },
+    "creator": "Kushology, Panto Driver",
+    "format": "scooby.paintjob",
+    "hex": "#BE64BEAA",
+    "model": 0,
+    "name": "oy",
+    "secondary_hex": "#BE64BE",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

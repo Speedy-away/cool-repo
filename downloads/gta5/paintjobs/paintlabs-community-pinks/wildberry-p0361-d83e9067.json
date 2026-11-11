@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0361",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                36,
+                13,
+                20
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                36,
+                13,
+                20
+            ]
+        }
+    },
+    "creator": "Lehi Stones",
+    "format": "scooby.paintjob",
+    "hex": "#240D14AA",
+    "model": 0,
+    "name": "Wildberry",
+    "secondary_hex": "#240D14",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

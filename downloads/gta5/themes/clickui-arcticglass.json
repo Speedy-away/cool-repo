@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4179104523,
+  "windowBorder": 1358938452,
+  "windowScrollbar": 4294951508,
+  "windowCursor": 4294951508,
+  "tabSelectedIcon": 4294951508,
+  "tabIndicator": 4294951508,
+  "categoryIndicator": 4294951508,
+  "toggleOn": 4294951508,
+  "sliderFilled": 4294951508,
+  "childTitle": 4294951508,
+  "childAccentLeft": 4294951508,
+  "contentSectionText": 4294951508,
+  "textAccent": 4294951508,
+  "notificationAccent": 4294951508,
+  "childBackground": 2892822,
+  "groupBackground": 2892822,
+  "groupBorder": 1191170411,
+  "contentPanelBackground": 3945538582,
+  "contentListBackground": 3693880342,
+  "tabUnselectedBg": 1680614422,
+  "categoryUnselectedBg": 1345070102,
+  "gradientStart": 1635408922,
+  "gradientEnd": 1709066,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Arctic Glass ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

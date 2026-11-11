@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0195",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 53,
+                "enabled": true
+            },
+            "rgb": [
+                3,
+                13,
+                23
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                3,
+                13,
+                23
+            ]
+        }
+    },
+    "creator": "oXiMo_",
+    "format": "scooby.paintjob",
+    "hex": "#030D17AA",
+    "model": 0,
+    "name": "AERO V2",
+    "secondary_hex": "#030D17",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

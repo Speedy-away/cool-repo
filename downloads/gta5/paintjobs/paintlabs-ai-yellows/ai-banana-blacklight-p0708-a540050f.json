@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0708",
+    "category": "PaintLabs - AI - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 72,
+                "enabled": true
+            },
+            "rgb": [
+                255,
+                230,
+                91
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                230,
+                91
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#FFE65BAA",
+    "model": 0,
+    "name": "Ai Banana Blacklight",
+    "secondary_hex": "#FFE65B",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

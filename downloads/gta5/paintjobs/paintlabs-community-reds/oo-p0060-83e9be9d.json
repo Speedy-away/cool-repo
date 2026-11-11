@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0060",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                30,
+                14,
+                15
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                30,
+                14,
+                15
+            ]
+        }
+    },
+    "creator": "Dat Saintsfan, C64fanatic",
+    "format": "scooby.paintjob",
+    "hex": "#1E0E0FAA",
+    "model": 0,
+    "name": "oo",
+    "secondary_hex": "#1E0E0F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

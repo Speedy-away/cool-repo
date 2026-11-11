@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                201,
+                87
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                0,
+                201,
+                87
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#00C957AA",
+    "model": 0,
+    "name": "Emerald Green",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

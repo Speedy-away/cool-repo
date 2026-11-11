@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1101",
+    "category": "PaintLabs - AI - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 68,
+                "enabled": true
+            },
+            "rgb": [
+                54,
+                50,
+                56
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                54,
+                50,
+                56
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#363238AA",
+    "model": 0,
+    "name": "Ai Carbon Surf",
+    "secondary_hex": "#363238",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

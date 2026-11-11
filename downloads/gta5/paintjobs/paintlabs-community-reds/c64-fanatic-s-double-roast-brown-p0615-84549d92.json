@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0615",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                20,
+                9,
+                7
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                20,
+                9,
+                7
+            ]
+        }
+    },
+    "creator": "C64fanatic",
+    "format": "scooby.paintjob",
+    "hex": "#140907AA",
+    "model": 0,
+    "name": "C64 Fanatic's Double Roast Brown",
+    "secondary_hex": "#140907",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

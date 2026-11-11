@@ -1,0 +1,40 @@
+{
+    "alpha": 238,
+    "archive_id": "p0653",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                18,
+                44,
+                60
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                18,
+                44,
+                60
+            ]
+        }
+    },
+    "creator": "UND3AD GAMING",
+    "format": "scooby.paintjob",
+    "hex": "#122C3CEE",
+    "model": 0,
+    "name": "Se",
+    "secondary_hex": "#122C3C",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

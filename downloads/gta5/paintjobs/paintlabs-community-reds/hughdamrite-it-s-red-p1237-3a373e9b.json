@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1237",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 120,
+            "custom": true,
+            "paint_type": 5,
+            "pearl": {
+                "colour": 35,
+                "enabled": true
+            },
+            "rgb": [
+                53,
+                0,
+                0
+            ]
+        },
+        "secondary": {
+            "base": 120,
+            "custom": true,
+            "paint_type": 5,
+            "rgb": [
+                53,
+                0,
+                0
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#350000AA",
+    "model": 0,
+    "name": "HughDamrite It's Red",
+    "secondary_hex": "#350000",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

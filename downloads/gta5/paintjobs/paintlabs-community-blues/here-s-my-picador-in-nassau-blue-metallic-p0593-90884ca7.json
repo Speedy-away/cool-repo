@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0593",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 68,
+                "enabled": true
+            },
+            "rgb": [
+                24,
+                55,
+                77
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                24,
+                55,
+                77
+            ]
+        }
+    },
+    "creator": "Panto Driver",
+    "format": "scooby.paintjob",
+    "hex": "#18374DAA",
+    "model": 0,
+    "name": "Here's my Picador in Nassau Blue Metallic",
+    "secondary_hex": "#18374D",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

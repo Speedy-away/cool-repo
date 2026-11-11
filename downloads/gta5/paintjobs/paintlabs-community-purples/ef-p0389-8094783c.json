@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0389",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 71,
+                "enabled": true
+            },
+            "rgb": [
+                22,
+                1,
+                24
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                22,
+                1,
+                24
+            ]
+        }
+    },
+    "creator": "CaptainBackwoods, AlphaSierra111996, AP2-RADICAL",
+    "format": "scooby.paintjob",
+    "hex": "#160118FF",
+    "model": 0,
+    "name": "ef",
+    "secondary_hex": "#160118",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

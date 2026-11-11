@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0600",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 135,
+                "enabled": true
+            },
+            "rgb": [
+                25,
+                0,
+                10
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                25,
+                0,
+                10
+            ]
+        }
+    },
+    "creator": "PURPL NINJA75",
+    "format": "scooby.paintjob",
+    "hex": "#19000AAA",
+    "model": 0,
+    "name": "WHY SO SERIOUS PINK",
+    "secondary_hex": "#19000A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

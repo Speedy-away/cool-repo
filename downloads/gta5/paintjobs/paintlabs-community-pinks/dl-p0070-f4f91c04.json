@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0070",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 135,
+                "enabled": true
+            },
+            "rgb": [
+                59,
+                0,
+                27
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                59,
+                0,
+                27
+            ]
+        }
+    },
+    "creator": "Kushology, Panto Driver",
+    "format": "scooby.paintjob",
+    "hex": "#3B001BAA",
+    "model": 0,
+    "name": "dl",
+    "secondary_hex": "#3B001B",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                24,
+                3,
+                33
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                24,
+                3,
+                33
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#180321AA",
+    "model": 0,
+    "name": "Blue Vibe",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0234",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                85,
+                76
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                85,
+                76
+            ]
+        }
+    },
+    "creator": "The Gbaby Jr",
+    "format": "scooby.paintjob",
+    "hex": "#FF554C",
+    "model": 0,
+    "name": "Showing off an amzing",
+    "secondary_hex": "#FF554C",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

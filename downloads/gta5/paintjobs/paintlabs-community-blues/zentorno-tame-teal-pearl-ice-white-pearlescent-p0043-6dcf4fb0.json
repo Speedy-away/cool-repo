@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0043",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                60,
+                94,
+                95
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                60,
+                94,
+                95
+            ]
+        }
+    },
+    "creator": "D.B. Cooper, ibsmokin, JonasPRKL",
+    "format": "scooby.paintjob",
+    "hex": "#3C5E5FFF",
+    "model": 0,
+    "name": "Zentorno Tame Teal Pearl (Ice White pearlescent)",
+    "secondary_hex": "#3C5E5F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

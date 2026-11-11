@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0076",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 4,
+                "enabled": true
+            },
+            "rgb": [
+                81,
+                21,
+                21
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                81,
+                21,
+                21
+            ]
+        }
+    },
+    "creator": "Howi3",
+    "format": "scooby.paintjob",
+    "hex": "#511515AA",
+    "model": 0,
+    "name": "Massacro Diavolo Red (Cast Iron Silver pearlescent)",
+    "secondary_hex": "#511515",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

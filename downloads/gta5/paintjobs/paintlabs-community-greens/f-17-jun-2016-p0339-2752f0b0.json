@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0339",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 112,
+                "enabled": true
+            },
+            "rgb": [
+                43,
+                85,
+                64
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                43,
+                85,
+                64
+            ]
+        }
+    },
+    "creator": "-SUFF-, Eser1985, MitchMaliers",
+    "format": "scooby.paintjob",
+    "hex": "#2B5540AA",
+    "model": 0,
+    "name": "f 17 Jun 2016",
+    "secondary_hex": "#2B5540",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

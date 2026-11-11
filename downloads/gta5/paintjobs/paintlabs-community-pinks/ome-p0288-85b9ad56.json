@@ -1,0 +1,40 @@
+{
+    "alpha": 171,
+    "archive_id": "p0288",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                81,
+                42,
+                63
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                81,
+                42,
+                63
+            ]
+        }
+    },
+    "creator": "Neilzie Gaming",
+    "format": "scooby.paintjob",
+    "hex": "#512A3FAB",
+    "model": 0,
+    "name": "Ome.",
+    "secondary_hex": "#512A3F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0271",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                248,
+                74,
+                56
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                248,
+                74,
+                56
+            ]
+        }
+    },
+    "creator": "Notcher",
+    "format": "scooby.paintjob",
+    "hex": "#F84A38",
+    "model": 0,
+    "name": "Bloody Peach (created by Notcher)",
+    "secondary_hex": "#F84A38",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

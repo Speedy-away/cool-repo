@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0058",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 89,
+                "enabled": true
+            },
+            "rgb": [
+                197,
+                41,
+                67
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                197,
+                41,
+                67
+            ]
+        }
+    },
+    "creator": "LaazrGaming",
+    "format": "scooby.paintjob",
+    "hex": "#C52943",
+    "model": 0,
+    "name": "Dragon Fruit Pink",
+    "secondary_hex": "#C52943",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

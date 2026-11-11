@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1278",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 4,
+                "enabled": true
+            },
+            "rgb": [
+                23,
+                15,
+                42
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                23,
+                15,
+                42
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#170F2AAA",
+    "model": 0,
+    "name": "Plum Crazy Purple",
+    "secondary_hex": "#170F2A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

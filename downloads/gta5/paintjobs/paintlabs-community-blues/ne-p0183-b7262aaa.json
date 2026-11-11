@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0183",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                113,
+                166,
+                210
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                113,
+                166,
+                210
+            ]
+        }
+    },
+    "creator": "MeshaGamingFTW",
+    "format": "scooby.paintjob",
+    "hex": "#71A6D2",
+    "model": 0,
+    "name": "Ne",
+    "secondary_hex": "#71A6D2",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

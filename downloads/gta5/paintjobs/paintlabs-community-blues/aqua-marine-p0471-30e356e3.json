@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0471",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 54,
+                "enabled": true
+            },
+            "rgb": [
+                0,
+                44,
+                58
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                0,
+                44,
+                58
+            ]
+        }
+    },
+    "creator": "Aqua",
+    "format": "scooby.paintjob",
+    "hex": "#002C3AAA",
+    "model": 0,
+    "name": "AQUA MARINE",
+    "secondary_hex": "#002C3A",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

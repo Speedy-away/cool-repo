@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4178645265,
+  "windowBorder": 1348192166,
+  "windowScrollbar": 4284205222,
+  "windowCursor": 4284205222,
+  "tabSelectedIcon": 4284205222,
+  "tabIndicator": 4284205222,
+  "categoryIndicator": 4284205222,
+  "toggleOn": 4284205222,
+  "sliderFilled": 4284205222,
+  "childTitle": 4284205222,
+  "childAccentLeft": 4284205222,
+  "contentSectionText": 4284205222,
+  "textAccent": 4284205222,
+  "notificationAccent": 4284205222,
+  "childBackground": 1776411,
+  "groupBackground": 1776411,
+  "groupBorder": 1182129088,
+  "contentPanelBackground": 3944422171,
+  "contentListBackground": 3692763931,
+  "tabUnselectedBg": 1679498011,
+  "categoryUnselectedBg": 1343953691,
+  "gradientStart": 4284205222,
+  "gradientEnd": 4287911787,
+  "useGradients": false,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Gamesense ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

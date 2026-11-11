@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4179499544,
+  "windowBorder": 1353356121,
+  "windowScrollbar": 4289434713,
+  "windowCursor": 4289434713,
+  "tabSelectedIcon": 4289434713,
+  "tabIndicator": 4289434713,
+  "categoryIndicator": 4289434713,
+  "toggleOn": 4289434713,
+  "sliderFilled": 4289434713,
+  "childTitle": 4289434713,
+  "childAccentLeft": 4289434713,
+  "contentSectionText": 4289434713,
+  "textAccent": 4289434713,
+  "notificationAccent": 4289434713,
+  "childBackground": 3419948,
+  "groupBackground": 3419948,
+  "groupBorder": 1186110304,
+  "contentPanelBackground": 3946065708,
+  "contentListBackground": 3694407468,
+  "tabUnselectedBg": 1681141548,
+  "categoryUnselectedBg": 1345597228,
+  "gradientStart": 4289434713,
+  "gradientEnd": 4289434713,
+  "useGradients": false,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Simple Teal ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

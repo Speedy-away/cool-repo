@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4178841094,
+  "windowBorder": 1354420505,
+  "windowScrollbar": 4290433306,
+  "windowCursor": 4290433306,
+  "tabSelectedIcon": 4290433306,
+  "tabIndicator": 4290433306,
+  "categoryIndicator": 4290433306,
+  "toggleOn": 4290433306,
+  "sliderFilled": 4290433306,
+  "childTitle": 4290433306,
+  "childAccentLeft": 4290433306,
+  "contentSectionText": 4290433306,
+  "textAccent": 4290433306,
+  "notificationAccent": 4290433306,
+  "childBackground": 2366737,
+  "groupBackground": 2366737,
+  "groupBorder": 1190772510,
+  "contentPanelBackground": 3945012497,
+  "contentListBackground": 3693354257,
+  "tabUnselectedBg": 1680088337,
+  "categoryUnselectedBg": 1344544017,
+  "gradientStart": 4290433306,
+  "gradientEnd": 4294272652,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Aurora Flow ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

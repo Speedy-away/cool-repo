@@ -1,0 +1,36 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                150,
+                45
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                255,
+                255,
+                102
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#00962D",
+    "model": 0,
+    "name": "3D Green",
+    "secondary_hex": "#FFFF66",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

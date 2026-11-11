@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0186",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 38,
+                "enabled": true
+            },
+            "rgb": [
+                73,
+                17,
+                3
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                73,
+                17,
+                3
+            ]
+        }
+    },
+    "creator": "BADSPORT BILLY [FUCT]",
+    "format": "scooby.paintjob",
+    "hex": "#491103AA",
+    "model": 0,
+    "name": "Copperised",
+    "secondary_hex": "#491103",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

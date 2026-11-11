@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0085",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                30,
+                0
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                30,
+                0
+            ]
+        }
+    },
+    "creator": "AndrewTfromNZ, Panto Driver, C64fanatic",
+    "format": "scooby.paintjob",
+    "hex": "#FF1E00",
+    "model": 0,
+    "name": "22 Sep 2016",
+    "secondary_hex": "#FF1E00",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

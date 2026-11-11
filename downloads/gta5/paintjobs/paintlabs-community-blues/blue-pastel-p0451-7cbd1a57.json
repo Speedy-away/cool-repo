@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0451",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 107,
+                "enabled": true
+            },
+            "rgb": [
+                87,
+                126,
+                160
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                87,
+                126,
+                160
+            ]
+        }
+    },
+    "creator": "Sidescape Gaming",
+    "format": "scooby.paintjob",
+    "hex": "#577EA000",
+    "model": 0,
+    "name": "Blue Pastel",
+    "secondary_hex": "#577EA0",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

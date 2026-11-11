@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0319",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 120,
+            "custom": true,
+            "paint_type": 5,
+            "pearl": {
+                "colour": 67,
+                "enabled": true
+            },
+            "rgb": [
+                7,
+                0,
+                21
+            ]
+        },
+        "secondary": {
+            "base": 120,
+            "custom": true,
+            "paint_type": 5,
+            "rgb": [
+                7,
+                0,
+                21
+            ]
+        }
+    },
+    "creator": "Dat Saintsfan",
+    "format": "scooby.paintjob",
+    "hex": "#070015AA",
+    "model": 0,
+    "name": "Epsilon Twilight Blue",
+    "secondary_hex": "#070015",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

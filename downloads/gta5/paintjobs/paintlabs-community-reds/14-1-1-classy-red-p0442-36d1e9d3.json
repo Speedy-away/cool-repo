@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0442",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                14,
+                1,
+                1
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                14,
+                1,
+                1
+            ]
+        }
+    },
+    "creator": "BazzHazz",
+    "format": "scooby.paintjob",
+    "hex": "#0E0101",
+    "model": 0,
+    "name": "14/1/1 (Classy Red) #",
+    "secondary_hex": "#0E0101",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

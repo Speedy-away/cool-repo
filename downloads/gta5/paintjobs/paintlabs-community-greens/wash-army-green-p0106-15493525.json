@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0106",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 112,
+                "enabled": true
+            },
+            "rgb": [
+                149,
+                176,
+                131
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                149,
+                176,
+                131
+            ]
+        }
+    },
+    "creator": "imrobertz1",
+    "format": "scooby.paintjob",
+    "hex": "#95B08300",
+    "model": 0,
+    "name": "WASH-ARMY-GREEN",
+    "secondary_hex": "#95B083",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

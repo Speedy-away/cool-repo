@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0542",
+    "category": "PaintLabs - Community - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 112,
+                "enabled": true
+            },
+            "rgb": [
+                49,
+                48,
+                54
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                49,
+                48,
+                54
+            ]
+        }
+    },
+    "creator": "Nikki",
+    "format": "scooby.paintjob",
+    "hex": "#313036AA",
+    "model": 0,
+    "name": "ELEANOR GRAY",
+    "secondary_hex": "#313036",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0336",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                106,
+                197,
+                244
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                106,
+                197,
+                244
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#6AC5F4",
+    "model": 0,
+    "name": "Babaye Orange SEBCZ/ 7)",
+    "secondary_hex": "#6AC5F4",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

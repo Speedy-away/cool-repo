@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                83,
+                12,
+                237
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                83,
+                12,
+                237
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#530CEDAA",
+    "model": 0,
+    "name": "Actavis Purp",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

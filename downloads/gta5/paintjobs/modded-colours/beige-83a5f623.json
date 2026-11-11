@@ -1,0 +1,26 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                242,
+                221,
+                193
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#F2DDC1",
+    "model": 0,
+    "name": "Beige",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

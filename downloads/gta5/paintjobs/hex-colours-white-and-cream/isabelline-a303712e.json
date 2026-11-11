@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - White and Cream",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                244,
+                240,
+                236
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                244,
+                240,
+                236
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#F4F0EC",
+    "model": 0,
+    "name": "Isabelline",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

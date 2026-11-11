@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0174",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                180,
+                255,
+                99
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                180,
+                255,
+                99
+            ]
+        }
+    },
+    "creator": "KryptonicHD",
+    "format": "scooby.paintjob",
+    "hex": "#B4FF63",
+    "model": 0,
+    "name": "Magtic!",
+    "secondary_hex": "#B4FF63",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

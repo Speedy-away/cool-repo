@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0184",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 111,
+                "enabled": true
+            },
+            "rgb": [
+                205,
+                204,
+                255
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                205,
+                204,
+                255
+            ]
+        }
+    },
+    "creator": "BADSPORT BILLY [FUCT]",
+    "format": "scooby.paintjob",
+    "hex": "#CDCCFF00",
+    "model": 0,
+    "name": "Diamond Purple",
+    "secondary_hex": "#CDCCFF",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

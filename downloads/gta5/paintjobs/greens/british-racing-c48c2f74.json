@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                0,
+                66,
+                37
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                0,
+                66,
+                37
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#004225",
+    "model": 0,
+    "name": "British Racing",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

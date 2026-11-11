@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0398",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 135,
+                "enabled": true
+            },
+            "rgb": [
+                89,
+                5,
+                153
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                89,
+                5,
+                153
+            ]
+        }
+    },
+    "creator": "Inmortal T.M.C",
+    "format": "scooby.paintjob",
+    "hex": "#590599",
+    "model": 0,
+    "name": "Garnet Purple",
+    "secondary_hex": "#590599",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

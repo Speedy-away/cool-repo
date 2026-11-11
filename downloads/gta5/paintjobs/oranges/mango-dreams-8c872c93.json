@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                103,
+                21
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                255,
+                103,
+                21
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#FF6715AA",
+    "model": 0,
+    "name": "Mango Dreams",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

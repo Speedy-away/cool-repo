@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0100",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 88,
+                "enabled": true
+            },
+            "rgb": [
+                77,
+                255,
+                0
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                77,
+                255,
+                0
+            ]
+        }
+    },
+    "creator": "Ikue Gaming, IkuesDatabase",
+    "format": "scooby.paintjob",
+    "hex": "#4DFF00",
+    "model": 0,
+    "name": "EVO Green",
+    "secondary_hex": "#4DFF00",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4178053141,
+  "windowBorder": 1346193396,
+  "windowScrollbar": 4282206197,
+  "windowCursor": 4282206197,
+  "tabSelectedIcon": 4282206197,
+  "tabIndicator": 4282206197,
+  "categoryIndicator": 4282206197,
+  "toggleOn": 4282206197,
+  "sliderFilled": 4282206197,
+  "childTitle": 4282206197,
+  "childAccentLeft": 4282206197,
+  "contentSectionText": 4282206197,
+  "textAccent": 4282206197,
+  "notificationAccent": 4282206197,
+  "childBackground": 790050,
+  "groupBackground": 790050,
+  "groupBorder": 1178883833,
+  "contentPanelBackground": 3943435810,
+  "contentListBackground": 3691777570,
+  "tabUnselectedBg": 1678511650,
+  "categoryUnselectedBg": 1342967330,
+  "gradientStart": 1628050539,
+  "gradientEnd": 534072,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Emberline ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0352",
+    "category": "PaintLabs - Community - Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                100,
+                255,
+                100
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                100,
+                255,
+                100
+            ]
+        }
+    },
+    "creator": "ZiaX",
+    "format": "scooby.paintjob",
+    "hex": "#64FF64",
+    "model": 0,
+    "name": "47 AM",
+    "secondary_hex": "#64FF64",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

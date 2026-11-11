@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                12,
+                153,
+                168
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                12,
+                153,
+                168
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#0C99A8AA",
+    "model": 0,
+    "name": "Tense BabyPowder",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

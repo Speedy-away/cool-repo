@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4179232784,
+  "windowBorder": 1357865105,
+  "windowScrollbar": 4293943697,
+  "windowCursor": 4293943697,
+  "tabSelectedIcon": 4293943697,
+  "tabIndicator": 4293943697,
+  "categoryIndicator": 4293943697,
+  "toggleOn": 4293943697,
+  "sliderFilled": 4293943697,
+  "childTitle": 4293943697,
+  "childAccentLeft": 4293943697,
+  "contentSectionText": 4293943697,
+  "textAccent": 4293943697,
+  "notificationAccent": 4293943697,
+  "childBackground": 2887709,
+  "groupBackground": 2887709,
+  "groupBorder": 1190752416,
+  "contentPanelBackground": 3945533469,
+  "contentListBackground": 3693875229,
+  "tabUnselectedBg": 1680609309,
+  "categoryUnselectedBg": 1345064989,
+  "gradientStart": 1802835776,
+  "gradientEnd": 4010757,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Violet Circuit ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

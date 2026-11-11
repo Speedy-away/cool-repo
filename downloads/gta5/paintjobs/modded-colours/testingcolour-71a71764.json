@@ -1,0 +1,42 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 35,
+                "enabled": true,
+                "rgb": [
+                    249,
+                    82,
+                    107
+                ]
+            },
+            "rgb": [
+                151,
+                7,
+                168
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                249,
+                82,
+                107
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#9707A8",
+    "model": 0,
+    "name": "TestingColour",
+    "pearl_hex": "#F9526B",
+    "secondary_hex": "#F9526B",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,26 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                211,
+                228,
+                205
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#D3E4CD",
+    "model": 0,
+    "name": "Fall Green",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

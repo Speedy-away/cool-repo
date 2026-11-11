@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0763",
+    "category": "PaintLabs - AI - Yellows",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 145,
+                "enabled": true
+            },
+            "rgb": [
+                102,
+                81,
+                0
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                102,
+                81,
+                0
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#665100AA",
+    "model": 0,
+    "name": "Ai Mustard Nebula",
+    "secondary_hex": "#665100",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

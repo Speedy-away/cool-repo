@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0425",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 51,
+                "enabled": true
+            },
+            "rgb": [
+                13,
+                2,
+                15
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                13,
+                2,
+                15
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#0D020FAA",
+    "model": 0,
+    "name": "COLOSSUS",
+    "secondary_hex": "#0D020F",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Browns",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                205,
+                127,
+                50
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                205,
+                127,
+                50
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#CD7F32",
+    "model": 0,
+    "name": "Bronze",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1245",
+    "category": "PaintLabs - Community - Neutrals",
+    "colours": {
+        "primary": {
+            "base": 120,
+            "custom": true,
+            "paint_type": 5,
+            "pearl": {
+                "colour": 11,
+                "enabled": true
+            },
+            "rgb": [
+                18,
+                17,
+                16
+            ]
+        },
+        "secondary": {
+            "base": 120,
+            "custom": true,
+            "paint_type": 5,
+            "rgb": [
+                18,
+                17,
+                16
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#121110AA",
+    "model": 0,
+    "name": "Worn Anthracite Black",
+    "secondary_hex": "#121110",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

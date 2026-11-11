@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0441",
+    "category": "PaintLabs - Community - Purples",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                58,
+                0,
+                100
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                58,
+                0,
+                100
+            ]
+        }
+    },
+    "creator": "omgurheadsgone",
+    "format": "scooby.paintjob",
+    "hex": "#3A0064",
+    "model": 0,
+    "name": "Bubble-GumpPurple",
+    "secondary_hex": "#3A0064",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

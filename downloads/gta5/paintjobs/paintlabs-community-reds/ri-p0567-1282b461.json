@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0567",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                222,
+                48,
+                54
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                222,
+                48,
+                54
+            ]
+        }
+    },
+    "creator": "Illusionz, KryptonicHD",
+    "format": "scooby.paintjob",
+    "hex": "#DE3036",
+    "model": 0,
+    "name": "Ri",
+    "secondary_hex": "#DE3036",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

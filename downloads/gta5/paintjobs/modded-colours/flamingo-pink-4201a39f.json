@@ -1,0 +1,26 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                255,
+                182,
+                193
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#FFB6C1",
+    "model": 0,
+    "name": "Flamingo Pink",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

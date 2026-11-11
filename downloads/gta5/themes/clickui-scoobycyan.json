@@ -1,0 +1,32 @@
+{
+  "windowBackground": 4178643976,
+  "windowBorder": 1358087680,
+  "windowScrollbar": 4294100736,
+  "windowCursor": 4294100736,
+  "tabSelectedIcon": 4294100736,
+  "tabIndicator": 4294100736,
+  "categoryIndicator": 4294100736,
+  "toggleOn": 4294100736,
+  "sliderFilled": 4294100736,
+  "childTitle": 4294100736,
+  "childAccentLeft": 4294100736,
+  "contentSectionText": 4294100736,
+  "textAccent": 4294100736,
+  "notificationAccent": 4294100736,
+  "childBackground": 2037779,
+  "groupBackground": 2037779,
+  "groupBorder": 1190450708,
+  "contentPanelBackground": 3944683539,
+  "contentListBackground": 3693025299,
+  "tabUnselectedBg": 1679759379,
+  "categoryUnselectedBg": 1344215059,
+  "gradientStart": 1967601669,
+  "gradientEnd": 1182984,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Scooby Cyan ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

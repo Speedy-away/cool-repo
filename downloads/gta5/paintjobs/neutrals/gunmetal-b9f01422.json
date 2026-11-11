@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Neutrals",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                43,
+                45,
+                49
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                43,
+                45,
+                49
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#2B2D31",
+    "model": 0,
+    "name": "Gunmetal",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

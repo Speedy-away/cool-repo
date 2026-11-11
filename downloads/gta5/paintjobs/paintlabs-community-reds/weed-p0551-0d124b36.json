@@ -1,0 +1,40 @@
+{
+    "alpha": 0,
+    "archive_id": "p0551",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                81,
+                0,
+                21
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                81,
+                0,
+                21
+            ]
+        }
+    },
+    "creator": "Ikue Gaming",
+    "format": "scooby.paintjob",
+    "hex": "#51001500",
+    "model": 0,
+    "name": "WEED",
+    "secondary_hex": "#510015",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

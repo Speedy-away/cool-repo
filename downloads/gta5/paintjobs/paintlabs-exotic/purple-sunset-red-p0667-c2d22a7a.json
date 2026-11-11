@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0667",
+    "category": "PaintLabs - Exotic",
+    "colours": {
+        "primary": {
+            "base": 12,
+            "custom": true,
+            "paint_type": 3,
+            "pearl": {
+                "colour": 28,
+                "enabled": true
+            },
+            "rgb": [
+                19,
+                6,
+                39
+            ]
+        },
+        "secondary": {
+            "base": 12,
+            "custom": true,
+            "paint_type": 3,
+            "rgb": [
+                19,
+                6,
+                39
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#130627FF",
+    "model": 0,
+    "name": "Purple Sunset Red",
+    "secondary_hex": "#130627",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

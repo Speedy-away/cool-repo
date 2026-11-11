@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0566",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                64,
+                124,
+                132
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                64,
+                124,
+                132
+            ]
+        }
+    },
+    "creator": "Illusionz, KryptonicHD",
+    "format": "scooby.paintjob",
+    "hex": "#407C84",
+    "model": 0,
+    "name": "Ri",
+    "secondary_hex": "#407C84",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1242",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 15,
+            "custom": true,
+            "paint_type": 0,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                16,
+                28,
+                86
+            ]
+        },
+        "secondary": {
+            "base": 15,
+            "custom": true,
+            "paint_type": 0,
+            "rgb": [
+                16,
+                28,
+                86
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#101C56AA",
+    "model": 0,
+    "name": "Electron Blue (Civic Si)",
+    "secondary_hex": "#101C56",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

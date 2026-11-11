@@ -1,0 +1,36 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                144,
+                99,
+                245
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                144,
+                99,
+                245
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#9063F5",
+    "model": 0,
+    "name": "mint green",
+    "secondary_hex": "#9063F5",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0135",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                36,
+                100,
+                129
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                36,
+                100,
+                129
+            ]
+        }
+    },
+    "creator": "AlphaSierra111996",
+    "format": "scooby.paintjob",
+    "hex": "#246481FF",
+    "model": 0,
+    "name": "Give one of these a try. | forgot which one it is, but",
+    "secondary_hex": "#246481",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

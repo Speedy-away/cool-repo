@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0075",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 107,
+                "enabled": true
+            },
+            "rgb": [
+                51,
+                33,
+                48
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                51,
+                33,
+                48
+            ]
+        }
+    },
+    "creator": "Howi3",
+    "format": "scooby.paintjob",
+    "hex": "#332130",
+    "model": 0,
+    "name": "Khamelion Lotus Magenta (Ice White pearlescent)",
+    "secondary_hex": "#332130",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0268",
+    "category": "PaintLabs - Community - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 136,
+                "enabled": true
+            },
+            "rgb": [
+                255,
+                130,
+                76
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                255,
+                130,
+                76
+            ]
+        }
+    },
+    "creator": "Nikki",
+    "format": "scooby.paintjob",
+    "hex": "#FF824C",
+    "model": 0,
+    "name": "ELECTRIC PLUM",
+    "secondary_hex": "#FF824C",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,42 @@
+{
+    "alpha": 255,
+    "category": "Modded Colours",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 89,
+                "enabled": true,
+                "rgb": [
+                    254,
+                    250,
+                    153
+                ]
+            },
+            "rgb": [
+                185,
+                142,
+                177
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                185,
+                142,
+                177
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#B98EB1",
+    "model": 0,
+    "name": "Rimuru Purple",
+    "pearl_hex": "#FEFA99",
+    "secondary_hex": "#B98EB1",
+    "source": "FSL modded colours INI import",
+    "vehicle_name": "Universal",
+    "version": 2
+}

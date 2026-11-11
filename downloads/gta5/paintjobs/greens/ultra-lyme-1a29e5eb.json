@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Greens",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                124,
+                252,
+                0
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                124,
+                252,
+                0
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#7CFC00AA",
+    "model": 0,
+    "name": "Ultra Lyme",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

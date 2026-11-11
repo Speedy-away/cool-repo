@@ -1,0 +1,35 @@
+{
+    "alpha": 170,
+    "category": "Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                32,
+                0,
+                2
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                32,
+                0,
+                2
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#200002AA",
+    "model": 0,
+    "name": "DejaVu",
+    "source": "Scooby default paint library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

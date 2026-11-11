@@ -1,0 +1,32 @@
+{
+  "windowBackground": 3762760478,
+  "windowBorder": 1358941859,
+  "windowScrollbar": 4294954915,
+  "windowCursor": 4294954915,
+  "tabSelectedIcon": 4294954915,
+  "tabIndicator": 4294954915,
+  "categoryIndicator": 4294954915,
+  "toggleOn": 4294954915,
+  "sliderFilled": 4294954915,
+  "childTitle": 4294954915,
+  "childAccentLeft": 4294954915,
+  "contentSectionText": 4294954915,
+  "textAccent": 4294954915,
+  "notificationAccent": 4294954915,
+  "childBackground": 9201233,
+  "groupBackground": 9201233,
+  "groupBorder": 1191173042,
+  "contentPanelBackground": 3951846993,
+  "contentListBackground": 3700188753,
+  "tabUnselectedBg": 1686922833,
+  "categoryUnselectedBg": 1351378513,
+  "gradientStart": 2499793325,
+  "gradientEnd": 867731307,
+  "useGradients": true,
+  "_bundle": {
+    "format": "ScoobyTheme",
+    "version": 3,
+    "name": "Liquid Glass ClickUI colors",
+    "scope": "ClickUI"
+  }
+}

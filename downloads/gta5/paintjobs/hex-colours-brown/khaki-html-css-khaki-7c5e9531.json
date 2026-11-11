@@ -1,0 +1,35 @@
+{
+    "alpha": 255,
+    "category": "Hex Colours - Brown",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                195,
+                176,
+                145
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "rgb": [
+                195,
+                176,
+                145
+            ]
+        }
+    },
+    "format": "scooby.paintjob",
+    "hex": "#C3B091",
+    "model": 0,
+    "name": "Khaki (HTML/CSS) (Khaki)",
+    "source": "Hex colour preset library",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0282",
+    "category": "PaintLabs - Community - Oranges",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                235,
+                156,
+                65
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                235,
+                156,
+                65
+            ]
+        }
+    },
+    "creator": "ItsMomin",
+    "format": "scooby.paintjob",
+    "hex": "#EB9C41",
+    "model": 0,
+    "name": "PC GAMEPLAY!",
+    "secondary_hex": "#EB9C41",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

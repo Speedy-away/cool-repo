@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p0338",
+    "category": "PaintLabs - Community - Pinks",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 136,
+                "enabled": true
+            },
+            "rgb": [
+                78,
+                8,
+                37
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                78,
+                8,
+                37
+            ]
+        }
+    },
+    "creator": "-SUFF-, Eser1985, MitchMaliers",
+    "format": "scooby.paintjob",
+    "hex": "#4E0825AA",
+    "model": 0,
+    "name": "SUFF",
+    "secondary_hex": "#4E0825",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

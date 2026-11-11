@@ -1,0 +1,40 @@
+{
+    "alpha": 170,
+    "archive_id": "p1173",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 5,
+                "enabled": true
+            },
+            "rgb": [
+                42,
+                71,
+                75
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                42,
+                71,
+                75
+            ]
+        }
+    },
+    "creator": "Public_Urinal / PaintLabs community",
+    "format": "scooby.paintjob",
+    "hex": "#2A474BAA",
+    "model": 0,
+    "name": "1968 Tahoe Turquoise",
+    "secondary_hex": "#2A474B",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0388",
+    "category": "PaintLabs - Community - Blues",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                10,
+                26,
+                41
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                10,
+                26,
+                41
+            ]
+        }
+    },
+    "creator": "CaptainBackwoods, AlphaSierra111996, AP2-RADICAL",
+    "format": "scooby.paintjob",
+    "hex": "#0A1A29FF",
+    "model": 0,
+    "name": "Kustom",
+    "secondary_hex": "#0A1A29",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}

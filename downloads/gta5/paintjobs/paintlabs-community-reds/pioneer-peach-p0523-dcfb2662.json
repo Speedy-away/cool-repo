@@ -1,0 +1,40 @@
+{
+    "alpha": 255,
+    "archive_id": "p0523",
+    "category": "PaintLabs - Community - Reds",
+    "colours": {
+        "primary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "pearl": {
+                "colour": 0,
+                "enabled": false
+            },
+            "rgb": [
+                247,
+                120,
+                107
+            ]
+        },
+        "secondary": {
+            "base": 0,
+            "custom": true,
+            "paint_type": 1,
+            "rgb": [
+                247,
+                120,
+                107
+            ]
+        }
+    },
+    "creator": "xiRONiCZZ",
+    "format": "scooby.paintjob",
+    "hex": "#F7786B",
+    "model": 0,
+    "name": "PiONEER PEACH - #",
+    "secondary_hex": "#F7786B",
+    "source": "PaintLabs v1.0.0 / Public_Urinal",
+    "vehicle_name": "Universal",
+    "version": 2
+}
