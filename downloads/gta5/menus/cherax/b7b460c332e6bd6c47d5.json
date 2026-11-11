@@ -1,0 +1,5056 @@
+    [
+    {
+        "Description": "Se ativado, os recursos deslizarão um pouco mais para cima quando você abrir uma guia.",
+        "Hash": 1398296412,
+        "Name": "Recursos deslizantes"
+    },
+    {
+        "Description": "Salvará as chaves de teste ativadas, para que você possa carregá-las na próxima vez.",
+        "Hash": 2541884139,
+        "Name": "Registrar chaves ativadas"
+    },
+    {
+        "Description": "Carregue as chaves salvas.",
+        "Hash": 2244853175,
+        "Name": "Carregar chaves salvas"
+    },
+    {
+        "Description": "Teletransporte-se para o Freakshop Stadium.",
+        "Hash": 3810297444,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Teletransporte-se na saída da Freakshop.",
+        "Hash": 3993156001,
+        "Name": "Sair"
+    },
+    {
+        "Description": "Teletransporte-se para a oficina dos wapons.",
+        "Hash": 1416574817,
+        "Name": "Oficina de armas"
+    },
+    {
+        "Description": "Teletransporte para a oficina de veículos.",
+        "Hash": 2541965295,
+        "Name": "Oficina de veículos"
+    },
+    {
+        "Description": "Teletransporte para a entrada do laboratório de ácido.",
+        "Hash": 4049381447,
+        "Name": "Insumo de Laboratório Ácido"
+    },
+    {
+        "Description": "Teletransporte-se para Mutt.",
+        "Hash": 133373482,
+        "Name": "Rafeiro"
+    },
+    {
+        "Description": "Teletransporte-se para o laptop.",
+        "Hash": 387726682,
+        "Name": "computador portátil"
+    },
+    {
+        "Description": "Teletransporte na saída.",
+        "Hash": 1784896864,
+        "Name": "Sair"
+    },
+    {
+        "Combo": [
+            "Nada",
+            "Apenas notificado",
+            "Somente logs",
+            "Notificado e logs"
+        ],
+        "Description": "Escolha como você será notificado sobre uma venda.",
+        "Hash": 3397540997,
+        "Name": "Notificação de venda"
+    },
+    {
+        "Combo": [
+            "Nada",
+            "Apenas notificado",
+            "Somente logs",
+            "Notificado e logs"
+        ],
+        "Description": "Escolha como você será notificado quando um produto for fabricado.",
+        "Hash": 199835472,
+        "Name": "Notificação de Produção"
+    },
+    {
+        "Combo": [
+            "Nada",
+            "Apenas notificado",
+            "Somente logs",
+            "Notificado e logs"
+        ],
+        "Description": "Escolha como você será notificado quando uma empresa for reabastecida.",
+        "Hash": 3993330319,
+        "Name": "Notificação de reabastecimento"
+    },
+    {
+        "Description": "Aumente o tempo de venda se muitas vendas falharem.",
+        "Hash": 2628897269,
+        "Name": "Venda tardia"
+    },
+    {
+        "Description": "Reabasteça automaticamente os negócios do Acid Lab.",
+        "Hash": 1528376721,
+        "Name": "Reabastecimento automático"
+    },
+    {
+        "Description": "Reabastecimento automático de empresas de laboratórios ácidos.",
+        "Hash": 40520379,
+        "Name": "Limite de reabastecimento"
+    },
+    {
+        "Description": "Venda seus negócios Acid Lab automaticamente",
+        "Hash": 2002069514,
+        "Name": "Venda automática"
+    },
+    {
+        "Description": "Produza produtos mais rapidamente em empresas de laboratório de ácido.",
+        "Hash": 1696173707,
+        "Name": "Aumente a velocidade de produção"
+    },
+    {
+        "Description": "Se a relação produto/capacidade cair abaixo desse limite, as empresas encherão o produto até a capacidade máxima. NÃO FUNCIONA SE 'Aumentar velocidade de produção' NÃO ESTIVER ATIVADO!",
+        "Hash": 3242305348,
+        "Name": "Produto de estoque automático"
+    },
+    {
+        "Description": "Fará com que as empresas de laboratório de ácido consumam menos suprimentos para uma unidade de produto. Não se aplica ao recurso 'Aumentar velocidade de produção'",
+        "Hash": 1621611783,
+        "Name": "Proporção de estoque aprimorada"
+    },
+    {
+        "Description": "Vende apenas um produto por empresa para o máximo absoluto.",
+        "Hash": 3019107091,
+        "Name": "Maximizando os lucros"
+    },
+    {
+        "Description": "Aumentará o valor de vendas das empresas.",
+        "Hash": 3825191048,
+        "Name": "Aumente o preço de venda"
+    },
+    {
+        "Description": "Telepore em seu veículo de laboratório ácido.",
+        "Hash": 2230344518,
+        "Name": "Teletransporte para o Abortor Ácido"
+    },
+    {
+        "Description": "Complete a missão instantaneamente.",
+        "Hash": 2990246984,
+        "Name": "Complete a missão automaticamente"
+    },
+    {
+        "Description": "Pegue todo o dinheiro que puder.",
+        "Hash": 4228326582,
+        "Name": "Valor máximo de venda"
+    },
+    {
+        "Description": "Nunca fique sem tempo.",
+        "Hash": 3916310888,
+        "Name": "Desativa o tempo para vender"
+    },
+    {
+        "Combo": [
+            "Nada",
+            "Apenas notificado",
+            "Somente logs",
+            "Notificado e logs"
+        ],
+        "Description": "Escolha como você será notificado sobre uma venda.",
+        "Hash": 3532448097,
+        "Name": "Notificação de venda"
+    },
+    {
+        "Combo": [
+            "Nada",
+            "Apenas notificado",
+            "Somente logs",
+            "Notificado e logs"
+        ],
+        "Description": "Escolha como você será notificado quando um produto for fabricado.",
+        "Hash": 960786721,
+        "Name": "Notificação de Produção"
+    },
+    {
+        "Description": "Aumente o tempo de venda se muitas vendas falharem.",
+        "Hash": 1077939945,
+        "Name": "Venda tardia"
+    },
+    {
+        "Description": "Venda suas empresas de frete executivo automaticamente.",
+        "Hash": 1361082052,
+        "Name": "Venda automática"
+    },
+    {
+        "Description": "Produza produtos mais rapidamente em empresas de frete executivo.",
+        "Hash": 456504587,
+        "Name": "Aumente a velocidade de produção"
+    },
+    {
+        "Description": "Se a relação produto/capacidade cair abaixo desse limite, as empresas encherão o produto até a capacidade máxima. NÃO FUNCIONA SE 'Aumentar velocidade de produção' NÃO ESTIVER ATIVADO!",
+        "Hash": 461694022,
+        "Name": "Produto de estoque automático"
+    },
+    {
+        "Description": "Vende apenas um produto por empresa para o máximo absoluto.",
+        "Hash": 4142144558,
+        "Name": "Maximizando os lucros"
+    },
+    {
+        "Description": "Aumentará o valor de vendas das empresas.",
+        "Hash": 3130640772,
+        "Name": "Aumente o preço de venda"
+    },
+    {
+        "Combo": [
+            "Nome do local",
+            "Indexar como NameName"
+        ],
+        "Description": "Altere o tipo que ele exibe.",
+        "Hash": 3090064952,
+        "Name": "Tipo de exibição"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 1295269445,
+        "Name": "Armazém 1"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada.",
+        "Hash": 2904317132,
+        "Name": "Armazém 1"
+    },
+    {
+        "Description": "Abrirá o laptop dentro da propriedade.",
+        "Hash": 2398133929,
+        "Name": "Abra o laptop 1"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 2279650205,
+        "Name": "Armazém 2"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada.",
+        "Hash": 2525671337,
+        "Name": "Armazém 2"
+    },
+    {
+        "Description": "Abrirá o laptop dentro da propriedade.",
+        "Hash": 1383474613,
+        "Name": "Abra o laptop 2"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 1447088166,
+        "Name": "Armazém 3"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada.",
+        "Hash": 2143322645,
+        "Name": "Armazém 3"
+    },
+    {
+        "Description": "Abrirá o laptop dentro da propriedade.",
+        "Hash": 1614528832,
+        "Name": "Abra o laptop 3"
+    },
+    {
+        "Description": "Se esta opção estiver ativada, o negócio não será gerenciado.",
+        "Hash": 1830485466,
+        "Name": "Armazém 4"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada.",
+        "Hash": 3657873060,
+        "Name": "Armazém 4"
+    },
+    {
+        "Description": "Abrirá o laptop dentro da propriedade.",
+        "Hash": 702141565,
+        "Name": "Abra o laptop 4"
+    },
+    {
+        "Description": "Se esta opção estiver ativada, o negócio não será gerenciado.",
+        "Hash": 987502941,
+        "Name": "Armazém 5"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada.",
+        "Hash": 4080527622,
+        "Name": "Armazém 5"
+    },
+    {
+        "Description": "Abrirá o laptop dentro da propriedade.",
+        "Hash": 948662752,
+        "Name": "Abra o laptop 5"
+    },
+    {
+        "Description": "Aproveite ao máximo seu produto.",
+        "Hash": 4205566301,
+        "Name": "Valor máximo de venda"
+    },
+    {
+        "Description": "Nunca mais perca tempo na missão.",
+        "Hash": 1394528796,
+        "Name": "Desativa o tempo de vendas"
+    },
+    {
+        "Description": "Complete a missão automaticamente.",
+        "Hash": 896523315,
+        "Name": "Missão de conclusão"
+    },
+    {
+        "Description": "Protegerá e defenderá contra ataques.",
+        "Hash": 3718827835,
+        "Name": "Desativar raids"
+    },
+    {
+        "Combo": [
+            "Nada",
+            "Apenas notificado",
+            "Somente logs",
+            "Notificado e logs"
+        ],
+        "Description": "Escolha como você será notificado sobre uma venda.",
+        "Hash": 1456372668,
+        "Name": "Notificação de venda"
+    },
+    {
+        "Combo": [
+            "Nada",
+            "Apenas notificado",
+            "Somente logs",
+            "Notificado e logs"
+        ],
+        "Description": "Escolha como você será notificado quando um produto for fabricado.",
+        "Hash": 3613411902,
+        "Name": "Notificação de Produção"
+    },
+    {
+        "Description": "Aumente o tempo de venda se muitas vendas falharem.",
+        "Hash": 3247020342,
+        "Name": "Venda tardia"
+    },
+    {
+        "Combo": [
+            "Narcóticos",
+            "Produtos químicos",
+            "Suprimentos médicos",
+            "Materiais de origem animal",
+            "Arte e antiguidades",
+            "Joias & Gemas",
+            "Tabaco e álcool",
+            "Falsificações"
+        ],
+        "Description": "Selecione um tipo de carga do hangar para gerenciar.",
+        "Hash": 212246425,
+        "Name": "Selecione o tipo de frete"
+    },
+    {
+        "Description": "Vendez votre Hangar Cargoautomaticamente",
+        "Hash": 977039089,
+        "Name": "Venda automática"
+    },
+    {
+        "Description": "Aumentará o valor de vendas das empresas.",
+        "Hash": 320493767,
+        "Name": "Aumente o preço de venda"
+    },
+    {
+        "Description": "Começará a produzir assim que as condições forem atendidas.",
+        "Hash": 2736514775,
+        "Name": "Aumente a velocidade de produção"
+    },
+    {
+        "Description": "Se a relação produto/capacidade cair abaixo desse limite, as empresas encherão o produto até a capacidade máxima. NÃO FUNCIONA SE 'Aumentar velocidade de produção' NÃO ESTIVER ATIVADO!",
+        "Hash": 2802501976,
+        "Name": "Produto de estoque automático"
+    },
+    {
+        "Description": "Vende apenas um produto por empresa para o máximo absoluto.",
+        "Hash": 356280836,
+        "Name": "Maximizando os lucros"
+    },
+    {
+        "Description": "Teletransporte você para a entrada do seu hangar.",
+        "Hash": 3264849023,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída.",
+        "Hash": 3183253763,
+        "Name": "Sair"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o laptop.",
+        "Hash": 1559869745,
+        "Name": "Computador portátil"
+    },
+    {
+        "Description": "Teletransportá-lo para o painel de gerenciamento da aeronave.",
+        "Hash": 3062674545,
+        "Name": "Gerenciamento de aeronaves"
+    },
+    {
+        "Description": "Obtenha o máximo de dinheiro com a missão",
+        "Hash": 1977380242,
+        "Name": "Lucro máximo"
+    },
+    {
+        "Description": "Obtenha o máximo de dinheiro com a missão",
+        "Hash": 2484329893,
+        "Name": "Lucro máximo"
+    },
+    {
+        "Description": "Nunca mais perca tempo na missão.",
+        "Hash": 994267833,
+        "Name": "Desativa o tempo de vendas"
+    },
+    {
+        "Description": "Complete a missão instantaneamente.",
+        "Hash": 2593929624,
+        "Name": "Complete automaticamente a missão"
+    },
+    {
+        "Description": "Nunca mais perca tempo na missão.",
+        "Hash": 2155098078,
+        "Name": "Desativa o tempo de vendas"
+    },
+    {
+        "Description": "Complete a missão instantaneamente.",
+        "Hash": 590962059,
+        "Name": "Complete automaticamente a missão"
+    },
+    {
+        "Description": "Conclua automaticamente a configuração.",
+        "Hash": 2182492374,
+        "Name": "Configurar o Hangar"
+    },
+    {
+        "Description": "Abra o laptop.",
+        "Hash": 4223497162,
+        "Name": "Abra o laptop"
+    },
+    {
+        "Combo": [
+            "Nada",
+            "Apenas notificado",
+            "Somente logs",
+            "Notificado e logs"
+        ],
+        "Description": "Escolha como você será notificado sobre uma venda.",
+        "Hash": 3245031791,
+        "Name": "Notificação de venda"
+    },
+    {
+        "Combo": [
+            "Nada",
+            "Apenas notificado",
+            "Somente logs",
+            "Notificado e logs"
+        ],
+        "Description": "Escolha como você será notificado quando um produto for fabricado.",
+        "Hash": 4018251225,
+        "Name": "Notificação de produção"
+    },
+    {
+        "Combo": [
+            "Nada",
+            "Apenas notificado",
+            "Somente logs",
+            "Notificado e logs"
+        ],
+        "Description": "Escolha como você será notificado quando uma empresa for reabastecida.",
+        "Hash": 914053616,
+        "Name": "Notificação de reabastecimento"
+    },
+    {
+        "Description": "Aumente o tempo de venda se muitas vendas falharem.",
+        "Hash": 3596868376,
+        "Name": "Hora de vender"
+    },
+    {
+        "Description": "Reabastecimento automático de empresas de motoclubes.",
+        "Hash": 1696586892,
+        "Name": "Reabastecimento automático"
+    },
+    {
+        "Description": "Abaixo desse valor, as empresas do Moto Clube irão reabastecer.",
+        "Hash": 743953713,
+        "Name": "Limite de reabastecimento"
+    },
+    {
+        "Description": "Venda suas atividades do Motoclube automaticamente",
+        "Hash": 2487113571,
+        "Name": "Venda automática"
+    },
+    {
+        "Description": "Começará a produzir assim que as condições forem atendidas.",
+        "Hash": 753054111,
+        "Name": "Aumente o tempo de produção"
+    },
+    {
+        "Description": "Se a relação produto/capacidade cair abaixo desse limite, as empresas encherão o produto até a capacidade máxima. NÃO FUNCIONA SE 'Aumentar o tempo de produção' NÃO ESTIVER ATIVADO!",
+        "Hash": 2412026535,
+        "Name": "Produção automatizada"
+    },
+    {
+        "Description": "Fará com que as empresas de motoclubes consumam menos suprimentos para uma unidade de produto. Não se aplica ao recurso \"Aumentar velocidade de produção\"",
+        "Hash": 3205162707,
+        "Name": "Aprimoramento da relação de estoque"
+    },
+    {
+        "Description": "Aumentará o valor de vendas das empresas.",
+        "Hash": 329409525,
+        "Name": "Aumente o preço das vendas"
+    },
+    {
+        "Description": "Vende apenas um produto por empresa para o máximo absoluto.",
+        "Hash": 2310935562,
+        "Name": "Lucro máximo"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada.",
+        "Hash": 2940906443,
+        "Name": "Entrada de cocaína"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída.",
+        "Hash": 817932214,
+        "Name": "Sair"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o laptop.",
+        "Hash": 3554212523,
+        "Name": "Computador portátil"
+    },
+    {
+        "Description": "Configurará a empresa automaticamente.",
+        "Hash": 2894218958,
+        "Name": "Configurar cocaína"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 331472904,
+        "Name": "Desativa a cocaína"
+    },
+    {
+        "Description": "Vai abrir o laptop",
+        "Hash": 3327398217,
+        "Name": "Abra a Calculadora da Oficina de Cocaína"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada.",
+        "Hash": 1676856599,
+        "Name": "Entrada para o Bunker"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída.",
+        "Hash": 2970534477,
+        "Name": "Sair"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o laptop.",
+        "Hash": 586319684,
+        "Name": "Computador portátil"
+    },
+    {
+        "Description": "Configurará a empresa automaticamente.",
+        "Hash": 4127108910,
+        "Name": "Configurar Bunker"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 1977011668,
+        "Name": "Desativa o Bunker"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada.",
+        "Hash": 1539930248,
+        "Name": "Entrada de metanfetamina"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída.",
+        "Hash": 876063778,
+        "Name": "Sair"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o laptop.",
+        "Hash": 4274425467,
+        "Name": "Computador portátil"
+    },
+    {
+        "Description": "Configurará a empresa automaticamente.",
+        "Hash": 3742972559,
+        "Name": "Configurando o Meth"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 4185009960,
+        "Name": "Metanfetamina desativa"
+    },
+    {
+        "Description": "Abra o laptop",
+        "Hash": 591392458,
+        "Name": "Laptop de metanfetamina aberta "
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada.",
+        "Hash": 1114703677,
+        "Name": "Entrada de dinheiro"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída.",
+        "Hash": 2464864395,
+        "Name": "Sair"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o laptop.",
+        "Hash": 3292939592,
+        "Name": "Computador portátil"
+    },
+    {
+        "Description": "Configurará a empresa automaticamente.",
+        "Hash": 494344362,
+        "Name": "Configurando o caixa"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 1134822219,
+        "Name": "Caixa Desativo"
+    },
+    {
+        "Description": "Abra o laptop",
+        "Hash": 3174072090,
+        "Name": "Laptop de dinheiro aberto"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada.",
+        "Hash": 2060624675,
+        "Name": "Iniciador de Maconhas "
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída.",
+        "Hash": 1018619788,
+        "Name": "Sair"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o laptop.",
+        "Hash": 3090370306,
+        "Name": "Computador portátil"
+    },
+    {
+        "Description": "Configurará a empresa automaticamente.",
+        "Hash": 2830772280,
+        "Name": "Configurar Maconha"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 3819923244,
+        "Name": "Maconha desativa"
+    },
+    {
+        "Description": "Abra o laptop",
+        "Hash": 3756526168,
+        "Name": "Laptop de maconha aberta"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada.",
+        "Hash": 3949772348,
+        "Name": "Entrada de falsificação "
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída.",
+        "Hash": 2528082441,
+        "Name": "Sair"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o laptop.",
+        "Hash": 2813738785,
+        "Name": "Computador portátil"
+    },
+    {
+        "Description": "Configurará a empresa automaticamente.",
+        "Hash": 2695935269,
+        "Name": "Falsificação do configurador"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 4181084853,
+        "Name": "Falsificação Desativa"
+    },
+    {
+        "Description": "Abra o laptop",
+        "Hash": 4144445499,
+        "Name": "Abra o computador da falsificação "
+    },
+    {
+        "Description": "Abra o laptop Bunker ",
+        "Hash": 1229568720,
+        "Name": "Abra o Computador Bunker "
+    },
+    {
+        "Description": "Nunca mais perca tempo na missão.",
+        "Hash": 389593990,
+        "Name": "Desativa o tempo de vendas"
+    },
+    {
+        "Description": "Complete a missão automaticamente.",
+        "Hash": 1877284136,
+        "Name": "Complete a missão"
+    },
+    {
+        "Description": "Nunca mais perca tempo na missão.",
+        "Hash": 2187992741,
+        "Name": "Desativa o tempo de vendas"
+    },
+    {
+        "Description": "Complete a missão automaticamente.",
+        "Hash": 3724525586,
+        "Name": "Complete a missão"
+    },
+    {
+        "Description": "A LJT não o culpa por não vender ou reabastecer seus negócios.",
+        "Hash": 600122804,
+        "Name": "Lembretes desativos"
+    },
+    {
+        "Description": "Protegerá e defenderá contra ataques.",
+        "Hash": 446516199,
+        "Name": "Incursões Desativas"
+    },
+    {
+        "Combo": [
+            "Nada",
+            "Apenas notificado",
+            "Somente logs",
+            "Notificado e logs"
+        ],
+        "Description": "Escolha como você será notificado sobre uma venda.",
+        "Hash": 1983832746,
+        "Name": "Notificação de venda"
+    },
+    {
+        "Combo": [
+            "Nada",
+            "Apenas notificado",
+            "Somente logs",
+            "Notificado e logs"
+        ],
+        "Description": "Escolha como você será notificado quando um produto for fabricado.",
+        "Hash": 2364083802,
+        "Name": "Notificação de Produção"
+    },
+    {
+        "Description": "Aumente o tempo de venda se muitas vendas falharem.",
+        "Hash": 2766207225,
+        "Name": "Hora de vender"
+    },
+    {
+        "Description": "Reivindicará o dinheiro seguro (se você tiver algum).",
+        "Hash": 3272144130,
+        "Name": "Arrecade dinheiro com segurança"
+    },
+    {
+        "Description": "Adicionará mais dinheiro ao Cofre.",
+        "Hash": 2039459473,
+        "Name": "Gatilho de pagamento"
+    },
+    {
+        "Description": "Colocará a população ao máximo.",
+        "Hash": 3786732686,
+        "Name": "Popularidade máxima"
+    },
+    {
+        "Description": "A capacidade do cofre será de US$ 300.000 em vez de US$ 250.000.",
+        "Hash": 572687571,
+        "Name": "Capacidade Máxima Segura"
+    },
+    {
+        "Description": "Sempre que a boate aumentar o baú, será o máximo que você pode obter.",
+        "Hash": 207709677,
+        "Name": "Ganho máximo"
+    },
+    {
+        "Description": "A população não diminuirá.",
+        "Hash": 1932063164,
+        "Name": "Sem declínio na popularidade"
+    },
+    {
+        "Description": "Venda sua boate automaticamente",
+        "Hash": 2561009134,
+        "Name": "Venda automática"
+    },
+    {
+        "Description": "Produza produtos mais rapidamente na boate.",
+        "Hash": 3623791889,
+        "Name": "Aumente a velocidade de produção"
+    },
+    {
+        "Description": "Se a relação produto/capacidade cair abaixo desse limite, as empresas encherão o produto até a capacidade máxima. NÃO FUNCIONA SE 'Aumentar velocidade de produção' NÃO ESTIVER ATIVADO!",
+        "Hash": 2453307961,
+        "Name": "Produto de estoque automático"
+    },
+    {
+        "Description": "Aumentará o valor de vendas das empresas.",
+        "Hash": 79404062,
+        "Name": "Aumente o preço das vendas"
+    },
+    {
+        "Description": "Vende apenas um produto por empresa para o máximo absoluto.",
+        "Hash": 3235877312,
+        "Name": "Lucro máximo"
+    },
+    {
+        "Description": "Você não estará limitado a um máximo de 4 técnicos dentro do gerente.",
+        "Hash": 2279775357,
+        "Name": "Todos os técnicos"
+    },
+    {
+        "Description": "Coletará dinheiro automaticamente quando estiver cheio.",
+        "Hash": 2400611011,
+        "Name": "Recuperação automática do cofre"
+    },
+    {
+        "Description": "Encherá o cofre com dinheiro.",
+        "Hash": 1289082638,
+        "Name": "Preencha automaticamente o cofre"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 2946051015,
+        "Name": "Desativar carga"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 1247670160,
+        "Name": "Armas Desactivas"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 339202347,
+        "Name": "Cocaína Activa"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 3945027607,
+        "Name": "Metanfetamina desativa"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 1226125777,
+        "Name": "Maconha desativa"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 1680728654,
+        "Name": "Falsificação Desativa"
+    },
+    {
+        "Description": "Se essa opção estiver ativada, a atividade não será gerenciada.",
+        "Hash": 540030754,
+        "Name": "Caixa Desativo"
+    },
+    {
+        "Description": "Aproveite ao máximo seu produto.",
+        "Hash": 4150435480,
+        "Name": "Valor máximo de venda"
+    },
+    {
+        "Description": "Nunca mais perca tempo na missão.",
+        "Hash": 3082379341,
+        "Name": "Desativa o tempo de vendas"
+    },
+    {
+        "Description": "Complete a missão automaticamente.",
+        "Hash": 960600588,
+        "Name": "Complete a missão"
+    },
+    {
+        "Description": "Que Dave não vai mais ligar para você para aumentar a popularidade de sua empresa.",
+        "Hash": 2878619445,
+        "Name": "Chamada de ajuda de Dave desativo"
+    },
+    {
+        "Description": "Abrirá o laptop.",
+        "Hash": 942249840,
+        "Name": "Laptop aberto"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o cofre.",
+        "Hash": 1599735747,
+        "Name": "Cofre de dinheiro"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída # 1.",
+        "Hash": 251133108,
+        "Name": "Lançamento #1"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída # 2.",
+        "Hash": 286982386,
+        "Name": "Lançamento #2"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o elevador #1.",
+        "Hash": 3961972054,
+        "Name": "Elevador #1"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o elevador #2.",
+        "Hash": 1815831937,
+        "Name": "Elevador #2"
+    },
+    {
+        "Description": "Teletransporta você para o Cofre de Armas.",
+        "Hash": 1713436008,
+        "Name": "Cofre de Armas"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o laptop.",
+        "Hash": 3502074474,
+        "Name": "Computador portátil"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada principal de sua boate.",
+        "Hash": 587804797,
+        "Name": "Entrada Principal"
+    },
+    {
+        "Description": "Teletransportá-lo para a entrada da garagem da sua boate.",
+        "Hash": 1493465443,
+        "Name": "Entrada da garagem"
+    },
+    {
+        "Description": "Conclui automaticamente a configuração.",
+        "Hash": 1037033483,
+        "Name": "Configurar a Boate"
+    },
+    {
+        "Description": "Protege e defende contra ataques.",
+        "Hash": 83238545,
+        "Name": "Desativar Raids"
+    },
+    {
+        "Description": "Altera o espaçamento entre as colunas de dados do HUD do Acid Labs.",
+        "Hash": 4151241997,
+        "Name": "Espaçamento entre colunas de dados"
+    },
+    {
+        "Description": "Escolha uma posição para o eixo X do HUD do Acid Labs.",
+        "Hash": 3882725335,
+        "Name": "Posição X"
+    },
+    {
+        "Description": "Escolha uma posição para o eixo Y do HUD do Acid Labs.",
+        "Hash": 2167109477,
+        "Name": "Posição Y"
+    },
+    {
+        "Description": "Mude a posição do HUD do Acid Labs com o mouse.",
+        "Hash": 3000234852,
+        "Name": "Mova-se com o mouse"
+    },
+    {
+        "Description": "Altere a cor do texto no HUD do Acid Labs.",
+        "Hash": 2536977403,
+        "Name": "Cor do texto"
+    },
+    {
+        "Description": "Altere a cor de fundo do HUD do Acid Labs.",
+        "Hash": 721361348,
+        "Name": "Cor de fundo"
+    },
+    {
+        "Description": "Exibe dados da sua empresa Acid Labs.",
+        "Hash": 217012930,
+        "Name": "Mostrar HUD"
+    },
+    {
+        "Description": "Exibe o tipo de negócio Acid Labs.",
+        "Hash": 3074926677,
+        "Name": "Mostrar tipo"
+    },
+    {
+        "Description": "Exibe o produto e a capacidade de suas empresas Acid Labs.",
+        "Hash": 159826848,
+        "Name": "Ver produto/capacidade"
+    },
+    {
+        "Description": "Exibe os suprimentos de suas empresas Acid Labs.",
+        "Hash": 2939009395,
+        "Name": "Ver suprimentos"
+    },
+    {
+        "Description": "Exibe o valor atual do produto de uma empresa da Acid Labs.",
+        "Hash": 368155107,
+        "Name": "Exibir valor do produto"
+    },
+    {
+        "Description": "Altera o espaçamento entre as colunas de dados do HUD de Carga Executiva.",
+        "Hash": 3887164254,
+        "Name": "Espaçamento entre colunas de dados"
+    },
+    {
+        "Description": "Escolha uma posição para o eixo X do HUD de Carga Executiva.",
+        "Hash": 3862627612,
+        "Name": "Posição X"
+    },
+    {
+        "Description": "Escolha uma posição para o eixo Y do HUD de Carga Executiva.",
+        "Hash": 1578871743,
+        "Name": "Posição Y"
+    },
+    {
+        "Description": "Mude a posição do HUD de Carga Executiva com o mouse.",
+        "Hash": 2590971289,
+        "Name": "Mova-se com o mouse"
+    },
+    {
+        "Description": "Altere a cor do texto do HUD de Carga Executiva.",
+        "Hash": 3752387028,
+        "Name": "Cor do texto"
+    },
+    {
+        "Description": "Altere a cor de fundo do HUD de Carga Executiva.",
+        "Hash": 2376468775,
+        "Name": "Cor de fundo"
+    },
+    {
+        "Description": "Exibe os dados da sua empresa de Carga Executiva.",
+        "Hash": 2366482769,
+        "Name": "Mostrar HUD"
+    },
+    {
+        "Description": "Exibe o tipo de empresa de Carga Executiva.",
+        "Hash": 4050433983,
+        "Name": "Mostrar tipo"
+    },
+    {
+        "Description": "Exibe o produto e a capacidade de suas empresas de Carga Executiva.",
+        "Hash": 9559642,
+        "Name": "Ver produto/capacidade"
+    },
+    {
+        "Description": "Exibe o valor atual do produto de uma empresa de Carga Executiva.",
+        "Hash": 3431001833,
+        "Name": "Exibir valor do produto"
+    },
+    {
+        "Description": "Altera o espaçamento entre as colunas de dados do HUD do Hangar.",
+        "Hash": 2757731898,
+        "Name": "Espaçamento entre colunas de dados"
+    },
+    {
+        "Description": "Escolha uma posição para o eixo X do HUD dos hangares.",
+        "Hash": 1185208759,
+        "Name": "Posição X"
+    },
+    {
+        "Description": "Escolha uma posição para o eixo Y do HUD do Hangar.",
+        "Hash": 3294215350,
+        "Name": "Posição Y"
+    },
+    {
+        "Description": "Altere a posição do HUD do hangar com o mouse.",
+        "Hash": 3500541989,
+        "Name": "Mova-se com o mouse"
+    },
+    {
+        "Description": "Altere a cor do texto do HUD do hangar.",
+        "Hash": 2560932909,
+        "Name": "Cor do texto"
+    },
+    {
+        "Description": "Altere a cor do plano de fundo do HUD do hangar.",
+        "Hash": 3138813684,
+        "Name": "Cor de fundo"
+    },
+    {
+        "Description": "Exibe dados de suas empresas de galpões.",
+        "Hash": 3637886631,
+        "Name": "Mostrar HUD"
+    },
+    {
+        "Description": "Mostra o tipo de negócio de galpão.",
+        "Hash": 3409328742,
+        "Name": "Mostrar tipo"
+    },
+    {
+        "Description": "Exibe o produto e a capacidade de suas empresas de galpões.",
+        "Hash": 377226114,
+        "Name": "Mostrar produto/capacidade"
+    },
+    {
+        "Description": "Exibe os suprimentos de suas empresas de galpões.",
+        "Hash": 2363764261,
+        "Name": "Ver suprimentos"
+    },
+    {
+        "Description": "Exibe o valor atual do produto de uma empresa de galpão.",
+        "Hash": 1008581873,
+        "Name": "Ver valor do produto"
+    },
+    {
+        "Description": "Altere o espaçamento entre as colunas de dados na interface do HUD do clube de motociclistas.",
+        "Hash": 2258202992,
+        "Name": "Espaçamento entre colunas de dados"
+    },
+    {
+        "Description": "Escolha uma posição para o eixo X da interface do HUD do clube de motocicletas.",
+        "Hash": 3315940503,
+        "Name": "Posição X"
+    },
+    {
+        "Description": "Escolha uma posição para o eixo Y da interface HUD do motoclube.",
+        "Hash": 3017212558,
+        "Name": "Posição Y"
+    },
+    {
+        "Description": "Altere a posição do HUD do clube de motociclistas com o mouse.",
+        "Hash": 4102765751,
+        "Name": "Mova-se com o mouse"
+    },
+    {
+        "Description": "Altere a cor do texto no HUD do clube de motociclistas.",
+        "Hash": 1209002104,
+        "Name": "Cor do texto"
+    },
+    {
+        "Description": "Altere a cor de fundo do HUD do clube de motociclistas.",
+        "Hash": 2182579036,
+        "Name": "Cor de fundo"
+    },
+    {
+        "Description": "Exibe dados de seus negócios de motoclubes.",
+        "Hash": 2769230934,
+        "Name": "Mostrar HUD"
+    },
+    {
+        "Description": "Mostra o tipo de negócio de motoclube.",
+        "Hash": 2133211563,
+        "Name": "Mostrar tipo"
+    },
+    {
+        "Description": "Exibe o produto e a capacidade de seus negócios de motoclubes.",
+        "Hash": 4089256053,
+        "Name": "Mostrar produto/capacidade"
+    },
+    {
+        "Description": "Exibe os suprimentos de seus negócios de motoclubes.",
+        "Hash": 3496026227,
+        "Name": "Ver suprimentos"
+    },
+    {
+        "Description": "Exibe o valor atual do produto de uma empresa de motoclube.",
+        "Hash": 3239062037,
+        "Name": "Ver valor do produto"
+    },
+    {
+        "Description": "Altere o espaçamento entre as colunas de dados da interface do HUD da boate.",
+        "Hash": 2462819123,
+        "Name": "Espaçamento entre colunas de dados"
+    },
+    {
+        "Description": "Escolha uma posição para o eixo X da interface HUD da boate.",
+        "Hash": 248371728,
+        "Name": "Posição X"
+    },
+    {
+        "Description": "Escolha uma posição para o eixo Y da interface do HUD da boate.",
+        "Hash": 1067471220,
+        "Name": "Posição Y"
+    },
+    {
+        "Description": "Altere a posição da interface do HUD da boate com o mouse.",
+        "Hash": 1612787477,
+        "Name": "Mova-se com o mouse"
+    },
+    {
+        "Description": "Altere a cor do texto na interface do HUD da boate.",
+        "Hash": 624561330,
+        "Name": "Cor do texto"
+    },
+    {
+        "Description": "Altere a cor de fundo da interface HUD da boate.",
+        "Hash": 1790218568,
+        "Name": "Cor de fundo"
+    },
+    {
+        "Description": "Exibe dados de seus negócios de boate.",
+        "Hash": 1727487769,
+        "Name": "Mostrar HUD"
+    },
+    {
+        "Description": "Mostra o tipo de negócio de boate.",
+        "Hash": 2176212739,
+        "Name": "Mostrar tipo"
+    },
+    {
+        "Description": "Exibe o produto e a capacidade de seus negócios de boate.",
+        "Hash": 1156210828,
+        "Name": "Mostrar produto/capacidade"
+    },
+    {
+        "Description": "Exibe os suprimentos de seus negócios de boate.",
+        "Hash": 171039091,
+        "Name": "Ver suprimentos"
+    },
+    {
+        "Description": "Exibe o valor atual do produto de uma empresa de boate.",
+        "Hash": 724124547,
+        "Name": "Ver valor do produto"
+    },
+    {
+        "Description": "Exibe o dinheiro do baú de parede.",
+        "Hash": 4223496870,
+        "Name": "Ver Baú de Parede"
+    },
+    {
+        "Description": "Altere o espaçamento entre as colunas de dados no HUD do depósito de veículos.",
+        "Hash": 3615443503,
+        "Name": "Espaçamento entre colunas de dados"
+    },
+    {
+        "Description": "Escolha uma posição para o eixo X da interface HUD do armazém de veículos.",
+        "Hash": 3709617475,
+        "Name": "Posição X"
+    },
+    {
+        "Description": "Escolha uma posição para o eixo Y da interface HUD do armazém de veículos.",
+        "Hash": 3425649585,
+        "Name": "Posição Y"
+    },
+    {
+        "Description": "Mude a posição do HUD do armazém de veículos com o mouse.",
+        "Hash": 3749407347,
+        "Name": "Mova-se com o mouse"
+    },
+    {
+        "Description": "Altere a cor do texto no HUD do armazém de veículos.",
+        "Hash": 1204977758,
+        "Name": "Cor do texto"
+    },
+    {
+        "Description": "Altere a cor do texto do HUD do Armazém de Veículos.",
+        "Hash": 1806255290,
+        "Name": "Cor de fundo"
+    },
+    {
+        "Description": "Exibe dados do seu depósito de veículos.",
+        "Hash": 2459454966,
+        "Name": "Mostrar HUD"
+    },
+    {
+        "Description": "Exibe o tipo da empresa.",
+        "Hash": 2042698481,
+        "Name": "Mostrar tipo"
+    },
+    {
+        "Description": "Exibe o número atual de veículos em seu depósito de veículos.",
+        "Hash": 459815585,
+        "Name": "Número de veículos"
+    },
+    {
+        "Description": "Complete todos os preparativos para o assalto clássico. Mantenha esta opção ativada até o final da primeira missão.",
+        "Hash": 1411342583,
+        "Name": "Preparativos completos"
+    },
+    {
+        "Description": "Defina sua própria participação.",
+        "Hash": 1933353929,
+        "Name": "Compartilhamento próprio"
+    },
+    {
+        "Description": "Desbloqueia missões.",
+        "Hash": 3635002884,
+        "Name": "Desbloqueie missões"
+    },
+    {
+        "Description": "Escolha quantas vidas você ganha em Cayo Perico.",
+        "Hash": 3647590370,
+        "Name": "Vidas"
+    },
+    {
+        "Description": "Você terá mais vidas.",
+        "Hash": 3606626358,
+        "Name": "Vidas ilimitadas"
+    },
+    {
+        "Combo": [
+            "Atual",
+            "Caixa total",
+            "Maconha Cheia",
+            "Cocaína Cheia",
+            "Ou Plein",
+            "Misturado"
+        ],
+        "Description": "Escolha qual saque secundário você terá.",
+        "Hash": 3752003233,
+        "Name": "Saque Secundário"
+    },
+    {
+        "Description": "Entre nas portas com cartão-chave duplo (SOMENTE LOCAL).",
+        "Hash": 242810215,
+        "Name": "Sem limitações de porta (local)"
+    },
+    {
+        "Description": "Não há mais grade de drenagem.",
+        "Hash": 3036991634,
+        "Name": "Remova a grelha de drenagem"
+    },
+    {
+        "Description": "Mais câmeras.",
+        "Hash": 3951384126,
+        "Name": "Remover câmeras"
+    },
+    {
+        "Description": "Não há mais inimigos.",
+        "Hash": 4048113093,
+        "Name": "Elimine inimigos"
+    },
+    {
+        "Description": "Colete o alvo principal (funciona apenas na área subterrânea).",
+        "Hash": 1992486109,
+        "Name": "Colete o alvo primário"
+    },
+    {
+        "Description": "Pule a primeira cena com Pavel.",
+        "Hash": 900288702,
+        "Name": "Pule a cinemática de Pavel"
+    },
+    {
+        "Combo": [
+            "Atual",
+            "Tequila Sinsimito",
+            "Colar de Rubi",
+            "Títulos ao portador",
+            "Diamante rosa",
+            "Fichiers Madrazo",
+            "Estátua da Pantera"
+        ],
+        "Description": "Escolha um alvo principal.",
+        "Hash": 3810863683,
+        "Name": "Alvo principal"
+    },
+    {
+        "Combo": [
+            "Atual",
+            "Normal",
+            "Difícil"
+        ],
+        "Description": "Escolha uma dificuldade.",
+        "Hash": 2410713887,
+        "Name": "Dificuldade"
+    },
+    {
+        "Description": "Reinicie o painel de agendamento para que as alterações sejam exibidas.",
+        "Hash": 1474651476,
+        "Name": "Reiniciar o painel de agendamento"
+    },
+    {
+        "Description": "Escolha a porcentagem final para dar ao primeiro jogador.",
+        "Hash": 3376998117,
+        "Name": "Participação do Jogador #1"
+    },
+    {
+        "Description": "Escolha a porcentagem final para dar ao segundo jogador.",
+        "Hash": 1967341271,
+        "Name": "Compartilhamento de Jogador #2"
+    },
+    {
+        "Description": "Escolha a porcentagem final para dar ao terceiro jogador.",
+        "Hash": 1583223053,
+        "Name": "Partilha do Jogador #3"
+    },
+    {
+        "Description": "Escolha a porcentagem final para dar ao quarto jogador.",
+        "Hash": 2426140040,
+        "Name": "Participação do Jogador #4"
+    },
+    {
+        "Description": "Altere o compartilhamento.",
+        "Hash": 511556362,
+        "Name": "Alterar compartilhamento"
+    },
+    {
+        "Description": "Não pague uma taxa no final do roubo.",
+        "Hash": 1670075586,
+        "Name": "Sem taxas (apenas você)"
+    },
+    {
+        "Combo": [
+            "Alvo principal",
+            "Saque Secundário #1",
+            "Saque Secundário #2",
+            "Saque Secundário #3",
+            "Saque Secundário Subterrâneo",
+            "Cofre de escritório",
+            "Escritório",
+            "Entrada do porão hackeável"
+        ],
+        "Description": "Escolha para onde se teletransportar dentro do complexo.",
+        "Hash": 3735525693,
+        "Name": "Teletransportes para dentro"
+    },
+    {
+        "Combo": [
+            "Portas principais",
+            "Teclado #1",
+            "Teclado #2",
+            "Gancho #1",
+            "Gancho #2"
+        ],
+        "Description": "Escolha onde sair do complexo.",
+        "Hash": 3452558064,
+        "Name": "Sair dos teletransportes"
+    },
+    {
+        "Description": "Complete todas as Missões de Preparação.",
+        "Hash": 539477956,
+        "Name": "Termine os preparativos"
+    },
+    {
+        "Description": "Defina todas as tintas.",
+        "Hash": 2662902007,
+        "Name": "Definir todas as tintas"
+    },
+    {
+        "Description": "Teletransporte-se para o local escolhido dentro do resort.",
+        "Hash": 948518019,
+        "Name": "Teletransporte"
+    },
+    {
+        "Description": "Teletransporte-se para o local escolhido dentro do resort.",
+        "Hash": 2338813989,
+        "Name": "Teletransporte"
+    },
+    {
+        "Description": "Encerre automaticamente o assalto.",
+        "Hash": 1168457152,
+        "Name": "Complete o assalto"
+    },
+    {
+        "Description": "Remova o cooldown de Cayo Perico (NÃO SEI SE FUNCIONA!).",
+        "Hash": 1981681880,
+        "Name": "Remover Cooldown do Truque (TEST)"
+    },
+    {
+        "Description": "Reconheço que se alguém receber mais de US $ 2.250.000, não receberá nenhum dinheiro no final.",
+        "Hash": 3720605285,
+        "Name": "Eu reconheço"
+    },
+    {
+        "Description": "Baixe algumas predefinições da internet.",
+        "Hash": 3153856558,
+        "Name": "Baixe predefinições da web"
+    },
+    {
+        "Description": "Escolha uma predefinição para carregar para direção.",
+        "Hash": 1022282524,
+        "Name": "Presets"
+    },
+    {
+        "Description": "Nomeie a predefinição.",
+        "Hash": 3457637941,
+        "Name": "Nome"
+    },
+    {
+        "Description": "Carregue uma predefinição.",
+        "Hash": 2797784201,
+        "Name": "Carregador"
+    },
+    {
+        "Description": "Salve uma predefinição.",
+        "Hash": 2500826547,
+        "Name": "Registro"
+    },
+    {
+        "Description": "Exclua uma predefinição.",
+        "Hash": 1457726413,
+        "Name": "Excluir"
+    },
+    {
+        "Description": "Escolha a porcentagem final para dar ao primeiro jogador.",
+        "Hash": 3312908603,
+        "Name": "Participação do Jogador #1"
+    },
+    {
+        "Description": "Escolha a porcentagem final para dar ao segundo jogador.",
+        "Hash": 4104017801,
+        "Name": "Compartilhamento de Jogador #2"
+    },
+    {
+        "Description": "Escolha a porcentagem final para dar ao terceiro jogador.",
+        "Hash": 3798446876,
+        "Name": "Partilha do Jogador #3"
+    },
+    {
+        "Description": "Escolha a porcentagem final para dar ao quarto jogador.",
+        "Hash": 174621473,
+        "Name": "Participação do Jogador #4"
+    },
+    {
+        "Description": "Altere o compartilhamento.",
+        "Hash": 2575301555,
+        "Name": "Alterar compartilhamento"
+    },
+    {
+        "Description": "Reinicie o painel de agendamento.",
+        "Hash": 2722257299,
+        "Name": "Reiniciar o painel de agendamento"
+    },
+    {
+        "Combo": [
+            "Atual",
+            "ATO I - Vazamentos de dados",
+            "ATO II - O Problema Bogdan",
+            "ATO III - O Cenário do Juízo Final"
+        ],
+        "Description": "Escolha uma predefinição para definir.",
+        "Hash": 559709672,
+        "Name": "Predefinido"
+    },
+    {
+        "Description": "Completa missões de preparação.",
+        "Hash": 962239468,
+        "Name": "Complete todas as missões de preparação"
+    },
+    {
+        "Description": "Redefine o progresso.",
+        "Hash": 1179664044,
+        "Name": "Redefinir o progresso"
+    },
+    {
+        "Description": "Escolha a cota que você recebe como participante.",
+        "Hash": 3739129471,
+        "Name": "Compartilhamento próprio"
+    },
+    {
+        "Description": "Escolha qual porcentagem do dinheiro final dar ao primeiro jogador.",
+        "Hash": 2227154788,
+        "Name": "Partilha do Jogador #1"
+    },
+    {
+        "Description": "Escolha qual porcentagem do dinheiro final dar ao segundo jogador.",
+        "Hash": 247579518,
+        "Name": "Partilha do Jogador #2"
+    },
+    {
+        "Description": "Escolha qual porcentagem do dinheiro final dar ao terceiro jogador.",
+        "Hash": 4217937100,
+        "Name": "Partilha do Jogador #3"
+    },
+    {
+        "Description": "Escolha qual porcentagem do dinheiro final dar ao quarto jogador.",
+        "Hash": 2972485717,
+        "Name": "Participação do Jogador #4"
+    },
+    {
+        "Description": "Altere o compartilhamento.",
+        "Hash": 2623634063,
+        "Name": "Alterar Compartilhar"
+    },
+    {
+        "Description": "Reinicia o painel de agendamento.",
+        "Hash": 2064886414,
+        "Name": "Reiniciar o Painel de Agendamento"
+    },
+    {
+        "Description": "Dá-lhe um colete à prova de balas",
+        "Hash": 64310816,
+        "Name": "Definir Colete Corporal"
+    },
+    {
+        "Description": "Dá acesso a mapas de nível 2.",
+        "Hash": 51286244,
+        "Name": "Desbloqueie o mapa de nível 2"
+    },
+    {
+        "Description": "Enfraqueça os guardas.",
+        "Hash": 1297843828,
+        "Name": "Enfraquecer os guardas"
+    },
+    {
+        "Description": "Localize todos os pontos de interesse.",
+        "Hash": 1695225020,
+        "Name": "Localize todos os pontos de interesse"
+    },
+    {
+        "Description": "Identifica todos os pontos de acesso.",
+        "Hash": 263293762,
+        "Name": "Localizar todos os pontos de acesso"
+    },
+    {
+        "Combo": [
+            "Atual",
+            "Dinheiro",
+            "Ou",
+            "Trabalho artístico",
+            "Diamante"
+        ],
+        "Description": "Escolha o alvo principal.",
+        "Hash": 2723508503,
+        "Name": "Alvo"
+    },
+    {
+        "Combo": [
+            "Atual",
+            "Carl Abdullahi 5%",
+            "Gustavo Mota 9%",
+            "Charlie Reed 7%",
+            "Chester McCoy 10%",
+            "Patrick McReary 8%",
+            "Nenhum 0%"
+        ],
+        "Description": "Escolha o atirador.",
+        "Hash": 616864401,
+        "Name": "Atirador"
+    },
+    {
+        "Combo": [
+            "Atual",
+            "Pior",
+            "Melhor"
+        ],
+        "Description": "Escolha o armamento.",
+        "Hash": 3556713065,
+        "Name": "Armamento"
+    },
+    {
+        "Combo": [
+            "Atual",
+            "Karim Denz 5%",
+            "Taliana Martinez 7%",
+            "Eddie Toh 9%",
+            "Zach Nelson 6%",
+            "Chester McCoy 10%",
+            "Nenhum 0%"
+        ],
+        "Description": "Escolha o driver.",
+        "Hash": 1468571895,
+        "Name": "Motorista"
+    },
+    {
+        "Combo": [
+            "Atual",
+            "Pior",
+            "Correto",
+            "Bom",
+            "Melhor"
+        ],
+        "Description": "Escolha a variação do veículo.",
+        "Hash": 573742708,
+        "Name": "Variação do veículo"
+    },
+    {
+        "Combo": [
+            "Atual",
+            "Geométrico",
+            "Caçador",
+            "Meio Oni",
+            "Emoji",
+            "Crânio ornamentado",
+            "Fruta da Sorte",
+            "Guerrilha",
+            "Palhaço",
+            "Animal",
+            "Tumulto",
+            "Eles",
+            "Hóquei",
+            "Nenhum"
+        ],
+        "Description": "Escolha a máscara.",
+        "Hash": 1191867262,
+        "Name": "Máscara"
+    },
+    {
+        "Combo": [
+            "Atual",
+            "Rickie Luken 3%",
+            "Christian Feltz 7%",
+            "5% de Johan Blaire",
+            "Avi Schwartzman 10%",
+            "Paige Harris 9%",
+            "Nenhum 0%"
+        ],
+        "Description": "Escolha o hacker.",
+        "Hash": 2784558754,
+        "Name": "Hacker"
+    },
+    {
+        "Combo": [
+            "Atual",
+            "Silencioso e Furtivo Difícil",
+            "Silencioso e Furtivo Normal",
+            "O grande golpe difícil",
+            "O Grande Golpe Normal",
+            "Agressivo Difícil",
+            "Normal Agressivo"
+        ],
+        "Description": "Escolha a dificuldade.",
+        "Hash": 1272606038,
+        "Name": "Dificuldade"
+    },
+    {
+        "Description": "Aplicará os dados ao assalto.",
+        "Hash": 4181101290,
+        "Name": "Aplicar dados"
+    },
+    {
+        "Description": "Reinicia o assalto.",
+        "Hash": 3189536006,
+        "Name": "Redefinir o progresso do assalto"
+    },
+    {
+        "Description": "A preparação inicial.",
+        "Hash": 1841315573,
+        "Name": "Preparação inicial"
+    },
+    {
+        "Description": "Escolha quantas vidas você ganha durante o assalto ao cassino.",
+        "Hash": 3993845206,
+        "Name": "Vidas"
+    },
+    {
+        "Description": "Você terá mais vidas.",
+        "Hash": 3235022434,
+        "Name": "Vidas ilimitadas"
+    },
+    {
+        "Description": "Lester não vai mais aceitar seu dinheiro. Foda-se esse aleijado de qualquer maneira.",
+        "Hash": 994945345,
+        "Name": "Nenhuma participação para Lester"
+    },
+    {
+        "Description": "Teletransporte-se para o triturador de lixo dentro do cassino.",
+        "Hash": 292245248,
+        "Name": "Eliminação de resíduos"
+    },
+    {
+        "Description": "Teletransporte-se para a entrada dos funcionários dentro do cassino.",
+        "Hash": 2962427217,
+        "Name": "Salão dos Funcionários"
+    },
+    {
+        "Description": "Teletransporte-se para a porta da armadilha do homem dentro do cassino.",
+        "Hash": 3747474150,
+        "Name": "Alçapão Homem"
+    },
+    {
+        "Description": "Teletransporte-se para dentro do cofre dentro do cassino.",
+        "Hash": 3425682570,
+        "Name": "Dentro do Vault"
+    },
+    {
+        "Description": "Teletransporte-se para fora do cofre dentro do cassino.",
+        "Hash": 4208566761,
+        "Name": "Fora do cofre"
+    },
+    {
+        "Description": "Teletransporte-se para o armazenamento diário de dinheiro dentro do cassino.",
+        "Hash": 2038275879,
+        "Name": "Armazenamento diário de caixa"
+    },
+    {
+        "Description": "Teletransporte-se para o portão principal do lado de fora do cassino.",
+        "Hash": 2756900049,
+        "Name": "Portas principais"
+    },
+    {
+        "Description": "Teletransporte-se para a entrada dos funcionários do lado de fora do cassino.",
+        "Hash": 2502448764,
+        "Name": "Salão dos Funcionários"
+    },
+    {
+        "Description": "Teletransporte-se para o triturador de lixo fora do cassino.",
+        "Hash": 3274584711,
+        "Name": "Eliminação de resíduos"
+    },
+    {
+        "Description": "Pule o hack.",
+        "Hash": 216999278,
+        "Name": "Ignorar impressão digital ou hacking de teclado"
+    },
+    {
+        "Description": "Pula a parte em que você tem que arrombar a porta do porta-malas.",
+        "Hash": 3436753913,
+        "Name": "Pular a broca da porta do cofre"
+    },
+    {
+        "Description": "Receberá a quantia máxima de dinheiro. Graças a dukeinpro.",
+        "Hash": 112919094,
+        "Name": "Reivindicando o máximo de dinheiro"
+    },
+    {
+        "Description": "Não há mais inimigos.",
+        "Hash": 549438213,
+        "Name": "Mate inimigos"
+    },
+    {
+        "Description": "Reconheço que se uma pessoa receber mais de $ 3.619.000, ela não receberá nenhum dinheiro no final.",
+        "Hash": 1334305739,
+        "Name": "Eu reconheço"
+    },
+    {
+        "Description": "Baixe algumas predefinições da internet.",
+        "Hash": 1483792010,
+        "Name": "Baixar predefinições da Web"
+    },
+    {
+        "Description": "Escolha uma predefinição para carregar para direção.",
+        "Hash": 2003006895,
+        "Name": "Presets"
+    },
+    {
+        "Description": "Nomeie a predefinição.",
+        "Hash": 1770649191,
+        "Name": "Nome"
+    },
+    {
+        "Description": "Carregue uma predefinição.",
+        "Hash": 497001699,
+        "Name": "Carregador"
+    },
+    {
+        "Description": "Salve uma predefinição.",
+        "Hash": 314307781,
+        "Name": "Para economizar"
+    },
+    {
+        "Description": "Exclua uma predefinição.",
+        "Hash": 4257315447,
+        "Name": "Excluir"
+    },
+    {
+        "Description": "Redefinir o progresso.",
+        "Hash": 2313729224,
+        "Name": "Redefinir o progresso"
+    },
+    {
+        "Description": "Conclua toda a configuração necessária.",
+        "Hash": 3022082167,
+        "Name": "Configuração completa"
+    },
+    {
+        "Description": "Reinicia o painel de agendamento.",
+        "Hash": 4268453685,
+        "Name": "Reiniciar o Painel de Agendamento"
+    },
+    {
+        "Description": "Define o valor do veículo.",
+        "Hash": 3936403620,
+        "Name": "Valor"
+    },
+    {
+        "Description": "Defina o valor.",
+        "Hash": 3747144247,
+        "Name": "Definir valor"
+    },
+    {
+        "Description": "O cavalo selecionado sempre vencerá.",
+        "Hash": 2210597176,
+        "Name": "Falsificar"
+    },
+    {
+        "Description": "Iniciará instantaneamente a corrida.",
+        "Hash": 334163903,
+        "Name": "Iniciar a corrida"
+    },
+    {
+        "Description": "Termine a corrida.",
+        "Hash": 2713725463,
+        "Name": "Complete a corrida"
+    },
+    {
+        "Description": "O cavalo selecionado sempre vencerá.",
+        "Hash": 1083004200,
+        "Name": "Falsificar"
+    },
+    {
+        "Description": "Tentará remover a tela preta.",
+        "Hash": 2412812267,
+        "Name": "Remover tela preta"
+    },
+    {
+        "Description": "Vai melhorar seu fps.",
+        "Hash": 63922872,
+        "Name": "Câmera anti-colisão"
+    },
+    {
+        "Description": "Retirará a quantia máxima de dinheiro do seu banco.",
+        "Hash": 1943579519,
+        "Name": "Remover máximo"
+    },
+    {
+        "Description": "Deposite a quantia máxima de dinheiro em sua carteira.",
+        "Hash": 1990371139,
+        "Name": "Depósito Máximo"
+    },
+    {
+        "Description": "Deposite ou retire o valor personalizado.",
+        "Hash": 1711603746,
+        "Name": "Quantidade"
+    },
+    {
+        "Description": "Depositará a quantia especificada de dinheiro de sua carteira.",
+        "Hash": 1566124194,
+        "Name": "Depósito"
+    },
+    {
+        "Description": "Retirará a quantia especificada de dinheiro de sua carteira.",
+        "Hash": 1703941965,
+        "Name": "Retirar"
+    },
+    {
+        "Description": "Vai te dar dinheiro falso.",
+        "Hash": 1932876098,
+        "Name": "Dinheiro falso"
+    },
+    {
+        "Description": "Selecione a quantidade de dinheiro falso para dar a si mesmo.",
+        "Hash": 1291298436,
+        "Name": "Quantidade de dinheiro"
+    },
+    {
+        "Description": "Selecione a quantidade de dinheiro bancário fictício para lhe dar.",
+        "Hash": 527075148,
+        "Name": "Valor do banco"
+    },
+    {
+        "Description": "Impedirá o pagamento de taxas de propriedade, taxas comerciais e taxas mecânicas.",
+        "Hash": 2846678450,
+        "Name": "Desativar cobranças"
+    },
+    {
+        "Description": "Mostrará informações adicionais sobre seu dinheiro.",
+        "Hash": 2910177662,
+        "Name": "Informações bancárias adicionais"
+    },
+    {
+        "Description": "Permitirá que você passe por algumas portas normalmente trancadas. (somente local)",
+        "Hash": 2683509350,
+        "Name": "Passando pelos portões"
+    },
+    {
+        "Description": "Vai abrir a internet.",
+        "Hash": 693082680,
+        "Name": "Internet aberta"
+    },
+    {
+        "Description": "Inicia um backup na nuvem para salvar dados no Rockstar Online Services (ROS).",
+        "Hash": 1462118949,
+        "Name": "Backup na nuvem"
+    },
+    {
+        "Combo": [
+            "Comunidade de Estados Independentes",
+            "África",
+            "Leste",
+            "Europa",
+            "China",
+            "Austrália",
+            "Oeste",
+            "Japão",
+            "Desconhecido"
+        ],
+        "Description": "Escolha uma região. Você só participará de sessões nessa região.",
+        "Hash": 2652695984,
+        "Name": "Regiões"
+    },
+    {
+        "Description": "Define sua região.",
+        "Hash": 4290944246,
+        "Name": "Definir região"
+    },
+    {
+        "Combo": [
+            "F1",
+            "Benny's"
+        ],
+        "Description": "\n1. Traga seu veículo pessoal ao qual deseja adicionar rodas F1 ou Benny's e entre nele.\n2. Selecione o tipo de roda desejado e pressione 'Spoof'.\n3. Entre na garagem do LSC ou do Benny com o veículo recém-gerado e compre as rodas.\n4. Saia da garagem e espere a cena terminar.\n5. Pressione 'Unspoof' e aguarde o reaparecimento do seu veículo pessoal original.",
+        "Hash": 1008283821,
+        "Name": "Tipo de roda"
+    },
+    {
+        "Description": "\n1. Traga seu veículo pessoal ao qual deseja adicionar rodas F1 ou Benny's e entre nele.\n2. Selecione o tipo de roda desejado e pressione 'Spoof'.\n3. Entre na garagem do LSC ou do Benny com o veículo recém-gerado e compre as rodas.\n4. Saia da garagem e espere a cena terminar.\n5. Pressione 'Unspoof' e aguarde o reaparecimento do seu veículo pessoal original.",
+        "Hash": 3281730951,
+        "Name": "Usurpador"
+    },
+    {
+        "Description": "\n1. Traga seu veículo pessoal ao qual deseja adicionar rodas F1 ou Benny's e entre nele.\n2. Selecione o tipo de roda desejado e pressione 'Spoof'.\n3. Entre na garagem do LSC ou do Benny com o veículo recém-gerado e compre as rodas.\n4. Saia da garagem e espere a cena terminar.\n5. Pressione 'Unspoof' e aguarde o reaparecimento do seu veículo pessoal original.",
+        "Hash": 3725266658,
+        "Name": "De-usurpador"
+    },
+    {
+        "Description": "",
+        "Hash": 4115276296,
+        "Name": "Entrada instantânea"
+    },
+    {
+        "Description": "",
+        "Hash": 3271504895,
+        "Name": "Aparência na posição atual"
+    },
+    {
+        "Combo": [],
+        "Description": "",
+        "Hash": 3135290752,
+        "Name": "Veículos pessoais"
+    },
+    {
+        "Description": "",
+        "Hash": 357116511,
+        "Name": "Aparência selecionada"
+    },
+    {
+        "Description": "",
+        "Hash": 1828940722,
+        "Name": "Desativar ativo"
+    },
+    {
+        "Description": "Fará chamadas do telefone quase instantâneas.",
+        "Hash": 3609164762,
+        "Name": "Composição rápida"
+    },
+    {
+        "Description": "Tornará o telefone impossível de usar.",
+        "Hash": 3310604970,
+        "Name": "Sem telefone"
+    },
+    {
+        "Description": "Jogue Pong contra a IA definitiva (imbatível)",
+        "Hash": 1838087057,
+        "Name": "Jogue Super Draw Pong"
+    },
+    {
+        "Description": "Jogue pong no MODO DE TELA CHEIA ONG.",
+        "Hash": 2531935417,
+        "Name": "Ecrã inteiro"
+    },
+    {
+        "Description": "Vai sacar dinheiro.",
+        "Hash": 2071596246,
+        "Name": "Quantidade"
+    },
+    {
+        "Description": "Vai sacar dinheiro.",
+        "Hash": 1519825423,
+        "Name": "Retirar dinheiro"
+    },
+    {
+        "Description": "Abrirá o terminal de controle principal.",
+        "Hash": 3041398111,
+        "Name": "Abra o Terminal de Controle Principal"
+    },
+    {
+        "Description": "Abrirá o laptop.",
+        "Hash": 3378517013,
+        "Name": "Abra o laptop"
+    },
+    {
+        "Description": "Passe a instalação.",
+        "Hash": 2130084826,
+        "Name": "Passe a instalação"
+    },
+    {
+        "Description": "Teletransporte você para a entrada principal do seu Arcade.",
+        "Hash": 1033479695,
+        "Name": "Entrada Principal"
+    },
+    {
+        "Description": "Teletransporte você para a entrada da garagem do seu Arcade.",
+        "Hash": 4107706924,
+        "Name": "Entrada da garagem"
+    },
+    {
+        "Description": "Teletransporte você para o laptop no porão.",
+        "Hash": 1317904191,
+        "Name": "Laptop porão"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o laptop no primeiro andar.",
+        "Hash": 2854607399,
+        "Name": "Laptop principal"
+    },
+    {
+        "Description": "Teletransporte você para a saída da garagem subterrânea.",
+        "Hash": 277288238,
+        "Name": "Saia da garagem"
+    },
+    {
+        "Description": "Teletransporte você para a saída principal.",
+        "Hash": 1054732763,
+        "Name": "Saída principal"
+    },
+    {
+        "Description": "Teletransporte você para a tela de assalto no porão.",
+        "Hash": 3986546100,
+        "Name": "Tela de assalto"
+    },
+    {
+        "Description": "Teletransporte você para o terminal de controle principal no porão.",
+        "Hash": 522238991,
+        "Name": "Terminal de controle principal"
+    },
+    {
+        "Description": "Teletransporte você para o cofre do seu escritório.",
+        "Hash": 695331911,
+        "Name": "Seguro"
+    },
+    {
+        "Description": "Abrirá o laptop.",
+        "Hash": 2658748165,
+        "Name": "Abra o laptop"
+    },
+    {
+        "Description": "Teletransporte você para a entrada principal do seu clube.",
+        "Hash": 4104168617,
+        "Name": "Entrada Principal"
+    },
+    {
+        "Description": "Teletransporte você para a entrada da garagem do seu clube.",
+        "Hash": 532452430,
+        "Name": "Entrada da garagem"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o computador.",
+        "Hash": 2901247619,
+        "Name": "Computador"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída.",
+        "Hash": 2531535912,
+        "Name": "Sair"
+    },
+    {
+        "Description": "Abrirá o laptop.",
+        "Hash": 2135245646,
+        "Name": "Abra o laptop"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o laptop.",
+        "Hash": 3044257020,
+        "Name": "Computador portátil"
+    },
+    {
+        "Description": "Teletransporte você para o elevador.",
+        "Hash": 1134329517,
+        "Name": "Levantar"
+    },
+    {
+        "Description": "Teletransporte você para a entrada principal.",
+        "Hash": 1756005101,
+        "Name": "Entrada principal"
+    },
+    {
+        "Description": "Teletransporte você para a entrada da garagem.",
+        "Hash": 1600578137,
+        "Name": "Entrada da garagem"
+    },
+    {
+        "Description": "Teletransporte você para a entrada do telhado.",
+        "Hash": 78068012,
+        "Name": "Entrada do telhado"
+    },
+    {
+        "Description": "Teletransporte você para a entrada principal.",
+        "Hash": 3762665516,
+        "Name": "Entrada principal"
+    },
+    {
+        "Description": "Teletransporte você para a saída principal.",
+        "Hash": 694619994,
+        "Name": "Saída principal"
+    },
+    {
+        "Description": "Teletransporte você para o canhão orbital.",
+        "Hash": 2732501938,
+        "Name": "Orbital canônico"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o Terminal da Equipe de Ataque.",
+        "Hash": 842837987,
+        "Name": "Terminal da Equipe de Assalto"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o quadro de planejamento de assaltos.",
+        "Hash": 815888182,
+        "Name": "Quadro de planejamento de assaltos"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o quadro de agendamento.",
+        "Hash": 2756473830,
+        "Name": "Conselho de planejamento"
+    },
+    {
+        "Description": "Teletransporte você para o banco do motorista.",
+        "Hash": 2713849105,
+        "Name": "Banco do motorista"
+    },
+    {
+        "Description": "Teletransportá-lo para estações.",
+        "Hash": 1273195339,
+        "Name": "Estações"
+    },
+    {
+        "Description": "Teletransportá-lo para o periscópio.",
+        "Hash": 356527062,
+        "Name": "Periscópio"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o Pardal.",
+        "Hash": 3907289598,
+        "Name": "Pardal"
+    },
+    {
+        "Description": "Teletransporte você para a Piscina Lunar.",
+        "Hash": 3304605167,
+        "Name": "Piscina Lunar"
+    },
+    {
+        "Description": "Teletransporta você para a Oficina de Armas.",
+        "Hash": 2345266292,
+        "Name": "Oficina de armas"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a primeira saída.",
+        "Hash": 3059773456,
+        "Name": "Primeira saída"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída traseira.",
+        "Hash": 3838291087,
+        "Name": "Saída traseira"
+    },
+    {
+        "Description": "Teletransporte você para a saída principal.",
+        "Hash": 3813005661,
+        "Name": "Saída principal"
+    },
+    {
+        "Description": "Pode nem sempre funcionar, mas é um ótimo lugar para obter um 'pequeno empréstimo de um milhão de dólares'",
+        "Hash": 426127130,
+        "Name": "Doe US$ 1.042.069"
+    },
+    {
+        "Description": "Preguiçoso.",
+        "Hash": 3121386607,
+        "Name": "Compre a boate mais barata"
+    },
+    {
+        "Description": "Teletransporte você para a entrada principal.",
+        "Hash": 1392467111,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Teletransporte você para a entrada do telhado.",
+        "Hash": 655577241,
+        "Name": "Telhado"
+    },
+    {
+        "Description": "Teletransporte você para a entrada da garagem.",
+        "Hash": 1080144119,
+        "Name": "Garagem"
+    },
+    {
+        "Description": "Teletransporte você para o arsenal.",
+        "Hash": 3583507252,
+        "Name": "Arsenal"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o laptop.",
+        "Hash": 214807293,
+        "Name": "Computador portátil"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o cofre.",
+        "Hash": 837954863,
+        "Name": "Seguro"
+    },
+    {
+        "Description": "Teletransporte você para a recepção.",
+        "Hash": 2250695999,
+        "Name": "Recepção"
+    },
+    {
+        "Description": "Teletransporte você para o elevador.",
+        "Hash": 3270243946,
+        "Name": "Levantar"
+    },
+    {
+        "Description": "Teletransporte você para o elevador.",
+        "Hash": 1332405709,
+        "Name": "Levantar"
+    },
+    {
+        "Description": "Teletransporte você para o primeiro andar.",
+        "Hash": 22108580,
+        "Name": "Primeiro andar"
+    },
+    {
+        "Description": "Teletransporte você para o segundo andar.",
+        "Hash": 1324121201,
+        "Name": "Segundo Andar"
+    },
+    {
+        "Description": "Teletransporte você para o terceiro andar.",
+        "Hash": 3150377481,
+        "Name": "Terceiro andar"
+    },
+    {
+        "Description": "Pulará o diálogo de Franklin quando você acessar o laptop da agência pela primeira vez.",
+        "Hash": 1807585067,
+        "Name": "Pular diálogo"
+    },
+    {
+        "Description": "Teletransporte você para a entrada do Ferro-velho.",
+        "Hash": 1768285675,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída.",
+        "Hash": 2674467085,
+        "Name": "Sair"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o computador.",
+        "Hash": 458304369,
+        "Name": "Computador"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o cofre.",
+        "Hash": 196033531,
+        "Name": "Seguro"
+    },
+    {
+        "Description": "Concluirá o processo de recuperação na Baía 1.",
+        "Hash": 246849123,
+        "Name": "Baía de Recuperação Completa 1"
+    },
+    {
+        "Description": "Terminará o processo de recuperação na baia 2.",
+        "Hash": 1872912437,
+        "Name": "Compartimento de Recuperação Completo 2"
+    },
+    {
+        "Description": "Deposite dinheiro no cofre.",
+        "Hash": 3739516226,
+        "Name": "Acionar pagamento de caixa de dinheiro"
+    },
+    {
+        "Combo": [
+            "LM87",
+            "Cinco mil",
+            "Autarch",
+            "Tigon",
+            "Campeão",
+            "10F",
+            "SM722",
+            "Omnis e-GT",
+            "Gritão",
+            "Divindade",
+            "Itali RSX",
+            "Coquete D10",
+            "Jubileu",
+            "Astron",
+            "Cometa S2 Cabrio",
+            "Toureiro",
+            "Chita Clássica",
+            "Turismo Clássico",
+            "Infernus Clássico",
+            "Stafford",
+            "GT500",
+            "Viseris",
+            "Mamba",
+            "Barbatana preta coquete",
+            "Stinger GT",
+            "Tipo Z",
+            "Broadway",
+            "Vigero ZX",
+            "Búfalo STX",
+            "Ruston",
+            "Manopla Fogo do Inferno",
+            "Dominador GTT",
+            "Roosevelt Valor",
+            "Swinger",
+            "Feltzer Clássico",
+            "Omnis",
+            "Tropos Rallye",
+            "Jugular",
+            "Patriota Mil-Spec",
+            "Touros",
+            "Caracará 4x4",
+            "Sentinela",
+            "Gorgulho",
+            "Kanyo brilha",
+            "Eudora",
+            "Kamacho",
+            "Hellion",
+            "Ellie",
+            "Hermes",
+            "Vigarista",
+            "Oferta Turística",
+            "Búfalo EVX",
+            "Italiano GTO Stinger TT",
+            "Virtude",
+            "Ignus",
+            "Zentorno",
+            "Néon",
+            "Fúria",
+            "Zorrusso",
+            "Thrax",
+            "Vagner",
+            "Pantera",
+            "Itali GTO",
+            "S80RR",
+            "Tirano",
+            "Entidade MT",
+            "Toureiro XO",
+            "Neo",
+            "Pista",
+            "Paragon R",
+            "Fränken Stange",
+            "Safári de cometa",
+            "FR36",
+            "Anel Quente Everon",
+            "Cômoda",
+            "Tailgater S",
+            "Bobo da corte clássico",
+            "Bobo da corte RR",
+            "Euros",
+            "ZR350",
+            "Cypher",
+            "Dominador ASP",
+            "Esfareladeira ST-D",
+            "Capacete",
+            "Deriva Yosemite",
+            "Everon",
+            "Penumbra FF",
+            "V-STR",
+            "Dominador GT",
+            "Vencer GT",
+            "Cavalgada XL",
+            "Clique",
+            "Boro",
+            "Sugoi",
+            "Greenwood",
+            "Brigham",
+            "Rally do papai",
+            "Fronteira Seminole",
+            "Canyon SJ",
+            "Anterior",
+            "Baller",
+            "Fusilade",
+            "Banshee",
+            "Vigero",
+            "Asbo",
+            "Sião",
+            "Schafter",
+            "Penumbra",
+            "FQ 2",
+            "F620",
+            "Tornado",
+            "Duques batedores",
+            "Asea",
+            "Imperador",
+            "Primeiro",
+            "Papai",
+            "Brilha",
+            "Vodu",
+            "Futo",
+            "Rebelde enferrujado"
+        ],
+        "Description": "Selecione um veículo para acionar o pagamento.",
+        "Hash": 3268548111,
+        "Name": "Veículos"
+    },
+    {
+        "Description": "Ganhe dinheiro instantâneo com o veículo.",
+        "Hash": 3117211662,
+        "Name": "Acionar pagamento na baia 1"
+    },
+    {
+        "Description": "Ganhe dinheiro instantâneo com o veículo.",
+        "Hash": 3884661646,
+        "Name": "Acionar pagamento na baia 2"
+    },
+    {
+        "Description": "Teletransporte você para a entrada do armazém de veículos.",
+        "Hash": 926244084,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Encha o armazém com veículos com carros de última geração.",
+        "Hash": 1714336722,
+        "Name": "Preencher com faixa mais alta"
+    },
+    {
+        "Description": "Nunca mais fique sem tempo na missão.",
+        "Hash": 1809716391,
+        "Name": "Redefinir a contagem regressiva de vendas"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a saída.",
+        "Hash": 3244989549,
+        "Name": "Sair"
+    },
+    {
+        "Description": "Irá teletransportá-lo para o laptop.",
+        "Hash": 1119397376,
+        "Name": "Computador portátil"
+    },
+    {
+        "Description": "Teletransporte você para o porão.",
+        "Hash": 2905406785,
+        "Name": "Cave"
+    },
+    {
+        "Description": "Abrirá o laptop.",
+        "Hash": 2994132603,
+        "Name": "Laptop aberto"
+    },
+    {
+        "Description": "Teletransporte você para o laboratório de ácido do jogador.",
+        "Hash": 167068815,
+        "Name": "Teletransporte para o Laboratório"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada do Cargueiro Executivo do jogador.",
+        "Hash": 655806450,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada do Cargueiro Executivo do jogador.",
+        "Hash": 4277534637,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada do Cargueiro Executivo do jogador.",
+        "Hash": 3494748765,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada do Cargueiro Executivo do jogador.",
+        "Hash": 444774086,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada do Cargueiro Executivo do jogador.",
+        "Hash": 195139844,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada do hangar do jogador.",
+        "Hash": 3318023992,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada de cocaína",
+        "Hash": 3956497909,
+        "Name": "Teletransporte-se para a entrada"
+    },
+    {
+        "Description": "Teletransporte você para a entrada do Bunker",
+        "Hash": 1633927057,
+        "Name": "Teletransporte-se para a entrada"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada da metanfetamina",
+        "Hash": 2528284877,
+        "Name": "Teletransporte-se para a entrada"
+    },
+    {
+        "Description": "Teletransporte você para a Entrada de Prata",
+        "Hash": 3602675079,
+        "Name": "Teletransporte-se para a entrada"
+    },
+    {
+        "Description": "Teletransportá-lo para a entrada da Cannabis",
+        "Hash": 3140839195,
+        "Name": "Teletransporte-se para a entrada"
+    },
+    {
+        "Description": "Teletransportá-lo para a entrada da Falsificação",
+        "Hash": 845371663,
+        "Name": "Teletransporte-se para a entrada"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada principal da Boate.",
+        "Hash": 2847212028,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Teletransportá-lo para a entrada da garagem da boate",
+        "Hash": 1580436319,
+        "Name": "Garagem"
+    },
+    {
+        "Description": "Teletransporte para a entrada do ferro-velho do jogador.",
+        "Hash": 2703282550,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Teletransportado para a entrada do Armazém de Veículos do jogador.",
+        "Hash": 4026660055,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Sair da organização.",
+        "Hash": 1949720768,
+        "Name": "Sair"
+    },
+    {
+        "Description": "Selecione o fundador da organização.",
+        "Hash": 1517826638,
+        "Name": "Selecione o fundador"
+    },
+    {
+        "Description": "Selecione um jogador para ver suas informações.",
+        "Hash": 636708894,
+        "Name": "Selecione um jogador"
+    },
+    {
+        "Description": "Teletransporte você para a entrada principal da Agência do Jogador.",
+        "Hash": 3841931623,
+        "Name": "Entrada principal"
+    },
+    {
+        "Description": "Teletransporte você para a entrada da garagem da Agência do jogador.",
+        "Hash": 2934464387,
+        "Name": "Entrada da garagem"
+    },
+    {
+        "Description": "Teletransporte você para a entrada do telhado da Agência do Jogador.",
+        "Hash": 72515204,
+        "Name": "Entrada do telhado"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada principal do Arcade do jogador.",
+        "Hash": 1619572740,
+        "Name": "Entrada principal"
+    },
+    {
+        "Description": "Teletransportá-lo para a entrada da garagem do Arcade do jogador.",
+        "Hash": 1717734157,
+        "Name": "Entrada da garagem"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada principal do Clubhouse do jogador.",
+        "Hash": 1486851784,
+        "Name": "Entrada principal"
+    },
+    {
+        "Description": "Teletransporte você para a entrada da garagem do Clubhouse do jogador.",
+        "Hash": 1654767016,
+        "Name": "Entrada da garagem"
+    },
+    {
+        "Description": "Irá teletransportá-lo para a entrada principal do Clubhouse do jogador.",
+        "Hash": 2325701454,
+        "Name": "Entrada"
+    },
+    {
+        "Description": "Desbloqueará itens na categoria Vitória da guia Recompensas.",
+        "Hash": 3963818529,
+        "Name": "Vitória"
+    },
+    {
+        "Description": "Desbloqueará itens na categoria Geral da guia Recompensas.",
+        "Hash": 3781884310,
+        "Name": "Geral"
+    },
+    {
+        "Description": "Desbloqueie itens na categoria Armas da guia Recompensas.",
+        "Hash": 1463101280,
+        "Name": "Armas"
+    },
+    {
+        "Description": "Desbloqueie itens na categoria Crimes da guia Recompensas.",
+        "Hash": 1072685160,
+        "Name": "Crimes"
+    },
+    {
+        "Description": "Desbloqueará itens na categoria Veículos da guia Recompensas.",
+        "Hash": 2572002466,
+        "Name": "Veículos"
+    },
+    {
+        "Description": "Desbloqueará itens na categoria Batalha da guia Recompensas.",
+        "Hash": 3553060154,
+        "Name": "Combate"
+    },
+    {
+        "Description": "Desbloqueie itens na categoria Assaltos da guia Recompensas.",
+        "Hash": 1423587729,
+        "Name": "Roubos"
+    },
+    {
+        "Description": "Desbloqueará itens da categoria Diamond Casino Heist da guia Recompensas.",
+        "Hash": 2527693903,
+        "Name": "Assalto ao Cassino Diamond"
+    },
+    {
+        "Description": "Desbloqueará itens da categoria Cayo Perico Heist da guia Recompensas.",
+        "Hash": 1875880230,
+        "Name": "Braqueadura de Cayo Perico"
+    },
+    {
+        "Description": "Desbloqueie itens da categoria Judgment Heist da guia Recompensas.",
+        "Hash": 2695594246,
+        "Name": "Assalto ao Dia do Julgamento"
+    },
+    {
+        "Description": "Desbloqueará itens da categoria Especial de Verão de Los Santos da guia Recompensas.",
+        "Hash": 4037040315,
+        "Name": "Especial de Verão"
+    },
+    {
+        "Description": "Desbloqueará itens da categoria Los Santos Tuners da guia Recompensas.",
+        "Hash": 807882807,
+        "Name": "Sintonizadores"
+    },
+    {
+        "Description": "Desbloqueie itens da categoria Guerras por Território da guia Recompensas.",
+        "Hash": 249132590,
+        "Name": "Guerras territoriais"
+    },
+    {
+        "Description": "Desbloqueará itens na categoria Contrato da guia Recompensas.",
+        "Hash": 816757757,
+        "Name": "O Contrato"
+    },
+    {
+        "Description": "Desbloqueará itens na categoria Arcade da guia Recompensas.",
+        "Hash": 2759751506,
+        "Name": "Arcada"
+    },
+    {
+        "Description": "Desbloqueará itens na categoria After Hours da guia Recompensas.",
+        "Hash": 1680931098,
+        "Name": "Depois do expediente"
+    },
+    {
+        "Description": "Desbloqueie itens da categoria Arena Warfare da guia Recompensas.",
+        "Hash": 2757705810,
+        "Name": "Guerra de Arena"
+    },
+    {
+        "Description": "Desbloqueie itens da categoria Diamond Casino and Resort da guia Recompensas.",
+        "Hash": 2895850323,
+        "Name": "O Diamond Casino and Resort"
+    },
+    {
+        "Description": "Desbloqueie todas as conquistas.",
+        "Hash": 835285984,
+        "Name": "Êxito"
+    },
+    {
+        "Description": "Insira um ano.",
+        "Hash": 4072174844,
+        "Name": "Ano"
+    },
+    {
+        "Description": "Insira um mês.",
+        "Hash": 3071107453,
+        "Name": "Mês"
+    },
+    {
+        "Description": "Venha um dia.",
+        "Hash": 2005791296,
+        "Name": "Dia"
+    },
+    {
+        "Description": "Define a data em que o personagem foi criado.",
+        "Hash": 311166217,
+        "Name": "Data de criação do personagem"
+    },
+    {
+        "Description": "Define a data da última classificação do personagem.",
+        "Hash": 2553216256,
+        "Name": "Data da última mudança de classificação"
+    },
+    {
+        "Description": "Define a data da última vez que o jogador jogou.",
+        "Hash": 182967832,
+        "Name": "Data do último login"
+    },
+    {
+        "Description": "Venha um dia.",
+        "Hash": 858701393,
+        "Name": "Dia"
+    },
+    {
+        "Description": "Insira as horas.",
+        "Hash": 3167834856,
+        "Name": "Hora"
+    },
+    {
+        "Description": "Insira minutos.",
+        "Hash": 3992269714,
+        "Name": "Minuto"
+    },
+    {
+        "Description": "Insira segundos.",
+        "Hash": 1487768244,
+        "Name": "Segundo"
+    },
+    {
+        "Description": "Define o tempo total de jogo.",
+        "Hash": 2411985906,
+        "Name": "Tempo total de jogo"
+    },
+    {
+        "Description": "Define o tempo de jogo mais longo.",
+        "Hash": 2883491620,
+        "Name": "Maior tempo de jogo"
+    },
+    {
+        "Description": "Define o tempo de jogo na tabela de classificação.",
+        "Hash": 299789281,
+        "Name": "Tempo de jogo na classificação"
+    },
+    {
+        "Description": "Define a quantidade de tempo que você joga.",
+        "Hash": 1812513651,
+        "Name": "Novo tempo de jogo"
+    },
+    {
+        "Description": "Conclua tarefas relacionadas ao campo de tiro.",
+        "Hash": 3237916990,
+        "Name": "Complete o campo de tiro"
+    },
+    {
+        "Description": "Atualiza os dados.",
+        "Hash": 1318023944,
+        "Name": "Atualizar os dados"
+    },
+    {
+        "Description": "Defina a proporção KD desejada.",
+        "Hash": 1116645159,
+        "Name": "Relação KD"
+    },
+    {
+        "Description": "Defina as mortes do seu personagem.",
+        "Hash": 841474808,
+        "Name": "Definir KD"
+    },
+    {
+        "Description": "Defina o estado mental desejado para o seu personagem.",
+        "Hash": 2049927602,
+        "Name": "Estado mental"
+    },
+    {
+        "Description": "Define o estado mental do seu personagem.",
+        "Hash": 1889508797,
+        "Name": "Definindo o estado mental"
+    },
+    {
+        "Description": "Defina suas mortes.",
+        "Hash": 3940305268,
+        "Name": "Mata"
+    },
+    {
+        "Description": "Defina as mortes do seu personagem.",
+        "Hash": 86074994,
+        "Name": "Definir mortes"
+    },
+    {
+        "Description": "Defina seus mortos.",
+        "Hash": 4180299597,
+        "Name": "Morto"
+    },
+    {
+        "Description": "Defina as mortes do seu personagem.",
+        "Hash": 2025694607,
+        "Name": "Definindo os mortos"
+    },
+    {
+        "Description": "Maximize todas as habilidades do personagem (Resistência, Tiro, Força, etc.)",
+        "Hash": 326281139,
+        "Name": "Habilidades"
+    },
+    {
+        "Description": "Desbloqueia estatísticas do Hangar.",
+        "Hash": 1903462668,
+        "Name": "Hangar"
+    },
+    {
+        "Description": "Desbloqueia estatísticas relacionadas à Boate.",
+        "Hash": 2872363940,
+        "Name": "Boate"
+    },
+    {
+        "Description": "Desbloqueia estatísticas relacionadas à Importação e Exportação.",
+        "Hash": 4040375900,
+        "Name": "Importação Exportação"
+    },
+    {
+        "Description": "Desbloqueia estatísticas relacionadas a fogos de artifício.",
+        "Hash": 2846352574,
+        "Name": "Fogos de artifício"
+    },
+    {
+        "Description": "Dá a você todo o Colete.",
+        "Hash": 4162411154,
+        "Name": "Colete"
+    },
+    {
+        "Description": "Dá-lhe todos os aparelhos de respiração.",
+        "Hash": 3523242491,
+        "Name": "Sistema respiratório"
+    },
+    {
+        "Description": "Desbloqueia estatísticas relacionadas ao Biker Club / Biker Business.",
+        "Hash": 1846992320,
+        "Name": "Negócio de motociclistas"
+    },
+    {
+        "Description": "Definirá todas as estatísticas do veículo/armas do veículo.",
+        "Hash": 1314474663,
+        "Name": "Mortes e tiros de veículos"
+    },
+    {
+        "Description": "Defina seu tempo de condução para um número aleatório.",
+        "Hash": 3653105771,
+        "Name": "Tempo de condução aleatório"
+    },
+    {
+        "Description": "Defina suas estatísticas de tempo de jogo para um número aleatório.",
+        "Hash": 1192623035,
+        "Name": "Tempo de jogo aleatório"
+    },
+    {
+        "Description": "Definirá todas as estatísticas do jogo de arcade.",
+        "Hash": 3999672820,
+        "Name": "Jogos de Arcade"
+    },
+    {
+        "Description": "Definirá todas as estatísticas da escola de voo.",
+        "Hash": 964199978,
+        "Name": "Escola de Voo"
+    },
+    {
+        "Description": "Vai desbloquear roupas.",
+        "Hash": 491246273,
+        "Name": "Roupa"
+    },
+    {
+        "Description": "Vai desbloquear tatuagens.",
+        "Hash": 2309373984,
+        "Name": "Tatuagens"
+    },
+    {
+        "Description": "Desbloqueará pinturas de veículos.",
+        "Hash": 3371591920,
+        "Name": "Entregue"
+    },
+    {
+        "Description": "Desbloqueará modificações no veículo.",
+        "Hash": 1023029631,
+        "Name": "Modificações do veículo"
+    },
+    {
+        "Description": "Defina as estatísticas de tempo de espera da arma do veículo para um número aleatório",
+        "Hash": 262623487,
+        "Name": "Tempo de retenção da arma do veículo"
+    },
+    {
+        "Description": "Defina as estatísticas de morte de armas para um número aleatório",
+        "Hash": 1710906659,
+        "Name": "Kills de armas"
+    },
+    {
+        "Description": "Desbloqueie armas.",
+        "Hash": 1266297645,
+        "Name": "Armas"
+    },
+    {
+        "Description": "O lixo será coletado se for maior que esse valor definido.",
+        "Hash": 529826598,
+        "Name": "Limite de coleta (kb)"
+    },
+    {
+        "Description": "Coleta lixo automaticamente.",
+        "Hash": 2106625892,
+        "Name": "Coleta de lixo personalizada"
+    },
+    {
+        "Description": "Altera o tipo de coleta de lixo.",
+        "Hash": 1652949569,
+        "Name": "Coleta incremental"
+    },
+    {
+        "Description": "Altera o tipo de coleta de lixo.",
+        "Hash": 1488331540,
+        "Name": "Coleção geracional"
+    },
+    {
+        "Description": "",
+        "Hash": 3444401242,
+        "Name": ""
+    },
+    {
+        "Description": "",
+        "Hash": 63528582,
+        "Name": ""
+    },
+    {
+        "Description": "Altera o tempo de desvanecimento entre as janelas.",
+        "Hash": 952325815,
+        "Name": "Tempo de desvanecimento"
+    },
+    {
+        "Description": "Salve um arquivo de configuração.",
+        "Hash": 1736843839,
+        "Name": "Registro"
+    },
+    {
+        "Description": "Exclua o arquivo de configuração selecionado.",
+        "Hash": 3018923450,
+        "Name": "Excluir"
+    },
+    {
+        "Description": "Carregue o arquivo de configuração selecionado.",
+        "Hash": 1603802346,
+        "Name": "Carregador"
+    },
+    {
+        "Description": "Salve as configurações que serão carregadas automaticamente na inicialização",
+        "Hash": 145269081,
+        "Name": "Salvar por padrão"
+    },
+    {
+        "Description": "Uma lista de todos os arquivos de configuração que você salvou.",
+        "Hash": 481949348,
+        "Name": "Configurações"
+    },
+    {
+        "Description": "Escolha o nome do arquivo de configurações que deseja salvar.",
+        "Hash": 1782219473,
+        "Name": "Nome"
+    },
+    {
+        "Combo": [
+            "Canto inferior esquerdo",
+            "Canto inferior direito",
+            "Canto superior esquerdo",
+            "Canto superior direito"
+        ],
+        "Description": "Escolha uma posição de notificação.",
+        "Hash": 3797806011,
+        "Name": "Posição da notificação"
+    },
+    {
+        "Description": "Vá para a guia de configurações.",
+        "Hash": 1808977202,
+        "Name": "Vá para Configurações"
+    },
+    {
+        "Description": "Vá para a guia de configurações.",
+        "Hash": 187907079,
+        "Name": "Vá para Configurações"
+    },
+    {
+        "Description": "Vá para a guia de configurações.",
+        "Hash": 3355698234,
+        "Name": "Vá para Configurações"
+    },
+    {
+        "Description": "Vá para a guia de configurações.",
+        "Hash": 3134615788,
+        "Name": "Vá para Configurações"
+    },
+    {
+        "Description": "Vá para a guia de configurações.",
+        "Hash": 502620838,
+        "Name": "Vá para Configurações"
+    },
+    {
+        "Description": "Vá para a guia de configurações.",
+        "Hash": 2458256462,
+        "Name": "Vá para Configurações"
+    },
+    {
+        "Description": "Usará o jogador selecionado pela lista de jogadores no menu.",
+        "Hash": 3633538515,
+        "Name": "Use o player selecionado nos menus"
+    },
+    {
+        "Description": "Exclua uma tradução.",
+        "Hash": 4030867790,
+        "Name": "Excluir"
+    },
+    {
+        "Description": "Escolha uma tradução.",
+        "Hash": 3064994268,
+        "Name": "Traduções"
+    },
+    {
+        "Description": "Faça upload de uma tradução.",
+        "Hash": 3545619752,
+        "Name": "Carregador"
+    },
+    {
+        "Description": "Salve a tradução carregada atual como padrão.",
+        "Hash": 3504693479,
+        "Name": "Salvar por padrão"
+    },
+    {
+        "Description": "Escolha o nome do arquivo de tradução a ser salvo.",
+        "Hash": 1815745532,
+        "Name": "Nome"
+    },
+    {
+        "Description": "Salve a tradução atual.",
+        "Hash": 4168102633,
+        "Name": "Registro"
+    },
+    {
+        "Description": "Adicionará novos recursos ao arquivo de tradução.",
+        "Hash": 609209646,
+        "Name": "Atualize a tradução"
+    },
+    {
+        "Description": "Carregar traduções da Internet. Não há necessidade de baixar nada.",
+        "Hash": 1542813990,
+        "Name": "Traduções online"
+    },
+    {
+        "Description": "Carregue a tradução.",
+        "Hash": 3884826462,
+        "Name": "Carregar tradução"
+    },
+    {
+        "Description": "As traduções serão atualizadas a cada 10 minutos, mas você também pode fazer isso manualmente.",
+        "Hash": 3786738078,
+        "Name": "Atualizar"
+    },
+    {
+        "Description": "Salve o webhook.",
+        "Hash": 3943043987,
+        "Name": "Registrar o webhook"
+    },
+    {
+        "Description": "Remova o webhook.",
+        "Hash": 248899849,
+        "Name": "Remover webhook"
+    },
+    {
+        "Description": "Envia uma mensagem para o webhook.",
+        "Hash": 1291985674,
+        "Name": "Enviar um teste"
+    },
+    {
+        "Description": "Envie uma mensagem quando uma empresa vender.",
+        "Hash": 3641128650,
+        "Name": "Comprável"
+    },
+    {
+        "Description": "Envie uma mensagem quando uma empresa não vender.",
+        "Hash": 3694823765,
+        "Name": "Quando a venda falha"
+    },
+    {
+        "Description": "Envie uma mensagem quando uma empresa estiver reabastecendo.",
+        "Hash": 547036740,
+        "Name": "Para reabastecimento"
+    },
+    {
+        "Description": "Envie uma mensagem quando uma empresa produzir.",
+        "Hash": 2523090167,
+        "Name": "Em produção"
+    },
+    {
+        "Description": "Habilite notificações de webhook para esta empresa.",
+        "Hash": 1951086382,
+        "Name": "Motoclube"
+    },
+    {
+        "Description": "Habilite notificações de webhook para esta empresa.",
+        "Hash": 2152070859,
+        "Name": "Boate"
+    },
+    {
+        "Description": "Habilite notificações de webhook para esta empresa.",
+        "Hash": 3172087726,
+        "Name": "Laboratório de Ácidos"
+    },
+    {
+        "Description": "Habilite notificações de webhook para esta empresa.",
+        "Hash": 2629832324,
+        "Name": "Hangar de Carga"
+    },
+    {
+        "Description": "Habilite notificações de webhook para esta empresa.",
+        "Hash": 2527961875,
+        "Name": "Carga Executiva"
+    },
+    {
+        "Description": "Tempo (em minutos) entre o envio de uma notificação de ganhos totais e o tempo gasto.",
+        "Hash": 678522113,
+        "Name": "Atraso"
+    },
+    {
+        "Description": "Relate quanto dinheiro você ganhou e em quanto tempo.",
+        "Hash": 4099268143,
+        "Name": "Relatório de ganhos totais"
+    },
+    {
+        "Description": "Você precisa de um tema transparente para ver a matriz de pontos.",
+        "Hash": 622390290,
+        "Name": "Exibir a matriz de pontos"
+    },
+    {
+        "Description": "Vai descarregar a lua.",
+        "Hash": 3099843751,
+        "Name": "Descarregar"
+    },
+    {
+        "Combo": [
+            "ListGUI",
+            "ClickGUI externo",
+            "ClickGUI interno",
+            "Nenhum"
+        ],
+        "Description": "Qual deve ser o tipo de interface padrão.",
+        "Hash": 673172150,
+        "Name": "Tipo de GUI"
+    },
+    {
+        "Description": "Defina o tipo de GUI padrão.",
+        "Hash": 1543365183,
+        "Name": "Definir o tipo de GUI padrão"
+    },
+    {
+        "Description": "Alterna o tipo de interface.",
+        "Hash": 538189167,
+        "Name": "Alternar para ClickGUI externo"
+    },
+    {
+        "Description": "Alterna o tipo de interface.",
+        "Hash": 634581160,
+        "Name": "Alternar para ClickGUI interno"
+    },
+    {
+        "Description": "Alterna o tipo de interface.",
+        "Hash": 549406428,
+        "Name": "Mudar para ListGUI"
+    },
+    {
+        "Hash": 1676289263,
+        "Name": "Salvar traduções"
+    },
+    {
+        "Hash": 3492223132,
+        "Name": "Carregar traduções"
+    },
+    {
+        "Hash": 2163072395,
+        "Name": "Carregar traduções online"
+    },
+    {
+        "Hash": 1379780842,
+        "Name": "Teste a chave"
+    },
+    {
+        "Hash": 1854563693,
+        "Name": "Salvar configurações"
+    },
+    {
+        "Hash": 2701533510,
+        "Name": "Configurações de carga"
+    },
+    {
+        "Hash": 1931496647,
+        "Name": "Servidor de discórdia"
+    },
+    {
+        "Hash": 2763186123,
+        "Name": "Carregamento automático"
+    },
+    {
+        "Hash": 487936952,
+        "Name": "Configurações de script"
+    },
+    {
+        "Hash": 4085232167,
+        "Name": "Peças HUD"
+    },
+    {
+        "Hash": 363348102,
+        "Name": "Outro"
+    },
+    {
+        "Hash": 462517141,
+        "Name": "Coleta de lixo"
+    },
+    {
+        "Hash": 620084610,
+        "Name": "Armazém de veículos"
+    },
+    {
+        "Hash": 642994170,
+        "Name": "Carga Executiva"
+    },
+    {
+        "Hash": 701674105,
+        "Name": "Laboratório de Ácidos"
+    },
+    {
+        "Hash": 723036778,
+        "Name": "Boate"
+    },
+    {
+        "Hash": 412253203,
+        "Name": "Motoclube"
+    },
+    {
+        "Hash": 2869200416,
+        "Name": "HUDs"
+    },
+    {
+        "Hash": 3492386459,
+        "Name": "Geral"
+    },
+    {
+        "Hash": 1798451287,
+        "Name": "Parâmetros"
+    },
+    {
+        "Hash": 3358305552,
+        "Name": "Agência"
+    },
+    {
+        "Hash": 218308365,
+        "Name": "Arcada"
+    },
+    {
+        "Hash": 3263287764,
+        "Name": "Hangar de Carga"
+    },
+    {
+        "Hash": 1127321241,
+        "Name": "Orca"
+    },
+    {
+        "Hash": 3364234197,
+        "Name": "Clube"
+    },
+    {
+        "Hash": 1946482804,
+        "Name": "Propriedades"
+    },
+    {
+        "Hash": 734785781,
+        "Name": "Telefone"
+    },
+    {
+        "Hash": 2977794930,
+        "Name": "Banco"
+    },
+    {
+        "Hash": 489704849,
+        "Name": "Dinheiro falso"
+    },
+    {
+        "Hash": 3352968894,
+        "Name": "Informações do banco"
+    },
+    {
+        "Hash": 1451550333,
+        "Name": "Internet"
+    },
+    {
+        "Hash": 183051235,
+        "Name": "Pong"
+    },
+    {
+        "Hash": 508545893,
+        "Name": "Portas"
+    },
+    {
+        "Hash": 526898495,
+        "Name": "Acusações"
+    },
+    {
+        "Hash": 1541054245,
+        "Name": "Remover tela preta"
+    },
+    {
+        "Hash": 1228884054,
+        "Name": "Diverso"
+    },
+    {
+        "Hash": 1892584722,
+        "Name": "Outro"
+    },
+    {
+        "Hash": 1050248339,
+        "Name": "Dados do jogador"
+    },
+    {
+        "Hash": 571536888,
+        "Name": "Organização"
+    },
+    {
+        "Hash": 3915492600,
+        "Name": "Informações da organização"
+    },
+    {
+        "Hash": 2831202406,
+        "Name": "Empresas"
+    },
+    {
+        "Hash": 3367672411,
+        "Name": "Instalação"
+    },
+    {
+        "Hash": 539822168,
+        "Name": "Empresa de Motoclubes"
+    },
+    {
+        "Hash": 2570493958,
+        "Name": "Propriedade"
+    },
+    {
+        "Hash": 3513876308,
+        "Name": "Notícia"
+    },
+    {
+        "Hash": 2190147185,
+        "Name": "Veículos"
+    },
+    {
+        "Hash": 699027441,
+        "Name": "Quebra"
+    },
+    {
+        "Hash": 1661559396,
+        "Name": "Caminhões de reboque"
+    },
+    {
+        "Hash": 3093954940,
+        "Name": "Dentro do Clubhouse"
+    },
+    {
+        "Hash": 3031883927,
+        "Name": "Escritório Executivo"
+    },
+    {
+        "Hash": 1092690119,
+        "Name": "Por dentro da Diretoria Executiva"
+    },
+    {
+        "Hash": 266574354,
+        "Name": "Dentro da instalação"
+    },
+    {
+        "Hash": 207805999,
+        "Name": "Dinheiro inicial"
+    },
+    {
+        "Hash": 145565665,
+        "Name": "Valor do veículo"
+    },
+    {
+        "Hash": 994998406,
+        "Name": "Repor"
+    },
+    {
+        "Hash": 3644223186,
+        "Name": "Conselho de Planejamento"
+    },
+    {
+        "Hash": 2066391028,
+        "Name": "Preparação inicial"
+    },
+    {
+        "Hash": 752296329,
+        "Name": "Preparações"
+    },
+    {
+        "Hash": 4126157933,
+        "Name": "Roubo de Veículos"
+    },
+    {
+        "Hash": 4093694254,
+        "Name": "Compartilhamento próprio"
+    },
+    {
+        "Hash": 348668117,
+        "Name": "Participação própria como participante"
+    },
+    {
+        "Hash": 4157407953,
+        "Name": "Roubo de apartamento"
+    },
+    {
+        "Hash": 3789383644,
+        "Name": "AVISO"
+    },
+    {
+        "Hash": 3008802229,
+        "Name": "Teleportos Fora do Cassino"
+    },
+    {
+        "Hash": 2767750491,
+        "Name": "Teletransportes de cassino interno"
+    },
+    {
+        "Hash": 3030645535,
+        "Name": "Copas de Jogador como Anfitrião"
+    },
+    {
+        "Hash": 4075093024,
+        "Name": "Vidas"
+    },
+    {
+        "Hash": 3416897021,
+        "Name": "Selecionável"
+    },
+    {
+        "Hash": 387392095,
+        "Name": "Assalto ao Cassino Diamond"
+    },
+    {
+        "Hash": 2260896761,
+        "Name": "Assalto ao Dia do Julgamento"
+    },
+    {
+        "Hash": 1962736521,
+        "Name": "Presets"
+    },
+    {
+        "Hash": 745554198,
+        "Name": "Preparações"
+    },
+    {
+        "Hash": 377503720,
+        "Name": "Configuração"
+    },
+    {
+        "Hash": 4172652398,
+        "Name": "Assalto"
+    },
+    {
+        "Hash": 710025617,
+        "Name": "Teleports"
+    },
+    {
+        "Hash": 2067783951,
+        "Name": "Cinemática de Pavel"
+    },
+    {
+        "Hash": 4176233970,
+        "Name": "Roubos"
+    },
+    {
+        "Hash": 3358248229,
+        "Name": "Cayo Perico"
+    },
+    {
+        "Hash": 3016643660,
+        "Name": "Estado mental"
+    },
+    {
+        "Hash": 1396625047,
+        "Name": "Morto"
+    },
+    {
+        "Hash": 2068058969,
+        "Name": "Proporção de Mortes/Mortes"
+    },
+    {
+        "Hash": 1327098438,
+        "Name": "Matou"
+    },
+    {
+        "Hash": 485895523,
+        "Name": "Estado Mental - K/D"
+    },
+    {
+        "Hash": 3310588275,
+        "Name": "Outras recompensas"
+    },
+    {
+        "Hash": 3230536526,
+        "Name": "Êxito"
+    },
+    {
+        "Hash": 1256040072,
+        "Name": "Recompensas de Los Santos"
+    },
+    {
+        "Hash": 3979840034,
+        "Name": "Recompensas de assalto"
+    },
+    {
+        "Hash": 3442804672,
+        "Name": "Recompensas Gerais"
+    },
+    {
+        "Hash": 400764579,
+        "Name": "Recompensas"
+    },
+    {
+        "Hash": 1236492029,
+        "Name": "Baseado em tempo"
+    },
+    {
+        "Hash": 3574954019,
+        "Name": "Relacionado ao armamento"
+    },
+    {
+        "Hash": 2928500886,
+        "Name": "Roupa"
+    },
+    {
+        "Hash": 3974317086,
+        "Name": "Relacionado ao veículo"
+    },
+    {
+        "Hash": 487041711,
+        "Name": "Habilidades"
+    },
+    {
+        "Hash": 2671361299,
+        "Name": "Estatística"
+    },
+    {
+        "Hash": 4236563922,
+        "Name": "Desbloqueia"
+    },
+    {
+        "Hash": 3178647351,
+        "Name": "Teletransportes Internos"
+    },
+    {
+        "Hash": 3892641625,
+        "Name": "Diálogo"
+    },
+    {
+        "Hash": 1738752502,
+        "Name": "Teleportos de Garagem"
+    },
+    {
+        "Hash": 769289123,
+        "Name": "Bagas"
+    },
+    {
+        "Hash": 887305450,
+        "Name": "Deveres"
+    },
+    {
+        "Hash": 3166570605,
+        "Name": "Controle da Missão"
+    },
+    {
+        "Hash": 808908595,
+        "Name": "Computador portátil"
+    },
+    {
+        "Hash": 3642154146,
+        "Name": "Importação Exportação de Veículos"
+    },
+    {
+        "Hash": 2602470879,
+        "Name": "Outras empresas"
+    },
+    {
+        "Hash": 3263346844,
+        "Name": "Maximização de receita"
+    },
+    {
+        "Hash": 3859426085,
+        "Name": "Automação"
+    },
+    {
+        "Hash": 3630348188,
+        "Name": "Melhorias"
+    },
+    {
+        "Hash": 833921418,
+        "Name": "Hora"
+    },
+    {
+        "Hash": 474335682,
+        "Name": "Notificações"
+    },
+    {
+        "Hash": 2120085317,
+        "Name": "Proteções"
+    },
+    {
+        "Hash": 2786805893,
+        "Name": "Desativar"
+    },
+    {
+        "Hash": 853743396,
+        "Name": "Características interiores"
+    },
+    {
+        "Hash": 1321500460,
+        "Name": "Seguro"
+    },
+    {
+        "Hash": 290020714,
+        "Name": "Configure a empresa"
+    },
+    {
+        "Hash": 3380925049,
+        "Name": "Teletransportes internos do laboratório ácido"
+    },
+    {
+        "Hash": 4215820902,
+        "Name": "Teleportes internos da Freakshop"
+    },
+    {
+        "Hash": 959507031,
+        "Name": "Teletransporta-se da Freakshop"
+    },
+    {
+        "Hash": 573108132,
+        "Name": "Veículo de laboratório ácido"
+    },
+    {
+        "Hash": 4239907345,
+        "Name": "Gerente de Negócios"
+    },
+    {
+        "Hash": 1694830029,
+        "Name": "Dentro do Arcade"
+    },
+    {
+        "Hash": 3599985744,
+        "Name": "Nome"
+    },
+    {
+        "Hash": 4035691241,
+        "Name": "Você deve estar em uma sessão para usar esses recursos."
+    },
+    {
+        "Hash": 3880344972,
+        "Name": "Você não possui nenhum negócio de Motorcycle Club."
+    },
+    {
+        "Hash": 3934074848,
+        "Name": "Você não é dono de uma boate."
+    },
+    {
+        "Hash": 1863433114,
+        "Name": "Você não tem um laboratório de ácido."
+    },
+    {
+        "Hash": 2040087773,
+        "Name": "Você não tem uma instalação."
+    },
+    {
+        "Hash": 3732467235,
+        "Name": "O laboratório de ácido não está do lado de fora."
+    },
+    {
+        "Hash": 2900152128,
+        "Name": "Você não possui um galpão."
+    },
+    {
+        "Hash": 196149525,
+        "Name": "Você não possui nenhum armazém executivo."
+    },
+    {
+        "Hash": 1501242589,
+        "Name": "Você não tem um depósito de veículos."
+    },
+    {
+        "Hash": 2574667401,
+        "Name": "Você não tem um local de resgate."
+    },
+    {
+        "Hash": 3114189654,
+        "Name": "Isso pode não funcionar o tempo todo."
+    },
+    {
+        "Hash": 2042880317,
+        "Name": "Você não tem uma agência."
+    },
+    {
+        "Hash": 3315068574,
+        "Name": "                ^ Funciona apenas no porão!"
+    },
+    {
+        "Hash": 24076295,
+        "Name": "Você tem que ser o anfitrião do assalto para que funcione!"
+    },
+    {
+        "Hash": 715974653,
+        "Name": "Não exceda US $ 2.550.000 por pessoa! Caso contrário, a pessoa NÃO receberá nenhum dinheiro do roubo."
+    },
+    {
+        "Hash": 3569113998,
+        "Name": "Você deve possuir um Kosatka primeiro."
+    },
+    {
+        "Hash": 1690527426,
+        "Name": "Não exceda $ 3.619.000 por pessoa! Caso contrário, a pessoa NÃO receberá nenhum dinheiro do roubo."
+    },
+    {
+        "Hash": 1875429117,
+        "Name": "Você deve possuir um fliperama primeiro."
+    },
+    {
+        "Hash": 1578223679,
+        "Name": "Você deve possuir um pátio de resgate primeiro."
+    },
+    {
+        "Hash": 1174993689,
+        "Name": "Você deve possuir uma instalação primeiro."
+    },
+    {
+        "Hash": 2287609447,
+        "Name": "Seta para cima e seta para baixo são os controles."
+    },
+    {
+        "Hash": 437033746,
+        "Name": "Você não possui um clube."
+    },
+    {
+        "Hash": 1274071504,
+        "Name": "Você não tem um escritório executivo."
+    },
+    {
+        "Hash": 330057152,
+        "Name": "Valor do Vault"
+    },
+    {
+        "Hash": 2768718355,
+        "Name": "Você não possui um fliperama."
+    },
+    {
+        "Hash": 914716234,
+        "Name": "Cor"
+    },
+    {
+        "Hash": 1786160217,
+        "Name": "Bandeira"
+    },
+    {
+        "Hash": 4005776202,
+        "Name": "Você não possui um Kosatka."
+    },
+    {
+        "Hash": 2785307555,
+        "Name": "Dentro do Kosatka"
+    },
+    {
+        "Hash": 2255028054,
+        "Name": "Super recurso para obter o impulso que você precisa para comprar negócios."
+    },
+    {
+        "Hash": 746703753,
+        "Name": "Isso será desativado quando você tiver US$ 3.000.000 ou mais."
+    },
+    {
+        "Hash": 1582739250,
+        "Name": "Você já tem uma boate. Vá gerenciá-lo."
+    },
+    {
+        "Hash": 526987608,
+        "Name": "Você tem algum dinheiro, vá comprar uma boate e use o gerenciador de negócios."
+    },
+    {
+        "Hash": 282629175,
+        "Name": "Com preguiça de comprá-lo??? Muito bem..... Clique aqui. >>>"
+    },
+    {
+        "Hash": 97025555,
+        "Name": "Por favor, altere sua sessão para que isso funcione."
+    },
+    {
+        "Hash": 186892664,
+        "Name": "Fundador"
+    },
+    {
+        "Hash": 2706721128,
+        "Name": "Tipo"
+    },
+    {
+        "Hash": 3179466303,
+        "Name": "Classificar"
+    },
+    {
+        "Hash": 3215045833,
+        "Name": "Missão"
+    },
+    {
+        "Hash": 4131076550,
+        "Name": "Membros"
+    },
+    {
+        "Hash": 734603278,
+        "Name": "Não em uma organização"
+    },
+    {
+        "Hash": 1847898100,
+        "Name": "Produto / Capacidade"
+    },
+    {
+        "Hash": 835437103,
+        "Name": "Produto Total / Capacidade"
+    },
+    {
+        "Hash": 3034481265,
+        "Name": "Suprimentos"
+    },
+    {
+        "Hash": 2714303147,
+        "Name": "Valor do produto"
+    },
+    {
+        "Hash": 3705462635,
+        "Name": "Melhorias"
+    },
+    {
+        "Hash": 3965036756,
+        "Name": "O jogador não possui nenhum negócio de Motorcycle Club."
+    },
+    {
+        "Hash": 153615833,
+        "Name": "O jogador não é o dono deste negócio do Motorcycle Club."
+    },
+    {
+        "Hash": 330057152,
+        "Name": "Valor do Vault"
+    },
+    {
+        "Hash": 1581048640,
+        "Name": "Popularidade"
+    },
+    {
+        "Hash": 566208124,
+        "Name": "O jogador não possui uma boate."
+    },
+    {
+        "Hash": 4045653811,
+        "Name": "O jogador não possui uma instalação."
+    },
+    {
+        "Hash": 1957292152,
+        "Name": "Técnico Designado"
+    },
+    {
+        "Hash": 1271122072,
+        "Name": "O jogador não tem um laboratório de ácido"
+    },
+    {
+        "Hash": 4174143107,
+        "Name": "O jogador tem um laboratório de ácido"
+    },
+    {
+        "Hash": 2600051764,
+        "Name": "O jogador não possui um hangar"
+    },
+    {
+        "Hash": 1827935132,
+        "Name": "O jogador não possui nenhum armazém de mercadorias executivas."
+    },
+    {
+        "Hash": 1417214662,
+        "Name": "Variação"
+    },
+    {
+        "Hash": 724145595,
+        "Name": "Total de veículos"
+    },
+    {
+        "Hash": 4146546259,
+        "Name": "O jogador não possui um depósito de veículos"
+    },
+    {
+        "Hash": 128529025,
+        "Name": "Matiz"
+    },
+    {
+        "Hash": 2072336889,
+        "Name": "Tem preços com desconto desbloqueados"
+    },
+    {
+        "Hash": 383434854,
+        "Name": "Um cofre"
+    },
+    {
+        "Hash": 970955624,
+        "Name": "tem mais funcionários"
+    },
+    {
+        "Hash": 1538756749,
+        "Name": "Dinheiro no cofre"
+    },
+    {
+        "Hash": 3863756399,
+        "Name": "Tipo de caminhão de reboque"
+    },
+    {
+        "Hash": 2156634139,
+        "Name": "Cor do caminhão de reboque"
+    },
+    {
+        "Hash": 3573852331,
+        "Name": "Baía 1 ocupada"
+    },
+    {
+        "Hash": 4070172104,
+        "Name": "Baía 2 ocupada"
+    },
+    {
+        "Hash": 3663864156,
+        "Name": "O jogador não tem um local de recuperação"
+    },
+    {
+        "Hash": 1568847186,
+        "Name": "O jogador não possui um clube."
+    },
+    {
+        "Hash": 2927999629,
+        "Name": "O jogador não possui um Kosatka"
+    },
+    {
+        "Hash": 2299897240,
+        "Name": "O jogador tem um Kosatka"
+    },
+    {
+        "Hash": 1313951634,
+        "Name": "O jogador não possui um fliperama."
+    },
+    {
+        "Hash": 1110456457,
+        "Name": "O jogador não possui uma agência."
+    },
+    {
+        "Hash": 2084344865,
+        "Name": "Carregamento automático ativado"
+    },
+    {
+        "Hash": 3729643223,
+        "Name": "Junte-se ao servidor Discord!"
+    },
+    {
+        "Hash": 4221381619,
+        "Name": "Se o Codax funcionar bem para você, não será necessário alterar esses valores."
+    },
+    {
+        "Hash": 1473072597,
+        "Name": "Selecionar"
+    },
+    {
+        "Hash": 757808308,
+        "Name": "Sim"
+    },
+    {
+        "Hash": 4170120130,
+        "Name": "Não"
+    },
+    {
+        "Hash": 4134635747,
+        "Name": "Tempo de atividade total"
+    },
+    {
+        "Hash": 3951464473,
+        "Name": "Totais de ganhos"
+    },
+    {
+        "Hash": 2036907688,
+        "Name": "Começa a vender o laboratório de ácido."
+    },
+    {
+        "Hash": 3595960752,
+        "Name": "Laboratório ácido vendido por {1}."
+    },
+    {
+        "Hash": 2896481217,
+        "Name": "Falha na venda do laboratório de ácido por {1}."
+    },
+    {
+        "Hash": 223169943,
+        "Name": "Laboratório de Ácido Produzido."
+    },
+    {
+        "Hash": 177517922,
+        "Name": "Laboratório de ácido reabastecido."
+    },
+    {
+        "Hash": 1565180909,
+        "Name": "Falha na produção do laboratório de ácido."
+    },
+    {
+        "Hash": 2607785931,
+        "Name": "Começa a vender carga executiva {1}."
+    },
+    {
+        "Hash": 4213026047,
+        "Name": "Começa a vender a carga executiva {1} por {2}."
+    },
+    {
+        "Hash": 130652568,
+        "Name": "Falha na venda da carga executiva {1} por {2}."
+    },
+    {
+        "Hash": 126603461,
+        "Name": "A carga executiva {1} produzida."
+    },
+    {
+        "Hash": 2349759926,
+        "Name": "A produção de carga executiva falhou."
+    },
+    {
+        "Hash": 3413562553,
+        "Name": "Ataque de carga executiva impedido."
+    },
+    {
+        "Hash": 1714754224,
+        "Name": "{1} Armazém"
+    },
+    {
+        "Hash": 3096835795,
+        "Name": "Começa a vender o hangar {1}."
+    },
+    {
+        "Hash": 2839637937,
+        "Name": "O Hangar {1} vendido por {2}."
+    },
+    {
+        "Hash": 232532277,
+        "Name": "Falha na venda do hangar {1} para {2}."
+    },
+    {
+        "Hash": 477879916,
+        "Name": "Hangar {1} produto."
+    },
+    {
+        "Hash": 3501317369,
+        "Name": "Falha na produção do {1} hangar."
+    },
+    {
+        "Hash": 493309996,
+        "Name": "Narcóticos do hangar"
+    },
+    {
+        "Hash": 2136665232,
+        "Name": "Produtos químicos para hangares"
+    },
+    {
+        "Hash": 3462233363,
+        "Name": "Suprimentos médicos para hangares"
+    },
+    {
+        "Hash": 1211123606,
+        "Name": "Materiais Animais do Hangar"
+    },
+    {
+        "Hash": 4194890635,
+        "Name": "Arte e Antiguidades do Hangar"
+    },
+    {
+        "Hash": 3405573791,
+        "Name": "Joias e Gemas do Hangar"
+    },
+    {
+        "Hash": 1073768758,
+        "Name": "Tabaco & Álcool do Hangar"
+    },
+    {
+        "Hash": 2684561338,
+        "Name": "Produtos falsificados do hangar"
+    },
+    {
+        "Hash": 3939875915,
+        "Name": "Narcóticos"
+    },
+    {
+        "Hash": 1231259086,
+        "Name": "Produtos químicos"
+    },
+    {
+        "Hash": 2547221250,
+        "Name": "Suprimentos médicos"
+    },
+    {
+        "Hash": 1253476483,
+        "Name": "Materiais de origem animal"
+    },
+    {
+        "Hash": 1753238534,
+        "Name": "Arte e Antiguidades"
+    },
+    {
+        "Hash": 2563555841,
+        "Name": "Joias & Gemas"
+    },
+    {
+        "Hash": 448079971,
+        "Name": "Tabaco & Álcool"
+    },
+    {
+        "Hash": 165963559,
+        "Name": "Produtos falsificados"
+    },
+    {
+        "Hash": 3919048034,
+        "Name": "Começa a vender o Motoclube {1}."
+    },
+    {
+        "Hash": 112680717,
+        "Name": "O Motorcycle Club {1} vendido por {2}."
+    },
+    {
+        "Hash": 3306326142,
+        "Name": "Falha na venda do {1} Motorcycle Club para {2}."
+    },
+    {
+        "Hash": 2972411214,
+        "Name": "Produto {1} Motorcycle Club."
+    },
+    {
+        "Hash": 2112041839,
+        "Name": "Falha na produção do Motoclube {1}."
+    },
+    {
+        "Hash": 713608212,
+        "Name": "O clube de motociclistas {1} reabastecido."
+    },
+    {
+        "Hash": 870269169,
+        "Name": "Ataque de bunker impedido."
+    },
+    {
+        "Hash": 2393524971,
+        "Name": "Ataque do Motorcycle Club evitado."
+    },
+    {
+        "Hash": 3105903116,
+        "Name": "Cocaína"
+    },
+    {
+        "Hash": 1520587013,
+        "Name": "Casamata"
+    },
+    {
+        "Hash": 1704260336,
+        "Name": "Metanfetamina"
+    },
+    {
+        "Hash": 161818479,
+        "Name": "Numerário"
+    },
+    {
+        "Hash": 1595751095,
+        "Name": "Cannabis"
+    },
+    {
+        "Hash": 3802190695,
+        "Name": "Falsificação"
+    },
+    {
+        "Hash": 1704274047,
+        "Name": "Comece a vender o Hub {1}."
+    },
+    {
+        "Hash": 3120010488,
+        "Name": "O Hub {1} vendido por {2}."
+    },
+    {
+        "Hash": 437813655,
+        "Name": "Falha ao vender o {1} Hub por {2}."
+    },
+    {
+        "Hash": 1540804303,
+        "Name": "Cubo de {1} do produto."
+    },
+    {
+        "Hash": 3236317931,
+        "Name": "Falha na produção do {1} do hub."
+    },
+    {
+        "Hash": 2184297838,
+        "Name": "Cofre de boate reivindicado por {1}."
+    },
+    {
+        "Hash": 3672493905,
+        "Name": "Cofre de boate abastecido."
+    },
+    {
+        "Hash": 3751292990,
+        "Name": "Invasão de boate evitada."
+    },
+    {
+        "Hash": 1963385041,
+        "Name": "Não é possível coletar $ 0 no cofre da boate."
+    },
+    {
+        "Hash": 2743504419,
+        "Name": "Armas"
+    },
+    {
+        "Hash": 2797375375,
+        "Name": "Carga"
+    },
+    {
+        "Hash": 2014894289,
+        "Name": "Escócia"
+    },
+    {
+        "Hash": 2992930002,
+        "Name": "Estados Unidos"
+    },
+    {
+        "Hash": 2970466486,
+        "Name": "França"
+    },
+    {
+        "Hash": 3994947234,
+        "Name": "Itália"
+    },
+    {
+        "Hash": 2070697153,
+        "Name": "Suécia"
+    },
+    {
+        "Hash": 2446861112,
+        "Name": "Argentina"
+    },
+    {
+        "Hash": 195838169,
+        "Name": "União Europeia"
+    },
+    {
+        "Hash": 3853390368,
+        "Name": "Finlândia"
+    },
+    {
+        "Hash": 1533092778,
+        "Name": "Países Baixos"
+    },
+    {
+        "Hash": 561727165,
+        "Name": "Portugal"
+    },
+    {
+        "Hash": 3270322955,
+        "Name": "Coreia do Sul"
+    },
+    {
+        "Hash": 2342831452,
+        "Name": "Austrália"
+    },
+    {
+        "Hash": 1107135507,
+        "Name": "Alemanha"
+    },
+    {
+        "Hash": 3505702644,
+        "Name": "Suíça"
+    },
+    {
+        "Hash": 1815376225,
+        "Name": "Bélgica"
+    },
+    {
+        "Hash": 3411556101,
+        "Name": "Turquia"
+    },
+    {
+        "Hash": 4147715819,
+        "Name": "China"
+    },
+    {
+        "Hash": 4154841451,
+        "Name": "Hungria"
+    },
+    {
+        "Hash": 2597923744,
+        "Name": "Nova Zelândia"
+    },
+    {
+        "Hash": 2534209362,
+        "Name": "Porto Rico"
+    },
+    {
+        "Hash": 3379639878,
+        "Name": "Brasil"
+    },
+    {
+        "Hash": 761460849,
+        "Name": "Japão"
+    },
+    {
+        "Hash": 3395984231,
+        "Name": "Jamaica"
+    },
+    {
+        "Hash": 670230935,
+        "Name": "México"
+    },
+    {
+        "Hash": 771243576,
+        "Name": "Irlanda"
+    },
+    {
+        "Hash": 3089286316,
+        "Name": "Croácia"
+    },
+    {
+        "Hash": 1493180762,
+        "Name": "Israel"
+    },
+    {
+        "Hash": 1776340831,
+        "Name": "Nigéria"
+    },
+    {
+        "Hash": 1129998925,
+        "Name": "Eslováquia"
+    },
+    {
+        "Hash": 2049500380,
+        "Name": "Espanha"
+    },
+    {
+        "Hash": 3488739744,
+        "Name": "Colômbia"
+    },
+    {
+        "Hash": 797731233,
+        "Name": "Áustria"
+    },
+    {
+        "Hash": 2839411898,
+        "Name": "País de Gales"
+    },
+    {
+        "Hash": 19361956,
+        "Name": "República Tcheca"
+    },
+    {
+        "Hash": 769913265,
+        "Name": "Liechtenstein"
+    },
+    {
+        "Hash": 3772139956,
+        "Name": "Palestina"
+    },
+    {
+        "Hash": 2939697539,
+        "Name": "África do Sul"
+    },
+    {
+        "Hash": 54045140,
+        "Name": "Canadá"
+    },
+    {
+        "Hash": 720819952,
+        "Name": "Reino Unido"
+    },
+    {
+        "Hash": 941113120,
+        "Name": "Noruega"
+    },
+    {
+        "Hash": 1568379810,
+        "Name": "Rússia"
+    },
+    {
+        "Hash": 3567146286,
+        "Name": "Inglaterra"
+    },
+    {
+        "Hash": 3925730277,
+        "Name": "Dinamarca"
+    },
+    {
+        "Hash": 3603417578,
+        "Name": "Pintado"
+    },
+    {
+        "Hash": 558970210,
+        "Name": "Polônia"
+    },
+    {
+        "Hash": 2661926071,
+        "Name": "Eslovênia"
+    },
+    {
+        "Hash": 451452075,
+        "Name": "Preto e Vermelho"
+    },
+    {
+        "Hash": 3504352950,
+        "Name": "Preto e Verde"
+    },
+    {
+        "Hash": 218264304,
+        "Name": "Verde e Vermelho"
+    },
+    {
+        "Hash": 120935062,
+        "Name": "Azul e Vermelho"
+    },
+    {
+        "Hash": 3658732351,
+        "Name": "Azul claro e azul escuro"
+    },
+    {
+        "Hash": 951631538,
+        "Name": "Azul claro e verde"
+    },
+    {
+        "Hash": 2266614846,
+        "Name": "Marrom e Vermelho Claro"
+    },
+    {
+        "Hash": 2882669939,
+        "Name": "Branco e Vermelho"
+    },
+    {
+        "Hash": 1178780102,
+        "Name": "Azul"
+    },
+    {
+        "Hash": 3878315909,
+        "Name": "Branco e laranja"
+    },
+    {
+        "Hash": 4104975125,
+        "Name": "Verde"
+    },
+    {
+        "Hash": 2305006200,
+        "Name": "Ouro e Vermelho"
+    },
+    {
+        "Hash": 1757790321,
+        "Name": "Preto"
+    },
+    {
+        "Hash": 2908119212,
+        "Name": "Azul claro"
+    },
+    {
+        "Hash": 3967513795,
+        "Name": "Vermelho"
+    },
+    {
+        "Hash": 2243659468,
+        "Name": "Branco"
+    },
+    {
+        "Hash": 3967513795,
+        "Name": "Vermelho"
+    },
+    {
+        "Hash": 1757790321,
+        "Name": "Preto"
+    },
+    {
+        "Hash": 1849811417,
+        "Name": "Cinza"
+    },
+    {
+        "Hash": 2266863007,
+        "Name": "Branco"
+    },
+    {
+        "Hash": 2127542650,
+        "Name": "Branco Glacial"
+    },
+    {
+        "Hash": 1178780102,
+        "Name": "Azul"
+    },
+    {
+        "Hash": 303234964,
+        "Name": "Azul escuro"
+    },
+    {
+        "Hash": 3563377849,
+        "Name": "Azul meia-noite"
+    },
+    {
+        "Hash": 2688326644,
+        "Name": "Minuit Violeta"
+    },
+    {
+        "Hash": 2657288127,
+        "Name": "Violeta Schafter"
+    },
+    {
+        "Hash": 2437901569,
+        "Name": "Vermelho escuro"
+    },
+    {
+        "Hash": 1187563857,
+        "Name": "Laranja"
+    },
+    {
+        "Hash": 3083351244,
+        "Name": "Amarelo"
+    },
+    {
+        "Hash": 64763947,
+        "Name": "Verde limão"
+    },
+    {
+        "Hash": 4104975125,
+        "Name": "Verde"
+    },
+    {
+        "Hash": 1825475187,
+        "Name": "Verde Floresta"
+    },
+    {
+        "Hash": 602556785,
+        "Name": "Folhagem Verde"
+    },
+    {
+        "Hash": 2632838977,
+        "Name": "Verde Oliva"
+    },
+    {
+        "Hash": 1570273060,
+        "Name": "Terra Negra"
+    },
+    {
+        "Hash": 624164337,
+        "Name": "Deserto bronzeado"
+    },
+    {
+        "Hash": 3560651753,
+        "Name": "Rosa"
+    },
+    {
+        "Hash": 3856819860,
+        "Name": "Azul-petróleo"
+    },
+    {
+        "Hash": 2389211864,
+        "Name": "Cinza escuro"
+    },
+    {
+        "Hash": 1755800474,
+        "Name": "Desconhecido"
+    },
+    {
+        "Hash": 2349921774,
+        "Name": "Batedor"
+    },
+    {
+        "Hash": 1738785365,
+        "Name": "Normal"
+    },
+    {
+        "Hash": 2116537556,
+        "Name": "Sem caminhão de reboque"
+    },
+    {
+        "Hash": 3359833233,
+        "Name": "Nenhum"
+    },
+    {
+        "Hash": 4095178457,
+        "Name": "Pessoal"
+    },
+    {
+        "Hash": 3706067843,
+        "Name": "Equipamento"
+    },
+    {
+        "Hash": 2322966962,
+        "Name": "Segurança"
+    },
+    {
+        "Hash": 1017026172,
+        "Name": "Configurações e traduções"
+    },
+    {
+        "Hash": 1451418372,
+        "Name": "Perspectiva"
+    },
+    {
+        "Hash": 2720967726,
+        "Name": "Vice-presidente"
+    },
+    {
+        "Hash": 3160582579,
+        "Name": "Capitão de Estrada"
+    },
+    {
+        "Hash": 3300339247,
+        "Name": "Sargento de Armas"
+    },
+    {
+        "Hash": 763403139,
+        "Name": "Executor"
+    },
+    {
+        "Hash": 2334598710,
+        "Name": "Rosa claro"
+    },
+    {
+        "Hash": 489478417,
+        "Name": "Amarelo pálido"
+    },
+    {
+        "Hash": 3638904033,
+        "Name": "Ciano pálido"
+    },
+    {
+        "Hash": 2603421395,
+        "Name": "Vermelho azulado"
+    },
+    {
+        "Hash": 3288634100,
+        "Name": "Castanha"
+    },
+    {
+        "Hash": 168416736,
+        "Name": "Roxo claro"
+    },
+    {
+        "Hash": 2752224860,
+        "Name": "Verde claro"
+    },
+    {
+        "Hash": 1177320860,
+        "Name": "Verde Profundo"
+    },
+    {
+        "Hash": 292136247,
+        "Name": "Rosa Profundo"
+    },
+    {
+        "Hash": 1854876971,
+        "Name": "Roxo acinzentado"
+    },
+    {
+        "Hash": 51151615,
+        "Name": "Backup na nuvem"
+    },
+    {
+        "Hash": 1322846863,
+        "Name": "Ganhe dinheiro facilmente."
+    },
+    {
+        "Hash": 3099085157,
+        "Name": "Dados de execução"
+    },
+    {
+        "Hash": 2805023151,
+        "Name": "Veja quanto dinheiro você ganhou na sessão atual do Codax."
+    },
+    {
+        "Hash": 3570304026,
+        "Name": "Gerenciar empresas."
+    },
+    {
+        "Hash": 2018679885,
+        "Name": "Você possui um Armazém de Veículos."
+    },
+    {
+        "Hash": 98139547,
+        "Name": "Você é dono de uma boate."
+    },
+    {
+        "Hash": 75051746,
+        "Name": "Você possui um Hangar."
+    },
+    {
+        "Hash": 1571573651,
+        "Name": "Você possui um assalto."
+    },
+    {
+        "Hash": 118138621,
+        "Name": "Você tem um Laboratório de Ácido."
+    },
+    {
+        "Hash": 3162633843,
+        "Name": "Você possui uma agência."
+    },
+    {
+        "Hash": 180625639,
+        "Name": "Você possui {1} / 5 Armazéns Executivos."
+    },
+    {
+        "Hash": 1750568226,
+        "Name": "Você possui {1} / 6 empresas de motoclubes."
+    },
+    {
+        "Hash": 1921584111,
+        "Name": "Todas as empresas estão criadas."
+    },
+    {
+        "Hash": 761285982,
+        "Name": "{1} / 6 empresas de motoclubes não estão criadas!"
+    },
+    {
+        "Hash": 1535438841,
+        "Name": "A empresa não está configurada!"
+    },
+    {
+        "Hash": 3982134823,
+        "Name": "A empresa está criada."
+    },
+    {
+        "Hash": 3424515762,
+        "Name": "Você possui um Kosatka."
+    },
+    {
+        "Hash": 327569368,
+        "Name": "Você possui um Arcade."
+    },
+    {
+        "Hash": 2239408794,
+        "Name": "Você possui uma instalação."
+    },
+    {
+        "Hash": 667835192,
+        "Name": "Seguro {1}."
+    },
+    {
+        "Hash": 770989689,
+        "Name": "Localização{1}"
+    },
+    {
+        "Hash": 163210513,
+        "Name": "Webhook de notificação"
+    },
+    {
+        "Hash": 3059063154,
+        "Name": "Gancho da Web"
+    },
+    {
+        "Hash": 3045687942,
+        "Name": "Nenhum webhook fornecido, impossível de salvar."
+    },
+    {
+        "Hash": 79547982,
+        "Name": "O webhook que você forneceu não parece ser válido."
+    },
+    {
+        "Hash": 2700437698,
+        "Name": "Webhook salvo!"
+    },
+    {
+        "Hash": 905718087,
+        "Name": "Webhook removido!"
+    },
+    {
+        "Hash": 1063226761,
+        "Name": "Em ação"
+    },
+    {
+        "Hash": 2291711640,
+        "Name": "Datas e horários"
+    },
+    {
+        "Hash": 2620145262,
+        "Name": "Campo de Tiro de Bunker"
+    },
+    {
+        "Hash": 1616866354,
+        "Name": "#1 Empresas"
+    },
+    {
+        "Hash": 101693328,
+        "Name": "Empresas #2"
+    },
+    {
+        "Hash": 1305790787,
+        "Name": "Cassino"
+    },
+    {
+        "Hash": 2166997903,
+        "Name": "Evento Único: Corrida de Cavalos"
+    },
+    {
+        "Hash": 2934235986,
+        "Name": "Evento Principal de Corridas de Cavalos"
+    },
+    {
+        "Hash": 3525527050,
+        "Name": "Hora"
+    },
+    {
+        "Hash": 2106642591,
+        "Name": "Matricial"
+    },
+    {
+        "Hash": 409048474,
+        "Name": "Você não pode nomear nada ..."
+    },
+    {
+        "Hash": 595845005,
+        "Name": "Aguarde um pouco antes de fazer outro pedido!"
+    },
+    {
+        "Hash": 2624481523,
+        "Name": "Algo deu errado com a API ..."
+    },
+    {
+        "Hash": 4184128174,
+        "Name": "Você sabia que ao escolher um tipo de GUI, você pode usar os botões de seta ~INPUT_CELLPHONE_UP~ ou ~INPUT_CELLPHONE_DOWN~ para alterar o tipo de GUI atualmente selecionado e pressionando enter ~INPUT_CELLPHONE_SELECT~ ele será carregado?"
+    },
+    {
+        "Hash": 1812221283,
+        "Name": "Pode demorar mais devido ao download de alguns ativos..."
+    },
+    {
+        "Hash": 592332416,
+        "Name": "Não é possível baixar o ativo necessário! O script pode não funcionar como esperado!"
+    },
+    {
+        "Hash": 3601356756,
+        "Name": "Inválido"
+    },
+    {
+        "Hash": 507961969,
+        "Name": "Comunidade de Estados Independentes"
+    },
+    {
+        "Hash": 1420202566,
+        "Name": "África"
+    },
+    {
+        "Hash": 167261411,
+        "Name": "Leste"
+    },
+    {
+        "Hash": 2117867968,
+        "Name": "Europa"
+    },
+    {
+        "Hash": 1365806538,
+        "Name": "Oeste"
+    },
+    {
+        "Hash": 761460849,
+        "Name": "Japão"
+    },
+    {
+        "Hash": 1443517514,
+        "Name": "Região atual: {1}"
+    },
+    {
+        "Hash": 2668658107,
+        "Name": "Retirar dinheiro"
+    },
+    {
+        "Hash": 2282149345,
+        "Name": "Você deve ter a função de Regular ou Apoiador para acessar esse recurso!"
+    },
+    {
+        "Hash": 2268293580,
+        "Name": "Quais são esses papéis?"
+    },
+    {
+        "Hash": 168994212,
+        "Name": "Você deve ser um apoiador da Codax para desbloquear recursos especiais. Para obter mais informações, junte-se ao servidor Discord da Codax!"
+    },
+    {
+        "Hash": 2664409605,
+        "Name": "ClickGUIs internas"
+    },
+    {
+        "Hash": 3070460260,
+        "Name": "ClickGUI externo"
+    },
+    {
+        "Hash": 557399591,
+        "Name": "ListGUI"
+    },
+    {
+        "Hash": 389075285,
+        "Name": "Seletor de GUI"
+    },
+    {
+        "Hash": 3410515087,
+        "Name": "Recursos do Apoiador"
+    },
+    {
+        "Hash": 4076644008,
+        "Name": "Memória"
+    },
+    {
+        "Hash": 4281215262,
+        "Name": "Uso de memória: {1} MB"
+    },
+    {
+        "Hash": 3837038281,
+        "Name": "Marca d’água"
+    },
+    {
+        "Hash": 2651052645,
+        "Name": "Veículo"
+    },
+    {
+        "Hash": 4219254647,
+        "Name": "Rodas de veículos pessoais"
+    },
+    {
+        "Hash": 3245769378,
+        "Name": "Gerador de Veículo Pessoal"
+    },
+    {
+        "Hash": 3575806286,
+        "Name": "Veículo Pessoal Ativo Atual: {1}"
+    },
+    {
+        "Hash": 1991477349,
+        "Name": "Falha na aparência do veículo pessoal!"
+    },
+    {
+        "Hash": 2762544659,
+        "Name": "Base"
+    },
+    {
+        "Hash": 3820388672,
+        "Name": "Urbano"
+    },
+    {
+        "Hash": 3002544500,
+        "Name": "Marquês"
+    },
+    {
+        "Hash": 188680494,
+        "Name": "Trabalho do funcionário"
+    },
+    {
+        "Hash": 3824210949,
+        "Name": "Este recurso não pode ser usado dentro do Escritório de Fiança!"
+    },
+    {
+        "Hash": 1795989242,
+        "Name": "Escritório de Liberação/Fiança"
+    },
+    {
+        "Hash": 4230545344,
+        "Name": "Você não tem um escritório de fiança."
+    },
+    {
+        "Hash": 3999171910,
+        "Name": "Falha na criação da empresa"
+    },
+    {
+        "Hash": 4236713937,
+        "Name": "Falha de reabastecimento"
+    },
+    {
+        "Hash": 3972563484,
+        "Name": "Venda de negócios falhou"
+    },
+    {
+        "Hash": 3972563484,
+        "Name": "Venda de negócios falhou"
+    }
+]
