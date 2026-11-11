@@ -1,0 +1,42 @@
+Model: zeno
+Plate Style: 1
+Plate Text: ZENO DBS
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 140
+Wheel Colour: 74
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 3
+Rear Bumper: 8
+Sideskirt: 2
+Exhaust: 7
+Hood: 5
+Fender: 1
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 4
+Front Wheels: 181
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #840063
+Custom Secondary Colour: #026277
+Neon Colour: #026f8b
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 74
+Dashboard Colour: 134
+Tyres Mode: 2
