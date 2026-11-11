@@ -1,0 +1,47 @@
+{
+  "interiorColor": 0,
+  "wheelColorIndex": 156,
+  "plate": {
+    "plateText": "35LNL822",
+    "plateType": 0
+  },
+  "pearlescentID": 8,
+  "dashboardColor": 0,
+  "wheels": {
+    "hasTireSmoke": false,
+    "wheelType": 1,
+    "tireSmokeB": 255,
+    "customTires": false,
+    "wheelMod": -1,
+    "wheelColorIndex": 156,
+    "tireSmokeR": 255,
+    "tireSmokeG": 255
+  },
+  "secondaryColorID": 121,
+  "tint": {
+    "windowTint": -1
+  },
+  "primaryColor": {
+    "R": 204,
+    "G": 157,
+    "B": 141
+  },
+  "name": "F160 Gulf War",
+  "lights": {
+    "neonBack": false,
+    "neonRight": false,
+    "neonR": 255,
+    "neonFront": false,
+    "neonLeft": false,
+    "xenonColor": 255,
+    "neonB": 255,
+    "xenonEnabled": false,
+    "neonG": 0
+  },
+  "secondaryColor": {
+    "R": 204,
+    "G": 157,
+    "B": 141
+  },
+  "primaryColorID": 121
+}
