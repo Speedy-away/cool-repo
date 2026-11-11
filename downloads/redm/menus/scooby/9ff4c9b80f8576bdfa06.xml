@@ -1,0 +1,741 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rage__fwuiDurationData>
+	<Durations>
+		<!-- Ease Type: Sine Ease-out Type: Duration Time -->
+		<Item key="SHORT_SINE">
+			<Value value="0.250000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_sine_EO</EaseType>
+		</Item>
+		<Item key="MEDIUM_SINE">
+			<Value value="0.500000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_sine_EO</EaseType>
+		</Item>
+		<!-- Ease Type: Elastic Ease-out Type: Duration Time -->
+		<Item key="SHORT_ELASTIC">
+			<Value value="0.500000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_elastic_EO</EaseType>
+		</Item>
+		<Item key="MEDIUM_ELASTIC">
+			<Value value="1.000000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_elastic_EO</EaseType>
+		</Item>
+		<!-- Ease Type: Exponential Ease-out Type: Duration Time -->
+		<Item key="SUPER_FAST_EXPO">
+			<Value value="0.050000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_expo_EO</EaseType>
+		</Item>
+		<Item key="VERY_FAST_EXPO">
+			<Value value="0.50000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_expo_EO</EaseType>
+		</Item>
+		<Item key="MEDIUM_EXPO">
+			<Value value="0.100000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_expo_EO</EaseType>
+		</Item>
+		<Item key="SLOW_EXPO">
+			<Value value="0.200000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_expo_EO</EaseType>
+		</Item>
+		<Item key="VERY_SLOW_EXPO">
+			<Value value="0.300000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_expo_EO</EaseType>
+		</Item>
+		<Item key="SCROLL_TIME">
+			<Value value="0.200000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_expo_EO</EaseType>
+		</Item>
+		<!-- Ease Type: Cubic Ease-out Type: Duration Speed -->
+		<Item key="VERY_FAST">
+			<Value value="2000.000000"/>
+			<Type>DURATION_SPEED</Type>
+			<EaseType>EASE_cubic_EO</EaseType>
+		</Item>
+		<Item key="FAST">
+			<Value value="850.000000"/>
+			<Type>DURATION_SPEED</Type>
+			<EaseType>EASE_cubic_EO</EaseType>
+		</Item>
+		<Item key="SLOW">
+			<Value value="25.000000"/>
+			<Type>DURATION_SPEED</Type>
+			<EaseType>EASE_cubic_EO</EaseType>
+		</Item>
+		<!-- Ease Type: Cubic Ease-out Type: Duration Time -->
+		<Item key="MEDIUM">
+			<Value value="0.250000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_cubic_EO</EaseType>
+		</Item>
+		<Item key="SHORT">
+			<Value value="0.500000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_cubic_EO</EaseType>
+		</Item>
+		<Item key="LONG">
+			<Value value="0.750000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_cubic_EO</EaseType>
+		</Item>
+		<Item key="VERY_LONG">
+			<Value value="1.500000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_cubic_EO</EaseType>
+		</Item>
+		<!-- Ease Type: Linear Type: Duration Time -->
+		<Item key="IMMEDIATE">
+			<Value value="0.000000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="VERY_SHORT_SMOOTH">
+			<Value value="0.050000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="SHORT_SMOOTH">
+			<Value value="0.20000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="MEDIUM_SMOOTH">
+			<Value value="0.250000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="LONG_SMOOTH">
+			<Value value="0.750000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="VERY_LONG_SMOOTH">
+			<Value value="2.000000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Ease Type: Linear Type: Duration Speed -->
+		<Item key="CONSTANT_MEDIUM_SMOOTH">
+			<Value value="135.0"/>
+			<Type>DURATION_SPEED</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Ease Type: Back in-out-elastic Type: Duration Speed -->
+		<Item key="FAST_BOUNCE">
+			<Value value="100.000000"/>
+			<Type>DURATION_SPEED</Type>
+			<EaseType>EASE_back_EIEO</EaseType>
+		</Item>
+		<Item key="MEDIUM_BOUNCE">
+			<Value value="25.000000"/>
+			<Type>DURATION_SPEED</Type>
+			<EaseType>EASE_back_EIEO</EaseType>
+		</Item>
+		<!-- Ease Type: Back in-out-elastic Type: Duration Time -->
+		<Item key="SLOW_BOUNCE">
+			<Value value="0.500000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_back_EIEO</EaseType>
+		</Item>
+		<Item key="VERY_SLOW_BOUNCE">
+			<Value value="0.750000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_back_EIEO</EaseType>
+		</Item>
+		<!-- Non-generic -->
+		<Item key="LOCATION_BACKGROUND_ENTER">
+			<Value value="0.00001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="LOCATION_ALL_CONTENT_ENTER">
+			<Value value="0.00001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="LOCATION_EXIT">
+			<Value value="0.00001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="SIDEMENU_EXIT">
+			<Value value="0.00001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ANALOG_SCROLL">
+			<Value value="0.100000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ANALOG_SPEED">
+			<Value value="250.000"/>
+			<Type>DURATION_SPEED</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="SCROLLWHEEL_ANALOG_SPEED">
+			<Value value="500.000"/>
+			<Type>DURATION_SPEED</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="PAUSEMENU_ENTER_CUBIC">
+			<Value value="0.00001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_cubic_EI</EaseType>
+		</Item>
+		<Item key="PAUSEMENU_EXIT_CUBIC">
+			<Value value="0.00001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_cubic_EO</EaseType>
+		</Item>
+		<Item key="PAUSEMENU_CONTENT_ENTER">
+			<Value value="0.00001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_quadratic_EI</EaseType>
+		</Item>
+		<Item key="PAUSEMENU_CONTENT_EXIT">
+			<Value value="0.00001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_quadratic_EI</EaseType>
+		</Item>
+		<!-- Note this time is required on console to hide pause menu transition flicker -->
+		<Item key="PAUSEMENU_SUBMENU_ENTER">
+			<Value value="0.00001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_quadratic_EI</EaseType>
+		</Item>
+		<!-- Note this time is required on console to hide pause menu transition flicker -->
+		<Item key="PAUSEMENU_SUBMENU_EXIT">
+			<Value value="0.00001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_quadratic_EI</EaseType>
+		</Item>
+		<Item key="PAUSEMENU_ENTER_DELAY">
+			<Value value="0.00001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_METERS_FADE_OUT_DELAY">
+			<Value value="2"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Note: This is used for the fade in AND out, so the total time of the anim will be this times 2 plus the wait -->
+		<Item key="RPG_METERS_ITEM_EFFECT_PREVIEW_OVERLAY_DURATION">
+			<Value value="0.25"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_METERS_ITEM_EFFECT_PREVIEW_OVERLAY_WAIT">
+			<Value value="0.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_METERS_ITEM_EFFECT_PREVIEW_OVERLAY_SYNC">
+			<Value value="2.1"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_METER_ITEM_EFFECT_PREVIEW_SET_TXN">
+			<Value value="0.005"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Note: This is used for the fade in AND out, so the total time of the anim will be this times 2 plus the wait -->
+		<Item key="RPG_METERS_STATUS_EFFECT_OVERLAY_DURATION">
+			<Value value="0.25"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_METERS_STATUS_EFFECT_OVERLAY_WAIT">
+			<Value value="0.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Note: This is used for the fade in AND out, so the total time of the flash will be 2 x RPG_METERS_FLASHING_DURATION -->
+		<Item key="RPG_METERS_FLASHING_DURATION">
+			<Value value="0.25"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Note: This is the time between the individual parts of the flashing, so it adds up several times -->
+		<Item key="RPG_CORE_DAMAGE_FLASHING">
+			<Value value="0.2"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Note: This is the time between the individual parts of the flashing, so it adds up several times -->
+		<Item key="RPG_CORE_REGENERATION_FLASHING">
+			<Value value="0.2"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Note: This is the time between the individual parts of the flashing, so it adds up several times -->
+		<Item key="RPG_METER_DAMAGE_FLASHING">
+			<Value value="0.3"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Note: This is the time between the individual parts of the flashing, so it adds up several times -->
+		<Item key="RPG_METER_REGENERATION_FLASHING">
+			<Value value="0.2"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_OVERPOWER_BACKGROUND_ENTER">
+			<Value value="0.25"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_OVERPOWER_BACKGROUND_ENTER_BUFFER">
+			<Value value="0.25"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Note: This is the time between the individual parts of the flashing, so it adds up several times -->
+		<Item key="RPG_OVERPOWER_EFFECT_FLASHING">
+			<Value value="0.25"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- This value is used by Code to determine when to tell the UI element to start the exit anim (totalOverpoweredDuration minus the value below) -->
+		<Item key="RPG_OVERPOWER_EFFECT_EXIT_TOTAL">
+			<Value value="4.0"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_OVERPOWER_EFFECT_EXIT_SLOW">
+			<Value value="0.2"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_OVERPOWER_EFFECT_EXIT_FAST">
+			<Value value="0.1"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_METER_SET_TXN">
+			<Value value="0.005"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_METER_TRAIL_SET_TXN">
+			<Value value="0.005"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_METER_TRAIL_EFFECT">
+			<Value value="0.7"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- These values are used for the RPG meters regeneration rate -->
+		<Item key="RPG_METRONOME_TICK_FAST">
+			<Value value="1.0"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_METRONOME_TICK_MEDIUM">
+			<Value value="2.0"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_METRONOME_TICK_SLOW">
+			<Value value="4.0"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_STATUS_EFFECT_PERIODICAL_METRONOME_TICK">
+			<Value value="45.0"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_STATUS_EFFECT_PERIODICAL_LONG_METRONOME_TICK">
+			<Value value="450.0"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_STATUS_EFFECT_METRONOME_TICK">
+			<Value value="0.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Note: This is the time between the individual parts of the flashing, so it adds up several times -->
+		<Item key="RPG_STATUS_EFFECT_PERIODICAL_OVERLAY_DURATION">
+			<Value value="0.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_STATUS_EFFECT_PERIODICAL_OVERLAY_WAIT">
+			<Value value="1"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Note: This is the time between the individual parts of the flashing, so it adds up several times -->
+		<Item key="RPG_STATUS_EFFECT_WARNING_OVERLAY_DURATION">
+			<Value value="0.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RPG_STATUS_EFFECT_WARNING_OVERLAY_WAIT">
+			<Value value="1"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="MP_SCORETIMER_PULSE">
+			<Value value="0.2"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="MP_SCORETIMER_PULSE_BREAK">
+			<Value value="1"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="MP_SCORETIMER_BLINK">
+			<Value value="0.3"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="MP_METER_ALTERNATE_ICONS">
+			<Value value="0.25"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="MP_METER_ALTERNATE_ICONS_WAIT">
+			<Value value="0.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="LEGAL_SCREENS_DURATION">
+			<Value value="0.00001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="OBJECTIVE_FADE_OUT_LENGTH">
+			<Value value="1"/>
+			<EaseType>EASE_cubic_EO</EaseType>
+			<Type>DURATION_TIME</Type>
+		</Item>
+		<Item key="WRONGWAY_PULSE">
+			<Value value="0.80"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ONE_FRAME_WAIT">
+			<Value value="0.001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ALERT_DELAY_BEFORE_TITLE_FADE_IN">
+			<Value value="0.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ALERT_SCRATCHES_FADE_IN_DURATION">
+			<Value value="0.2"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ALERT_TITLE_FADE_IN_DURATION">
+			<Value value="4"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ALERT_DELAY_BEFORE_MESSAGE_FADE_IN">
+			<Value value="0.75"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ALERT_MESSAGE_FADE_IN_DURATION">
+			<Value value="1"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ALERT_DELAY_BEFORE_WIPE_ANIMATION">
+			<Value value="0.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ALERT_WIPE_ANIMATION_DURATION">
+			<Value value="0.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ALERT_MESSAGE_FADE_OUT_DURATION">
+			<Value value="0.1"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ALERT_TITLE_FADE_OUT_DURATION">
+			<Value value="0.1"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="ALERT_POST_FADE_OUT_PAUSE">
+			<Value value="0.1"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Wanted Enter Animation Timings -->
+		<Item key="WANTED_DIVIDER_LINE_PREDELAY">
+			<Value value="0.13"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="WANTED_DIVIDER_LINE_DURATION">
+			<Value value="0.1"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="WANTED_UPPER_TEXT_PREDELAY">
+			<Value value="0.43"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="WANTED_SPLATTER_PREDELAY">
+			<Value value="0.05"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="WANTED_LOWER_TEXT_PREDELAY">
+			<Value value="0.2"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="WANTED_WIPE_OFF_DURATION">
+			<Value value="0.2"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Note: This is used for both color tweens of the looping anim, so the total time of one cycle will be 2 x WANTED_KNOWN_PULSE -->
+		<Item key="WANTED_KNOWN_PULSE">
+			<Value value="0.33"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_cubic_EIEO</EaseType>
+		</Item>
+		<!-- Note: This is used for both color tweens of the looping anim, so the total time of one cycle will be 2 x WANTED_UNKNOWN_PULSE -->
+		<Item key="WANTED_UNKNOWN_PULSE">
+			<Value value="0.33"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_cubic_EIEO</EaseType>
+		</Item>
+		<Item key="WANTED_WARNING_FLASH_FADE_IN">
+			<Value value="0.1"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="WANTED_WARNING_FLASH_FADE_OUT">
+			<Value value="0.4"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="WANTED_COOLDOWN_SHORT">
+			<Value value="10"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="WANTED_COOLDOWN_LONG">
+			<Value value="40"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="WANTED_BOUNTY_HUNTER_SHOW_DURATION">
+			<Value value="4"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="TOAST_BACKGROUND_WIPE_IN_DURATION">
+			<Value value="0.3"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="TOAST_ICON_FADE_IN_DURATION">
+			<Value value="0.15"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="TOAST_ICON_SHRINK_DURATION">
+			<Value value="0.08"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="TOAST_TEXT_ANIM_DELAY">
+			<Value value="2.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="TOAST_BACKGROUND_WIPE_OUT_DURATION">
+			<Value value="0.2"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="LOCATION_BACKGROUND_WIPE_IN_DURATION">
+			<Value value="0.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="LOCATION_BACKGROUND_WIPE_OUT_DURATION">
+			<Value value="0.3"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="LOCATION_RIGHT_SPLATTER_PREDELAY">
+			<Value value="0.07"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="LOCATION_LEFT_SPLATTER_PREDELAY">
+			<Value value="0.035"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="LOCATION_LOWER_TEXT_PREDELAY">
+			<Value value="0.27"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="MINIGAMES_ACTIVE_PLAYER_ENTER">
+			<Value value="0.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="MINIGAMES_ACTIVE_PLAYER_EXIT">
+			<Value value="0.5"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<!-- Note: This is used for both alpha tweens of the looping anim, so the total time of one cycle will be 2 x MINIGAMES_TURN_TIMER_PULSE -->
+		<Item key="MINIGAMES_TURN_TIMER_PULSE">
+			<Value value="0.6"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_cubic_EIEO</EaseType>
+		</Item>
+		<!-- Radar animations -->
+		<Item key="RADAR_FADE_IN">
+			<Value value="0.15"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="RADAR_FLASH">
+			<Value value="0.25"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="DEATH_SCREEN_FX_ROTATION">
+			<Value value="0.0"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="DEATH_SCREEN_TEXT_FADE_IN">
+			<Value value="0.001"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_sine_EIEO</EaseType>
+		</Item>
+		<!-- Shard -->
+		<Item key="SHARD_ENTER">
+			<Value value="0.2"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_quartic_EO</EaseType>
+		</Item>
+		<Item key="SHARD_EXIT">
+			<Value value="0.3"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_quartic_EI</EaseType>
+		</Item>
+		<Item key="PEDSHOT_TRANSITION">
+			<Value value="0.25"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+		<Item key="LEADERBOARD_SCROLL">
+			<Value value="0.200000"/>
+			<Type>DURATION_TIME</Type>
+			<EaseType>EASE_linear</EaseType>
+		</Item>
+	</Durations>
+	<DurationAliases>
+		<!-- Auto-scrolling Duration Aliases -->
+		<Item key="SMOOTH_AUTO_SCROLL">CONSTANT_MEDIUM_SMOOTH</Item>
+		<!-- Game Update Feed Animation Duration Aliases -->
+		<Item key="GAME_UPDATE_POS_ENTER">SHORT</Item>
+		<Item key="GAME_UPDATE_POS_EXIT">LONG</Item>
+		<Item key="GAME_UPDATE_STREAKY_POS_EXIT">VERY_LONG</Item>
+		<Item key="GAME_UPDATE_ALPHA_EXIT">VERY_FAST_EXPO</Item>
+		<Item key="GAME_UPDATE_OVERLAY_POS_ENTER">MEDIUM</Item>
+		<Item key="GAME_UPDATE_OVERLAY_ALPHA_ENTER">MEDIUM</Item>
+		<Item key="GAME_UPDATE_TEXT_POS_ENTER">LONG</Item>
+		<Item key="GAME_UPDATE_TEXT_ALPHA_ENTER">MEDIUM</Item>
+		<Item key="GAME_UPDATE_WAIT">VERY_SHORT_SMOOTH</Item>
+		<!-- Honor Display Animation Duration Aliases -->
+		<Item key="HONOR_DISPLAY_CONTRACT">IMMEDIATE</Item>
+		<Item key="HONOR_DISPLAY_FLASH">IMMEDIATE</Item>
+		<Item key="HONOR_DISPLAY_WAIT">IMMEDIATE</Item>
+		<!-- Opening Credit Animation Duration Aliases -->
+		<Item key="OPENING_CREDITS_ENTER">LONG</Item>
+		<Item key="OPENING_CREDITS_EXIT">LONG</Item>
+		<Item key="OPENING_CREDITS_WAIT">MEDIUM</Item>
+		<Item key="OPENING_CREDITS_DURATION">VERY_LONG_SMOOTH</Item>
+		<!-- Reticle Message Animation Duration Aliases -->
+		<Item key="RETICLEMESSAGE_ALPHA_ENTER">MEDIUM_SMOOTH</Item>
+		<Item key="RETICLEMESSAGE_ALPHA_EXIT">MEDIUM_SMOOTH</Item>
+		<Item key="RETICLEMESSAGE_POS_ENTER">SHORT_ELASTIC</Item>
+		<Item key="RETICLEMESSAGE_POS_EXIT">SUPER_FAST_EXPO</Item>
+		<Item key="RETICLEMESSAGE_POS_STACK">VERY_SHORT_SMOOTH</Item>
+		<Item key="RETICLEMESSAGE_SPECIAL_ENTER">MEDIUM_EXPO</Item>
+		<Item key="RETICLEMESSAGE_SPECIAL_ENTER_WAIT">SHORT_SMOOTH</Item>
+		<Item key="RETICLEMESSAGE_SPECIAL_EXIT">MEDIUM_EXPO</Item>
+		<!-- Shard Feed Animation Duration Aliases -->
+		<Item key="SHARD_ALPHA_ENTER">MEDIUM_SMOOTH</Item>
+		<Item key="SHARD_ALPHA_EXIT">MEDIUM_SMOOTH</Item>
+		<Item key="SHARD_SINGLE_ENTER">VERY_SLOW_EXPO</Item>
+		<Item key="SHARD_SINGLE_ENTER_WAIT">SHORT_SMOOTH</Item>
+		<Item key="SHARD_SINGLE_EXIT">VERY_FAST_EXPO</Item>
+		<Item key="SHARD_THREE_ENTER">VERY_SLOW_EXPO</Item>
+		<Item key="SHARD_THREE_ENTER_WAIT">SHORT_SMOOTH</Item>
+		<Item key="SHARD_THREE_SUBTEXT_WAIT">VERY_LONG_SMOOTH</Item>
+		<Item key="SHARD_THREE_EXIT">VERY_FAST_EXPO</Item>
+		<Item key="SHARD_SUBTEXT_WAIT">VERY_LONG_SMOOTH</Item>
+		<!-- Status Alert feed Animation Duration Aliases-->
+		<Item key="STATUS_ALERT_MESSAGE_EXIT">VERY_LONG</Item>
+		<Item key="STATUS_ALERT_MESSAGE_WAIT">MEDIUM_SMOOTH</Item>
+		<Item key="STATUS_ALERT_MESSAGE_SHORT">VERY_SHORT_SMOOTH</Item>
+		<Item key="STATUS_ALERT_FADE">VERY_LONG</Item>
+		<!-- Toast Feed Animation Duration Aliases -->
+		<Item key="TOAST_POS_ENTER">LONG</Item>
+		<Item key="TOAST_POS_EXIT">VERY_FAST_EXPO</Item>
+		<Item key="TOAST_ENTER_WAIT">VERY_LONG_SMOOTH</Item>
+		<Item key="TOAST_BODY_POS_ENTER">MEDIUM_ELASTIC</Item>
+		<!-- Transaction Feed Animation Duration Aliases -->
+		<Item key="TRANS_ALPHA_ENTER">SHORT_SINE</Item>
+		<Item key="TRANS_ALPHA_EXIT">MEDIUM_SINE</Item>
+		<Item key="TRANS_POS_ENTER">MEDIUM_ELASTIC</Item>
+		<Item key="TRANS_POS_EXIT">SLOW_BOUNCE</Item>
+		<Item key="TRANS_POS_STACK">SLOW_EXPO</Item>
+		<!-- Warning feed Animation Duration Aliases-->
+		<Item key="WARNING_MESSAGE_ENTER">VERY_LONG</Item>
+		<Item key="WARNING_MESSAGE_EXIT">VERY_LONG</Item>
+		<Item key="WARNING_MESSAGE_WAIT">MEDIUM_SMOOTH</Item>
+		<!-- Misc Animation Duration Aliases -->
+		<Item key="COUNTDOWN_TICK">MEDIUM_ELASTIC</Item>
+		<Item key="UNIT_TEST_FADE">VERY_LONG</Item>
+		<!-- Wanted aliases -->
+		<Item key="WANTED_LOWERTEXT_MOVEMENT">SHORT_ELASTIC</Item>
+		<!-- Wheel aliases -->
+		<Item key="QUICK_SELECT_WHEEL_TUTORIAL_FLASH_INVISIBLE_WAIT">MEDIUM</Item>
+		<Item key="QUICK_SELECT_WHEEL_TUTORIAL_FLASH_VISIBLE_WAIT">SHORT</Item>
+		<!-- Leaderboard Aliases -->
+		<Item key="LEADERBOARD_REVEAL">VERY_LONG</Item>
+		<Item key="LEADERBOARD_HIDE">LONG</Item>
+		<Item key="LEADERBOARD_FADE">VERY_LONG</Item>
+		<Item key="LEADERBOARD_WAIT">SHORT</Item>
+	</DurationAliases>
+</rage__fwuiDurationData>
