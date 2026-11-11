@@ -1,0 +1,16 @@
+Tree Compatibility Version: 38
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: FF003FFF
+			Position: 540, 56
+			Tabs
+				Position: Top
+				Text Alignment: Centre
+				Show Icon Left: On
+				Show Name: Off
+			Max Visible Commands: 17
+			List Width: 770
+			List Height: 33
+			Background Blur: 0

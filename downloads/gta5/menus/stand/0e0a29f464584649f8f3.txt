@@ -1,0 +1,67 @@
+Tree Compatibility Version: 38
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: 490099FF
+				Focused Texture Colour: 7FBDFFFF
+				Background Colour: 0000007D
+				HUD Colour: FFFFFFFF
+				AR Colour: 05FF43FF
+				Minigame Colour: FFEF7CFF
+			Position: 123, 306
+			Header
+				Legacy Positioning: Off
+			Address Bar
+				Width Affected By Scrollbar: On
+				Text
+					Scale: 14
+					X Offset: -4
+					Y Offset: -1
+				Show Cursor Position: On
+			Cursor
+				Scroll Gap: 0
+				Width: 3
+				Colour: 7F00FF50
+			Tabs
+				Width: 66
+				Height: 30
+				Position: Top
+				Text
+					X Offset: 0
+				Text Alignment: Centre
+				Show Icon Left: On
+				Show Name: Off
+			Scrollbar
+				Scrollbar: Disabled
+				Width: 4
+			Command Info Text
+				Position: Bottom
+				Padding: -1
+				Indicate Slider Behaviour: Off
+				Indicate If Usable By Other Players: Off
+			Notifications
+				Type: Stand, Custom Position
+				Custom Position: 399, 1236
+				Width: 445
+				Border Colour: 7CF6FFFF
+				Flash Colour: 351966FF
+				Background Colour: 001A2655
+			Commands
+				Number Sliders
+					Selectable N/A Sliders: On
+			Border
+				Width: 2
+				Rounded: On
+				Colour: 6823B2FF
+					Rainbow Mode: 10
+			Max Visible Commands: 14
+			List Width: 462
+			List Height: 31
+			Spacer Size: 2
+			Smooth Scrolling: 170
+			Background Blur: 0
+			Font & Text
+				Small Text
+					Scale: 15
+			Disable Entity Previews: On
