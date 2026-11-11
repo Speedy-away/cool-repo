@@ -1,8 +1,8 @@
-# Scooby Community Downloads
+# Scooby Resource Downloads
 
-Browse and search the collection at https://scoobymenu.cc/community/
+Browse and search the collection at https://scoobymenu.cc/resources/
 
-This repository stores asset downloads and catalog metadata. Its index.html redirects visitors to Scooby Community. Direct raw file URLs remain usable.
+This repository stores asset downloads and catalog metadata. Its index.html redirects visitors to Scooby Resources. Direct raw file URLs remain usable.
 
 ## Organization
 
@@ -39,3 +39,5 @@ After a full import, update source-only theme metadata and native ClickUI color/
     node tools/build-community-library.cjs --target <absolute-path-to-cool-repo> --refresh-catalog
 
 ClickUI color presets export the host’s built-in palette data into color fields explicitly accepted by that host’s saved-theme loader. Back up the current theme before loading: native loader defaults and migrations may also apply. These are color presets rather than full copies of every native preset effect. Stand ZIP files retain their original profiles, scripts, supporting artwork and checksums. Shared Stand payloads are stored once under downloads/shared/themes/stand.
+
+For selected native game assets, add --refresh-games cs2,gta5,rdr2 to --refresh-catalog. This replaces only importer-owned model, config, language, map, layout-sample, texture and bundled-outfit rows from those projects. Marketplace entries, native PaintJobs, addon packs and other theme collections are preserved; their ordinary --refresh-catalog refresh remains available. Missing required sources abort before any writes. Use --output <library.json> for an isolated catalog destination.

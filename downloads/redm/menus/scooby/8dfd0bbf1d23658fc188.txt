@@ -1,0 +1,6 @@
+Weapon Keybinds
+
+Shared in RedM Hub by 021.
+
+RedM client installation.
+Open the pause menu and go to Settings → Controls → Mouse & Keyboard → Key Mapping. Select the weapon actions you want to bind, then assign your preferred keys. The source screenshot shows the German menu.

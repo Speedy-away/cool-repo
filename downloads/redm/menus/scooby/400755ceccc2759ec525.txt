@@ -1,0 +1,6 @@
+Stretched Resolution
+
+Shared in RedM Hub by 021.
+
+RedM client installation.
+Back up your RedM system.xml. Set its screen dimensions to 1440 × 920 and select full screen. Set the same resolution in the display settings, then use Alt+Enter if the game is still windowed.

@@ -1,0 +1,6 @@
+No Grass Settings
+
+Shared in RedM Hub by MEE6.
+
+RedM client installation.
+Back up %APPDATA%/CitizenFX/rdr3_settings/system.xml. Open it and change the existing grassLod value to -3.000000. Save the file.

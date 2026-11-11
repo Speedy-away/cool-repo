@@ -6,16 +6,31 @@
   "espModelGlow": [
     {
       "enabled": false,
-      "color": [0.12, 1.0, 0.62, 1.0]
+      "color": [
+        0.12,
+        1.0,
+        0.62,
+        1.0
+      ]
     },
     {
       "enabled": false,
-      "color": [0.12, 1.0, 0.62, 1.0]
+      "color": [
+        0.12,
+        1.0,
+        0.62,
+        1.0
+      ]
     }
   ],
   "weaponESPModelGlow": {
     "enabled": false,
-    "color": [0.12, 1.0, 0.62, 1.0]
+    "color": [
+      0.12,
+      1.0,
+      0.62,
+      1.0
+    ]
   },
   "espBox": true,
   "espBoxTeam": true,
@@ -308,7 +323,7 @@
   ],
   "grenadeESPDistance": false,
   "grenadeESPIcons": true,
-  "grenadeIconSize": 12.0,
+  "grenadeIconSize": 22.0,
   "grenadeDroppedIcons": true,
   "grenadeDroppedIconSize": 12.0,
   "grenadeDroppedTextSize": 9.5,
@@ -324,15 +339,15 @@
   "grenadeESPTimer": true,
   "grenadeTimer": false,
   "grenadeTimerColor": [
-    0.847059,
-    0.709804,
-    0.415686,
-    0.9
+    0.92,
+    0.96,
+    1.0,
+    1.0
   ],
-  "grenadeTimerRadius": 13.0,
+  "grenadeTimerRadius": 18.0,
   "grenadeTimerRing": true,
   "grenadeTimerLabel": true,
-  "grenadeTimerBgAlpha": 0.35,
+  "grenadeTimerBgAlpha": 0.82,
   "grenadeTracer": false,
   "grenadeTimerTrajectory": false,
   "grenadeTrailGlow": false,
@@ -350,29 +365,29 @@
   ],
   "espSmokeRadius": true,
   "espSmokeRadiusFill": [
-    0.847059,
-    0.709804,
-    0.415686,
-    0.04
+    0.78,
+    0.88,
+    1.0,
+    0.1
   ],
   "espSmokeRadiusOutline": [
-    0.847059,
-    0.709804,
-    0.415686,
-    0.65
+    0.84,
+    0.94,
+    1.0,
+    0.92
   ],
   "espInfernoRadius": true,
   "espInfernoRadiusFill": [
-    0.541176,
-    0.862745,
-    0.972549,
-    0.04
+    1.0,
+    0.16,
+    0.1,
+    0.1
   ],
   "espInfernoRadiusOutline": [
-    0.541176,
-    0.862745,
-    0.972549,
-    0.6
+    1.0,
+    0.12,
+    0.06,
+    0.95
   ],
   "espDefuseKitColor": [
     0.847059,
@@ -733,16 +748,31 @@
     "espModelGlow": [
       {
         "enabled": false,
-        "color": [0.05, 0.88, 1.0, 0.84]
+        "color": [
+          0.05,
+          0.88,
+          1.0,
+          0.84
+        ]
       },
       {
         "enabled": false,
-        "color": [0.05, 0.88, 1.0, 0.84]
+        "color": [
+          0.05,
+          0.88,
+          1.0,
+          0.84
+        ]
       }
     ],
     "weaponESPModelGlow": {
       "enabled": false,
-      "color": [0.05, 0.88, 1.0, 0.84]
+      "color": [
+        0.05,
+        0.88,
+        1.0,
+        0.84
+      ]
     },
     "espAimWarning": false,
     "espAimWarningColor": [
@@ -1503,7 +1533,65 @@
     "espWeaponShadowOffset": 1.0,
     "espWeaponTeam": false,
     "espZeus": false,
-    "espZeusPos": 1
+    "espZeusPos": 1,
+    "grenadeIconSize": 22.0,
+    "grenadeTimerRadius": 18.0,
+    "grenadeTimerBgAlpha": 0.82,
+    "grenadeTimerStyle": 1,
+    "grenadeTimerRing": true,
+    "grenadeTimerLabel": true,
+    "grenadeTimerIcon": true,
+    "smokeTimerBar": true,
+    "grenadeTimerColor": [
+      0.92,
+      0.96,
+      1.0,
+      1.0
+    ],
+    "smokeTimerColor": [
+      0.92,
+      0.96,
+      1.0,
+      1.0
+    ],
+    "infernoTimerColor": [
+      1.0,
+      0.78,
+      0.24,
+      1.0
+    ],
+    "espSmokeRadiusFill": [
+      0.78,
+      0.88,
+      1.0,
+      0.1
+    ],
+    "espSmokeRadiusOutline": [
+      0.84,
+      0.94,
+      1.0,
+      0.92
+    ],
+    "espInfernoRadiusFill": [
+      1.0,
+      0.16,
+      0.1,
+      0.1
+    ],
+    "espInfernoRadiusOutline": [
+      1.0,
+      0.12,
+      0.06,
+      0.95
+    ],
+    "heDamageRadiusColor": [
+      1.0,
+      0.72,
+      0.2,
+      0.9
+    ],
+    "grenadeAreaLineWidth": 1.4,
+    "grenadeAreaFillOpacity": 0.75
   },
   "espZeus": false,
   "chamsHostageVisible": false,
@@ -9898,12 +9986,12 @@
   "espEquipmentSpacing": 2.0,
   "grenadeTimerStyle": 1,
   "grenadeTimerIcon": true,
-  "smokeTimer": false,
+  "smokeTimer": true,
   "smokeTimerColor": [
-    0.847059,
-    0.709804,
-    0.415686,
-    0.8
+    0.92,
+    0.96,
+    1.0,
+    1.0
   ],
   "smokeTimerBar": true,
   "grenadeTrailThickness": 1.1,
@@ -10134,8 +10222,8 @@
   "espVisible": true,
   "espInvisibleEnabled": true,
   "grenadePredLineWidth": 1.1,
-  "grenadeAreaLineWidth": 1.1,
-  "grenadeAreaFillOpacity": 0.6,
+  "grenadeAreaLineWidth": 1.4,
+  "grenadeAreaFillOpacity": 0.75,
   "espHitboxGlowParts": 31,
   "espHitboxGlowColor": [
     0.541176,
@@ -10537,10 +10625,10 @@
     0.85
   ],
   "heDamageRadiusColor": [
-    0.847059,
-    0.709804,
-    0.415686,
-    0.85
+    1.0,
+    0.72,
+    0.2,
+    0.9
   ],
   "heTimerColor": [
     0.847059,
@@ -10662,10 +10750,10 @@
   "hitmarkerWorldSize": 4.0,
   "hitmarkerWorldThickness": 1.0,
   "infernoTimerColor": [
-    0.847059,
-    0.709804,
-    0.415686,
-    0.85
+    1.0,
+    0.78,
+    0.24,
+    1.0
   ],
   "killEffectColor": [
     0.662745,
@@ -11088,5 +11176,6 @@
     0.25
   ],
   "overlaySyncColors": true,
-  "overlayCustomAccent": false
+  "overlayCustomAccent": false,
+  "infernoTimer": true
 }

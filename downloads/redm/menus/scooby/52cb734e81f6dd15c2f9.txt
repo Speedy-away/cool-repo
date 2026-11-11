@@ -1,0 +1,6 @@
+Potato Graphics Settings
+
+Shared in RedM Hub by MEE6.
+
+RedM client installation.
+Back up %APPDATA%/CitizenFX/rdr3_settings/system.xml. Open it and set the existing pedLod value to -2. Save the file.

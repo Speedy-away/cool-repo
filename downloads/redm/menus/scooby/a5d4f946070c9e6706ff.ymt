@@ -1,0 +1,103 @@
+﻿<?xml version="0.0" encoding="UTF-0" standalone="no"?>
+<UNK_TYPE_0xB000000C>
+  <UNK_MEMBER_0xCD000000 value="0.00000000"/>
+  <UNK_MEMBER_0xEF000D0E>
+    <Item>
+      <UNK_MEMBER_0x0B0000C0 value="0.00000000"/>
+      <UNK_MEMBER_0x0BE0E000 value="0.00000000"/>
+      <UNK_MEMBER_0xD0C00BF0 value="0.00000000"/>
+      <UNK_MEMBER_0x000000C0 value="0.00000000"/>
+      <UNK_MEMBER_0x000BF000 value="0.00000000"/>
+      <UNK_MEMBER_0x0D000E0E value="0.00000000"/>
+      <UNK_MEMBER_0xB0000D0A value="0.00000000"/>
+      <UNK_MEMBER_0xD0FC0000>
+        <Item>
+          <UNK_MEMBER_0xD0B0FE00 value="0"/>
+          <UNK_MEMBER_0x0000A000 value="0"/>
+          <UNK_MEMBER_0xD0A00000 value="0.00000000"/>
+          <UNK_MEMBER_0x0000FA00 value="0.00000000"/>
+          <UNK_MEMBER_0xB0A00F00 value="0.00000000"/>
+          <UNK_MEMBER_0xD00DF0FC value="0.00000000"/>
+          <UNK_MEMBER_0x00000B0A value="0.00000000"/>
+          <UNK_MEMBER_0xF0D000DE value="0.00000000"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xD0B0FE00 value="0"/>
+          <UNK_MEMBER_0x0000A000 value="0"/>
+          <UNK_MEMBER_0xD0A00000 value="-0.00000000"/>
+          <UNK_MEMBER_0x0000FA00 value="-0.00000000"/>
+          <UNK_MEMBER_0xB0A00F00 value="0.00000000"/>
+          <UNK_MEMBER_0xD00DF0FC value="0.00000000"/>
+          <UNK_MEMBER_0x00000B0A value="0.00000000"/>
+          <UNK_MEMBER_0xF0D000DE value="0.00000000"/>
+        </Item>
+      </UNK_MEMBER_0xD0FC0000>
+    </Item>
+    <Item>
+      <UNK_MEMBER_0x0B0000C0 value="0.00000000"/>
+      <UNK_MEMBER_0x0BE0E000 value="0.00000000"/>
+      <UNK_MEMBER_0xD0C00BF0 value="0.00000000"/>
+      <UNK_MEMBER_0x000000C0 value="0.00000000"/>
+      <UNK_MEMBER_0x000BF000 value="0.00000000"/>
+      <UNK_MEMBER_0x0D000E0E value="0.00000000"/>
+      <UNK_MEMBER_0xB0000D0A value="0.00000000"/>
+      <UNK_MEMBER_0xD0FC0000>
+        <Item>
+          <UNK_MEMBER_0xD0B0FE00 value="0"/>
+          <UNK_MEMBER_0x0000A000 value="0"/>
+          <UNK_MEMBER_0xD0A00000 value="-0.00000000"/>
+          <UNK_MEMBER_0x0000FA00 value="0.00000000"/>
+          <UNK_MEMBER_0xB0A00F00 value="0.00000000"/>
+          <UNK_MEMBER_0xD00DF0FC value="0.00000000"/>
+          <UNK_MEMBER_0x00000B0A value="0.00000000"/>
+          <UNK_MEMBER_0xF0D000DE value="0.00000000"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xD0B0FE00 value="0"/>
+          <UNK_MEMBER_0x0000A000 value="0"/>
+          <UNK_MEMBER_0xD0A00000 value="-0.00000000"/>
+          <UNK_MEMBER_0x0000FA00 value="-0.00000000"/>
+          <UNK_MEMBER_0xB0A00F00 value="0.00000000"/>
+          <UNK_MEMBER_0xD00DF0FC value="0.00000000"/>
+          <UNK_MEMBER_0x00000B0A value="0.00000000"/>
+          <UNK_MEMBER_0xF0D000DE value="0.00000000"/>
+        </Item>
+      </UNK_MEMBER_0xD0FC0000>
+    </Item>
+    <Item>
+      <UNK_MEMBER_0x0B0000C0 value="0.00000000"/>
+      <UNK_MEMBER_0x0BE0E000 value="0.00000000"/>
+      <UNK_MEMBER_0xD0C00BF0 value="0.00000000"/>
+      <UNK_MEMBER_0x000000C0 value="0.00000000"/>
+      <UNK_MEMBER_0x000BF000 value="0.00000000"/>
+      <UNK_MEMBER_0x0D000E0E value="0.00000000"/>
+      <UNK_MEMBER_0xB0000D0A value="0.00000000"/>
+      <UNK_MEMBER_0xD0FC0000>
+        <Item>
+          <UNK_MEMBER_0xD0B0FE00 value="0"/>
+          <UNK_MEMBER_0x0000A000 value="0"/>
+          <UNK_MEMBER_0xD0A00000 value="0.00000000"/>
+          <UNK_MEMBER_0x0000FA00 value="0.00000000"/>
+          <UNK_MEMBER_0xB0A00F00 value="0.00000000"/>
+          <UNK_MEMBER_0xD00DF0FC value="0.00000000"/>
+          <UNK_MEMBER_0x00000B0A value="-0.00000000"/>
+          <UNK_MEMBER_0xF0D000DE value="0.00000000"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xD0B0FE00 value="0"/>
+          <UNK_MEMBER_0x0000A000 value="0"/>
+          <UNK_MEMBER_0xD0A00000 value="0.00000000"/>
+          <UNK_MEMBER_0x0000FA00 value="0.00000000"/>
+          <UNK_MEMBER_0xB0A00F00 value="0.00000000"/>
+          <UNK_MEMBER_0xD00DF0FC value="0.00000000"/>
+          <UNK_MEMBER_0x00000B0A value="0.00000000"/>
+          <UNK_MEMBER_0xF0D000DE value="0.00000000"/>
+        </Item>
+      </UNK_MEMBER_0xD0FC0000>
+    </Item>
+  </UNK_MEMBER_0xEF000D0E>
+  <UNK_MEMBER_0x000E00DE value="0.00000000"/>
+  <UNK_MEMBER_0x00B0C00D value="0.00000000"/>
+  <UNK_MEMBER_0xED0B0BA0 value="0.00000000"/>
+  <UNK_MEMBER_0x0A000000 value="0.00000000"/>
+</UNK_TYPE_0xB000000C>
