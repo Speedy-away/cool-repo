@@ -1,0 +1,1331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CExplosionInfoManager>
+  <aExplosionTagData itemType="CExplosionTagData">
+    <Item>
+      <explosionTag>EXP_TAG_GRENADE</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="75" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="5" />
+      <endRadius value="5" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="12" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x2FDA2B4A</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_STICKYBOMB</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="75" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="5" />
+      <endRadius value="5" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="5" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x2FDA2B4A</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_MOLOTOV</explosionTag>
+      <damageAtCentre value="30" />
+      <damageAtEdge value="4" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="1.5" />
+      <endRadius value="2" />
+      <initSpeed value="50" />
+      <decayFactor value="-0.800000012" />
+      <forceFactor value="0.000199999995" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName />
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0xE958B916</vfxTagHashName>
+      <fragDamage value="0" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="false" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName>0x0D1578A8</windDisturbanceInfoHashName>
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_MOLOTOV_VOLATILE</explosionTag>
+      <damageAtCentre value="60" />
+      <damageAtEdge value="10" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="1.5" />
+      <endRadius value="2" />
+      <initSpeed value="50" />
+      <decayFactor value="-0.800000012" />
+      <forceFactor value="0.000199999995" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName />
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0xA0BF61B1</vfxTagHashName>
+      <fragDamage value="0" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="false" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName>0x0D1578A8</windDisturbanceInfoHashName>
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_HI_OCTANE</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="50" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="10" />
+      <endRadius value="10" />
+      <initSpeed value="100" />
+      <decayFactor value="-2" />
+      <forceFactor value="6" />
+      <fRagdollForceModifier value="0.00200000009" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0x2DD2BA79</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x2FDA2B4A</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_CAR</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="50" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="5" />
+      <endRadius value="10" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="0.75" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0x2DD2BA79</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x1FDD8CC7</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_PLANE</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="50" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="8" />
+      <endRadius value="8" />
+      <initSpeed value="60" />
+      <decayFactor value="-1" />
+      <forceFactor value="2" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0x2DD2BA79</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1.5" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x2FDA2B4A</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_PETROL_PUMP</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="50" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="8" />
+      <endRadius value="8" />
+      <initSpeed value="100" />
+      <decayFactor value="-1.20000005" />
+      <forceFactor value="5" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0x2DD2BA79</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0xD06E43B6</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_DIR_STEAM</explosionTag>
+      <damageAtCentre value="0.0299999993" />
+      <damageAtEdge value="0.0299999993" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="3" />
+      <endRadius value="3" />
+      <initSpeed value="50" />
+      <decayFactor value="-0.119999997" />
+      <forceFactor value="0.200000003" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0.5" />
+      <directedLifeTime value="6" />
+      <camShakeName />
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>0x0B096860</vfxTagHashName>
+      <fragDamage value="0" />
+      <bAppliesContinuousDamage value="true" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_DIR_FLAME</explosionTag>
+      <damageAtCentre value="100" />
+      <damageAtEdge value="100" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="0.5" />
+      <endRadius value="0.5" />
+      <initSpeed value="35" />
+      <decayFactor value="-0.25" />
+      <forceFactor value="0.5" />
+      <fRagdollForceModifier value="0.00999999978" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0.5" />
+      <directedLifeTime value="7.5" />
+      <camShakeName />
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="true" />
+      <vfxTagHashName />
+      <fragDamage value="100" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_DIR_WATER_HYDRANT</explosionTag>
+      <damageAtCentre value="0" />
+      <damageAtEdge value="0" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="6" />
+      <endRadius value="6" />
+      <initSpeed value="16" />
+      <decayFactor value="-0.119999997" />
+      <forceFactor value="2" />
+      <fRagdollForceModifier value="0.0199999996" />
+      <fSelfForceModifier value="6" />
+      <directedWidth value="0.5" />
+      <directedLifeTime value="12" />
+      <camShakeName />
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>0x01A00532</vfxTagHashName>
+      <fragDamage value="0" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="false" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="true" />
+      <bNoOcclusion value="true" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_BOAT</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="50" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="7" />
+      <endRadius value="7" />
+      <initSpeed value="50" />
+      <decayFactor value="-1" />
+      <forceFactor value="2" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0x2DD2BA79</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1.5" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x9AE5CE85</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_BULLET</explosionTag>
+      <damageAtCentre value="150" />
+      <damageAtEdge value="85" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="0.200000003" />
+      <endRadius value="0.200000003" />
+      <initSpeed value="30" />
+      <decayFactor value="-1" />
+      <forceFactor value="1.14999998" />
+      <fRagdollForceModifier value="0.00300000003" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>0x4A602D1B</vfxTagHashName>
+      <fragDamage value="50" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="true" />
+      <UNK_MEMBER_0x93715CE6 value="true" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_SMOKEGRENADE</explosionTag>
+      <damageAtCentre value="0.150000006" />
+      <damageAtEdge value="0.075000003" />
+      <networkPlayerModifier value="1" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="3" />
+      <endRadius value="3" />
+      <initSpeed value="0.349999994" />
+      <decayFactor value="0.25" />
+      <forceFactor value="0" />
+      <fRagdollForceModifier value="0" />
+      <fSelfForceModifier value="0" />
+      <directedWidth value="0" />
+      <directedLifeTime value="25" />
+      <camShakeName />
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="10" />
+      <shockingEventAudioRangeOverride value="5" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x2FDA2B4A</vfxTagHashName>
+      <fragDamage value="0" />
+      <bAppliesContinuousDamage value="true" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="false" />
+      <bDamageObjects value="false" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="true" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_BZGAS</explosionTag>
+      <damageAtCentre value="0.150000006" />
+      <damageAtEdge value="0.075000003" />
+      <networkPlayerModifier value="1" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="3" />
+      <endRadius value="3" />
+      <initSpeed value="0.349999994" />
+      <decayFactor value="0.25" />
+      <forceFactor value="0" />
+      <fRagdollForceModifier value="0" />
+      <fSelfForceModifier value="0" />
+      <directedWidth value="0" />
+      <directedLifeTime value="25" />
+      <camShakeName />
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="10" />
+      <shockingEventAudioRangeOverride value="5" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x2FDA2B4A</vfxTagHashName>
+      <fragDamage value="0" />
+      <bAppliesContinuousDamage value="true" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="false" />
+      <bDamageObjects value="false" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="true" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_GAS_CANISTER</explosionTag>
+      <damageAtCentre value="50" />
+      <damageAtEdge value="75" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="3" />
+      <endRadius value="3" />
+      <initSpeed value="50" />
+      <decayFactor value="-0.800000012" />
+      <forceFactor value="6" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="2" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x8DD5A8E5</vfxTagHashName>
+      <fragDamage value="100" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_EXTINGUISHER</explosionTag>
+      <damageAtCentre value="0" />
+      <damageAtEdge value="0" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="2" />
+      <endRadius value="2" />
+      <initSpeed value="50" />
+      <decayFactor value="-0.119999997" />
+      <forceFactor value="1" />
+      <fRagdollForceModifier value="0" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0.5" />
+      <directedLifeTime value="0.5" />
+      <camShakeName />
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x3C212E68</vfxTagHashName>
+      <fragDamage value="0" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="false" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_TRAIN</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="200" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="8" />
+      <endRadius value="8" />
+      <initSpeed value="300" />
+      <decayFactor value="-0.800000012" />
+      <forceFactor value="12" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0x2DD2BA79</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1.5" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x7DF5D791</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_DIR_FLAME_EXPLODE</explosionTag>
+      <damageAtCentre value="30" />
+      <damageAtEdge value="4" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="2.5" />
+      <endRadius value="2.5" />
+      <initSpeed value="35" />
+      <decayFactor value="-0.25" />
+      <forceFactor value="1" />
+      <fRagdollForceModifier value="0.00400000019" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0.5" />
+      <directedLifeTime value="7.5" />
+      <camShakeName />
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>0x61BEF304</vfxTagHashName>
+      <fragDamage value="0" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="true" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_VEHICLE_BULLET</explosionTag>
+      <damageAtCentre value="200" />
+      <damageAtEdge value="20" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="2" />
+      <endRadius value="0.75" />
+      <initSpeed value="50" />
+      <decayFactor value="-1" />
+      <forceFactor value="1" />
+      <fRagdollForceModifier value="0.00300000003" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x4A602D1B</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_BIRD_CRAP</explosionTag>
+      <damageAtCentre value="0" />
+      <damageAtEdge value="0" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="1" />
+      <endRadius value="1" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="0" />
+      <fRagdollForceModifier value="0.00300000003" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName />
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="5" />
+      <shockingEventAudioRangeOverride value="5" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>0x8B716982</vfxTagHashName>
+      <fragDamage value="1" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="false" />
+      <bDamageObjects value="false" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_FIREWORK</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="75" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="5" />
+      <endRadius value="5" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="12" />
+      <fRagdollForceModifier value="0.00300000003" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x2FDA2B4A</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_TORPEDO</explosionTag>
+      <damageAtCentre value="5000" />
+      <damageAtEdge value="70" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="1" />
+      <endRadius value="1.5" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="2.5" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x93FCC9C7</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName>0x0D1578A8</windDisturbanceInfoHashName>
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_TORPEDO_UNDERWATER</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="75" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="5" />
+      <endRadius value="5" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="12" />
+      <fRagdollForceModifier value="0.00300000003" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x2FDA2B4A</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_LANTERN</explosionTag>
+      <damageAtCentre value="50" />
+      <damageAtEdge value="15" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="1" />
+      <endRadius value="1" />
+      <initSpeed value="15" />
+      <decayFactor value="-0.800000012" />
+      <forceFactor value="0.699999988" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="2" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x8DD5A8E5</vfxTagHashName>
+      <fragDamage value="100" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="1" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName>0x97605382</windDisturbanceInfoHashName>
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_DYNAMITE</explosionTag>
+      <damageAtCentre value="480" />
+      <damageAtEdge value="75" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="5" />
+      <endRadius value="6" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="1.5" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x2FDA2B4A</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName>0x0D1578A8</windDisturbanceInfoHashName>
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_DYNAMITESTACK</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="125" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="6" />
+      <endRadius value="6" />
+      <initSpeed value="30" />
+      <decayFactor value="-1.20000005" />
+      <forceFactor value="4" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0x2DD2BA79</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x5D3481D8</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName>0x0D1578A8</windDisturbanceInfoHashName>
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_DYNAMITE_VOLATILE</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="75" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="6" />
+      <endRadius value="6" />
+      <initSpeed value="28" />
+      <decayFactor value="-1" />
+      <forceFactor value="2" />
+      <fRagdollForceModifier value="0.00730000017" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0x2DD2BA79</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x741CEF07</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.379999995" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName>0x0D1578A8</windDisturbanceInfoHashName>
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_RIVER_BLAST</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="75" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="5" />
+      <endRadius value="5" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="4" />
+      <fRagdollForceModifier value="0.00600000005" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x2FDA2B4A</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_PLACED_DYNAMITE</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="75" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="2.5" />
+      <endRadius value="4" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="16" />
+      <fRagdollForceModifier value="0.00100000005" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0xD06E43B6</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_FIRE_ARROW</explosionTag>
+      <damageAtCentre value="0" />
+      <damageAtEdge value="0" />
+      <networkPlayerModifier value="0" />
+      <networkPedModifier value="0" />
+      <UNK_MEMBER_0xF6B2F87B value="0" />
+      <endRadius value="0.5" />
+      <initSpeed value="5" />
+      <decayFactor value="-0.800000012" />
+      <forceFactor value="0.000199999995" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="0" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName />
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x3795856F</vfxTagHashName>
+      <fragDamage value="0" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="false" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="1" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="true" />
+      <UNK_MEMBER_0x93715CE6 value="true" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_DYNAMITE_ARROW</explosionTag>
+      <damageAtCentre value="480" />
+      <damageAtEdge value="75" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="2" />
+      <endRadius value="3" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="2.5" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x2FDA2B4A</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName>0x0D1578A8</windDisturbanceInfoHashName>
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_PHOSPHOROUS_BULLET</explosionTag>
+      <damageAtCentre value="30" />
+      <damageAtEdge value="2" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="0.75" />
+      <endRadius value="0.75" />
+      <initSpeed value="25" />
+      <decayFactor value="-0.800000012" />
+      <forceFactor value="0.000199999995" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName />
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x59B3C676</vfxTagHashName>
+      <fragDamage value="0" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="false" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0.800000012" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="true" />
+      <UNK_MEMBER_0x93715CE6 value="true" />
+      <windDisturbanceInfoHashName />
+    </Item>
+    <Item>
+      <explosionTag>EXP_TAG_LIGHTNING_STRIKE</explosionTag>
+      <damageAtCentre value="500" />
+      <damageAtEdge value="75" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <UNK_MEMBER_0xF6B2F87B value="5" />
+      <endRadius value="5" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="12" />
+      <fRagdollForceModifier value="0.00749999983" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>0xFC4ADDB2</camShakeName>
+      <camShake value="0.00000000" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>0x7DD07579</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <UNK_MEMBER_0x8103E1F0 value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <bForceExplosion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <UNK_MEMBER_0x7B15924E value="0" />
+      <bSuppressCrime value="false" />
+      <bPreventWaterExplosionVFX value="false" />
+      <UNK_MEMBER_0x93715CE6 value="false" />
+      <windDisturbanceInfoHashName />
+    </Item>
+  </aExplosionTagData>
+</CExplosionInfoManager>
