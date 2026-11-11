@@ -1,0 +1,65 @@
+*Put a color code before each icon to change it's color, Does not work on Wanted Level Star icon*
+¦ = (Rockstar Verified Icon)
+∑ = (Rockstar Icon)
+‹ = (Rockstar Created Icon)
+› = (Blank White Icon)
+Ω = (Lock Icon)
+~ws~ = (Wanted Star) 
+~bold~ = (Bold Text)
+~italic~ (Italic Text)
+
+r - red 
+b - blue
+d - dark blue
+g - green
+y - yellow 
+q - pink
+p - purple
+c - grey? not sure why unsupported color
+m - darker grey
+u - black
+o - orange
+h - highlight/Bold text
+s - spacer / allows for individual word coloring
+
+
+example; ~r~New~s~~q~outfit (copy and paste to get idea if confused)
+
+Preset 1. <--------------------------------------------- One You Usually see
+~w~Ω¦KIFFLOM¦Ω
+^-All White Lock Icon With R* Verified and placeholder word for your changing (Kifflom)
+
+
+Preset 2.                                                       
+~y~¦~s~~h~Kifflom~s~~y~¦
+^-Half Bold, Yellow R* Verified W placeholder Word (Kifflom)
+
+
+Preset 3.
+~r~∑~r~∑~s~~g~‹~s~~r~∑~r~∑
+^- R* Symbol With R* Created In The Middle
+
+
+Preset 4.
+~o~∑~r~‹~y~¦
+^- Orange R* Symbol, Red R* Created Symbol, Yellow R* Verified Symbol
+
+
+Preset 5.
+~ws~~b~WANTED~ws~
+^- Wanted Star With Blue "WANTED" In The Middle
+
+
+Preset 6.
+~h~~q~¦~s~∑~h~~q~¦
+^- Bold R* Verified Symbol With R* Symbol In The Middle
+
+
+
+
+
+
+
+       
+
+
