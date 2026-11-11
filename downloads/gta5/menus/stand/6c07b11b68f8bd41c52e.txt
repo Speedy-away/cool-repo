@@ -1,0 +1,49 @@
+Tree Compatibility Version: 38
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: 00000096
+				Background Colour: 1C1C1C87
+				HUD Colour: 303030FF
+				AR Colour: AF0000FF
+				Minigame Colour: 646464FF
+			Position: 30, 262
+			Header
+				Frame Interval: 50
+			Address Bar
+				Address Bar: Off
+				Root Name: Stand {}
+				Height: 0
+				Show Cursor Position: On
+			Cursor
+				Scroll Gap: 0
+				Colour: FFFFFFFF
+			Tabs
+				Width: 63
+				Height: 31
+				Position: Bottom
+				Show Icon Left: On
+				Show Name: Off
+			Scrollbar
+				Scrollbar: Disabled
+				Width: 1
+			Command Info Text
+				Width: 296
+				Padding: -2
+			Notifications
+				Custom Position: -133, 549
+				Border Colour: FF000064
+				Flash Colour: FF0000FF
+				Background Colour: 12121264
+			Commands
+				Text
+					Y Offset: 4
+			Border
+				Colour: FF005D64
+					Rainbow Mode: 91
+			List Width: 441
+			List Height: 38
+			Spacer Size: 0
+			Smooth Scrolling: 30
+			Background Blur: 0
