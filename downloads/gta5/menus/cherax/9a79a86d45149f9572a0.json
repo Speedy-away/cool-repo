@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "type": "binary-concatenation",
+  "original": {
+    "name": "HADES_Full_Master_Garage_2.zip",
+    "size": 363439368,
+    "sha256": "b88119e9d75fa48a6e8a019132166f5458417fa854aea016ece2e0604cef3ea1",
+    "extension": ".zip"
+  },
+  "partBytes": 95000000,
+  "instructions": "Concatenate parts as binary in the listed order, then verify the full SHA-256 and byte size before use. These files are source assets; no payload is executed by this collection.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "targetRelativePath": "downloads/gta5/menus/cherax/be4c3603acb72408fcf2.part",
+      "size": 95000000,
+      "sha256": "be4c3603acb72408fcf2f972a73a9d020963fb9997a032946dd25bf8a4b28ff6"
+    },
+    {
+      "partNumber": 2,
+      "targetRelativePath": "downloads/gta5/menus/cherax/d326ea571014f853e319.part",
+      "size": 95000000,
+      "sha256": "d326ea571014f853e3197af5dc00f61fca306c0aa78d956ef8934641b75fe59a"
+    },
+    {
+      "partNumber": 3,
+      "targetRelativePath": "downloads/gta5/menus/cherax/93c210dae4c6629e55e3.part",
+      "size": 95000000,
+      "sha256": "93c210dae4c6629e55e380001e58919eb86aeaa96f225afc637d8c1c66409ab9"
+    },
+    {
+      "partNumber": 4,
+      "targetRelativePath": "downloads/gta5/menus/cherax/68b60df3178b1ea1fc83.part",
+      "size": 78439368,
+      "sha256": "68b60df3178b1ea1fc832fb6c711a8e5c057d99a4bd41dc24d08c9a278eafda7"
+    }
+  ]
+}
