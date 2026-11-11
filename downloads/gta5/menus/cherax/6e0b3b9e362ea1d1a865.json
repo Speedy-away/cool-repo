@@ -1,0 +1,3736 @@
+{
+	"format": "Cherax Entity",
+	"type": 1,
+	"model": 2069146067,
+	"baseFlags": 1073808655,
+	"mods": {
+		"mod0": {
+			"index": 0,
+			"variation": false
+		},
+		"mod1": {
+			"index": 0,
+			"variation": false
+		},
+		"mod2": {
+			"index": 0,
+			"variation": false
+		},
+		"mod3": {
+			"index": 0,
+			"variation": false
+		},
+		"mod4": {
+			"index": 0,
+			"variation": false
+		},
+		"mod5": {
+			"index": 1,
+			"variation": false
+		},
+		"mod6": {
+			"index": 2,
+			"variation": false
+		},
+		"mod7": {
+			"index": 0,
+			"variation": false
+		},
+		"mod8": {
+			"index": 0,
+			"variation": false
+		},
+		"mod9": {
+			"index": 0,
+			"variation": false
+		},
+		"mod10": {
+			"index": 2,
+			"variation": false
+		},
+		"mod11": {
+			"index": 4,
+			"variation": false
+		},
+		"mod12": {
+			"index": 3,
+			"variation": false
+		},
+		"mod13": {
+			"index": 0,
+			"variation": false
+		},
+		"mod14": {
+			"index": 0,
+			"variation": false
+		},
+		"mod15": {
+			"index": 0,
+			"variation": false
+		},
+		"mod16": {
+			"index": 5,
+			"variation": false
+		},
+		"mod17": {
+			"index": 0,
+			"variation": false
+		},
+		"mod18": {
+			"index": 0,
+			"variation": false
+		},
+		"mod19": {
+			"index": 0,
+			"variation": false
+		},
+		"mod20": {
+			"index": 0,
+			"variation": false
+		},
+		"mod21": {
+			"index": 0,
+			"variation": false
+		},
+		"mod22": {
+			"index": 0,
+			"variation": false
+		},
+		"mod23": {
+			"index": 72,
+			"variation": false
+		},
+		"mod24": {
+			"index": 72,
+			"variation": false
+		},
+		"mod25": {
+			"index": 0,
+			"variation": false
+		},
+		"mod26": {
+			"index": 0,
+			"variation": false
+		},
+		"mod27": {
+			"index": 0,
+			"variation": false
+		},
+		"mod28": {
+			"index": 0,
+			"variation": false
+		},
+		"mod29": {
+			"index": 0,
+			"variation": false
+		},
+		"mod30": {
+			"index": 0,
+			"variation": false
+		},
+		"mod31": {
+			"index": 0,
+			"variation": false
+		},
+		"mod32": {
+			"index": 0,
+			"variation": false
+		},
+		"mod33": {
+			"index": 0,
+			"variation": false
+		},
+		"mod34": {
+			"index": 0,
+			"variation": false
+		},
+		"mod35": {
+			"index": 0,
+			"variation": false
+		},
+		"mod36": {
+			"index": 0,
+			"variation": false
+		},
+		"mod37": {
+			"index": 0,
+			"variation": false
+		},
+		"mod38": {
+			"index": 0,
+			"variation": false
+		},
+		"mod39": {
+			"index": 0,
+			"variation": false
+		},
+		"mod40": {
+			"index": 0,
+			"variation": false
+		},
+		"mod41": {
+			"index": 0,
+			"variation": false
+		},
+		"mod42": {
+			"index": 0,
+			"variation": false
+		},
+		"mod43": {
+			"index": 0,
+			"variation": false
+		},
+		"mod44": {
+			"index": 0,
+			"variation": false
+		},
+		"mod45": {
+			"index": 0,
+			"variation": false
+		},
+		"mod46": {
+			"index": 0,
+			"variation": false
+		},
+		"mod47": {
+			"index": 0,
+			"variation": false
+		},
+		"mod48": {
+			"index": 0,
+			"variation": false
+		},
+		"mod49": {
+			"index": 0,
+			"variation": false
+		}
+	},
+	"extras": {
+		"extra0": false,
+		"extra1": false,
+		"extra2": false,
+		"extra3": false,
+		"extra4": false,
+		"extra5": false,
+		"extra6": false,
+		"extra7": false,
+		"extra8": false,
+		"extra9": false,
+		"extra10": false,
+		"extra11": false,
+		"extra12": false,
+		"extra13": false,
+		"extra14": false,
+		"extra15": false
+	},
+	"wheelType": 6,
+	"tyreSmokeColor": {
+		"r": 255,
+		"g": 255,
+		"b": 255
+	},
+	"neonKits": {
+		"left": true,
+		"right": true,
+		"front": true,
+		"back": false,
+		"color": {
+			"r": 15,
+			"g": 3,
+			"b": 255
+		}
+	},
+	"primaryColor": 88,
+	"secondaryColor": 0,
+	"pearlescentColor": 87,
+	"isPrimaryColorCustom": false,
+	"customPrimaryColor": {
+		"r": 0,
+		"g": 0,
+		"b": 0
+	},
+	"isSecondaryColorCustom": false,
+	"customSecondaryColor": {
+		"r": 0,
+		"g": 0,
+		"b": 0
+	},
+	"windowTint": 0,
+	"wheelColor": 112,
+	"interiorColor": 93,
+	"dashBoardColor": 93,
+	"plateText": "78AXQ504",
+	"plateTextIndex": -1,
+	"bulletproofTyres": true,
+	"driftTyres": false,
+	"attachments": [
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": -1.7999999523162842,
+					"z": 0.0
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0,
+					"w": 1.0
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 18562
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 1,
+				"model": 2482017624,
+				"baseFlags": 1073939727,
+				"mods": {
+					"mod0": {
+						"index": 0,
+						"variation": false
+					},
+					"mod1": {
+						"index": 0,
+						"variation": false
+					},
+					"mod2": {
+						"index": 0,
+						"variation": false
+					},
+					"mod3": {
+						"index": 0,
+						"variation": false
+					},
+					"mod4": {
+						"index": 0,
+						"variation": false
+					},
+					"mod5": {
+						"index": 6,
+						"variation": false
+					},
+					"mod6": {
+						"index": 0,
+						"variation": false
+					},
+					"mod7": {
+						"index": 0,
+						"variation": false
+					},
+					"mod8": {
+						"index": 0,
+						"variation": false
+					},
+					"mod9": {
+						"index": 0,
+						"variation": false
+					},
+					"mod10": {
+						"index": 0,
+						"variation": false
+					},
+					"mod11": {
+						"index": 4,
+						"variation": false
+					},
+					"mod12": {
+						"index": 3,
+						"variation": false
+					},
+					"mod13": {
+						"index": 3,
+						"variation": false
+					},
+					"mod14": {
+						"index": 58,
+						"variation": false
+					},
+					"mod15": {
+						"index": 0,
+						"variation": false
+					},
+					"mod16": {
+						"index": 5,
+						"variation": false
+					},
+					"mod17": {
+						"index": 0,
+						"variation": false
+					},
+					"mod18": {
+						"index": 0,
+						"variation": false
+					},
+					"mod19": {
+						"index": 0,
+						"variation": false
+					},
+					"mod20": {
+						"index": 0,
+						"variation": false
+					},
+					"mod21": {
+						"index": 0,
+						"variation": false
+					},
+					"mod22": {
+						"index": 0,
+						"variation": false
+					},
+					"mod23": {
+						"index": 72,
+						"variation": false
+					},
+					"mod24": {
+						"index": 72,
+						"variation": false
+					},
+					"mod25": {
+						"index": 0,
+						"variation": false
+					},
+					"mod26": {
+						"index": 0,
+						"variation": false
+					},
+					"mod27": {
+						"index": 0,
+						"variation": false
+					},
+					"mod28": {
+						"index": 0,
+						"variation": false
+					},
+					"mod29": {
+						"index": 0,
+						"variation": false
+					},
+					"mod30": {
+						"index": 0,
+						"variation": false
+					},
+					"mod31": {
+						"index": 0,
+						"variation": false
+					},
+					"mod32": {
+						"index": 0,
+						"variation": false
+					},
+					"mod33": {
+						"index": 0,
+						"variation": false
+					},
+					"mod34": {
+						"index": 0,
+						"variation": false
+					},
+					"mod35": {
+						"index": 0,
+						"variation": false
+					},
+					"mod36": {
+						"index": 0,
+						"variation": false
+					},
+					"mod37": {
+						"index": 0,
+						"variation": false
+					},
+					"mod38": {
+						"index": 0,
+						"variation": false
+					},
+					"mod39": {
+						"index": 0,
+						"variation": false
+					},
+					"mod40": {
+						"index": 3,
+						"variation": false
+					},
+					"mod41": {
+						"index": 3,
+						"variation": false
+					},
+					"mod42": {
+						"index": 0,
+						"variation": false
+					},
+					"mod43": {
+						"index": 1,
+						"variation": false
+					},
+					"mod44": {
+						"index": 1,
+						"variation": false
+					},
+					"mod45": {
+						"index": 1,
+						"variation": false
+					},
+					"mod46": {
+						"index": 0,
+						"variation": false
+					},
+					"mod47": {
+						"index": 0,
+						"variation": false
+					},
+					"mod48": {
+						"index": 0,
+						"variation": false
+					},
+					"mod49": {
+						"index": 0,
+						"variation": false
+					}
+				},
+				"extras": {
+					"extra0": false,
+					"extra1": false,
+					"extra2": false,
+					"extra3": false,
+					"extra4": false,
+					"extra5": false,
+					"extra6": false,
+					"extra7": false,
+					"extra8": false,
+					"extra9": false,
+					"extra10": false,
+					"extra11": false,
+					"extra12": false,
+					"extra13": false,
+					"extra14": false,
+					"extra15": false
+				},
+				"wheelType": 6,
+				"tyreSmokeColor": {
+					"r": 255,
+					"g": 255,
+					"b": 255
+				},
+				"neonKits": {
+					"left": true,
+					"right": true,
+					"front": true,
+					"back": false,
+					"color": {
+						"r": 15,
+						"g": 3,
+						"b": 255
+					}
+				},
+				"primaryColor": 107,
+				"secondaryColor": 159,
+				"pearlescentColor": 160,
+				"isPrimaryColorCustom": false,
+				"customPrimaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"isSecondaryColorCustom": false,
+				"customSecondaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"windowTint": 0,
+				"wheelColor": 39,
+				"interiorColor": 160,
+				"dashBoardColor": 140,
+				"plateText": "05GNJ163",
+				"plateTextIndex": -1,
+				"bulletproofTyres": true,
+				"driftTyres": false
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": 1.2000000476837158,
+					"z": 0.0
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": -0.0,
+					"y": 0.0,
+					"z": 1.0,
+					"w": -4.371138828673793e-08
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 18562
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 1,
+				"model": 2482017624,
+				"baseFlags": 1073939727,
+				"mods": {
+					"mod0": {
+						"index": 0,
+						"variation": false
+					},
+					"mod1": {
+						"index": 0,
+						"variation": false
+					},
+					"mod2": {
+						"index": 0,
+						"variation": false
+					},
+					"mod3": {
+						"index": 0,
+						"variation": false
+					},
+					"mod4": {
+						"index": 0,
+						"variation": false
+					},
+					"mod5": {
+						"index": 6,
+						"variation": false
+					},
+					"mod6": {
+						"index": 0,
+						"variation": false
+					},
+					"mod7": {
+						"index": 0,
+						"variation": false
+					},
+					"mod8": {
+						"index": 0,
+						"variation": false
+					},
+					"mod9": {
+						"index": 0,
+						"variation": false
+					},
+					"mod10": {
+						"index": 0,
+						"variation": false
+					},
+					"mod11": {
+						"index": 4,
+						"variation": false
+					},
+					"mod12": {
+						"index": 3,
+						"variation": false
+					},
+					"mod13": {
+						"index": 3,
+						"variation": false
+					},
+					"mod14": {
+						"index": 58,
+						"variation": false
+					},
+					"mod15": {
+						"index": 0,
+						"variation": false
+					},
+					"mod16": {
+						"index": 5,
+						"variation": false
+					},
+					"mod17": {
+						"index": 0,
+						"variation": false
+					},
+					"mod18": {
+						"index": 0,
+						"variation": false
+					},
+					"mod19": {
+						"index": 0,
+						"variation": false
+					},
+					"mod20": {
+						"index": 0,
+						"variation": false
+					},
+					"mod21": {
+						"index": 0,
+						"variation": false
+					},
+					"mod22": {
+						"index": 0,
+						"variation": false
+					},
+					"mod23": {
+						"index": 72,
+						"variation": false
+					},
+					"mod24": {
+						"index": 72,
+						"variation": false
+					},
+					"mod25": {
+						"index": 0,
+						"variation": false
+					},
+					"mod26": {
+						"index": 0,
+						"variation": false
+					},
+					"mod27": {
+						"index": 0,
+						"variation": false
+					},
+					"mod28": {
+						"index": 0,
+						"variation": false
+					},
+					"mod29": {
+						"index": 0,
+						"variation": false
+					},
+					"mod30": {
+						"index": 0,
+						"variation": false
+					},
+					"mod31": {
+						"index": 0,
+						"variation": false
+					},
+					"mod32": {
+						"index": 0,
+						"variation": false
+					},
+					"mod33": {
+						"index": 0,
+						"variation": false
+					},
+					"mod34": {
+						"index": 0,
+						"variation": false
+					},
+					"mod35": {
+						"index": 0,
+						"variation": false
+					},
+					"mod36": {
+						"index": 0,
+						"variation": false
+					},
+					"mod37": {
+						"index": 0,
+						"variation": false
+					},
+					"mod38": {
+						"index": 0,
+						"variation": false
+					},
+					"mod39": {
+						"index": 0,
+						"variation": false
+					},
+					"mod40": {
+						"index": 3,
+						"variation": false
+					},
+					"mod41": {
+						"index": 3,
+						"variation": false
+					},
+					"mod42": {
+						"index": 0,
+						"variation": false
+					},
+					"mod43": {
+						"index": 1,
+						"variation": false
+					},
+					"mod44": {
+						"index": 1,
+						"variation": false
+					},
+					"mod45": {
+						"index": 1,
+						"variation": false
+					},
+					"mod46": {
+						"index": 0,
+						"variation": false
+					},
+					"mod47": {
+						"index": 0,
+						"variation": false
+					},
+					"mod48": {
+						"index": 0,
+						"variation": false
+					},
+					"mod49": {
+						"index": 0,
+						"variation": false
+					}
+				},
+				"extras": {
+					"extra0": false,
+					"extra1": false,
+					"extra2": false,
+					"extra3": false,
+					"extra4": false,
+					"extra5": false,
+					"extra6": false,
+					"extra7": false,
+					"extra8": false,
+					"extra9": false,
+					"extra10": false,
+					"extra11": false,
+					"extra12": false,
+					"extra13": false,
+					"extra14": false,
+					"extra15": false
+				},
+				"wheelType": 6,
+				"tyreSmokeColor": {
+					"r": 255,
+					"g": 255,
+					"b": 255
+				},
+				"neonKits": {
+					"left": true,
+					"right": true,
+					"front": true,
+					"back": false,
+					"color": {
+						"r": 15,
+						"g": 3,
+						"b": 255
+					}
+				},
+				"primaryColor": 34,
+				"secondaryColor": 159,
+				"pearlescentColor": 160,
+				"isPrimaryColorCustom": false,
+				"customPrimaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"isSecondaryColorCustom": false,
+				"customSecondaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"windowTint": 0,
+				"wheelColor": 158,
+				"interiorColor": 160,
+				"dashBoardColor": 140,
+				"plateText": "69FNX269",
+				"plateTextIndex": -1,
+				"bulletproofTyres": true,
+				"driftTyres": false
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": -0.30000001192092896,
+					"y": -1.7999999523162842,
+					"z": 0.0
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0,
+					"w": 1.0
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 18562
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 1,
+				"model": 2482017624,
+				"baseFlags": 1073939727,
+				"mods": {
+					"mod0": {
+						"index": 0,
+						"variation": false
+					},
+					"mod1": {
+						"index": 0,
+						"variation": false
+					},
+					"mod2": {
+						"index": 0,
+						"variation": false
+					},
+					"mod3": {
+						"index": 0,
+						"variation": false
+					},
+					"mod4": {
+						"index": 0,
+						"variation": false
+					},
+					"mod5": {
+						"index": 6,
+						"variation": false
+					},
+					"mod6": {
+						"index": 0,
+						"variation": false
+					},
+					"mod7": {
+						"index": 0,
+						"variation": false
+					},
+					"mod8": {
+						"index": 0,
+						"variation": false
+					},
+					"mod9": {
+						"index": 0,
+						"variation": false
+					},
+					"mod10": {
+						"index": 0,
+						"variation": false
+					},
+					"mod11": {
+						"index": 4,
+						"variation": false
+					},
+					"mod12": {
+						"index": 3,
+						"variation": false
+					},
+					"mod13": {
+						"index": 3,
+						"variation": false
+					},
+					"mod14": {
+						"index": 58,
+						"variation": false
+					},
+					"mod15": {
+						"index": 0,
+						"variation": false
+					},
+					"mod16": {
+						"index": 5,
+						"variation": false
+					},
+					"mod17": {
+						"index": 0,
+						"variation": false
+					},
+					"mod18": {
+						"index": 0,
+						"variation": false
+					},
+					"mod19": {
+						"index": 0,
+						"variation": false
+					},
+					"mod20": {
+						"index": 0,
+						"variation": false
+					},
+					"mod21": {
+						"index": 0,
+						"variation": false
+					},
+					"mod22": {
+						"index": 0,
+						"variation": false
+					},
+					"mod23": {
+						"index": 72,
+						"variation": false
+					},
+					"mod24": {
+						"index": 72,
+						"variation": false
+					},
+					"mod25": {
+						"index": 0,
+						"variation": false
+					},
+					"mod26": {
+						"index": 0,
+						"variation": false
+					},
+					"mod27": {
+						"index": 0,
+						"variation": false
+					},
+					"mod28": {
+						"index": 0,
+						"variation": false
+					},
+					"mod29": {
+						"index": 0,
+						"variation": false
+					},
+					"mod30": {
+						"index": 0,
+						"variation": false
+					},
+					"mod31": {
+						"index": 0,
+						"variation": false
+					},
+					"mod32": {
+						"index": 0,
+						"variation": false
+					},
+					"mod33": {
+						"index": 0,
+						"variation": false
+					},
+					"mod34": {
+						"index": 0,
+						"variation": false
+					},
+					"mod35": {
+						"index": 0,
+						"variation": false
+					},
+					"mod36": {
+						"index": 0,
+						"variation": false
+					},
+					"mod37": {
+						"index": 0,
+						"variation": false
+					},
+					"mod38": {
+						"index": 0,
+						"variation": false
+					},
+					"mod39": {
+						"index": 0,
+						"variation": false
+					},
+					"mod40": {
+						"index": 3,
+						"variation": false
+					},
+					"mod41": {
+						"index": 3,
+						"variation": false
+					},
+					"mod42": {
+						"index": 0,
+						"variation": false
+					},
+					"mod43": {
+						"index": 1,
+						"variation": false
+					},
+					"mod44": {
+						"index": 1,
+						"variation": false
+					},
+					"mod45": {
+						"index": 1,
+						"variation": false
+					},
+					"mod46": {
+						"index": 0,
+						"variation": false
+					},
+					"mod47": {
+						"index": 0,
+						"variation": false
+					},
+					"mod48": {
+						"index": 0,
+						"variation": false
+					},
+					"mod49": {
+						"index": 0,
+						"variation": false
+					}
+				},
+				"extras": {
+					"extra0": false,
+					"extra1": false,
+					"extra2": false,
+					"extra3": false,
+					"extra4": false,
+					"extra5": false,
+					"extra6": false,
+					"extra7": false,
+					"extra8": false,
+					"extra9": false,
+					"extra10": false,
+					"extra11": false,
+					"extra12": false,
+					"extra13": false,
+					"extra14": false,
+					"extra15": false
+				},
+				"wheelType": 6,
+				"tyreSmokeColor": {
+					"r": 255,
+					"g": 255,
+					"b": 255
+				},
+				"neonKits": {
+					"left": true,
+					"right": true,
+					"front": true,
+					"back": false,
+					"color": {
+						"r": 15,
+						"g": 3,
+						"b": 255
+					}
+				},
+				"primaryColor": 107,
+				"secondaryColor": 159,
+				"pearlescentColor": 160,
+				"isPrimaryColorCustom": false,
+				"customPrimaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"isSecondaryColorCustom": false,
+				"customSecondaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"windowTint": 0,
+				"wheelColor": 158,
+				"interiorColor": 160,
+				"dashBoardColor": 140,
+				"plateText": "80GIE593",
+				"plateTextIndex": -1,
+				"bulletproofTyres": true,
+				"driftTyres": false
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.30000001192092896,
+					"y": -1.7999999523162842,
+					"z": 0.0
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0,
+					"w": 1.0
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 18562
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 1,
+				"model": 2482017624,
+				"baseFlags": 1073939727,
+				"mods": {
+					"mod0": {
+						"index": 0,
+						"variation": false
+					},
+					"mod1": {
+						"index": 0,
+						"variation": false
+					},
+					"mod2": {
+						"index": 0,
+						"variation": false
+					},
+					"mod3": {
+						"index": 0,
+						"variation": false
+					},
+					"mod4": {
+						"index": 0,
+						"variation": false
+					},
+					"mod5": {
+						"index": 6,
+						"variation": false
+					},
+					"mod6": {
+						"index": 0,
+						"variation": false
+					},
+					"mod7": {
+						"index": 0,
+						"variation": false
+					},
+					"mod8": {
+						"index": 0,
+						"variation": false
+					},
+					"mod9": {
+						"index": 0,
+						"variation": false
+					},
+					"mod10": {
+						"index": 0,
+						"variation": false
+					},
+					"mod11": {
+						"index": 4,
+						"variation": false
+					},
+					"mod12": {
+						"index": 3,
+						"variation": false
+					},
+					"mod13": {
+						"index": 3,
+						"variation": false
+					},
+					"mod14": {
+						"index": 58,
+						"variation": false
+					},
+					"mod15": {
+						"index": 0,
+						"variation": false
+					},
+					"mod16": {
+						"index": 5,
+						"variation": false
+					},
+					"mod17": {
+						"index": 0,
+						"variation": false
+					},
+					"mod18": {
+						"index": 0,
+						"variation": false
+					},
+					"mod19": {
+						"index": 0,
+						"variation": false
+					},
+					"mod20": {
+						"index": 0,
+						"variation": false
+					},
+					"mod21": {
+						"index": 0,
+						"variation": false
+					},
+					"mod22": {
+						"index": 0,
+						"variation": false
+					},
+					"mod23": {
+						"index": 72,
+						"variation": false
+					},
+					"mod24": {
+						"index": 72,
+						"variation": false
+					},
+					"mod25": {
+						"index": 0,
+						"variation": false
+					},
+					"mod26": {
+						"index": 0,
+						"variation": false
+					},
+					"mod27": {
+						"index": 0,
+						"variation": false
+					},
+					"mod28": {
+						"index": 0,
+						"variation": false
+					},
+					"mod29": {
+						"index": 0,
+						"variation": false
+					},
+					"mod30": {
+						"index": 0,
+						"variation": false
+					},
+					"mod31": {
+						"index": 0,
+						"variation": false
+					},
+					"mod32": {
+						"index": 0,
+						"variation": false
+					},
+					"mod33": {
+						"index": 0,
+						"variation": false
+					},
+					"mod34": {
+						"index": 0,
+						"variation": false
+					},
+					"mod35": {
+						"index": 0,
+						"variation": false
+					},
+					"mod36": {
+						"index": 0,
+						"variation": false
+					},
+					"mod37": {
+						"index": 0,
+						"variation": false
+					},
+					"mod38": {
+						"index": 0,
+						"variation": false
+					},
+					"mod39": {
+						"index": 0,
+						"variation": false
+					},
+					"mod40": {
+						"index": 3,
+						"variation": false
+					},
+					"mod41": {
+						"index": 3,
+						"variation": false
+					},
+					"mod42": {
+						"index": 0,
+						"variation": false
+					},
+					"mod43": {
+						"index": 1,
+						"variation": false
+					},
+					"mod44": {
+						"index": 1,
+						"variation": false
+					},
+					"mod45": {
+						"index": 1,
+						"variation": false
+					},
+					"mod46": {
+						"index": 0,
+						"variation": false
+					},
+					"mod47": {
+						"index": 0,
+						"variation": false
+					},
+					"mod48": {
+						"index": 0,
+						"variation": false
+					},
+					"mod49": {
+						"index": 0,
+						"variation": false
+					}
+				},
+				"extras": {
+					"extra0": false,
+					"extra1": false,
+					"extra2": false,
+					"extra3": false,
+					"extra4": false,
+					"extra5": false,
+					"extra6": false,
+					"extra7": false,
+					"extra8": false,
+					"extra9": false,
+					"extra10": false,
+					"extra11": false,
+					"extra12": false,
+					"extra13": false,
+					"extra14": false,
+					"extra15": false
+				},
+				"wheelType": 6,
+				"tyreSmokeColor": {
+					"r": 255,
+					"g": 255,
+					"b": 255
+				},
+				"neonKits": {
+					"left": true,
+					"right": true,
+					"front": true,
+					"back": false,
+					"color": {
+						"r": 15,
+						"g": 3,
+						"b": 255
+					}
+				},
+				"primaryColor": 34,
+				"secondaryColor": 159,
+				"pearlescentColor": 160,
+				"isPrimaryColorCustom": false,
+				"customPrimaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"isSecondaryColorCustom": false,
+				"customSecondaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"windowTint": 0,
+				"wheelColor": 158,
+				"interiorColor": 160,
+				"dashBoardColor": 140,
+				"plateText": "67YEQ367",
+				"plateTextIndex": -1,
+				"bulletproofTyres": true,
+				"driftTyres": false
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.2999989986419678,
+					"y": 1.2000000476837158,
+					"z": 0.0
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 1.0,
+					"w": 1.9470718370939721e-07
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 18562
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 1,
+				"model": 2482017624,
+				"baseFlags": 1073939727,
+				"mods": {
+					"mod0": {
+						"index": 0,
+						"variation": false
+					},
+					"mod1": {
+						"index": 0,
+						"variation": false
+					},
+					"mod2": {
+						"index": 0,
+						"variation": false
+					},
+					"mod3": {
+						"index": 0,
+						"variation": false
+					},
+					"mod4": {
+						"index": 0,
+						"variation": false
+					},
+					"mod5": {
+						"index": 6,
+						"variation": false
+					},
+					"mod6": {
+						"index": 0,
+						"variation": false
+					},
+					"mod7": {
+						"index": 0,
+						"variation": false
+					},
+					"mod8": {
+						"index": 0,
+						"variation": false
+					},
+					"mod9": {
+						"index": 0,
+						"variation": false
+					},
+					"mod10": {
+						"index": 0,
+						"variation": false
+					},
+					"mod11": {
+						"index": 4,
+						"variation": false
+					},
+					"mod12": {
+						"index": 3,
+						"variation": false
+					},
+					"mod13": {
+						"index": 3,
+						"variation": false
+					},
+					"mod14": {
+						"index": 58,
+						"variation": false
+					},
+					"mod15": {
+						"index": 0,
+						"variation": false
+					},
+					"mod16": {
+						"index": 5,
+						"variation": false
+					},
+					"mod17": {
+						"index": 0,
+						"variation": false
+					},
+					"mod18": {
+						"index": 0,
+						"variation": false
+					},
+					"mod19": {
+						"index": 0,
+						"variation": false
+					},
+					"mod20": {
+						"index": 0,
+						"variation": false
+					},
+					"mod21": {
+						"index": 0,
+						"variation": false
+					},
+					"mod22": {
+						"index": 0,
+						"variation": false
+					},
+					"mod23": {
+						"index": 72,
+						"variation": false
+					},
+					"mod24": {
+						"index": 72,
+						"variation": false
+					},
+					"mod25": {
+						"index": 0,
+						"variation": false
+					},
+					"mod26": {
+						"index": 0,
+						"variation": false
+					},
+					"mod27": {
+						"index": 0,
+						"variation": false
+					},
+					"mod28": {
+						"index": 0,
+						"variation": false
+					},
+					"mod29": {
+						"index": 0,
+						"variation": false
+					},
+					"mod30": {
+						"index": 0,
+						"variation": false
+					},
+					"mod31": {
+						"index": 0,
+						"variation": false
+					},
+					"mod32": {
+						"index": 0,
+						"variation": false
+					},
+					"mod33": {
+						"index": 0,
+						"variation": false
+					},
+					"mod34": {
+						"index": 0,
+						"variation": false
+					},
+					"mod35": {
+						"index": 0,
+						"variation": false
+					},
+					"mod36": {
+						"index": 0,
+						"variation": false
+					},
+					"mod37": {
+						"index": 0,
+						"variation": false
+					},
+					"mod38": {
+						"index": 0,
+						"variation": false
+					},
+					"mod39": {
+						"index": 0,
+						"variation": false
+					},
+					"mod40": {
+						"index": 3,
+						"variation": false
+					},
+					"mod41": {
+						"index": 3,
+						"variation": false
+					},
+					"mod42": {
+						"index": 0,
+						"variation": false
+					},
+					"mod43": {
+						"index": 1,
+						"variation": false
+					},
+					"mod44": {
+						"index": 1,
+						"variation": false
+					},
+					"mod45": {
+						"index": 1,
+						"variation": false
+					},
+					"mod46": {
+						"index": 0,
+						"variation": false
+					},
+					"mod47": {
+						"index": 0,
+						"variation": false
+					},
+					"mod48": {
+						"index": 0,
+						"variation": false
+					},
+					"mod49": {
+						"index": 0,
+						"variation": false
+					}
+				},
+				"extras": {
+					"extra0": false,
+					"extra1": false,
+					"extra2": false,
+					"extra3": false,
+					"extra4": false,
+					"extra5": false,
+					"extra6": false,
+					"extra7": false,
+					"extra8": false,
+					"extra9": false,
+					"extra10": false,
+					"extra11": false,
+					"extra12": false,
+					"extra13": false,
+					"extra14": false,
+					"extra15": false
+				},
+				"wheelType": 6,
+				"tyreSmokeColor": {
+					"r": 255,
+					"g": 255,
+					"b": 255
+				},
+				"neonKits": {
+					"left": true,
+					"right": true,
+					"front": true,
+					"back": false,
+					"color": {
+						"r": 15,
+						"g": 3,
+						"b": 255
+					}
+				},
+				"primaryColor": 107,
+				"secondaryColor": 159,
+				"pearlescentColor": 160,
+				"isPrimaryColorCustom": false,
+				"customPrimaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"isSecondaryColorCustom": false,
+				"customSecondaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"windowTint": 0,
+				"wheelColor": 158,
+				"interiorColor": 160,
+				"dashBoardColor": 140,
+				"plateText": "90ZKL910",
+				"plateTextIndex": -1,
+				"bulletproofTyres": true,
+				"driftTyres": false
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": -0.2999989986419678,
+					"y": 1.2000000476837158,
+					"z": 0.0
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 1.0,
+					"w": 1.9470718370939721e-07
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 18562
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 1,
+				"model": 2482017624,
+				"baseFlags": 1073939727,
+				"mods": {
+					"mod0": {
+						"index": 0,
+						"variation": false
+					},
+					"mod1": {
+						"index": 0,
+						"variation": false
+					},
+					"mod2": {
+						"index": 0,
+						"variation": false
+					},
+					"mod3": {
+						"index": 0,
+						"variation": false
+					},
+					"mod4": {
+						"index": 0,
+						"variation": false
+					},
+					"mod5": {
+						"index": 6,
+						"variation": false
+					},
+					"mod6": {
+						"index": 0,
+						"variation": false
+					},
+					"mod7": {
+						"index": 0,
+						"variation": false
+					},
+					"mod8": {
+						"index": 0,
+						"variation": false
+					},
+					"mod9": {
+						"index": 0,
+						"variation": false
+					},
+					"mod10": {
+						"index": 0,
+						"variation": false
+					},
+					"mod11": {
+						"index": 4,
+						"variation": false
+					},
+					"mod12": {
+						"index": 3,
+						"variation": false
+					},
+					"mod13": {
+						"index": 3,
+						"variation": false
+					},
+					"mod14": {
+						"index": 58,
+						"variation": false
+					},
+					"mod15": {
+						"index": 0,
+						"variation": false
+					},
+					"mod16": {
+						"index": 5,
+						"variation": false
+					},
+					"mod17": {
+						"index": 0,
+						"variation": false
+					},
+					"mod18": {
+						"index": 0,
+						"variation": false
+					},
+					"mod19": {
+						"index": 0,
+						"variation": false
+					},
+					"mod20": {
+						"index": 0,
+						"variation": false
+					},
+					"mod21": {
+						"index": 0,
+						"variation": false
+					},
+					"mod22": {
+						"index": 0,
+						"variation": false
+					},
+					"mod23": {
+						"index": 72,
+						"variation": false
+					},
+					"mod24": {
+						"index": 72,
+						"variation": false
+					},
+					"mod25": {
+						"index": 0,
+						"variation": false
+					},
+					"mod26": {
+						"index": 0,
+						"variation": false
+					},
+					"mod27": {
+						"index": 0,
+						"variation": false
+					},
+					"mod28": {
+						"index": 0,
+						"variation": false
+					},
+					"mod29": {
+						"index": 0,
+						"variation": false
+					},
+					"mod30": {
+						"index": 0,
+						"variation": false
+					},
+					"mod31": {
+						"index": 0,
+						"variation": false
+					},
+					"mod32": {
+						"index": 0,
+						"variation": false
+					},
+					"mod33": {
+						"index": 0,
+						"variation": false
+					},
+					"mod34": {
+						"index": 0,
+						"variation": false
+					},
+					"mod35": {
+						"index": 0,
+						"variation": false
+					},
+					"mod36": {
+						"index": 0,
+						"variation": false
+					},
+					"mod37": {
+						"index": 0,
+						"variation": false
+					},
+					"mod38": {
+						"index": 0,
+						"variation": false
+					},
+					"mod39": {
+						"index": 0,
+						"variation": false
+					},
+					"mod40": {
+						"index": 3,
+						"variation": false
+					},
+					"mod41": {
+						"index": 3,
+						"variation": false
+					},
+					"mod42": {
+						"index": 0,
+						"variation": false
+					},
+					"mod43": {
+						"index": 1,
+						"variation": false
+					},
+					"mod44": {
+						"index": 1,
+						"variation": false
+					},
+					"mod45": {
+						"index": 1,
+						"variation": false
+					},
+					"mod46": {
+						"index": 0,
+						"variation": false
+					},
+					"mod47": {
+						"index": 0,
+						"variation": false
+					},
+					"mod48": {
+						"index": 0,
+						"variation": false
+					},
+					"mod49": {
+						"index": 0,
+						"variation": false
+					}
+				},
+				"extras": {
+					"extra0": false,
+					"extra1": false,
+					"extra2": false,
+					"extra3": false,
+					"extra4": false,
+					"extra5": false,
+					"extra6": false,
+					"extra7": false,
+					"extra8": false,
+					"extra9": false,
+					"extra10": false,
+					"extra11": false,
+					"extra12": false,
+					"extra13": false,
+					"extra14": false,
+					"extra15": false
+				},
+				"wheelType": 6,
+				"tyreSmokeColor": {
+					"r": 255,
+					"g": 255,
+					"b": 255
+				},
+				"neonKits": {
+					"left": true,
+					"right": true,
+					"front": true,
+					"back": false,
+					"color": {
+						"r": 15,
+						"g": 3,
+						"b": 255
+					}
+				},
+				"primaryColor": 34,
+				"secondaryColor": 159,
+				"pearlescentColor": 160,
+				"isPrimaryColorCustom": false,
+				"customPrimaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"isSecondaryColorCustom": false,
+				"customSecondaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"windowTint": 0,
+				"wheelColor": 158,
+				"interiorColor": 160,
+				"dashBoardColor": 140,
+				"plateText": "03GSK250",
+				"plateTextIndex": -1,
+				"bulletproofTyres": true,
+				"driftTyres": false
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": -1.7000000476837158,
+					"z": -0.30000001192092896
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": -0.0,
+					"y": 1.0,
+					"z": 0.0,
+					"w": -4.371138828673793e-08
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 18562
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 1,
+				"model": 2482017624,
+				"baseFlags": 1073939727,
+				"mods": {
+					"mod0": {
+						"index": 0,
+						"variation": false
+					},
+					"mod1": {
+						"index": 0,
+						"variation": false
+					},
+					"mod2": {
+						"index": 0,
+						"variation": false
+					},
+					"mod3": {
+						"index": 0,
+						"variation": false
+					},
+					"mod4": {
+						"index": 0,
+						"variation": false
+					},
+					"mod5": {
+						"index": 6,
+						"variation": false
+					},
+					"mod6": {
+						"index": 0,
+						"variation": false
+					},
+					"mod7": {
+						"index": 0,
+						"variation": false
+					},
+					"mod8": {
+						"index": 0,
+						"variation": false
+					},
+					"mod9": {
+						"index": 0,
+						"variation": false
+					},
+					"mod10": {
+						"index": 0,
+						"variation": false
+					},
+					"mod11": {
+						"index": 4,
+						"variation": false
+					},
+					"mod12": {
+						"index": 3,
+						"variation": false
+					},
+					"mod13": {
+						"index": 3,
+						"variation": false
+					},
+					"mod14": {
+						"index": 58,
+						"variation": false
+					},
+					"mod15": {
+						"index": 0,
+						"variation": false
+					},
+					"mod16": {
+						"index": 5,
+						"variation": false
+					},
+					"mod17": {
+						"index": 0,
+						"variation": false
+					},
+					"mod18": {
+						"index": 0,
+						"variation": false
+					},
+					"mod19": {
+						"index": 0,
+						"variation": false
+					},
+					"mod20": {
+						"index": 0,
+						"variation": false
+					},
+					"mod21": {
+						"index": 0,
+						"variation": false
+					},
+					"mod22": {
+						"index": 0,
+						"variation": false
+					},
+					"mod23": {
+						"index": 72,
+						"variation": false
+					},
+					"mod24": {
+						"index": 72,
+						"variation": false
+					},
+					"mod25": {
+						"index": 0,
+						"variation": false
+					},
+					"mod26": {
+						"index": 0,
+						"variation": false
+					},
+					"mod27": {
+						"index": 0,
+						"variation": false
+					},
+					"mod28": {
+						"index": 0,
+						"variation": false
+					},
+					"mod29": {
+						"index": 0,
+						"variation": false
+					},
+					"mod30": {
+						"index": 0,
+						"variation": false
+					},
+					"mod31": {
+						"index": 0,
+						"variation": false
+					},
+					"mod32": {
+						"index": 0,
+						"variation": false
+					},
+					"mod33": {
+						"index": 0,
+						"variation": false
+					},
+					"mod34": {
+						"index": 0,
+						"variation": false
+					},
+					"mod35": {
+						"index": 0,
+						"variation": false
+					},
+					"mod36": {
+						"index": 0,
+						"variation": false
+					},
+					"mod37": {
+						"index": 0,
+						"variation": false
+					},
+					"mod38": {
+						"index": 0,
+						"variation": false
+					},
+					"mod39": {
+						"index": 0,
+						"variation": false
+					},
+					"mod40": {
+						"index": 3,
+						"variation": false
+					},
+					"mod41": {
+						"index": 3,
+						"variation": false
+					},
+					"mod42": {
+						"index": 0,
+						"variation": false
+					},
+					"mod43": {
+						"index": 1,
+						"variation": false
+					},
+					"mod44": {
+						"index": 1,
+						"variation": false
+					},
+					"mod45": {
+						"index": 1,
+						"variation": false
+					},
+					"mod46": {
+						"index": 0,
+						"variation": false
+					},
+					"mod47": {
+						"index": 0,
+						"variation": false
+					},
+					"mod48": {
+						"index": 0,
+						"variation": false
+					},
+					"mod49": {
+						"index": 0,
+						"variation": false
+					}
+				},
+				"extras": {
+					"extra0": false,
+					"extra1": false,
+					"extra2": false,
+					"extra3": false,
+					"extra4": false,
+					"extra5": false,
+					"extra6": false,
+					"extra7": false,
+					"extra8": false,
+					"extra9": false,
+					"extra10": false,
+					"extra11": false,
+					"extra12": false,
+					"extra13": false,
+					"extra14": false,
+					"extra15": false
+				},
+				"wheelType": 6,
+				"tyreSmokeColor": {
+					"r": 255,
+					"g": 255,
+					"b": 255
+				},
+				"neonKits": {
+					"left": true,
+					"right": true,
+					"front": true,
+					"back": false,
+					"color": {
+						"r": 15,
+						"g": 3,
+						"b": 255
+					}
+				},
+				"primaryColor": 107,
+				"secondaryColor": 159,
+				"pearlescentColor": 160,
+				"isPrimaryColorCustom": false,
+				"customPrimaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"isSecondaryColorCustom": false,
+				"customSecondaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"windowTint": 0,
+				"wheelColor": 158,
+				"interiorColor": 160,
+				"dashBoardColor": 140,
+				"plateText": "67BYD423",
+				"plateTextIndex": -1,
+				"bulletproofTyres": true,
+				"driftTyres": false
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": -0.2999989986419678,
+					"y": -1.7999999523162842,
+					"z": -0.30000001192092896
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": 0.0,
+					"y": 1.0,
+					"z": 0.0,
+					"w": 1.9470718370939721e-07
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 18562
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 1,
+				"model": 2482017624,
+				"baseFlags": 1073939727,
+				"mods": {
+					"mod0": {
+						"index": 0,
+						"variation": false
+					},
+					"mod1": {
+						"index": 0,
+						"variation": false
+					},
+					"mod2": {
+						"index": 0,
+						"variation": false
+					},
+					"mod3": {
+						"index": 0,
+						"variation": false
+					},
+					"mod4": {
+						"index": 0,
+						"variation": false
+					},
+					"mod5": {
+						"index": 6,
+						"variation": false
+					},
+					"mod6": {
+						"index": 0,
+						"variation": false
+					},
+					"mod7": {
+						"index": 0,
+						"variation": false
+					},
+					"mod8": {
+						"index": 0,
+						"variation": false
+					},
+					"mod9": {
+						"index": 0,
+						"variation": false
+					},
+					"mod10": {
+						"index": 0,
+						"variation": false
+					},
+					"mod11": {
+						"index": 4,
+						"variation": false
+					},
+					"mod12": {
+						"index": 3,
+						"variation": false
+					},
+					"mod13": {
+						"index": 3,
+						"variation": false
+					},
+					"mod14": {
+						"index": 58,
+						"variation": false
+					},
+					"mod15": {
+						"index": 0,
+						"variation": false
+					},
+					"mod16": {
+						"index": 5,
+						"variation": false
+					},
+					"mod17": {
+						"index": 0,
+						"variation": false
+					},
+					"mod18": {
+						"index": 0,
+						"variation": false
+					},
+					"mod19": {
+						"index": 0,
+						"variation": false
+					},
+					"mod20": {
+						"index": 0,
+						"variation": false
+					},
+					"mod21": {
+						"index": 0,
+						"variation": false
+					},
+					"mod22": {
+						"index": 0,
+						"variation": false
+					},
+					"mod23": {
+						"index": 72,
+						"variation": false
+					},
+					"mod24": {
+						"index": 72,
+						"variation": false
+					},
+					"mod25": {
+						"index": 0,
+						"variation": false
+					},
+					"mod26": {
+						"index": 0,
+						"variation": false
+					},
+					"mod27": {
+						"index": 0,
+						"variation": false
+					},
+					"mod28": {
+						"index": 0,
+						"variation": false
+					},
+					"mod29": {
+						"index": 0,
+						"variation": false
+					},
+					"mod30": {
+						"index": 0,
+						"variation": false
+					},
+					"mod31": {
+						"index": 0,
+						"variation": false
+					},
+					"mod32": {
+						"index": 0,
+						"variation": false
+					},
+					"mod33": {
+						"index": 0,
+						"variation": false
+					},
+					"mod34": {
+						"index": 0,
+						"variation": false
+					},
+					"mod35": {
+						"index": 0,
+						"variation": false
+					},
+					"mod36": {
+						"index": 0,
+						"variation": false
+					},
+					"mod37": {
+						"index": 0,
+						"variation": false
+					},
+					"mod38": {
+						"index": 0,
+						"variation": false
+					},
+					"mod39": {
+						"index": 0,
+						"variation": false
+					},
+					"mod40": {
+						"index": 3,
+						"variation": false
+					},
+					"mod41": {
+						"index": 3,
+						"variation": false
+					},
+					"mod42": {
+						"index": 0,
+						"variation": false
+					},
+					"mod43": {
+						"index": 1,
+						"variation": false
+					},
+					"mod44": {
+						"index": 1,
+						"variation": false
+					},
+					"mod45": {
+						"index": 1,
+						"variation": false
+					},
+					"mod46": {
+						"index": 0,
+						"variation": false
+					},
+					"mod47": {
+						"index": 0,
+						"variation": false
+					},
+					"mod48": {
+						"index": 0,
+						"variation": false
+					},
+					"mod49": {
+						"index": 0,
+						"variation": false
+					}
+				},
+				"extras": {
+					"extra0": false,
+					"extra1": false,
+					"extra2": false,
+					"extra3": false,
+					"extra4": false,
+					"extra5": false,
+					"extra6": false,
+					"extra7": false,
+					"extra8": false,
+					"extra9": false,
+					"extra10": false,
+					"extra11": false,
+					"extra12": false,
+					"extra13": false,
+					"extra14": false,
+					"extra15": false
+				},
+				"wheelType": 6,
+				"tyreSmokeColor": {
+					"r": 255,
+					"g": 255,
+					"b": 255
+				},
+				"neonKits": {
+					"left": true,
+					"right": true,
+					"front": true,
+					"back": false,
+					"color": {
+						"r": 15,
+						"g": 3,
+						"b": 255
+					}
+				},
+				"primaryColor": 34,
+				"secondaryColor": 159,
+				"pearlescentColor": 160,
+				"isPrimaryColorCustom": false,
+				"customPrimaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"isSecondaryColorCustom": false,
+				"customSecondaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"windowTint": 0,
+				"wheelColor": 158,
+				"interiorColor": 160,
+				"dashBoardColor": 140,
+				"plateText": "35HTK406",
+				"plateTextIndex": -1,
+				"bulletproofTyres": true,
+				"driftTyres": false
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.2999989986419678,
+					"y": -1.7999999523162842,
+					"z": -0.30000001192092896
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": -0.0,
+					"y": 1.0,
+					"z": 0.0,
+					"w": -4.371138828673793e-08
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 18562
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 1,
+				"model": 2482017624,
+				"baseFlags": 1073939727,
+				"mods": {
+					"mod0": {
+						"index": 0,
+						"variation": false
+					},
+					"mod1": {
+						"index": 0,
+						"variation": false
+					},
+					"mod2": {
+						"index": 0,
+						"variation": false
+					},
+					"mod3": {
+						"index": 0,
+						"variation": false
+					},
+					"mod4": {
+						"index": 0,
+						"variation": false
+					},
+					"mod5": {
+						"index": 6,
+						"variation": false
+					},
+					"mod6": {
+						"index": 0,
+						"variation": false
+					},
+					"mod7": {
+						"index": 0,
+						"variation": false
+					},
+					"mod8": {
+						"index": 0,
+						"variation": false
+					},
+					"mod9": {
+						"index": 0,
+						"variation": false
+					},
+					"mod10": {
+						"index": 0,
+						"variation": false
+					},
+					"mod11": {
+						"index": 4,
+						"variation": false
+					},
+					"mod12": {
+						"index": 3,
+						"variation": false
+					},
+					"mod13": {
+						"index": 3,
+						"variation": false
+					},
+					"mod14": {
+						"index": 58,
+						"variation": false
+					},
+					"mod15": {
+						"index": 0,
+						"variation": false
+					},
+					"mod16": {
+						"index": 5,
+						"variation": false
+					},
+					"mod17": {
+						"index": 0,
+						"variation": false
+					},
+					"mod18": {
+						"index": 0,
+						"variation": false
+					},
+					"mod19": {
+						"index": 0,
+						"variation": false
+					},
+					"mod20": {
+						"index": 0,
+						"variation": false
+					},
+					"mod21": {
+						"index": 0,
+						"variation": false
+					},
+					"mod22": {
+						"index": 0,
+						"variation": false
+					},
+					"mod23": {
+						"index": 72,
+						"variation": false
+					},
+					"mod24": {
+						"index": 72,
+						"variation": false
+					},
+					"mod25": {
+						"index": 0,
+						"variation": false
+					},
+					"mod26": {
+						"index": 0,
+						"variation": false
+					},
+					"mod27": {
+						"index": 0,
+						"variation": false
+					},
+					"mod28": {
+						"index": 0,
+						"variation": false
+					},
+					"mod29": {
+						"index": 0,
+						"variation": false
+					},
+					"mod30": {
+						"index": 0,
+						"variation": false
+					},
+					"mod31": {
+						"index": 0,
+						"variation": false
+					},
+					"mod32": {
+						"index": 0,
+						"variation": false
+					},
+					"mod33": {
+						"index": 0,
+						"variation": false
+					},
+					"mod34": {
+						"index": 0,
+						"variation": false
+					},
+					"mod35": {
+						"index": 0,
+						"variation": false
+					},
+					"mod36": {
+						"index": 0,
+						"variation": false
+					},
+					"mod37": {
+						"index": 0,
+						"variation": false
+					},
+					"mod38": {
+						"index": 0,
+						"variation": false
+					},
+					"mod39": {
+						"index": 0,
+						"variation": false
+					},
+					"mod40": {
+						"index": 3,
+						"variation": false
+					},
+					"mod41": {
+						"index": 3,
+						"variation": false
+					},
+					"mod42": {
+						"index": 0,
+						"variation": false
+					},
+					"mod43": {
+						"index": 1,
+						"variation": false
+					},
+					"mod44": {
+						"index": 1,
+						"variation": false
+					},
+					"mod45": {
+						"index": 1,
+						"variation": false
+					},
+					"mod46": {
+						"index": 0,
+						"variation": false
+					},
+					"mod47": {
+						"index": 0,
+						"variation": false
+					},
+					"mod48": {
+						"index": 0,
+						"variation": false
+					},
+					"mod49": {
+						"index": 0,
+						"variation": false
+					}
+				},
+				"extras": {
+					"extra0": false,
+					"extra1": false,
+					"extra2": false,
+					"extra3": false,
+					"extra4": false,
+					"extra5": false,
+					"extra6": false,
+					"extra7": false,
+					"extra8": false,
+					"extra9": false,
+					"extra10": false,
+					"extra11": false,
+					"extra12": false,
+					"extra13": false,
+					"extra14": false,
+					"extra15": false
+				},
+				"wheelType": 6,
+				"tyreSmokeColor": {
+					"r": 255,
+					"g": 255,
+					"b": 255
+				},
+				"neonKits": {
+					"left": true,
+					"right": true,
+					"front": true,
+					"back": false,
+					"color": {
+						"r": 15,
+						"g": 3,
+						"b": 255
+					}
+				},
+				"primaryColor": 107,
+				"secondaryColor": 159,
+				"pearlescentColor": 160,
+				"isPrimaryColorCustom": false,
+				"customPrimaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"isSecondaryColorCustom": false,
+				"customSecondaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"windowTint": 0,
+				"wheelColor": 158,
+				"interiorColor": 160,
+				"dashBoardColor": 140,
+				"plateText": "79XBJ210",
+				"plateTextIndex": -1,
+				"bulletproofTyres": true,
+				"driftTyres": false
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.0,
+					"y": 1.2000000476837158,
+					"z": -0.30000099539756775
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": -1.0,
+					"y": 1.9470718370939721e-07,
+					"z": -4.371138828673793e-08,
+					"w": -8.510920985441324e-15
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 18562
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 1,
+				"model": 2482017624,
+				"baseFlags": 1073939727,
+				"mods": {
+					"mod0": {
+						"index": 0,
+						"variation": false
+					},
+					"mod1": {
+						"index": 0,
+						"variation": false
+					},
+					"mod2": {
+						"index": 0,
+						"variation": false
+					},
+					"mod3": {
+						"index": 0,
+						"variation": false
+					},
+					"mod4": {
+						"index": 0,
+						"variation": false
+					},
+					"mod5": {
+						"index": 6,
+						"variation": false
+					},
+					"mod6": {
+						"index": 0,
+						"variation": false
+					},
+					"mod7": {
+						"index": 0,
+						"variation": false
+					},
+					"mod8": {
+						"index": 0,
+						"variation": false
+					},
+					"mod9": {
+						"index": 0,
+						"variation": false
+					},
+					"mod10": {
+						"index": 0,
+						"variation": false
+					},
+					"mod11": {
+						"index": 4,
+						"variation": false
+					},
+					"mod12": {
+						"index": 3,
+						"variation": false
+					},
+					"mod13": {
+						"index": 3,
+						"variation": false
+					},
+					"mod14": {
+						"index": 58,
+						"variation": false
+					},
+					"mod15": {
+						"index": 0,
+						"variation": false
+					},
+					"mod16": {
+						"index": 5,
+						"variation": false
+					},
+					"mod17": {
+						"index": 0,
+						"variation": false
+					},
+					"mod18": {
+						"index": 0,
+						"variation": false
+					},
+					"mod19": {
+						"index": 0,
+						"variation": false
+					},
+					"mod20": {
+						"index": 0,
+						"variation": false
+					},
+					"mod21": {
+						"index": 0,
+						"variation": false
+					},
+					"mod22": {
+						"index": 0,
+						"variation": false
+					},
+					"mod23": {
+						"index": 72,
+						"variation": false
+					},
+					"mod24": {
+						"index": 72,
+						"variation": false
+					},
+					"mod25": {
+						"index": 0,
+						"variation": false
+					},
+					"mod26": {
+						"index": 0,
+						"variation": false
+					},
+					"mod27": {
+						"index": 0,
+						"variation": false
+					},
+					"mod28": {
+						"index": 0,
+						"variation": false
+					},
+					"mod29": {
+						"index": 0,
+						"variation": false
+					},
+					"mod30": {
+						"index": 0,
+						"variation": false
+					},
+					"mod31": {
+						"index": 0,
+						"variation": false
+					},
+					"mod32": {
+						"index": 0,
+						"variation": false
+					},
+					"mod33": {
+						"index": 0,
+						"variation": false
+					},
+					"mod34": {
+						"index": 0,
+						"variation": false
+					},
+					"mod35": {
+						"index": 0,
+						"variation": false
+					},
+					"mod36": {
+						"index": 0,
+						"variation": false
+					},
+					"mod37": {
+						"index": 0,
+						"variation": false
+					},
+					"mod38": {
+						"index": 0,
+						"variation": false
+					},
+					"mod39": {
+						"index": 0,
+						"variation": false
+					},
+					"mod40": {
+						"index": 3,
+						"variation": false
+					},
+					"mod41": {
+						"index": 3,
+						"variation": false
+					},
+					"mod42": {
+						"index": 0,
+						"variation": false
+					},
+					"mod43": {
+						"index": 1,
+						"variation": false
+					},
+					"mod44": {
+						"index": 1,
+						"variation": false
+					},
+					"mod45": {
+						"index": 1,
+						"variation": false
+					},
+					"mod46": {
+						"index": 0,
+						"variation": false
+					},
+					"mod47": {
+						"index": 0,
+						"variation": false
+					},
+					"mod48": {
+						"index": 0,
+						"variation": false
+					},
+					"mod49": {
+						"index": 0,
+						"variation": false
+					}
+				},
+				"extras": {
+					"extra0": false,
+					"extra1": false,
+					"extra2": false,
+					"extra3": false,
+					"extra4": false,
+					"extra5": false,
+					"extra6": false,
+					"extra7": false,
+					"extra8": false,
+					"extra9": false,
+					"extra10": false,
+					"extra11": false,
+					"extra12": false,
+					"extra13": false,
+					"extra14": false,
+					"extra15": false
+				},
+				"wheelType": 6,
+				"tyreSmokeColor": {
+					"r": 255,
+					"g": 255,
+					"b": 255
+				},
+				"neonKits": {
+					"left": true,
+					"right": true,
+					"front": true,
+					"back": false,
+					"color": {
+						"r": 15,
+						"g": 3,
+						"b": 255
+					}
+				},
+				"primaryColor": 34,
+				"secondaryColor": 159,
+				"pearlescentColor": 160,
+				"isPrimaryColorCustom": false,
+				"customPrimaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"isSecondaryColorCustom": false,
+				"customSecondaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"windowTint": 0,
+				"wheelColor": 158,
+				"interiorColor": 160,
+				"dashBoardColor": 140,
+				"plateText": "04VMZ735",
+				"plateTextIndex": -1,
+				"bulletproofTyres": true,
+				"driftTyres": false
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": -0.2999989986419678,
+					"y": 1.2000000476837158,
+					"z": -0.30000099539756775
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": -1.0,
+					"y": 1.9470718370939721e-07,
+					"z": 1.9470718370939721e-07,
+					"w": 3.791088740135416e-14
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 18562
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 1,
+				"model": 2482017624,
+				"baseFlags": 1073939727,
+				"mods": {
+					"mod0": {
+						"index": 0,
+						"variation": false
+					},
+					"mod1": {
+						"index": 0,
+						"variation": false
+					},
+					"mod2": {
+						"index": 0,
+						"variation": false
+					},
+					"mod3": {
+						"index": 0,
+						"variation": false
+					},
+					"mod4": {
+						"index": 0,
+						"variation": false
+					},
+					"mod5": {
+						"index": 6,
+						"variation": false
+					},
+					"mod6": {
+						"index": 0,
+						"variation": false
+					},
+					"mod7": {
+						"index": 0,
+						"variation": false
+					},
+					"mod8": {
+						"index": 0,
+						"variation": false
+					},
+					"mod9": {
+						"index": 0,
+						"variation": false
+					},
+					"mod10": {
+						"index": 0,
+						"variation": false
+					},
+					"mod11": {
+						"index": 4,
+						"variation": false
+					},
+					"mod12": {
+						"index": 3,
+						"variation": false
+					},
+					"mod13": {
+						"index": 3,
+						"variation": false
+					},
+					"mod14": {
+						"index": 58,
+						"variation": false
+					},
+					"mod15": {
+						"index": 0,
+						"variation": false
+					},
+					"mod16": {
+						"index": 5,
+						"variation": false
+					},
+					"mod17": {
+						"index": 0,
+						"variation": false
+					},
+					"mod18": {
+						"index": 0,
+						"variation": false
+					},
+					"mod19": {
+						"index": 0,
+						"variation": false
+					},
+					"mod20": {
+						"index": 0,
+						"variation": false
+					},
+					"mod21": {
+						"index": 0,
+						"variation": false
+					},
+					"mod22": {
+						"index": 0,
+						"variation": false
+					},
+					"mod23": {
+						"index": 72,
+						"variation": false
+					},
+					"mod24": {
+						"index": 72,
+						"variation": false
+					},
+					"mod25": {
+						"index": 0,
+						"variation": false
+					},
+					"mod26": {
+						"index": 0,
+						"variation": false
+					},
+					"mod27": {
+						"index": 0,
+						"variation": false
+					},
+					"mod28": {
+						"index": 0,
+						"variation": false
+					},
+					"mod29": {
+						"index": 0,
+						"variation": false
+					},
+					"mod30": {
+						"index": 0,
+						"variation": false
+					},
+					"mod31": {
+						"index": 0,
+						"variation": false
+					},
+					"mod32": {
+						"index": 0,
+						"variation": false
+					},
+					"mod33": {
+						"index": 0,
+						"variation": false
+					},
+					"mod34": {
+						"index": 0,
+						"variation": false
+					},
+					"mod35": {
+						"index": 0,
+						"variation": false
+					},
+					"mod36": {
+						"index": 0,
+						"variation": false
+					},
+					"mod37": {
+						"index": 0,
+						"variation": false
+					},
+					"mod38": {
+						"index": 0,
+						"variation": false
+					},
+					"mod39": {
+						"index": 0,
+						"variation": false
+					},
+					"mod40": {
+						"index": 3,
+						"variation": false
+					},
+					"mod41": {
+						"index": 3,
+						"variation": false
+					},
+					"mod42": {
+						"index": 0,
+						"variation": false
+					},
+					"mod43": {
+						"index": 1,
+						"variation": false
+					},
+					"mod44": {
+						"index": 1,
+						"variation": false
+					},
+					"mod45": {
+						"index": 1,
+						"variation": false
+					},
+					"mod46": {
+						"index": 0,
+						"variation": false
+					},
+					"mod47": {
+						"index": 0,
+						"variation": false
+					},
+					"mod48": {
+						"index": 0,
+						"variation": false
+					},
+					"mod49": {
+						"index": 0,
+						"variation": false
+					}
+				},
+				"extras": {
+					"extra0": false,
+					"extra1": false,
+					"extra2": false,
+					"extra3": false,
+					"extra4": false,
+					"extra5": false,
+					"extra6": false,
+					"extra7": false,
+					"extra8": false,
+					"extra9": false,
+					"extra10": false,
+					"extra11": false,
+					"extra12": false,
+					"extra13": false,
+					"extra14": false,
+					"extra15": false
+				},
+				"wheelType": 6,
+				"tyreSmokeColor": {
+					"r": 255,
+					"g": 255,
+					"b": 255
+				},
+				"neonKits": {
+					"left": true,
+					"right": true,
+					"front": true,
+					"back": false,
+					"color": {
+						"r": 15,
+						"g": 3,
+						"b": 255
+					}
+				},
+				"primaryColor": 107,
+				"secondaryColor": 159,
+				"pearlescentColor": 160,
+				"isPrimaryColorCustom": false,
+				"customPrimaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"isSecondaryColorCustom": false,
+				"customSecondaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"windowTint": 0,
+				"wheelColor": 158,
+				"interiorColor": 160,
+				"dashBoardColor": 140,
+				"plateText": "63GFT825",
+				"plateTextIndex": -1,
+				"bulletproofTyres": true,
+				"driftTyres": false
+			}
+		},
+		{
+			"data": {
+				"offset": {
+					"x": 0.2999989986419678,
+					"y": 1.2000000476837158,
+					"z": -0.30000001192092896
+				},
+				"parentOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"quat": {
+					"x": -1.0,
+					"y": -4.371138828673793e-08,
+					"z": -4.371138828673793e-08,
+					"w": 1.910685465164705e-15
+				},
+				"otherBone": 0,
+				"myBone": -1,
+				"flags": 18562
+			},
+			"entity": {
+				"format": "Cherax Entity",
+				"type": 1,
+				"model": 2482017624,
+				"baseFlags": 1073939727,
+				"mods": {
+					"mod0": {
+						"index": 0,
+						"variation": false
+					},
+					"mod1": {
+						"index": 0,
+						"variation": false
+					},
+					"mod2": {
+						"index": 0,
+						"variation": false
+					},
+					"mod3": {
+						"index": 0,
+						"variation": false
+					},
+					"mod4": {
+						"index": 0,
+						"variation": false
+					},
+					"mod5": {
+						"index": 6,
+						"variation": false
+					},
+					"mod6": {
+						"index": 0,
+						"variation": false
+					},
+					"mod7": {
+						"index": 0,
+						"variation": false
+					},
+					"mod8": {
+						"index": 0,
+						"variation": false
+					},
+					"mod9": {
+						"index": 0,
+						"variation": false
+					},
+					"mod10": {
+						"index": 0,
+						"variation": false
+					},
+					"mod11": {
+						"index": 4,
+						"variation": false
+					},
+					"mod12": {
+						"index": 3,
+						"variation": false
+					},
+					"mod13": {
+						"index": 3,
+						"variation": false
+					},
+					"mod14": {
+						"index": 58,
+						"variation": false
+					},
+					"mod15": {
+						"index": 0,
+						"variation": false
+					},
+					"mod16": {
+						"index": 5,
+						"variation": false
+					},
+					"mod17": {
+						"index": 0,
+						"variation": false
+					},
+					"mod18": {
+						"index": 0,
+						"variation": false
+					},
+					"mod19": {
+						"index": 0,
+						"variation": false
+					},
+					"mod20": {
+						"index": 0,
+						"variation": false
+					},
+					"mod21": {
+						"index": 0,
+						"variation": false
+					},
+					"mod22": {
+						"index": 0,
+						"variation": false
+					},
+					"mod23": {
+						"index": 72,
+						"variation": false
+					},
+					"mod24": {
+						"index": 72,
+						"variation": false
+					},
+					"mod25": {
+						"index": 0,
+						"variation": false
+					},
+					"mod26": {
+						"index": 0,
+						"variation": false
+					},
+					"mod27": {
+						"index": 0,
+						"variation": false
+					},
+					"mod28": {
+						"index": 0,
+						"variation": false
+					},
+					"mod29": {
+						"index": 0,
+						"variation": false
+					},
+					"mod30": {
+						"index": 0,
+						"variation": false
+					},
+					"mod31": {
+						"index": 0,
+						"variation": false
+					},
+					"mod32": {
+						"index": 0,
+						"variation": false
+					},
+					"mod33": {
+						"index": 0,
+						"variation": false
+					},
+					"mod34": {
+						"index": 0,
+						"variation": false
+					},
+					"mod35": {
+						"index": 0,
+						"variation": false
+					},
+					"mod36": {
+						"index": 0,
+						"variation": false
+					},
+					"mod37": {
+						"index": 0,
+						"variation": false
+					},
+					"mod38": {
+						"index": 0,
+						"variation": false
+					},
+					"mod39": {
+						"index": 0,
+						"variation": false
+					},
+					"mod40": {
+						"index": 3,
+						"variation": false
+					},
+					"mod41": {
+						"index": 3,
+						"variation": false
+					},
+					"mod42": {
+						"index": 0,
+						"variation": false
+					},
+					"mod43": {
+						"index": 1,
+						"variation": false
+					},
+					"mod44": {
+						"index": 1,
+						"variation": false
+					},
+					"mod45": {
+						"index": 1,
+						"variation": false
+					},
+					"mod46": {
+						"index": 0,
+						"variation": false
+					},
+					"mod47": {
+						"index": 0,
+						"variation": false
+					},
+					"mod48": {
+						"index": 0,
+						"variation": false
+					},
+					"mod49": {
+						"index": 0,
+						"variation": false
+					}
+				},
+				"extras": {
+					"extra0": false,
+					"extra1": false,
+					"extra2": false,
+					"extra3": false,
+					"extra4": false,
+					"extra5": false,
+					"extra6": false,
+					"extra7": false,
+					"extra8": false,
+					"extra9": false,
+					"extra10": false,
+					"extra11": false,
+					"extra12": false,
+					"extra13": false,
+					"extra14": false,
+					"extra15": false
+				},
+				"wheelType": 6,
+				"tyreSmokeColor": {
+					"r": 255,
+					"g": 255,
+					"b": 255
+				},
+				"neonKits": {
+					"left": true,
+					"right": true,
+					"front": true,
+					"back": false,
+					"color": {
+						"r": 15,
+						"g": 3,
+						"b": 255
+					}
+				},
+				"primaryColor": 34,
+				"secondaryColor": 159,
+				"pearlescentColor": 160,
+				"isPrimaryColorCustom": false,
+				"customPrimaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"isSecondaryColorCustom": false,
+				"customSecondaryColor": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"windowTint": 0,
+				"wheelColor": 158,
+				"interiorColor": 160,
+				"dashBoardColor": 140,
+				"plateText": "17OXL835",
+				"plateTextIndex": -1,
+				"bulletproofTyres": true,
+				"driftTyres": false
+			}
+		}
+	]
+}

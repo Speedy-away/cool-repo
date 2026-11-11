@@ -1,0 +1,3707 @@
+{
+	"CompatibilityVersion": 2,
+	"Objects": [ {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 118364,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 37.510498046875,
+			"y": 5.76171875,
+			"z": -0.36069488525391
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 9272,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1261306399,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -316.33081054688,
+			"y": 265.95971679688,
+			"z": 6.7051963806152
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 39.099269866943,
+			"Yaw": -30.199775695801
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 118875,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 331571981,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -745.22094726562,
+			"y": 463.57055664062,
+			"z": 174.3236618042
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.27721133828163,
+			"Roll": 0.066789709031582,
+			"Yaw": 150.97564697266
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 5465,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -6.87060546875,
+			"y": -48.930419921875,
+			"z": -0.31206321716309
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 135262,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 2537619945,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -124.79504394531,
+			"y": 488.18530273438,
+			"z": -0.63641548156738
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": 64.500419616699
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 95512,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 331571981,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -648.43054199219,
+			"y": 594.22045898438,
+			"z": 6.2989616394043
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.27721130847931,
+			"Roll": 0.066790230572224,
+			"Yaw": 62.577808380127
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 135010,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1668542196,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -676.30969238281,
+			"y": 595.212890625,
+			"z": -0.3217658996582
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.20000049471855,
+			"Roll": -1.5999983549118,
+			"Yaw": 62.004455566406
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 132726,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -37.10205078125,
+			"y": 2.862060546875,
+			"z": -0.54876899719238
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 168796,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 54.948486328125,
+			"y": -4.13818359375,
+			"z": -0.49277782440186
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 6746,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1231211099,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -765.91198730469,
+			"y": 423.33862304688,
+			"z": 230.43785858154
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 8.5377359937411e-07,
+			"Roll": 47.099720001221,
+			"Yaw": 60.599826812744
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 66818,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1231211099,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -765.51452636719,
+			"y": 424.18383789062,
+			"z": 230.9103012085
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 8.5377359937411e-07,
+			"Roll": 47.099720001221,
+			"Yaw": 60.599826812744
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 23893,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 787820487,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -466.96838378906,
+			"y": 330.09350585938,
+			"z": 65.441902160645
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.19827024638653,
+			"Roll": -88.697135925293,
+			"Yaw": -119.42458343506
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 7003,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4020388926,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -379.70861816406,
+			"y": 601.1630859375,
+			"z": -0.6140022277832
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -111.49782562256
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 122955,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -27.21044921875,
+			"y": 19.634765625,
+			"z": -0.54723167419434
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 39009,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 787820487,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -467.12829589844,
+			"y": 330.09326171875,
+			"z": 21.334968566895
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.19828651845455,
+			"Roll": 0.0016847454244271,
+			"Yaw": -119.42458343506
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 169315,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1768956181,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -253.82946777344,
+			"y": 520.48461914062,
+			"z": -0.75480270385742
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -31.999889373779
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 7265,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 2.802001953125,
+			"y": 25.63916015625,
+			"z": -0.36069488525391
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 40794,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 11.482543945312,
+			"y": 20.665771484375,
+			"z": -0.34454154968262
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 169827,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4020388926,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -385.12768554688,
+			"y": 535.92260742188,
+			"z": -0.61819458007812
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -111.49783325195
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 170083,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1261306399,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -584.10021972656,
+			"y": 415.76391601562,
+			"z": 34.598999023438
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -37.500556945801,
+			"Yaw": -30.19976234436
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 8541,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4166617266,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -688.44653320312,
+			"y": 598.32885742188,
+			"z": -0.53984260559082
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -9.8717578111973e-07,
+			"Roll": 0.40004554390907,
+			"Yaw": 58.998653411865
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": false,
+		"Handle": 128811,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 2919906639,
+		"Opacity": 255,
+		"Position": {
+			"x": 10.639770507812,
+			"y": 14.627197265625,
+			"z": -0.027847290039062
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.02457963116467,
+			"Roll": -0.021993229165673,
+			"Yaw": 131.83674621582
+		},
+		"Type": 2,
+		"VehicleInfo": {
+			"BulletproofTires": true,
+			"Colors": {
+				"Dashboard": 160,
+				"Interior": 160,
+				"IsPrimaryCustom": false,
+				"IsSecondaryCustom": false,
+				"Pearl": 160,
+				"Primary": 107,
+				"Secondary": 159,
+				"TyreSmokeB": 255,
+				"TyreSmokeG": 255,
+				"TyreSmokeR": 255,
+				"Wheel": 158,
+				"Xenon": 255
+			},
+			"DirtLevel": 0.0012774829519913,
+			"DoorLockStatus": 1,
+			"DoorsBroken": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false,
+				"5": false
+			},
+			"DoorsOpen": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false,
+				"5": false
+			},
+			"DriftTires": false,
+			"EngineOn": false,
+			"Extra": [],
+			"HorsePowerMultiplier": -1.0,
+			"LightsIntensity": 1.0,
+			"Livery": -1,
+			"Livery2": -1,
+			"Mods": {
+				"0": [ -1, 0 ],
+				"1": [ -1, 0 ],
+				"2": [ -1, 0 ],
+				"3": [ -1, 0 ],
+				"4": [ -1, 0 ],
+				"5": [ -1, 0 ],
+				"6": [ -1, 0 ],
+				"7": [ -1, 0 ],
+				"8": [ -1, 0 ],
+				"9": [ -1, 0 ],
+				"10": [ -1, 0 ],
+				"11": [ 3, 0 ],
+				"12": [ 2, 0 ],
+				"13": [ 3, 0 ],
+				"14": [ -1, 0 ],
+				"15": [ -1, 0 ],
+				"16": [ -1, 0 ],
+				"17": false,
+				"18": true,
+				"19": false,
+				"20": false,
+				"21": false,
+				"22": false,
+				"23": [ -1, 0 ],
+				"24": [ -1, 0 ],
+				"25": [ -1, 0 ],
+				"26": [ -1, 0 ],
+				"27": [ -1, 0 ],
+				"28": [ -1, 0 ],
+				"29": [ -1, 0 ],
+				"30": [ -1, 0 ],
+				"31": [ -1, 0 ],
+				"32": [ -1, 0 ],
+				"33": [ -1, 0 ],
+				"34": [ -1, 0 ],
+				"35": [ -1, 0 ],
+				"36": [ -1, 0 ],
+				"37": [ -1, 0 ],
+				"38": [ -1, 0 ],
+				"39": [ -1, 0 ],
+				"40": [ 2, 0 ],
+				"41": [ -1, 0 ],
+				"42": [ 2, 0 ],
+				"43": [ 0, 0 ],
+				"44": [ -1, 0 ],
+				"45": [ -1, 0 ],
+				"46": [ -1, 0 ],
+				"47": [ -1, 0 ],
+				"48": [ -1, 0 ]
+			},
+			"Neons": {
+				"B": 255,
+				"Back": false,
+				"Front": false,
+				"G": 0,
+				"Left": false,
+				"R": 255,
+				"Right": false
+			},
+			"NumberPlateIndex": 0,
+			"NumberPlateText": "33BWK687",
+			"PaintFade": 1.0,
+			"ReducedGrip": false,
+			"RoofState": 0,
+			"Siren": false,
+			"SteeringAngle": 0.0,
+			"TiresBursted": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false,
+				"5": false
+			},
+			"TorqueMultiplier": 1.0,
+			"WheelType": 1,
+			"WindowTint": -1
+		},
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 170595,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4166617266,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -686.27502441406,
+			"y": 601.8564453125,
+			"z": -0.55455589294434
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -9.8717578111973e-07,
+			"Roll": 0.40004554390907,
+			"Yaw": 58.998653411865
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 170851,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -15.6259765625,
+			"y": -43.8896484375,
+			"z": -0.33880424499512
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 106845,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 2.802001953125,
+			"y": 25.63916015625,
+			"z": -0.36069488525391
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 43347,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1261306399,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -330.91064453125,
+			"y": 274.44506835938,
+			"z": 20.414173126221
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 39.099269866943,
+			"Yaw": -30.199775695801
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 43603,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1832852758,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -757.97827148438,
+			"y": 420.22314453125,
+			"z": 221.53073883057
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 3.7352594972617e-07,
+			"Roll": 1.1000032424927,
+			"Yaw": -25.699823379517
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 60241,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -17.006591796875,
+			"y": 37.2060546875,
+			"z": -0.55289745330811
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 132124,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 3206063708,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -661.72509765625,
+			"y": 587.45971679688,
+			"z": -0.37942314147949
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.2000005543232,
+			"Roll": -1.5999982357025,
+			"Yaw": 62.004455566406
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 26716,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 28.836791992188,
+			"y": 10.72705078125,
+			"z": -0.34454154968262
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 131111,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 48.038024902344,
+			"y": -34.05224609375,
+			"z": -0.36531162261963
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 26972,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 3906373800,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 32,
+			"SpeedBoostDuration": 2.0,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -771.4306640625,
+			"y": 431.53369140625,
+			"z": 224.289894104
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 3.7566038372461e-05,
+			"Roll": 51.399108886719,
+			"Yaw": 61.398822784424
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 172643,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1261306399,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -606.45703125,
+			"y": 428.77612304688,
+			"z": 14.749485015869
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -8.5377359937411e-07,
+			"Roll": -37.500576019287,
+			"Yaw": -30.199779510498
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 124003,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 331571981,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -649.81494140625,
+			"y": 591.50268554688,
+			"z": 1.6082248687744
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.27721130847931,
+			"Roll": 0.066790230572224,
+			"Yaw": 62.577808380127
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": false,
+		"Handle": 138541,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 2919906639,
+		"Opacity": 255,
+		"Position": {
+			"x": 8.2354736328125,
+			"y": 16.997314453125,
+			"z": -0.030545234680176
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.050181705504656,
+			"Roll": 0.065455183386803,
+			"Yaw": 134.38513183594
+		},
+		"Type": 2,
+		"VehicleInfo": {
+			"BulletproofTires": true,
+			"Colors": {
+				"Dashboard": 160,
+				"Interior": 160,
+				"IsPrimaryCustom": false,
+				"IsSecondaryCustom": false,
+				"Pearl": 160,
+				"Primary": 107,
+				"Secondary": 159,
+				"TyreSmokeB": 255,
+				"TyreSmokeG": 255,
+				"TyreSmokeR": 255,
+				"Wheel": 158,
+				"Xenon": 255
+			},
+			"DirtLevel": 0.002258442575112,
+			"DoorLockStatus": 1,
+			"DoorsBroken": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false,
+				"5": false
+			},
+			"DoorsOpen": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false,
+				"5": false
+			},
+			"DriftTires": false,
+			"EngineOn": false,
+			"Extra": [],
+			"HorsePowerMultiplier": -1.0,
+			"LightsIntensity": 1.0,
+			"Livery": -1,
+			"Livery2": -1,
+			"Mods": {
+				"0": [ -1, 0 ],
+				"1": [ -1, 0 ],
+				"2": [ -1, 0 ],
+				"3": [ -1, 0 ],
+				"4": [ -1, 0 ],
+				"5": [ -1, 0 ],
+				"6": [ -1, 0 ],
+				"7": [ -1, 0 ],
+				"8": [ -1, 0 ],
+				"9": [ -1, 0 ],
+				"10": [ -1, 0 ],
+				"11": [ 3, 0 ],
+				"12": [ 2, 0 ],
+				"13": [ 3, 0 ],
+				"14": [ -1, 0 ],
+				"15": [ -1, 0 ],
+				"16": [ -1, 0 ],
+				"17": false,
+				"18": true,
+				"19": false,
+				"20": false,
+				"21": false,
+				"22": false,
+				"23": [ -1, 0 ],
+				"24": [ -1, 0 ],
+				"25": [ -1, 0 ],
+				"26": [ -1, 0 ],
+				"27": [ -1, 0 ],
+				"28": [ -1, 0 ],
+				"29": [ -1, 0 ],
+				"30": [ -1, 0 ],
+				"31": [ -1, 0 ],
+				"32": [ -1, 0 ],
+				"33": [ -1, 0 ],
+				"34": [ -1, 0 ],
+				"35": [ -1, 0 ],
+				"36": [ -1, 0 ],
+				"37": [ -1, 0 ],
+				"38": [ -1, 0 ],
+				"39": [ -1, 0 ],
+				"40": [ 2, 0 ],
+				"41": [ -1, 0 ],
+				"42": [ 2, 0 ],
+				"43": [ 0, 0 ],
+				"44": [ -1, 0 ],
+				"45": [ -1, 0 ],
+				"46": [ -1, 0 ],
+				"47": [ -1, 0 ],
+				"48": [ -1, 0 ]
+			},
+			"Neons": {
+				"B": 255,
+				"Back": false,
+				"Front": false,
+				"G": 0,
+				"Left": false,
+				"R": 255,
+				"Right": false
+			},
+			"NumberPlateIndex": 0,
+			"NumberPlateText": "33BWK687",
+			"PaintFade": 1.0,
+			"ReducedGrip": false,
+			"RoofState": 0,
+			"Siren": false,
+			"SteeringAngle": 0.0,
+			"TiresBursted": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false,
+				"5": false
+			},
+			"TorqueMultiplier": 1.0,
+			"WheelType": 1,
+			"WindowTint": -1
+		},
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": false,
+		"Handle": 139816,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 2919906639,
+		"Opacity": 255,
+		"Position": {
+			"x": 13.142456054688,
+			"y": 12.281494140625,
+			"z": -0.029505729675293
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.039114251732826,
+			"Roll": 0.0089857950806618,
+			"Yaw": 132.95159912109
+		},
+		"Type": 2,
+		"VehicleInfo": {
+			"BulletproofTires": true,
+			"Colors": {
+				"Dashboard": 160,
+				"Interior": 160,
+				"IsPrimaryCustom": false,
+				"IsSecondaryCustom": false,
+				"Pearl": 160,
+				"Primary": 107,
+				"Secondary": 159,
+				"TyreSmokeB": 255,
+				"TyreSmokeG": 255,
+				"TyreSmokeR": 255,
+				"Wheel": 158,
+				"Xenon": 255
+			},
+			"DirtLevel": 0.0012970572570339,
+			"DoorLockStatus": 1,
+			"DoorsBroken": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false,
+				"5": false
+			},
+			"DoorsOpen": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false,
+				"5": false
+			},
+			"DriftTires": false,
+			"EngineOn": false,
+			"Extra": [],
+			"HorsePowerMultiplier": -1.0,
+			"LightsIntensity": 1.0,
+			"Livery": -1,
+			"Livery2": -1,
+			"Mods": {
+				"0": [ -1, 0 ],
+				"1": [ -1, 0 ],
+				"2": [ -1, 0 ],
+				"3": [ -1, 0 ],
+				"4": [ -1, 0 ],
+				"5": [ -1, 0 ],
+				"6": [ -1, 0 ],
+				"7": [ -1, 0 ],
+				"8": [ -1, 0 ],
+				"9": [ -1, 0 ],
+				"10": [ -1, 0 ],
+				"11": [ 3, 0 ],
+				"12": [ 2, 0 ],
+				"13": [ 3, 0 ],
+				"14": [ -1, 0 ],
+				"15": [ -1, 0 ],
+				"16": [ -1, 0 ],
+				"17": false,
+				"18": true,
+				"19": false,
+				"20": false,
+				"21": false,
+				"22": false,
+				"23": [ -1, 0 ],
+				"24": [ -1, 0 ],
+				"25": [ -1, 0 ],
+				"26": [ -1, 0 ],
+				"27": [ -1, 0 ],
+				"28": [ -1, 0 ],
+				"29": [ -1, 0 ],
+				"30": [ -1, 0 ],
+				"31": [ -1, 0 ],
+				"32": [ -1, 0 ],
+				"33": [ -1, 0 ],
+				"34": [ -1, 0 ],
+				"35": [ -1, 0 ],
+				"36": [ -1, 0 ],
+				"37": [ -1, 0 ],
+				"38": [ -1, 0 ],
+				"39": [ -1, 0 ],
+				"40": [ 2, 0 ],
+				"41": [ -1, 0 ],
+				"42": [ 2, 0 ],
+				"43": [ 0, 0 ],
+				"44": [ -1, 0 ],
+				"45": [ -1, 0 ],
+				"46": [ -1, 0 ],
+				"47": [ -1, 0 ],
+				"48": [ -1, 0 ]
+			},
+			"Neons": {
+				"B": 255,
+				"Back": false,
+				"Front": false,
+				"G": 0,
+				"Left": false,
+				"R": 255,
+				"Right": false
+			},
+			"NumberPlateIndex": 0,
+			"NumberPlateText": "33BWK687",
+			"PaintFade": 1.0,
+			"ReducedGrip": false,
+			"RoofState": 0,
+			"Siren": false,
+			"SteeringAngle": 0.0,
+			"TiresBursted": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false,
+				"5": false
+			},
+			"TorqueMultiplier": 1.0,
+			"WheelType": 1,
+			"WindowTint": -1
+		},
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 109149,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1261306399,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -613.90930175781,
+			"y": 433.11352539062,
+			"z": 8.1329803466797
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -8.5377359937411e-07,
+			"Roll": -37.500576019287,
+			"Yaw": -30.199779510498
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 33331,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1768956181,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -255.13000488281,
+			"y": 518.19384765625,
+			"z": -0.77423286437988
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -31.999889373779
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 130658,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 3951514875,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -727.84130859375,
+			"y": 494.8369140625,
+			"z": 118.28371429443
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -8.0041274941323e-07,
+			"Roll": 0.40004441142082,
+			"Yaw": 60.598522186279
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 126043,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -41.68798828125,
+			"y": -29.0166015625,
+			"z": -0.33880996704102
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 164962,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 62.544738769531,
+			"y": -9.0244140625,
+			"z": -0.37941360473633
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 16992,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -32.082153320312,
+			"y": 11.40966796875,
+			"z": -0.54640197753906
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 109917,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 3547938230,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -760.54919433594,
+			"y": 432.64428710938,
+			"z": 218.62224578857
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.60003280639648,
+			"Roll": 51.399063110352,
+			"Yaw": 59.198791503906
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 169571,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 331571981,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -745.22094726562,
+			"y": 463.57055664062,
+			"z": 174.3236618042
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.27721133828163,
+			"Roll": 0.066789709031582,
+			"Yaw": 150.97564697266
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 173411,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -24.430908203125,
+			"y": -39.267333984375,
+			"z": -0.29237461090088
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 98109,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 2475986526,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -685.54296875,
+			"y": 595.205078125,
+			"z": 0.45631885528564
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 4.700005531311,
+			"Roll": 0.79999256134033,
+			"Yaw": -29.299430847168
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 77917,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 2282807134,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -623.95959472656,
+			"y": 657.15991210938,
+			"z": -200.83602142334
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": 58.60733795166
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 171875,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -47.1689453125,
+			"y": -14.267822265625,
+			"z": -0.4129114151001
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 174947,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 3547938230,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -760.93969726562,
+			"y": 432.04663085938,
+			"z": 217.90776824951
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.60003280639648,
+			"Roll": 51.399063110352,
+			"Yaw": 59.198791503906
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 111956,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 2982818516,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -620.44567871094,
+			"y": 655.015625,
+			"z": -200.83602142334
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": 58.60733795166
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 82493,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 2282807134,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -672.67321777344,
+			"y": 593.27978515625,
+			"z": -0.33614158630371
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.20000049471855,
+			"Roll": -1.5999983549118,
+			"Yaw": 62.004455566406
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 96069,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4166617266,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -690.64282226562,
+			"y": 594.67358398438,
+			"z": -0.51006889343262
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -9.8717578111973e-07,
+			"Roll": 0.40004554390907,
+			"Yaw": 58.998653411865
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 143455,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 331571981,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 141,
+		"Position": {
+			"x": -766.966796875,
+			"y": 421.4140625,
+			"z": 239.76253509521
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -28.799802780151
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 175203,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 3951514875,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -661.966796875,
+			"y": 586.76098632812,
+			"z": -120.83602142334
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": 61.104499816895
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 175715,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 10.470947265625,
+			"y": -58.81689453125,
+			"z": -0.37522411346436
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 15696,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4119906142,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -493.185546875,
+			"y": 781.26513671875,
+			"z": 5.8750228881836
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.49871063232
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 77405,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 371888173,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -679.95031738281,
+			"y": 597.14819335938,
+			"z": -0.307373046875
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.20000049471855,
+			"Roll": -1.5999983549118,
+			"Yaw": 62.004455566406
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 160346,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 57.574829101562,
+			"y": -16.683837890625,
+			"z": -0.33116340637207
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 82275,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -32.980224609375,
+			"y": -33.950927734375,
+			"z": -0.33880424499512
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 95837,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 331571981,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -648.46179199219,
+			"y": 594.25146484375,
+			"z": 1.6160259246826
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.27721130847931,
+			"Roll": 0.066790230572224,
+			"Yaw": 62.577808380127
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 47451,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 3618496696,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -634.75866699219,
+			"y": 663.1201171875,
+			"z": -200.83602142334
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": 58.60733795166
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 127843,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1387716817,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -464.65795898438,
+			"y": 349.201171875,
+			"z": 48.857803344727
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.199903488159
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 42246,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 677027815,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -665.39904785156,
+			"y": 589.41284179688,
+			"z": -0.36489868164062
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.20000049471855,
+			"Roll": -1.5999983549118,
+			"Yaw": 62.004455566406
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": false,
+		"Handle": 58884,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 2919906639,
+		"Opacity": 255,
+		"Position": {
+			"x": 5.39208984375,
+			"y": 19.051513671875,
+			"z": -0.028273582458496
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.033927410840988,
+			"Roll": 0.0042330520227551,
+			"Yaw": 117.63731384277
+		},
+		"Type": 2,
+		"VehicleInfo": {
+			"BulletproofTires": true,
+			"Colors": {
+				"Dashboard": 160,
+				"Interior": 160,
+				"IsPrimaryCustom": false,
+				"IsSecondaryCustom": false,
+				"Pearl": 160,
+				"Primary": 107,
+				"Secondary": 159,
+				"TyreSmokeB": 255,
+				"TyreSmokeG": 255,
+				"TyreSmokeR": 255,
+				"Wheel": 158,
+				"Xenon": 255
+			},
+			"DirtLevel": 6.0053963661194,
+			"DoorLockStatus": 1,
+			"DoorsBroken": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false,
+				"5": false
+			},
+			"DoorsOpen": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false,
+				"5": false
+			},
+			"DriftTires": false,
+			"EngineOn": false,
+			"Extra": [],
+			"HorsePowerMultiplier": -1.0,
+			"LightsIntensity": 1.0,
+			"Livery": -1,
+			"Livery2": -1,
+			"Mods": {
+				"0": [ -1, 0 ],
+				"1": [ -1, 0 ],
+				"2": [ -1, 0 ],
+				"3": [ -1, 0 ],
+				"4": [ -1, 0 ],
+				"5": [ -1, 0 ],
+				"6": [ -1, 0 ],
+				"7": [ -1, 0 ],
+				"8": [ -1, 0 ],
+				"9": [ -1, 0 ],
+				"10": [ -1, 0 ],
+				"11": [ 3, 0 ],
+				"12": [ 2, 0 ],
+				"13": [ 3, 0 ],
+				"14": [ -1, 0 ],
+				"15": [ -1, 0 ],
+				"16": [ -1, 0 ],
+				"17": false,
+				"18": true,
+				"19": false,
+				"20": false,
+				"21": false,
+				"22": false,
+				"23": [ -1, 0 ],
+				"24": [ -1, 0 ],
+				"25": [ -1, 0 ],
+				"26": [ -1, 0 ],
+				"27": [ -1, 0 ],
+				"28": [ -1, 0 ],
+				"29": [ -1, 0 ],
+				"30": [ -1, 0 ],
+				"31": [ -1, 0 ],
+				"32": [ -1, 0 ],
+				"33": [ -1, 0 ],
+				"34": [ -1, 0 ],
+				"35": [ -1, 0 ],
+				"36": [ -1, 0 ],
+				"37": [ -1, 0 ],
+				"38": [ -1, 0 ],
+				"39": [ -1, 0 ],
+				"40": [ 2, 0 ],
+				"41": [ -1, 0 ],
+				"42": [ 2, 0 ],
+				"43": [ 0, 0 ],
+				"44": [ -1, 0 ],
+				"45": [ -1, 0 ],
+				"46": [ -1, 0 ],
+				"47": [ -1, 0 ],
+				"48": [ -1, 0 ]
+			},
+			"Neons": {
+				"B": 255,
+				"Back": false,
+				"Front": false,
+				"G": 0,
+				"Left": false,
+				"R": 255,
+				"Right": false
+			},
+			"NumberPlateIndex": 0,
+			"NumberPlateText": "33BWK687",
+			"PaintFade": 1.0,
+			"ReducedGrip": false,
+			"RoofState": 0,
+			"Siren": false,
+			"SteeringAngle": 0.0,
+			"TiresBursted": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false,
+				"5": false
+			},
+			"TorqueMultiplier": 1.0,
+			"WheelType": 1,
+			"WindowTint": -1
+		},
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 107863,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -42.170288085938,
+			"y": -5.7548828125,
+			"z": -0.60777473449707
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 41995,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 19.08251953125,
+			"y": -63.76708984375,
+			"z": -0.33880424499512
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 105565,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 3906373800,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 32,
+			"SpeedBoostDuration": 2.0,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -771.4306640625,
+			"y": 431.53369140625,
+			"z": 224.289894104
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 3.7566038372461e-05,
+			"Roll": 51.399108886719,
+			"Yaw": 61.398822784424
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 105309,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 787820487,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -447.37451171875,
+			"y": 364.591796875,
+			"z": 21.351631164551
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 1.4156100291984e-07,
+			"Roll": 1.0672176387061e-07,
+			"Yaw": 59.401149749756
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 80225,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 3906373800,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 32,
+			"SpeedBoostDuration": 2.0,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -771.4306640625,
+			"y": 431.53369140625,
+			"z": 224.289894104
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 3.7566038372461e-05,
+			"Roll": 51.399108886719,
+			"Yaw": 61.398822784424
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 49714,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1261306399,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -599.00476074219,
+			"y": 424.43872070312,
+			"z": 21.365989685059
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -8.5377359937411e-07,
+			"Roll": -37.500576019287,
+			"Yaw": -30.199779510498
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 16473,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 331571981,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 166,
+		"Position": {
+			"x": -766.966796875,
+			"y": 421.4140625,
+			"z": 235.06818389893
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -28.799802780151
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 36700,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4059905279,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -29.925903320312,
+			"y": 8.11962890625,
+			"z": -0.35054874420166
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": 149.20141601562
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 65884,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1261306399,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -345.49047851562,
+			"y": 282.93041992188,
+			"z": 34.123149871826
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 39.099269866943,
+			"Yaw": -30.199775695801
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 19542,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1261306399,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -323.62072753906,
+			"y": 270.20239257812,
+			"z": 13.559684753418
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 39.099269866943,
+			"Yaw": -30.199775695801
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 65372,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 1.728271484375,
+			"y": -53.828369140625,
+			"z": -0.33880424499512
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 41533,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 2982818516,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -669.03588867188,
+			"y": 591.34619140625,
+			"z": -0.35052108764648
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.20000049471855,
+			"Roll": -1.5999983549118,
+			"Yaw": 62.004455566406
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 17241,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1261306399,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -338.20056152344,
+			"y": 278.68774414062,
+			"z": 27.268661499023
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 39.099269866943,
+			"Yaw": -30.199775695801
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 131415,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 371888173,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -631.15893554688,
+			"y": 661.13330078125,
+			"z": -200.83602142334
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": 58.60733795166
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 90141,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1292037482,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -8.145751953125,
+			"y": 355.15014648438,
+			"z": -0.54510498046875
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": 76.600769042969
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 113431,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1261306399,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -591.55249023438,
+			"y": 420.10131835938,
+			"z": 27.982494354248
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -8.5377359937411e-07,
+			"Roll": -37.500576019287,
+			"Yaw": -30.199779510498
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 57377,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -22.158325195312,
+			"y": 28.16845703125,
+			"z": -0.5683650970459
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 67157,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 46.226257324219,
+			"y": 0.804443359375,
+			"z": -0.51767158508301
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 25121,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 331571981,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -649.83264160156,
+			"y": 591.51806640625,
+			"z": 6.30251121521
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.27721130847931,
+			"Roll": 0.066790230572224,
+			"Yaw": 62.577808380127
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 29269,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4166617266,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -692.83911132812,
+			"y": 591.01831054688,
+			"z": -0.48029518127441
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -9.8717578111973e-07,
+			"Roll": 0.40004554390907,
+			"Yaw": 58.998653411865
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 66652,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 331571981,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -691.75268554688,
+			"y": 558.7275390625,
+			"z": 32.330013275146
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -0.27721130847931,
+			"Roll": 0.066789284348488,
+			"Yaw": 150.67520141602
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 165689,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -50.33447265625,
+			"y": -24.01220703125,
+			"z": -0.33880424499512
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 117327,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4166617266,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -691.74096679688,
+			"y": 592.84594726562,
+			"z": -0.49518203735352
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -9.8717578111973e-07,
+			"Roll": 0.40004554390907,
+			"Yaw": 58.998653411865
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 25692,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 42.844848632812,
+			"y": -42.6494140625,
+			"z": -0.35661315917969
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 160579,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1842594658,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 21.1220703125,
+			"y": 275.99365234375,
+			"z": -0.24157905578613
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -130.39826965332
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 71501,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1292037482,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -10.479370117188,
+			"y": 419.85034179688,
+			"z": -0.67373466491699
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": 74.40064239502
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 77132,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4166617266,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -689.54467773438,
+			"y": 596.50122070312,
+			"z": -0.52495574951172
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -9.8717578111973e-07,
+			"Roll": 0.40004554390907,
+			"Yaw": 58.998653411865
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 3413,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1842594658,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -30.882080078125,
+			"y": 240.70458984375,
+			"z": -0.54254341125488
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -130.39826965332
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 100442,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 20.15625,
+			"y": 15.700439453125,
+			"z": -0.36069488525391
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -29.799551010132
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 14179,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4119906142,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -450.55822753906,
+			"y": 853.63549804688,
+			"z": 5.8750228881836
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.49871063232
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 76643,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 3906373800,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 32,
+			"SpeedBoostDuration": 2.0,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -771.4306640625,
+			"y": 431.53369140625,
+			"z": 224.289894104
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 3.7566038372461e-05,
+			"Roll": 51.399108886719,
+			"Yaw": 61.398822784424
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 117844,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1261306399,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -309.04089355469,
+			"y": 261.71704101562,
+			"z": -0.1492919921875
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 39.099269866943,
+			"Yaw": -30.199775695801
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 86857,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4059905279,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 44.197326660156,
+			"y": -33.509033203125,
+			"z": -0.35054874420166
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": -31.899816513062
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 152875,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1261306399,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -621.36157226562,
+			"y": 437.45092773438,
+			"z": 1.5164775848389
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -8.5377359937411e-07,
+			"Roll": -37.500576019287,
+			"Yaw": -30.199779510498
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 19803,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 37.851928710938,
+			"y": -51.3310546875,
+			"z": -0.3366584777832
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 136035,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 787820487,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -447.11804199219,
+			"y": 364.38671875,
+			"z": 65.288902282715
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -2.1344339984353e-07,
+			"Roll": -88.799102783203,
+			"Yaw": 59.40104675293
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 9036,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 2537619945,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -135.29309082031,
+			"y": 424.9169921875,
+			"z": -0.6973180770874
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": 64.500419616699
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 116834,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 53.069946289062,
+			"y": -25.4443359375,
+			"z": -0.33415222167969
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 20061,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 3547938230,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -763.70788574219,
+			"y": 427.19165039062,
+			"z": 224.95226287842
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.60003370046616,
+			"Roll": 51.398975372314,
+			"Yaw": 59.298545837402
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": false,
+		"Handle": 66163,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1000,
+		"MaxHealth": 1000.0,
+		"ModelHash": 3222025520,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 10.051879882812,
+			"y": -16.294189453125,
+			"z": 1.1083898544312
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -38.183246612549,
+			"Roll": -20.807683944702,
+			"Yaw": 114.50514221191
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 85341,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 4166617266,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -687.34838867188,
+			"y": 600.15649414062,
+			"z": -0.55472946166992
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": -9.8717578111973e-07,
+			"Roll": 0.40004554390907,
+			"Yaw": 58.998653411865
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 166749,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -17.00048828125,
+			"y": 36.884521484375,
+			"z": -0.56612968444824
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 136524,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 500,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1897672472,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": 32.695190429688,
+			"y": -59.881103515625,
+			"z": -0.35661315917969
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": -0.0,
+			"Yaw": -120.4984664917
+		},
+		"Type": 3,
+		"Visible": true
+	}, {
+		"Attached": false,
+		"FrozenInPlace": true,
+		"Handle": 66388,
+		"HasCollision": true,
+		"Health": 1000.0,
+		"Invincible": true,
+		"LodDist": 1750,
+		"MaxHealth": 1000.0,
+		"ModelHash": 1668542196,
+		"ObjectInfo": {
+			"CanPopTires": false,
+			"SpeedBoost": 30,
+			"SpeedBoostDuration": 0.4,
+			"Texture": 0
+		},
+		"Opacity": 255,
+		"Position": {
+			"x": -627.55920410156,
+			"y": 659.14672851562,
+			"z": -200.83602142334
+		},
+		"RenderScorched": false,
+		"Rotation": {
+			"Pitch": 0.0,
+			"Roll": 0.0,
+			"Yaw": 58.60733795166
+		},
+		"Type": 3,
+		"Visible": true
+	} ],
+	"ReferencePoint": {
+		"Pos": {
+			"x": -1055.7606201172,
+			"y": -3490.2634277344,
+			"z": 13.499000549316
+		}
+	}
+}
