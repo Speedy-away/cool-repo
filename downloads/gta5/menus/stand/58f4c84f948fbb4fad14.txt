@@ -1,0 +1,32 @@
+Tree Compatibility Version: 39
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: 68B4FFFF
+				Background Colour: 329CFFFF
+				HUD Colour: FFFFFFFF
+				AR Colour: FFFFFFFF
+				Minigame Colour: FFFFFFFF
+			Position: 55, 265
+			Address Bar
+				Address Bar: Off
+			Scrollbar
+				Scrollbar: Disabled
+			Command Info Text
+				Show Help Text: Off
+				Show Command Syntax: Off
+				Indicate Slider Behaviour: Off
+				Indicate If Usable By Other Players: Off
+			Notifications
+				Type: Stand, Custom Position
+				Custom Position: 1322, 1038
+				Border Colour: FFFFFFFF
+				Flash Colour: 70A9EAFF
+				Background Colour: 0A87FFFF
+			Border
+				Width: 5
+				Rounded: On
+				Colour: FFFFFFFF
+			Max Visible Commands: 7
+			Spacer Size: 4

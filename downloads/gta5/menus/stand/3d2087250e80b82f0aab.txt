@@ -1,0 +1,43 @@
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: 1F2123FF
+				Focused Text Colour: F9F9F9FF
+				Focused Right-Bound Text Colour: F9F9F9FF
+				Focused Texture Colour: F9F9F9FF
+				Background Colour: 2D2F31FF
+				Unfocused Text Colour: F9F9F9FF
+				Unfocused Right-Bound Text Colour: F9F9F9FF
+				Unfocused Texture Colour: F9F9F9FF
+				HUD Colour: F9F9F9FF
+				AR Colour: F9F9F9FF
+				Minigame Colour: F9F9F9FF
+			Position: 1444, 560
+			Address Bar
+				Root Name: Stand {}
+				Address Separator: Stand / Online
+				Height: 26
+				Show Cursor Position: On
+			Cursor
+				Scroll Gap: 0
+				Rounded: On
+			Tabs
+				Tabs: Off
+			Scrollbar
+				Scrollbar: Disabled
+				Width: 1
+			Command Info Text
+				Position: Bottom
+				Indicate If Usable By Other Players: Off
+			Notifications
+				Type: Game
+				Border Colour: 000000FF
+				Flash Colour: 000000FF
+			Border
+				Width: 3
+				Rounded: On
+				Colour: 1F2123FF
+			Max Visible Commands: 10
+			Spacer Size: 0
+			Background Blur: 0
