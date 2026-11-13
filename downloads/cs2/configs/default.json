@@ -1368,6 +1368,7 @@
     0.65
   ],
   "vfxSmokeTint": true,
+  "vfxSmokeGradientMode": 0,
   "vfxSmokeColor": [
     0.505882,
     0.6,
@@ -1416,6 +1417,9 @@
     0.972549,
     0.65
   ],
+  "vfxPlayerLights": true,
+  "vfxPlayerLightsTeam": false,
+  "vfxBombLightTint": true,
   "vfxParticleAnimation": 1,
   "vfxParticleAnimationSpeed": 1.0,
   "miscAntiFlash": false,
@@ -2202,13 +2206,13 @@
   "scopeSensPulse": false,
   "bulletTracers": false,
   "bulletTracerColor": [
-    0.847059,
-    0.709804,
-    0.415686,
-    0.8
+    0.61,
+    0.29,
+    1.0,
+    0.92
   ],
-  "bulletTracerThickness": 1.1,
-  "bulletTracerDuration": 1.2493,
+  "bulletTracerThickness": 2.5,
+  "bulletTracerDuration": 0.55,
   "bulletTracerFade": true,
   "bulletTracerEnemy": false,
   "bulletTracerEnemyColor": [
@@ -2218,12 +2222,12 @@
     0.65
   ],
   "bulletTracerStyle": 0,
-  "bulletTracerGlow": false,
+  "bulletTracerGlow": true,
   "bulletTracerGlowColor": [
-    0.662745,
-    0.607843,
-    0.921569,
-    0.12
+    0.6,
+    0.26,
+    1.0,
+    0.55
   ],
   "bulletTracerImpact": true,
   "bulletTracerImpactSize": 2.0,
@@ -2255,21 +2259,21 @@
   "hitsoundKillSound": false,
   "espGrenadePrediction": false,
   "espGrenadePredColor": [
-    0.847059,
-    0.709804,
-    0.415686,
-    0.95
+    0.25,
+    0.5,
+    1.0,
+    1.0
   ],
   "espGrenadePredRadius": 15.0,
   "espGrenadePredLine": true,
   "espGrenadePredLineColor": [
-    0.847059,
-    0.709804,
-    0.415686,
+    1.0,
+    1.0,
+    1.0,
     0.95
   ],
   "grenadePredPreview": true,
-  "grenadePredText": true,
+  "grenadePredText": false,
   "grenadePredBounce": true,
   "grenadePredThrowMode": 0,
   "grenadePredDamageRadius": true,
@@ -13238,7 +13242,7 @@
   "rdrShowThrowables": true,
   "rdrShowViewCones": false,
   "rdrShowWeapons": true,
-  "rdrSize": 220.0,
+  "rdrSize": 300.0,
   "rdrSmokeColor": [
     0.505882,
     0.6,

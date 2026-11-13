@@ -10064,21 +10064,21 @@
   "espHeadStyle": 0,
   "espGrenadePrediction": false,
   "espGrenadePredColor": [
-    0.847059,
-    0.709804,
-    0.415686,
-    0.95
+    0.25,
+    0.5,
+    1.0,
+    1.0
   ],
   "espGrenadePredRadius": 15.0,
   "espGrenadePredLine": true,
   "espGrenadePredLineColor": [
-    0.847059,
-    0.709804,
-    0.415686,
+    1.0,
+    1.0,
+    1.0,
     0.95
   ],
   "grenadePredPreview": true,
-  "grenadePredText": true,
+  "grenadePredText": false,
   "grenadePredBounce": true,
   "grenadePredDamageRadius": true,
   "grenadePredRadiusColor": [
@@ -10469,7 +10469,7 @@
   "rdrShowThrowables": true,
   "rdrShowViewCones": false,
   "rdrShowWeapons": true,
-  "rdrSize": 220.0,
+  "rdrSize": 300.0,
   "rdrSmokeColor": [
     0.505882,
     0.6,
@@ -10533,10 +10533,10 @@
   ],
   "bulletImpactSize": 2.0,
   "bulletTracerColor": [
-    0.847059,
-    0.709804,
-    0.415686,
-    0.8
+    0.61,
+    0.29,
+    1.0,
+    0.92
   ],
   "bulletTracerEnemyColor": [
     0.662745,
@@ -10545,10 +10545,10 @@
     0.65
   ],
   "bulletTracerGlowColor": [
-    0.662745,
-    0.607843,
-    0.921569,
-    0.12
+    0.6,
+    0.26,
+    1.0,
+    0.55
   ],
   "bulletTracerImpactSize": 2.0,
   "bulletTracerTeamColor": [
@@ -10557,7 +10557,7 @@
     0.756863,
     0.65
   ],
-  "bulletTracerThickness": 1.1,
+  "bulletTracerThickness": 2.5,
   "crosshairColor": [
     0.541176,
     0.862745,
