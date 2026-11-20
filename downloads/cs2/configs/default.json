@@ -1961,7 +1961,7 @@
   "maxGifFrames": 300,
   "maxFileSizeMB": 50,
   "bindModeV2": true,
-  "clickUIKey": 45,
+  "clickUIKey": 112,
   "listUIKey": 115,
   "modelSwappingKey": 119,
   "fb_triggerbot_key": 5,
